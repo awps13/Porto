@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "Certification 1",
+    "image": "/tes",
+    "description": "Ini sertifikasi pertama dengan deskripsi lengkap tentang pencapaian dan skills yang didapat"
+  },
+  {
+    "id": 2,
+    "title": "Certification 2",
+    "image": "/tes",
+    "description": "Ini sertifikasi kedua yang menunjukkan penguasaan dalam bidang tertentu"
+  },
+  {
+    "id": 3,
+    "title": "Certification 3",
+    "image": "/tes",
+    "description": "Ini sertifikasi ketiga sebagai bukti kompetensi dan dedikasi dalam pembelajaran"
+  },
+  {
+    "id": 4,
+    "title": "Certification 4",
+    "image": "/tes",
+    "description": "Sertifikasi keempat menunjukkan kesuksesan dalam menyelesaikan program pelatihan"
+  },
+  {
+    "id": 5,
+    "title": "Certification 5",
+    "image": "/tes",
+    "description": "Sertifikasi kelima adalah pencapaian terbaru dalam pengembangan skill profesional"
+  }
+]

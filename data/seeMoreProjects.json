@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "title": "ZDR Trans",
+    "image": "/carrental.png",
+    "description": "A mobile-friendly landing page website that effectively showcases their services, attracts new customers, and enhances online visibility.",
+    "technologies": [
+      "react",
+      "react",
+      "react",
+      "react",
+      "react",
+      "react",
+      "react",
+      "react"
+    ],
+    "width": 1350,
+    "height": 598
+  },
+  {
+    "id": 2,
+    "title": "Project 2",
+    "image": "/disease.png",
+    "description": "Ini project rental",
+    "technologies": ["react"],
+    "width": 796,
+    "height": 596
+  },
+  {
+    "id": 3,
+    "title": "Project 3",
+    "image": "/gptsniffer.png",
+    "description": "Ini project rental",
+    "technologies": ["react"],
+    "width": 1350,
+    "height": 768
+  },
+  {
+    "id": 4,
+    "title": "Project 3",
+    "image": "/gptsniffer.png",
+    "description": "Ini project rental",
+    "technologies": ["react"],
+    "width": 1350,
+    "height": 768
+  }
+]
