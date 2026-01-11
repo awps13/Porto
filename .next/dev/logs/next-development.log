@@ -1,0 +1,56 @@
+[00:00:01.961] Server  LOG      ✓ Ready in 1311ms
+[00:00:02.061] Browser ERROR   {}
+[00:00:02.061] Browser ERROR   {}
+[00:00:02.061] Browser ERROR   uncaughtError: Error: Failed to parse src "react" on `next/image`, if using relative image it must start with a leading slash "/" or be an absolute URL (http:// or https://)
+[00:00:05.092] Server  LOG      ○ Compiling / ...
+[00:00:06.347] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:07.318] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:00:25.014] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./data/projects.json (json) changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:00:25.121] Server  LOG      ✓ Compiled in 70ms
+[00:00:25.548] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:26.510] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:00:32.147] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./data/projects.json (json) changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:00:32.264] Server  LOG      ✓ Compiled in 35ms
+[00:00:32.674] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:32.839] Browser ERROR   Encountered two children with the same key, `%s`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version. 2
+[00:00:32.840] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:00:59.701] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./data/projects.json (json) changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:00:59.724] Server  LOG      ✓ Compiled in 38ms
+[00:01:00.338] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:01:00.499] Browser ERROR   Encountered two children with the same key, `%s`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version. 2
+[00:01:00.499] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:01:55.692] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./data/projects.json (json) changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:01:55.786] Server  LOG      ✓ Compiled in 22ms
+[00:01:56.178] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:01:57.140] Browser ERROR   Encountered two children with the same key, `%s`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version. 2
+[00:01:57.140] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:02:16.491] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./data/projects.json (json) changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:02:16.617] Server  LOG      ✓ Compiled in 16ms
+[00:02:17.348] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:02:17.900] Browser ERROR   Encountered two children with the same key, `%s`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version. 2
+[00:02:17.900] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:02:26.604] Browser ERROR   Encountered two children with the same key, `%s`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version. 2
+[00:02:36.221] Browser ERROR   Encountered two children with the same key, `%s`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version. 2
+[00:03:24.452] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./data/projects.json (json) changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:03:24.586] Server  LOG      ✓ Compiled in 35ms
+[00:03:24.699] Server  ERROR   An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string.
+[00:03:25.091] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:03:26.049] Browser ERROR   Encountered two children with the same key, `%s`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version. 2
+[00:03:26.049] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[00:03:26.049] Browser ERROR   Image is missing required "src" property: <img>
+[00:03:26.049] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:03:30.050] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./data/projects.json (json) changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:03:30.069] Server  LOG      ✓ Compiled in 71ms
+[00:03:30.670] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:03:31.641] Browser ERROR   Encountered two children with the same key, `%s`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version. 2
+[00:03:31.641] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:03:32.250] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/proje" "received" null
+[00:03:38.127] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./data/projects.json (json) changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:03:38.230] Server  LOG      ✓ Compiled in 26ms
+[00:03:38.637] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:03:39.596] Browser ERROR   Encountered two children with the same key, `%s`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version. 2
+[00:03:39.596] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:03:49.030] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./data/projects.json (json) changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:03:49.165] Server  LOG      ✓ Compiled in 40ms
+[00:03:49.634] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:03:49.797] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.

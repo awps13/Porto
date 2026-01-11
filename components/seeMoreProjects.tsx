@@ -29,7 +29,7 @@ const seeMoreProjects = () => {
             </h1>
 
             {/* GRID ALL PROJECTS */}
-            <div className="grid sm:grid-cols-3  gap-6 w-full mb-6">
+            <div className="grid sm:grid-cols-3 gap-6 w-full mb-6">
               {seeMoreProject.map((project) => (
                 <div
                   key={project.id}
@@ -99,7 +99,7 @@ const seeMoreProjects = () => {
               />
             </div>
 
-            <div className="grid grid-cols-2 gap-5 text-center">
+            <div className="grid sm:grid-cols-2 gap-5 text-center">
               <div>
                 <h1 className="font-semibold mb-2 text-white">Description</h1>
                 <p className="text-sm text-white">

@@ -26,7 +26,7 @@ const aboutContacts = () => {
             target="blank"
           >
             <Image
-              src="/linkedin.svg"
+              src="/contacts/linkedin.svg"
               alt="linkedin"
               width={32}
               height={32}
@@ -35,7 +35,7 @@ const aboutContacts = () => {
           </Link>
           <Link href="https://github.com/awps13" target="blank">
             <Image
-              src="/github.svg"
+              src="/contacts/github.svg"
               alt="github"
               width={32}
               height={32}
@@ -44,7 +44,7 @@ const aboutContacts = () => {
           </Link>
           <Link href="https://wa.me/6281216574510" target="blank">
             <Image
-              src="/whatsapp.svg"
+              src="/contacts/whatsapp.svg"
               alt="whatsapp"
               width={32}
               height={32}
@@ -53,7 +53,7 @@ const aboutContacts = () => {
           </Link>
           <Link href="https://instagram.com/awps13_" target="blank">
             <Image
-              src="/instagram.svg"
+              src="/contacts/instagram.svg"
               alt="instagram"
               width={32}
               height={32}
@@ -62,7 +62,7 @@ const aboutContacts = () => {
           </Link>
           <Link href="https://tiktok.com/awps13_" target="blank">
             <Image
-              src="/tiktok.svg"
+              src="/contacts/tiktok.svg"
               alt="tiktok"
               width={32}
               height={32}

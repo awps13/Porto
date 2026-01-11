@@ -2,6 +2,7 @@ import projects from "@/data/projects.json";
 import Image from "next/image";
 import { useState } from "react";
 import SeeMoreProjects from "./seeMoreProjects";
+import Link from "next/link";
 
 const project = () => {
   const [openModule, setOpenModule] = useState<number | null>(null);
@@ -41,7 +42,7 @@ const project = () => {
               >
                 <div
                   onClick={(e) => e.stopPropagation()}
-                  className="relative p-2 max-w-4xl max-h-[80vh] overflow-y-auto shadow-[12px_12px_0_#fff] border-2 flex flex-col items-center bg-black"
+                  className="relative p-2 max-w-4xl max-h-[80vh] overflow-y-auto shadow-[12px_12px_0_#fff] border-2 flex flex-col items-center bg-gray-900"
                 >
                   <h1 className="font-semibold text-2xl text-white pb-2">
                     {project.title}
@@ -60,21 +61,21 @@ const project = () => {
 
                   <div className="grid sm:grid-cols-2 gap-5 text-center">
                     <div>
-                      <h1 className="font-semibold mb-2">Description</h1>
+                      <h1 className="font-semibold mb-2">My Jobdesk</h1>
                       <p className="text-sm text-white">
                         {project.description}
                       </p>
                     </div>
-                    <div>
+                    <div className="flex flex-col items-center">
                       <h1 className="font-semibold mb-2">
                         Tools & Technologies
                       </h1>
-                      <div className="grid grid-cols-8 items-center justify-center">
-                        {project.technologies.map((tech, index) => (
+                      <div className="grid grid-cols-4 sm:grid-cols-8 gap-5 items-center justify-center">
+                        {project.technologies.map((path) => (
                           <Image
-                            key={index}
-                            src="/react.svg"
-                            alt={tech}
+                            key={path}
+                            src={path}
+                            alt={path}
                             width={32}
                             height={32}
                           />
@@ -82,10 +83,9 @@ const project = () => {
                       </div>
                     </div>
                   </div>
-
-                  <button
-                    onClick={() => setOpenModule(null)}
-                    className="
+                  <div className="flex gap-5">
+                    <button
+                      className="
                               px-4 py-2 mb-2 mt-5
                               border text-white
                               shadow-[3px_3px_0_#fff]
@@ -94,9 +94,44 @@ const project = () => {
                               transition-all duration-200 ease-out
                               hover:cursor-pointer
                               "
-                  >
-                    Close
-                  </button>
+                    >
+                      <Link href={project.linkCode!} target="blank">
+                        Link Code
+                      </Link>
+                    </button>
+
+                    {project.linkWebsite && (
+                      <button
+                        className="
+                              px-4 py-2 mb-2 mt-5
+                              border text-white
+                              shadow-[3px_3px_0_#fff]
+                              hover:scale-[1.03]
+                              hover:shadow-[6px_6px_0_#fff]
+                              transition-all duration-200 ease-out
+                              hover:cursor-pointer
+                              "
+                      >
+                        <Link href={project.linkWebsite!} target="blank">
+                          Link Website
+                        </Link>
+                      </button>
+                    )}
+                    <button
+                      onClick={() => setOpenModule(null)}
+                      className="
+                              px-4 py-2 mb-2 mt-5
+                              border text-white
+                              shadow-[3px_3px_0_#fff]
+                              hover:scale-[1.03]
+                              hover:shadow-[6px_6px_0_#fff]
+                              transition-all duration-200 ease-out
+                              hover:cursor-pointer
+                              "
+                    >
+                      Close
+                    </button>
+                  </div>
                 </div>
               </div>
             )}

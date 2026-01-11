@@ -1,38 +1,67 @@
 [
   {
     "id": 1,
-    "title": "ZDR Trans",
-    "image": "/carrental.png",
-    "description": "Developed a responsive company profile website for ZDR_Trans, enabling customers to easily view services and contact the business directly. Integrated a WhatsApp Business booking button to streamline the car rental ordering process and improve customer engagement. Collaborated with the business owner to align the website's design and features with ZDR_Trans's branding and marketing goals.",
+    "title": "ComPro Desa Purworejo",
+    "image": "/projects/compropurworejo.jpeg",
+    "description": "Collected and organized informational content from the village office to serve as website materials. Designed and developed the complete website layout and content structure to effectively present village information and services. Submitted copyright registration for the company profile website to protect the digital product's intellectual property. Prepared full project documentation, including website reports and published articles.",
     "technologies": [
-      "react",
-      "react",
-      "react",
-      "react",
-      "react",
-      "react",
-      "react",
-      "react"
+      "/technologies/nextjs.svg",
+      "/technologies/javascript.svg",
+      "/technologies/prisma.svg",
+      "/technologies/html.svg",
+      "/technologies/css.svg",
+      "/technologies/tailwindcss.svg",
+      "/technologies/vercel.svg",
+      "/technologies/word.svg",
+      "/contacts/github.svg"
     ],
+    "linkCode": "https://github.com/awps13/Company_Profile_Desa_Purworejo",
+    "linkWebsite": "https://desapurworejongantang.vercel.app/",
     "width": 1350,
     "height": 598
   },
   {
     "id": 2,
-    "title": "Project 2",
-    "image": "/disease.png",
-    "description": "Ini project rental",
-    "technologies": ["react"],
-    "width": 796,
-    "height": 596
+    "title": "Gallery Mobile",
+    "image": "/projects/gallery.png",
+    "description": "Developed a full-stack web application for uploading, storing, and displaying photos using cloud storage integration. Implemented secure image upload and retrieval features to ensure data safety and efficient performance. Designed a responsive gallery interface to provide users with a clean and seamless photo browsing experience. (Mobile version)",
+    "technologies": [
+      "/contacts/github.svg",
+      "/technologies/nextjs.svg",
+      "/technologies/javascript.svg",
+      "/technologies/prisma.svg",
+      "/technologies/html.svg",
+      "/technologies/css.svg",
+      "/technologies/tailwindcss.svg",
+      "/technologies/vercel.svg",
+      "/technologies/cloudinary.svg",
+      "/technologies/neon.svg"
+    ],
+    "linkCode": "https://github.com/awps13/Anniversary-3th",
+    "linkWebsite": "",
+    "width": 1364,
+    "height": 649
   },
   {
     "id": 3,
-    "title": "Project 3",
-    "image": "/gptsniffer.png",
-    "description": "Ini project rental",
-    "technologies": ["react"],
-    "width": 1350,
-    "height": 768
+    "title": "Gallery Mobile",
+    "image": "/projects/carrental.png",
+    "description": "Developed a full-stack web application for uploading, storing, and displaying photos using cloud storage integration. Implemented secure image upload and retrieval features to ensure data safety and efficient performance. Designed a responsive gallery interface to provide users with a clean and seamless photo browsing experience. (Mobile version)",
+    "technologies": [
+      "/contacts/github.svg",
+      "/technologies/nextjs.svg",
+      "/technologies/javascript.svg",
+      "/technologies/prisma.svg",
+      "/technologies/html.svg",
+      "/technologies/css.svg",
+      "/technologies/tailwindcss.svg",
+      "/technologies/vercel.svg",
+      "/technologies/cloudinary.svg",
+      "/technologies/neon.svg"
+    ],
+    "linkCode": "https://github.com/awps13/CarRental/",
+    "linkWebsite": "https://awps13.github.io/CarRental/",
+    "width": 1364,
+    "height": 649
   }
 ]
