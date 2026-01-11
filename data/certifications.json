@@ -2,19 +2,19 @@
   {
     "id": 1,
     "title": "Certification 1",
-    "image": "/tes",
+    "image": "/carrental.png",
     "description": "Ini sertifikasi pertama"
   },
   {
     "id": 2,
     "title": "Certification 2",
-    "image": "/tes",
+    "image": "/carrental.png",
     "description": "Ini sertifikasi kedua"
   },
   {
     "id": 3,
     "title": "Certification 3",
-    "image": "/tes",
+    "image": "/carrental.png",
     "description": "Ini sertifikasi ketiga"
   }
 ]
