@@ -1,6 +1,7 @@
 import seeMoreProject from "@/data/seeMoreProjects.json";
 import { useState } from "react";
 import Image from "next/image";
+import Link from "next/link";
 
 const seeMoreProjects = () => {
   const [openModule, setOpenModule] = useState<number | null>(null);
@@ -56,13 +57,14 @@ const seeMoreProjects = () => {
                 </div>
               ))}
             </div>
-
-            <button
-              onClick={() => setShowAll(false)}
-              className="px-4 py-2 border text-white shadow-[3px_3px_0_#fff] hover:scale-[1.03] hover:shadow-[6px_6px_0_#fff] transition-all duration-200 ease-out hover:cursor-pointer"
-            >
-              Close
-            </button>
+            <div className="flex gap-5">
+              <button
+                onClick={() => setShowAll(false)}
+                className="px-4 py-2 border text-white shadow-[3px_3px_0_#fff] hover:scale-[1.03] hover:shadow-[6px_6px_0_#fff] transition-all duration-200 ease-out hover:cursor-pointer"
+              >
+                Close
+              </button>
+            </div>
           </div>
         </div>
       )}
@@ -74,7 +76,7 @@ const seeMoreProjects = () => {
         >
           <div
             onClick={(e) => e.stopPropagation()}
-            className="relative p-2 max-w-4xl max-h-[80vh] overflow-y-auto shadow-[12px_12px_0_#fff] border-2 flex flex-col items-center bg-black"
+            className="relative p-2 max-w-4xl max-h-[80vh] overflow-y-auto shadow-[12px_12px_0_#fff] border-2 flex flex-col items-center bg-gray-900"
           >
             <h1 className="font-semibold text-2xl text-white pb-2">
               {seeMoreProject.find((p) => p.id === openModule)?.title}
@@ -110,13 +112,13 @@ const seeMoreProjects = () => {
                 <h1 className="font-semibold mb-2 text-white">
                   Tools & Technologies
                 </h1>
-                <div className="grid grid-cols-8 items-center justify-center">
+                <div className="grid grid-cols-8 items-center justify-center gap-5">
                   {seeMoreProject
                     .find((p) => p.id === openModule)
-                    ?.technologies.map((tech, index) => (
+                    ?.technologies.map((tech) => (
                       <Image
-                        key={index}
-                        src="/react.svg"
+                        key={tech}
+                        src={tech}
                         alt={tech}
                         width={32}
                         height={32}
@@ -125,13 +127,40 @@ const seeMoreProjects = () => {
                 </div>
               </div>
             </div>
-
-            <button
-              onClick={() => setOpenModule(null)}
-              className="px-4 py-2 mb-2 mt-5 border text-white shadow-[3px_3px_0_#fff] hover:scale-[1.03] hover:shadow-[6px_6px_0_#fff] transition-all duration-200 ease-out hover:cursor-pointer"
-            >
-              Close
-            </button>
+            <div className="flex gap-5">
+              {seeMoreProject.find((p) => p.id === openModule)?.linkCode && (
+                <button className="px-4 py-2 mb-2 mt-5 border text-white shadow-[3px_3px_0_#fff] hover:scale-[1.03] hover:shadow-[6px_6px_0_#fff] transition-all duration-200 ease-out hover:cursor-pointer">
+                  <Link
+                    href={
+                      seeMoreProject.find((p) => p.id === openModule)
+                        ?.linkCode || ""
+                    }
+                    target="blank"
+                  >
+                    Code
+                  </Link>
+                </button>
+              )}
+              {seeMoreProject.find((p) => p.id === openModule)?.linkWebsite && (
+                <button className="px-4 py-2 mb-2 mt-5 border text-white shadow-[3px_3px_0_#fff] hover:scale-[1.03] hover:shadow-[6px_6px_0_#fff] transition-all duration-200 ease-out hover:cursor-pointer">
+                  <Link
+                    href={
+                      seeMoreProject.find((p) => p.id === openModule)
+                        ?.linkWebsite || ""
+                    }
+                    target="blank"
+                  >
+                    Demo
+                  </Link>
+                </button>
+              )}
+              <button
+                onClick={() => setOpenModule(null)}
+                className="px-4 py-2 mb-2 mt-5 border text-white shadow-[3px_3px_0_#fff] hover:scale-[1.03] hover:shadow-[6px_6px_0_#fff] transition-all duration-200 ease-out hover:cursor-pointer"
+              >
+                Close
+              </button>
+            </div>
           </div>
         </div>
       )}

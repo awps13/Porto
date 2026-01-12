@@ -96,7 +96,7 @@ const project = () => {
                               "
                     >
                       <Link href={project.linkCode!} target="blank">
-                        Link Code
+                        Code
                       </Link>
                     </button>
 
@@ -113,7 +113,7 @@ const project = () => {
                               "
                       >
                         <Link href={project.linkWebsite!} target="blank">
-                          Link Website
+                          Demo
                         </Link>
                       </button>
                     )}

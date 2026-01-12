@@ -1,47 +1,151 @@
 [
   {
     "id": 1,
-    "title": "ZDR Trans",
-    "image": "/carrental.png",
-    "description": "A mobile-friendly landing page website that effectively showcases their services, attracts new customers, and enhances online visibility.",
+    "title": "ComPro Desa Purworejo",
+    "image": "/projects/compropurworejo.jpeg",
+    "description": "Collected and organized informational content from the village office to serve as website materials. Designed and developed the complete website layout and content structure to effectively present village information and services. Submitted copyright registration for the company profile website to protect the digital product's intellectual property. Prepared full project documentation, including website reports and published articles.",
     "technologies": [
-      "react",
-      "react",
-      "react",
-      "react",
-      "react",
-      "react",
-      "react",
-      "react"
+      "/technologies/nextjs.svg",
+      "/technologies/javascript.svg",
+      "/technologies/prisma.svg",
+      "/technologies/html.svg",
+      "/technologies/css.svg",
+      "/technologies/tailwindcss.svg",
+      "/technologies/vercel.svg",
+      "/technologies/word.svg",
+      "/contacts/github.svg"
     ],
+    "linkCode": "https://github.com/awps13/Company_Profile_Desa_Purworejo",
+    "linkWebsite": "https://desapurworejongantang.vercel.app/",
     "width": 1350,
     "height": 598
   },
   {
     "id": 2,
-    "title": "Project 2",
-    "image": "/disease.png",
-    "description": "Ini project rental",
-    "technologies": ["react"],
+    "title": "Gallery Mobile",
+    "image": "/projects/gallery.png",
+    "description": "Developed a full-stack web application for uploading, storing, and displaying photos using cloud storage integration. Implemented secure image upload and retrieval features to ensure data safety and efficient performance. Designed a responsive gallery interface to provide users with a clean and seamless photo browsing experience. (Mobile version)",
+    "technologies": [
+      "/contacts/github.svg",
+      "/technologies/nextjs.svg",
+      "/technologies/javascript.svg",
+      "/technologies/prisma.svg",
+      "/technologies/html.svg",
+      "/technologies/css.svg",
+      "/technologies/tailwindcss.svg",
+      "/technologies/vercel.svg",
+      "/technologies/cloudinary.svg",
+      "/technologies/neon.svg"
+    ],
+    "linkCode": "https://github.com/awps13/Anniversary-3th",
+    "linkWebsite": "",
+    "width": 1364,
+    "height": 649
+  },
+  {
+    "id": 3,
+    "title": "ZDR Trans",
+    "image": "/projects/carrental.png",
+    "description": "Developed a responsive company profile website for ZDR_Trans, enabling customers to easily view services and contact the business directly (Mobile Version). Integrated a WhatsApp Business booking button to streamline the car rental ordering process and improve customer engagement. Collaborated with the business owner to align the website's design and features with ZDR_Trans's branding and marketing goals.",
+    "technologies": [
+      "/contacts/github.svg",
+      "/technologies/javascript.svg",
+      "/technologies/html.svg",
+      "/technologies/css.svg"
+    ],
+    "linkCode": "https://github.com/awps13/CarRental/",
+    "linkWebsite": "https://awps13.github.io/CarRental/",
+    "width": 1364,
+    "height": 649
+  },
+  {
+    "id": 4,
+    "title": "Café Flash",
+    "image": "/projects/cafe.jpeg",
+    "description": "Developed the payment interface for cafe flash to enhance the checkout experience and visual design.Tested and debugged the payment feature to ensure smooth functionality and user reliability.Assisted in documenting the project’s development process to maintain clear and organized records.",
+    "technologies": [
+      "/contacts/github.svg",
+      "/technologies/php.svg",
+      "/technologies/mysql.svg",
+      "/technologies/html.svg",
+      "/technologies/css.svg",
+      "/technologies/tailwindcss.svg",
+      "/technologies/word.svg"
+    ],
+    "linkCode": "https://github.com/fathan-alf/cafe-flash",
+    "linkWebsite": "",
+    "width": 1600,
+    "height": 761
+  },
+  {
+    "id": 5,
+    "title": "WarniSys",
+    "image": "/projects/cafe.jpeg",
+    "description": "Created high- and low-fidelity website designs for warnisys using figma to visualize the system layout and user flow. Submitted copyright registration for the website product to protect the project's intellectual property. Prepared comprehensive project documentation covering design, features, and development details. Performed bug testing and added dummy data to ensure proper functionality and realistic display.",
+    "technologies": [
+      "/technologies/react.svg",
+      "/technologies/javascript.svg",
+      "/technologies/mysql.svg",
+      "/technologies/html.svg",
+      "/technologies/css.svg",
+      "/technologies/tailwindcss.svg",
+      "/technologies/word.svg",
+      "/technologies/prisma.svg",
+      "/technologies/canva.jpeg",
+      "/technologies/figma.svg"
+    ],
+    "linkCode": "https://github.com/fathan-alf/cafe-flash",
+    "linkWebsite": "",
+    "width": 1600,
+    "height": 761
+  },
+   {
+    "id": 6,
+    "title": "GPT Scraper",
+    "image": "/projects/gptsniffer.png",
+    "description": "Developed the backend system to scrape and process data from shared chatgpt conversation histories. Integrated the backend with the frontend interface to enable seamless data synchronization and feature functionality.",
+    "technologies": [
+      "/technologies/flask.svg",
+      "/technologies/python.svg",
+      "/technologies/laragon.svg",
+      "/technologies/html.svg",
+      "/technologies/css.svg",
+      "/technologies/tailwindcss.svg",
+      "/technologies/word.svg",
+      "/technologies/canva.jpeg"
+    ],
+    "linkCode": "https://github.com/awps13/GPT-SCRAPER",
+    "linkWebsite": "",
+    "width": 1366,
+    "height": 766
+  },
+  {
+    "id": 7,
+    "title": "Disease Spread",
+    "image": "/projects/disease.png",
+    "description": "Assisted in debugging and fixing code errors during the development of a 3D disease spread visualization system. Prepared the project report and presentation materials for final evaluation.",
+    "technologies": [
+    "/technologies/python.svg",
+    "/technologies/word.svg",
+    "/technologies/canva.jpeg"
+    ],
+    "linkCode": "https://github.com/awps13/Visualisasi-Penyebaran-Penyakit-Disease-Spread-use-python",
+    "linkWebsite": "",
     "width": 796,
     "height": 596
   },
   {
-    "id": 3,
-    "title": "Project 3",
-    "image": "/gptsniffer.png",
-    "description": "Ini project rental",
-    "technologies": ["react"],
-    "width": 1350,
-    "height": 768
-  },
-  {
-    "id": 4,
-    "title": "Project 3",
-    "image": "/gptsniffer.png",
-    "description": "Ini project rental",
-    "technologies": ["react"],
-    "width": 1350,
-    "height": 768
+    "id": 8,
+    "title": "UI/UX Desain SoulLink",
+    "image": "/projects/uiux.png",
+    "description": "Assisted in debugging and fixing code errors during the development of a 3D disease spread visualization system. Prepared the project report and presentation materials for final evaluation.",
+    "technologies": [
+    "/technologies/figma.svg",
+    "/technologies/canva.jpeg"
+    ],
+    "linkCode": "",
+    "linkWebsite": "https://www.figma.com/proto/mbd2M79tV5Al7w49sud1L3/Lomba-UI-UX?node-id=29-2557&starting-point-node-id=29%3A2557",
+    "width": 1011,
+    "height": 657
   }
 ]

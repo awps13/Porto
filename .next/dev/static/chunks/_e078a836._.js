@@ -497,10 +497,10 @@ if (typeof globalThis.$RefreshHelpers$ === 'object' && globalThis.$RefreshHelper
 }),
 "[project]/data/projects.json (json)", ((__turbopack_context__) => {
 
-__turbopack_context__.v([{"id":1,"title":"ComPro Desa Purworejo","image":"/projects/compropurworejo.jpeg","description":"Collected and organized informational content from the village office to serve as website materials. Designed and developed the complete website layout and content structure to effectively present village information and services. Submitted copyright registration for the company profile website to protect the digital product's intellectual property. Prepared full project documentation, including website reports and published articles.","technologies":["/technologies/nextjs.svg","/technologies/javascript.svg","/technologies/prisma.svg","/technologies/html.svg","/technologies/css.svg","/technologies/tailwindcss.svg","/technologies/vercel.svg","/technologies/word.svg","/contacts/github.svg"],"linkCode":"https://github.com/awps13/Company_Profile_Desa_Purworejo","linkWebsite":"https://desapurworejongantang.vercel.app/","width":1350,"height":598},{"id":2,"title":"Gallery Mobile","image":"/projects/gallery.png","description":"Developed a full-stack web application for uploading, storing, and displaying photos using cloud storage integration. Implemented secure image upload and retrieval features to ensure data safety and efficient performance. Designed a responsive gallery interface to provide users with a clean and seamless photo browsing experience. (Mobile version)","technologies":["/contacts/github.svg","/technologies/nextjs.svg","/technologies/javascript.svg","/technologies/prisma.svg","/technologies/html.svg","/technologies/css.svg","/technologies/tailwindcss.svg","/technologies/vercel.svg","/technologies/cloudinary.svg","/technologies/neon.svg"],"linkCode":"https://github.com/awps13/Anniversary-3th","linkWebsite":"","width":1364,"height":649},{"id":3,"title":"Gallery Mobile","image":"/projects/carrental.png","description":"Developed a full-stack web application for uploading, storing, and displaying photos using cloud storage integration. Implemented secure image upload and retrieval features to ensure data safety and efficient performance. Designed a responsive gallery interface to provide users with a clean and seamless photo browsing experience. (Mobile version)","technologies":["/contacts/github.svg","/technologies/nextjs.svg","/technologies/javascript.svg","/technologies/prisma.svg","/technologies/html.svg","/technologies/css.svg","/technologies/tailwindcss.svg","/technologies/vercel.svg","/technologies/cloudinary.svg","/technologies/neon.svg"],"linkCode":"https://github.com/awps13/CarRental/","linkWebsite":"https://awps13.github.io/CarRental/","width":1364,"height":649}]);}),
+__turbopack_context__.v([{"id":1,"title":"ComPro Desa Purworejo","image":"/projects/compropurworejo.jpeg","description":"Collected and organized informational content from the village office to serve as website materials. Designed and developed the complete website layout and content structure to effectively present village information and services. Submitted copyright registration for the company profile website to protect the digital product's intellectual property. Prepared full project documentation, including website reports and published articles.","technologies":["/technologies/nextjs.svg","/technologies/javascript.svg","/technologies/prisma.svg","/technologies/html.svg","/technologies/css.svg","/technologies/tailwindcss.svg","/technologies/vercel.svg","/technologies/word.svg","/contacts/github.svg"],"linkCode":"https://github.com/awps13/Company_Profile_Desa_Purworejo","linkWebsite":"https://desapurworejongantang.vercel.app/","width":1350,"height":598},{"id":2,"title":"Gallery Mobile","image":"/projects/gallery.png","description":"Developed a full-stack web application for uploading, storing, and displaying photos using cloud storage integration. Implemented secure image upload and retrieval features to ensure data safety and efficient performance. Designed a responsive gallery interface to provide users with a clean and seamless photo browsing experience. (Mobile version)","technologies":["/contacts/github.svg","/technologies/nextjs.svg","/technologies/javascript.svg","/technologies/prisma.svg","/technologies/html.svg","/technologies/css.svg","/technologies/tailwindcss.svg","/technologies/vercel.svg","/technologies/cloudinary.svg","/technologies/neon.svg"],"linkCode":"https://github.com/awps13/Anniversary-3th","linkWebsite":"","width":1364,"height":649},{"id":3,"title":"ZDR Trans","image":"/projects/carrental.png","description":"Developed a responsive company profile website for ZDR_Trans, enabling customers to easily view services and contact the business directly (Mobile Version). Integrated a WhatsApp Business booking button to streamline the car rental ordering process and improve customer engagement. Collaborated with the business owner to align the website's design and features with ZDR_Trans's branding and marketing goals.","technologies":["/contacts/github.svg","/technologies/javascript.svg","/technologies/html.svg","/technologies/css.svg"],"linkCode":"https://github.com/awps13/CarRental/","linkWebsite":"https://awps13.github.io/CarRental/","width":1364,"height":649}]);}),
 "[project]/data/seeMoreProjects.json (json)", ((__turbopack_context__) => {
 
-__turbopack_context__.v([{"id":1,"title":"ZDR Trans","image":"/carrental.png","description":"A mobile-friendly landing page website that effectively showcases their services, attracts new customers, and enhances online visibility.","technologies":["react","react","react","react","react","react","react","react"],"width":1350,"height":598},{"id":2,"title":"Project 2","image":"/disease.png","description":"Ini project rental","technologies":["react"],"width":796,"height":596},{"id":3,"title":"Project 3","image":"/gptsniffer.png","description":"Ini project rental","technologies":["react"],"width":1350,"height":768},{"id":4,"title":"Project 3","image":"/gptsniffer.png","description":"Ini project rental","technologies":["react"],"width":1350,"height":768}]);}),
+__turbopack_context__.v([{"id":1,"title":"ComPro Desa Purworejo","image":"/projects/compropurworejo.jpeg","description":"Collected and organized informational content from the village office to serve as website materials. Designed and developed the complete website layout and content structure to effectively present village information and services. Submitted copyright registration for the company profile website to protect the digital product's intellectual property. Prepared full project documentation, including website reports and published articles.","technologies":["/technologies/nextjs.svg","/technologies/javascript.svg","/technologies/prisma.svg","/technologies/html.svg","/technologies/css.svg","/technologies/tailwindcss.svg","/technologies/vercel.svg","/technologies/word.svg","/contacts/github.svg"],"linkCode":"https://github.com/awps13/Company_Profile_Desa_Purworejo","linkWebsite":"https://desapurworejongantang.vercel.app/","width":1350,"height":598},{"id":2,"title":"Gallery Mobile","image":"/projects/gallery.png","description":"Developed a full-stack web application for uploading, storing, and displaying photos using cloud storage integration. Implemented secure image upload and retrieval features to ensure data safety and efficient performance. Designed a responsive gallery interface to provide users with a clean and seamless photo browsing experience. (Mobile version)","technologies":["/contacts/github.svg","/technologies/nextjs.svg","/technologies/javascript.svg","/technologies/prisma.svg","/technologies/html.svg","/technologies/css.svg","/technologies/tailwindcss.svg","/technologies/vercel.svg","/technologies/cloudinary.svg","/technologies/neon.svg"],"linkCode":"https://github.com/awps13/Anniversary-3th","linkWebsite":"","width":1364,"height":649},{"id":3,"title":"ZDR Trans","image":"/projects/carrental.png","description":"Developed a responsive company profile website for ZDR_Trans, enabling customers to easily view services and contact the business directly (Mobile Version). Integrated a WhatsApp Business booking button to streamline the car rental ordering process and improve customer engagement. Collaborated with the business owner to align the website's design and features with ZDR_Trans's branding and marketing goals.","technologies":["/contacts/github.svg","/technologies/javascript.svg","/technologies/html.svg","/technologies/css.svg"],"linkCode":"https://github.com/awps13/CarRental/","linkWebsite":"https://awps13.github.io/CarRental/","width":1364,"height":649},{"id":4,"title":"Café Flash","image":"/projects/cafe.jpeg","description":"Developed the payment interface for cafe flash to enhance the checkout experience and visual design.Tested and debugged the payment feature to ensure smooth functionality and user reliability.Assisted in documenting the project’s development process to maintain clear and organized records.","technologies":["/contacts/github.svg","/technologies/php.svg","/technologies/mysql.svg","/technologies/html.svg","/technologies/css.svg","/technologies/tailwindcss.svg","/technologies/word.svg"],"linkCode":"https://github.com/fathan-alf/cafe-flash","linkWebsite":"","width":1600,"height":761},{"id":5,"title":"WarniSys","image":"/projects/cafe.jpeg","description":"Created high- and low-fidelity website designs for warnisys using figma to visualize the system layout and user flow. Submitted copyright registration for the website product to protect the project's intellectual property. Prepared comprehensive project documentation covering design, features, and development details. Performed bug testing and added dummy data to ensure proper functionality and realistic display.","technologies":["/technologies/react.svg","/technologies/javascript.svg","/technologies/mysql.svg","/technologies/html.svg","/technologies/css.svg","/technologies/tailwindcss.svg","/technologies/word.svg","/technologies/prisma.svg","/technologies/canva.jpeg","/technologies/figma.svg"],"linkCode":"https://github.com/fathan-alf/cafe-flash","linkWebsite":"","width":1600,"height":761},{"id":6,"title":"GPT Scraper","image":"/projects/gptsniffer.png","description":"Developed the backend system to scrape and process data from shared chatgpt conversation histories. Integrated the backend with the frontend interface to enable seamless data synchronization and feature functionality.","technologies":["/technologies/flask.svg","/technologies/python.svg","/technologies/laragon.svg","/technologies/html.svg","/technologies/css.svg","/technologies/tailwindcss.svg","/technologies/word.svg","/technologies/canva.jpeg"],"linkCode":"https://github.com/awps13/GPT-SCRAPER","linkWebsite":"","width":1366,"height":766},{"id":7,"title":"Disease Spread","image":"/projects/disease.png","description":"Assisted in debugging and fixing code errors during the development of a 3D disease spread visualization system. Prepared the project report and presentation materials for final evaluation.","technologies":["/technologies/python.svg","/technologies/word.svg","/technologies/canva.jpeg"],"linkCode":"https://github.com/awps13/Visualisasi-Penyebaran-Penyakit-Disease-Spread-use-python","linkWebsite":"","width":796,"height":596},{"id":8,"title":"UI/UX Desain SoulLink","image":"/projects/uiux.png","description":"Assisted in debugging and fixing code errors during the development of a 3D disease spread visualization system. Prepared the project report and presentation materials for final evaluation.","technologies":["/technologies/figma.svg","/technologies/canva.jpeg"],"linkCode":"","linkWebsite":"https://www.figma.com/proto/mbd2M79tV5Al7w49sud1L3/Lomba-UI-UX?node-id=29-2557&starting-point-node-id=29%3A2557","width":1011,"height":657}]);}),
 "[project]/components/seeMoreProjects.tsx [app-client] (ecmascript)", ((__turbopack_context__) => {
 "use strict";
 
@@ -512,8 +512,10 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist
 var __TURBOPACK__imported__module__$5b$project$5d2f$data$2f$seeMoreProjects$2e$json__$28$json$29$__ = __turbopack_context__.i("[project]/data/seeMoreProjects.json (json)");
 var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/next/dist/compiled/react/index.js [app-client] (ecmascript)");
 var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/next/image.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/next/dist/client/app-dir/link.js [app-client] (ecmascript)");
 ;
 var _s = __turbopack_context__.k.signature();
+;
 ;
 ;
 ;
@@ -530,7 +532,7 @@ const seeMoreProjects = ()=>{
                 children: "See More"
             }, void 0, false, {
                 fileName: "[project]/components/seeMoreProjects.tsx",
-                lineNumber: 11,
+                lineNumber: 12,
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             showAll && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -545,7 +547,7 @@ const seeMoreProjects = ()=>{
                             children: "All Projects"
                         }, void 0, false, {
                             fileName: "[project]/components/seeMoreProjects.tsx",
-                            lineNumber: 27,
+                            lineNumber: 28,
                             columnNumber: 13
                         }, ("TURBOPACK compile-time value", void 0)),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -564,12 +566,12 @@ const seeMoreProjects = ()=>{
                                                 className: "w-full h-full object-cover"
                                             }, void 0, false, {
                                                 fileName: "[project]/components/seeMoreProjects.tsx",
-                                                lineNumber: 40,
+                                                lineNumber: 41,
                                                 columnNumber: 21
                                             }, ("TURBOPACK compile-time value", void 0))
                                         }, void 0, false, {
                                             fileName: "[project]/components/seeMoreProjects.tsx",
-                                            lineNumber: 39,
+                                            lineNumber: 40,
                                             columnNumber: 19
                                         }, ("TURBOPACK compile-time value", void 0)),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -580,7 +582,7 @@ const seeMoreProjects = ()=>{
                                                     children: project.title
                                                 }, void 0, false, {
                                                     fileName: "[project]/components/seeMoreProjects.tsx",
-                                                    lineNumber: 49,
+                                                    lineNumber: 50,
                                                     columnNumber: 21
                                                 }, ("TURBOPACK compile-time value", void 0)),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -588,30 +590,37 @@ const seeMoreProjects = ()=>{
                                                     children: project.description
                                                 }, void 0, false, {
                                                     fileName: "[project]/components/seeMoreProjects.tsx",
-                                                    lineNumber: 52,
+                                                    lineNumber: 53,
                                                     columnNumber: 21
                                                 }, ("TURBOPACK compile-time value", void 0))
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/components/seeMoreProjects.tsx",
-                                            lineNumber: 48,
+                                            lineNumber: 49,
                                             columnNumber: 19
                                         }, ("TURBOPACK compile-time value", void 0))
                                     ]
                                 }, project.id, true, {
                                     fileName: "[project]/components/seeMoreProjects.tsx",
-                                    lineNumber: 34,
+                                    lineNumber: 35,
                                     columnNumber: 17
                                 }, ("TURBOPACK compile-time value", void 0)))
                         }, void 0, false, {
                             fileName: "[project]/components/seeMoreProjects.tsx",
-                            lineNumber: 32,
+                            lineNumber: 33,
                             columnNumber: 13
                         }, ("TURBOPACK compile-time value", void 0)),
-                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
-                            onClick: ()=>setShowAll(false),
-                            className: "px-4 py-2 border text-white shadow-[3px_3px_0_#fff] hover:scale-[1.03] hover:shadow-[6px_6px_0_#fff] transition-all duration-200 ease-out hover:cursor-pointer",
-                            children: "Close"
+                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                            className: "flex gap-5",
+                            children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
+                                onClick: ()=>setShowAll(false),
+                                className: "px-4 py-2 border text-white shadow-[3px_3px_0_#fff] hover:scale-[1.03] hover:shadow-[6px_6px_0_#fff] transition-all duration-200 ease-out hover:cursor-pointer",
+                                children: "Close"
+                            }, void 0, false, {
+                                fileName: "[project]/components/seeMoreProjects.tsx",
+                                lineNumber: 61,
+                                columnNumber: 15
+                            }, ("TURBOPACK compile-time value", void 0))
                         }, void 0, false, {
                             fileName: "[project]/components/seeMoreProjects.tsx",
                             lineNumber: 60,
@@ -620,12 +629,12 @@ const seeMoreProjects = ()=>{
                     ]
                 }, void 0, true, {
                     fileName: "[project]/components/seeMoreProjects.tsx",
-                    lineNumber: 23,
+                    lineNumber: 24,
                     columnNumber: 11
                 }, ("TURBOPACK compile-time value", void 0))
             }, void 0, false, {
                 fileName: "[project]/components/seeMoreProjects.tsx",
-                lineNumber: 19,
+                lineNumber: 20,
                 columnNumber: 9
             }, ("TURBOPACK compile-time value", void 0)),
             openModule && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -633,14 +642,14 @@ const seeMoreProjects = ()=>{
                 className: "fixed inset-0 z-60 flex items-center justify-center bg-black/80 p-4",
                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                     onClick: (e)=>e.stopPropagation(),
-                    className: "relative p-2 max-w-4xl max-h-[80vh] overflow-y-auto shadow-[12px_12px_0_#fff] border-2 flex flex-col items-center bg-black",
+                    className: "relative p-2 max-w-4xl max-h-[80vh] overflow-y-auto shadow-[12px_12px_0_#fff] border-2 flex flex-col items-center bg-gray-900",
                     children: [
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h1", {
                             className: "font-semibold text-2xl text-white pb-2",
                             children: __TURBOPACK__imported__module__$5b$project$5d2f$data$2f$seeMoreProjects$2e$json__$28$json$29$__["default"].find((p)=>p.id === openModule)?.title
                         }, void 0, false, {
                             fileName: "[project]/components/seeMoreProjects.tsx",
-                            lineNumber: 79,
+                            lineNumber: 81,
                             columnNumber: 13
                         }, ("TURBOPACK compile-time value", void 0)),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -653,12 +662,12 @@ const seeMoreProjects = ()=>{
                                 className: "w-full h-auto object-contain"
                             }, void 0, false, {
                                 fileName: "[project]/components/seeMoreProjects.tsx",
-                                lineNumber: 85,
+                                lineNumber: 87,
                                 columnNumber: 15
                             }, ("TURBOPACK compile-time value", void 0))
                         }, void 0, false, {
                             fileName: "[project]/components/seeMoreProjects.tsx",
-                            lineNumber: 84,
+                            lineNumber: 86,
                             columnNumber: 13
                         }, ("TURBOPACK compile-time value", void 0)),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -671,7 +680,7 @@ const seeMoreProjects = ()=>{
                                             children: "Description"
                                         }, void 0, false, {
                                             fileName: "[project]/components/seeMoreProjects.tsx",
-                                            lineNumber: 104,
+                                            lineNumber: 106,
                                             columnNumber: 17
                                         }, ("TURBOPACK compile-time value", void 0)),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -679,13 +688,13 @@ const seeMoreProjects = ()=>{
                                             children: __TURBOPACK__imported__module__$5b$project$5d2f$data$2f$seeMoreProjects$2e$json__$28$json$29$__["default"].find((p)=>p.id === openModule)?.description
                                         }, void 0, false, {
                                             fileName: "[project]/components/seeMoreProjects.tsx",
-                                            lineNumber: 105,
+                                            lineNumber: 107,
                                             columnNumber: 17
                                         }, ("TURBOPACK compile-time value", void 0))
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/components/seeMoreProjects.tsx",
-                                    lineNumber: 103,
+                                    lineNumber: 105,
                                     columnNumber: 15
                                 }, ("TURBOPACK compile-time value", void 0)),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -695,62 +704,103 @@ const seeMoreProjects = ()=>{
                                             children: "Tools & Technologies"
                                         }, void 0, false, {
                                             fileName: "[project]/components/seeMoreProjects.tsx",
-                                            lineNumber: 110,
+                                            lineNumber: 112,
                                             columnNumber: 17
                                         }, ("TURBOPACK compile-time value", void 0)),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                            className: "grid grid-cols-8 items-center justify-center",
-                                            children: __TURBOPACK__imported__module__$5b$project$5d2f$data$2f$seeMoreProjects$2e$json__$28$json$29$__["default"].find((p)=>p.id === openModule)?.technologies.map((tech, index)=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
-                                                    src: "/react.svg",
+                                            className: "grid grid-cols-8 items-center justify-center gap-5",
+                                            children: __TURBOPACK__imported__module__$5b$project$5d2f$data$2f$seeMoreProjects$2e$json__$28$json$29$__["default"].find((p)=>p.id === openModule)?.technologies.map((tech)=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
+                                                    src: tech,
                                                     alt: tech,
                                                     width: 32,
                                                     height: 32
-                                                }, index, false, {
+                                                }, tech, false, {
                                                     fileName: "[project]/components/seeMoreProjects.tsx",
-                                                    lineNumber: 117,
+                                                    lineNumber: 119,
                                                     columnNumber: 23
                                                 }, ("TURBOPACK compile-time value", void 0)))
                                         }, void 0, false, {
                                             fileName: "[project]/components/seeMoreProjects.tsx",
-                                            lineNumber: 113,
+                                            lineNumber: 115,
                                             columnNumber: 17
                                         }, ("TURBOPACK compile-time value", void 0))
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/components/seeMoreProjects.tsx",
-                                    lineNumber: 109,
+                                    lineNumber: 111,
                                     columnNumber: 15
                                 }, ("TURBOPACK compile-time value", void 0))
                             ]
                         }, void 0, true, {
                             fileName: "[project]/components/seeMoreProjects.tsx",
-                            lineNumber: 102,
+                            lineNumber: 104,
                             columnNumber: 13
                         }, ("TURBOPACK compile-time value", void 0)),
-                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
-                            onClick: ()=>setOpenModule(null),
-                            className: "px-4 py-2 mb-2 mt-5 border text-white shadow-[3px_3px_0_#fff] hover:scale-[1.03] hover:shadow-[6px_6px_0_#fff] transition-all duration-200 ease-out hover:cursor-pointer",
-                            children: "Close"
-                        }, void 0, false, {
+                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                            className: "flex gap-5",
+                            children: [
+                                __TURBOPACK__imported__module__$5b$project$5d2f$data$2f$seeMoreProjects$2e$json__$28$json$29$__["default"].find((p)=>p.id === openModule)?.linkCode && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
+                                    className: "px-4 py-2 mb-2 mt-5 border text-white shadow-[3px_3px_0_#fff] hover:scale-[1.03] hover:shadow-[6px_6px_0_#fff] transition-all duration-200 ease-out hover:cursor-pointer",
+                                    children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
+                                        href: __TURBOPACK__imported__module__$5b$project$5d2f$data$2f$seeMoreProjects$2e$json__$28$json$29$__["default"].find((p)=>p.id === openModule)?.linkCode || "",
+                                        target: "blank",
+                                        children: "Code"
+                                    }, void 0, false, {
+                                        fileName: "[project]/components/seeMoreProjects.tsx",
+                                        lineNumber: 133,
+                                        columnNumber: 19
+                                    }, ("TURBOPACK compile-time value", void 0))
+                                }, void 0, false, {
+                                    fileName: "[project]/components/seeMoreProjects.tsx",
+                                    lineNumber: 132,
+                                    columnNumber: 17
+                                }, ("TURBOPACK compile-time value", void 0)),
+                                __TURBOPACK__imported__module__$5b$project$5d2f$data$2f$seeMoreProjects$2e$json__$28$json$29$__["default"].find((p)=>p.id === openModule)?.linkWebsite && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
+                                    className: "px-4 py-2 mb-2 mt-5 border text-white shadow-[3px_3px_0_#fff] hover:scale-[1.03] hover:shadow-[6px_6px_0_#fff] transition-all duration-200 ease-out hover:cursor-pointer",
+                                    children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
+                                        href: __TURBOPACK__imported__module__$5b$project$5d2f$data$2f$seeMoreProjects$2e$json__$28$json$29$__["default"].find((p)=>p.id === openModule)?.linkWebsite || "",
+                                        target: "blank",
+                                        children: "Demo"
+                                    }, void 0, false, {
+                                        fileName: "[project]/components/seeMoreProjects.tsx",
+                                        lineNumber: 146,
+                                        columnNumber: 19
+                                    }, ("TURBOPACK compile-time value", void 0))
+                                }, void 0, false, {
+                                    fileName: "[project]/components/seeMoreProjects.tsx",
+                                    lineNumber: 145,
+                                    columnNumber: 17
+                                }, ("TURBOPACK compile-time value", void 0)),
+                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
+                                    onClick: ()=>setOpenModule(null),
+                                    className: "px-4 py-2 mb-2 mt-5 border text-white shadow-[3px_3px_0_#fff] hover:scale-[1.03] hover:shadow-[6px_6px_0_#fff] transition-all duration-200 ease-out hover:cursor-pointer",
+                                    children: "Close"
+                                }, void 0, false, {
+                                    fileName: "[project]/components/seeMoreProjects.tsx",
+                                    lineNumber: 157,
+                                    columnNumber: 15
+                                }, ("TURBOPACK compile-time value", void 0))
+                            ]
+                        }, void 0, true, {
                             fileName: "[project]/components/seeMoreProjects.tsx",
-                            lineNumber: 129,
+                            lineNumber: 130,
                             columnNumber: 13
                         }, ("TURBOPACK compile-time value", void 0))
                     ]
                 }, void 0, true, {
                     fileName: "[project]/components/seeMoreProjects.tsx",
-                    lineNumber: 75,
+                    lineNumber: 77,
                     columnNumber: 11
                 }, ("TURBOPACK compile-time value", void 0))
             }, void 0, false, {
                 fileName: "[project]/components/seeMoreProjects.tsx",
-                lineNumber: 71,
+                lineNumber: 73,
                 columnNumber: 9
             }, ("TURBOPACK compile-time value", void 0))
         ]
     }, void 0, true, {
         fileName: "[project]/components/seeMoreProjects.tsx",
-        lineNumber: 10,
+        lineNumber: 11,
         columnNumber: 5
     }, ("TURBOPACK compile-time value", void 0));
 };
@@ -955,7 +1005,7 @@ const project = ()=>{
                                                     children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
                                                         href: project.linkCode,
                                                         target: "blank",
-                                                        children: "Link Code"
+                                                        children: "Code"
                                                     }, void 0, false, {
                                                         fileName: "[project]/components/project.tsx",
                                                         lineNumber: 98,
@@ -971,7 +1021,7 @@ const project = ()=>{
                                                     children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
                                                         href: project.linkWebsite,
                                                         target: "blank",
-                                                        children: "Link Website"
+                                                        children: "Demo"
                                                     }, void 0, false, {
                                                         fileName: "[project]/components/project.tsx",
                                                         lineNumber: 115,
@@ -1132,7 +1182,7 @@ if (typeof globalThis.$RefreshHelpers$ === 'object' && globalThis.$RefreshHelper
 }),
 "[project]/data/certifications.json (json)", ((__turbopack_context__) => {
 
-__turbopack_context__.v([{"id":1,"title":"Certification 1","image":"/carrental.png","description":"Ini sertifikasi pertama"},{"id":2,"title":"Certification 2","image":"/carrental.png","description":"Ini sertifikasi kedua"},{"id":3,"title":"Certification 3","image":"/carrental.png","description":"Ini sertifikasi ketiga"}]);}),
+__turbopack_context__.v([{"id":1,"title":"Certification 1","image":"/carrental.png","description":"Ini sertifikasi pertama"},{"id":2,"title":"Certification 2","image":"/carrental.png","description":"Ini sertifikasi kedua"},{"id":3,"title":"Certification 3","image":"/projects/carrental.png","description":"Ini sertifikasi ketiga"}]);}),
 "[project]/data/seeMoreCertifications.json (json)", ((__turbopack_context__) => {
 
 __turbopack_context__.v([{"id":1,"title":"Certification 1","image":"/carrental.png","description":"Ini sertifikasi pertama dengan deskripsi lengkap tentang pencapaian dan skills yang didapat"},{"id":2,"title":"Certification 2","image":"/carrental.png","description":"Ini sertifikasi kedua yang menunjukkan penguasaan dalam bidang tertentu"},{"id":3,"title":"Certification 3","image":"/carrental.png","description":"Ini sertifikasi ketiga sebagai bukti kompetensi dan dedikasi dalam pembelajaran"},{"id":4,"title":"Certification 4","image":"/carrental.png","description":"Sertifikasi keempat menunjukkan kesuksesan dalam menyelesaikan program pelatihan"},{"id":5,"title":"Certification 5","image":"/carrental.png","description":"Sertifikasi kelima adalah pencapaian terbaru dalam pengembangan skill profesional"}]);}),

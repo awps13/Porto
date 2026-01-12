@@ -1,56 +1,2196 @@
-[00:00:01.961] Server  LOG      ✓ Ready in 1311ms
-[00:00:02.061] Browser ERROR   {}
-[00:00:02.061] Browser ERROR   {}
-[00:00:02.061] Browser ERROR   uncaughtError: Error: Failed to parse src "react" on `next/image`, if using relative image it must start with a leading slash "/" or be an absolute URL (http:// or https://)
-[00:00:05.092] Server  LOG      ○ Compiling / ...
-[00:00:06.347] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:00:07.318] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:00:25.014] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./data/projects.json (json) changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
-[00:00:25.121] Server  LOG      ✓ Compiled in 70ms
-[00:00:25.548] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:00:26.510] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:00:32.147] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./data/projects.json (json) changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
-[00:00:32.264] Server  LOG      ✓ Compiled in 35ms
-[00:00:32.674] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:00:32.839] Browser ERROR   Encountered two children with the same key, `%s`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version. 2
-[00:00:32.840] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:00:59.701] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./data/projects.json (json) changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
-[00:00:59.724] Server  LOG      ✓ Compiled in 38ms
-[00:01:00.338] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:01:00.499] Browser ERROR   Encountered two children with the same key, `%s`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version. 2
-[00:01:00.499] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:01:55.692] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./data/projects.json (json) changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
-[00:01:55.786] Server  LOG      ✓ Compiled in 22ms
-[00:01:56.178] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:01:57.140] Browser ERROR   Encountered two children with the same key, `%s`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version. 2
-[00:01:57.140] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:02:16.491] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./data/projects.json (json) changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
-[00:02:16.617] Server  LOG      ✓ Compiled in 16ms
-[00:02:17.348] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:02:17.900] Browser ERROR   Encountered two children with the same key, `%s`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version. 2
-[00:02:17.900] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:02:26.604] Browser ERROR   Encountered two children with the same key, `%s`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version. 2
-[00:02:36.221] Browser ERROR   Encountered two children with the same key, `%s`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version. 2
-[00:03:24.452] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./data/projects.json (json) changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
-[00:03:24.586] Server  LOG      ✓ Compiled in 35ms
-[00:03:24.699] Server  ERROR   An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string.
-[00:03:25.091] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:03:26.049] Browser ERROR   Encountered two children with the same key, `%s`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version. 2
-[00:03:26.049] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
-[00:03:26.049] Browser ERROR   Image is missing required "src" property: <img>
-[00:03:26.049] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:03:30.050] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./data/projects.json (json) changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
-[00:03:30.069] Server  LOG      ✓ Compiled in 71ms
-[00:03:30.670] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:03:31.641] Browser ERROR   Encountered two children with the same key, `%s`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version. 2
-[00:03:31.641] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:03:32.250] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/proje" "received" null
-[00:03:38.127] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./data/projects.json (json) changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
-[00:03:38.230] Server  LOG      ✓ Compiled in 26ms
-[00:03:38.637] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:03:39.596] Browser ERROR   Encountered two children with the same key, `%s`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version. 2
-[00:03:39.596] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:03:49.030] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./data/projects.json (json) changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
-[00:03:49.165] Server  LOG      ✓ Compiled in 40ms
-[00:03:49.634] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:03:49.797] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:00:04.240] Server  LOG      ✓ Ready in 3.2s
+[00:00:10.271] Server  LOG      ○ Compiling / ...
+[00:00:14.113] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:14.188] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:00:15.153] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/carrental.png" "received" null
+[00:00:15.257] Server  ERROR   Error: The requested resource isn't a valid image.
+[00:00:51.380] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/project.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:00:51.384] Server  LOG      ✓ Compiled in 158ms
+[00:00:52.392] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:53.327] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:01:02.832] Browser WARN    Image with src "/Foto.jpeg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:01:03.424] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/project.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:01:03.447] Server  LOG      ✓ Compiled in 154ms
+[00:01:04.394] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:01:04.690] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:01:11.267] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/carrental.png" "received" null
+[00:01:11.325] Server  ERROR   Error: The requested resource isn't a valid image.
+[00:01:53.652] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/seeMoreProjects.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:01:53.681] Server  LOG      ✓ Compiled in 93ms
+[00:01:54.771] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:01:55.172] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/seeMoreProjects.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:01:55.173] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:01:55.190] Server  LOG      ✓ Compiled in 66ms
+[00:01:55.840] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:01:56.796] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:01:59.938] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/seeMoreProjects.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:01:59.960] Server  LOG      ✓ Compiled in 93ms
+[00:02:00.636] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:02:01.555] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:02:03.427] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/seeMoreProjects.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:02:03.583] Server  LOG      ✓ Compiled in 61ms
+[00:02:04.209] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:02:05.155] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:02:05.566] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/seeMoreProjects.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:02:05.590] Server  LOG      ✓ Compiled in 76ms
+[00:02:06.315] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:02:07.078] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/seeMoreProjects.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:02:07.078] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:02:07.099] Server  LOG      ✓ Compiled in 105ms
+[00:02:07.698] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:02:08.653] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:02:12.196] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/seeMoreProjects.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:02:12.214] Server  LOG      ✓ Compiled in 66ms
+[00:02:12.923] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:02:13.409] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/seeMoreProjects.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:02:13.410] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:02:13.432] Server  LOG      ✓ Compiled in 64ms
+[00:02:14.242] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:02:14.802] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/seeMoreProjects.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:02:14.802] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:02:14.821] Server  LOG      ✓ Compiled in 108ms
+[00:02:15.672] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:02:17.607] Server  LOG      ✓ Compiled in 115ms
+[00:02:17.608] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:02:18.618] Browser ERROR   ./components/seeMoreProjects.tsx:142:85
+Parsing ecmascript source code failed
+  140 |                 </Link>
+  141 |               </button>
+> 142 |                   {seeMoreProject.find((p) => p.id === openModule)?.linkWebsite && (}
+      |                                                                                     ^
+  143 |               <button
+  144 |                 className="px-4 py-2 mb-2 mt-5 border text-white shadow-[3px_3px_0_#fff] hover:scale-[1.03] hover:shadow-[6px_6px_0_#fff] transition-all duration-200 ease-out hover:cursor-pointer"
+  145 |               >
+
+Expected '</', got '}'
+
+Import traces:
+  Client Component Browser:
+    ./components/seeMoreProjects.tsx [Client Component Browser]
+    ./components/project.tsx [Client Component Browser]
+    ./components/sisiTengah.tsx [Client Component Browser]
+    ./components/porto.tsx [Client Component Browser]
+    ./components/canvas.tsx [Client Component Browser]
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./components/seeMoreProjects.tsx [Client Component SSR]
+    ./components/project.tsx [Client Component SSR]
+    ./components/sisiTengah.tsx [Client Component SSR]
+    ./components/porto.tsx [Client Component SSR]
+    ./components/canvas.tsx [Client Component SSR]
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+[00:02:21.147] Browser ERROR   ./components/seeMoreProjects.tsx:143:21
+Parsing ecmascript source code failed
+  141 |               </button>
+  142 |                   {seeMoreProject.find((p) => p.id === openModule)?.linkWebsite && (
+> 143 |                     }
+      |                     ^
+  144 |               <button
+  145 |                 className="px-4 py-2 mb-2 mt-5 border text-white shadow-[3px_3px_0_#fff] hover:scale-[1.03] hover:shadow-[6px_6px_0_#fff] transition-all duration-200 ease-out hover:cursor-pointer"
+  146 |               >
+
+Expected '</', got '}'
+
+Import traces:
+  Client Component Browser:
+    ./components/seeMoreProjects.tsx [Client Component Browser]
+    ./components/project.tsx [Client Component Browser]
+    ./components/sisiTengah.tsx [Client Component Browser]
+    ./components/porto.tsx [Client Component Browser]
+    ./components/canvas.tsx [Client Component Browser]
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./components/seeMoreProjects.tsx [Client Component SSR]
+    ./components/project.tsx [Client Component SSR]
+    ./components/sisiTengah.tsx [Client Component SSR]
+    ./components/porto.tsx [Client Component SSR]
+    ./components/canvas.tsx [Client Component SSR]
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+[00:02:22.723] Browser ERROR   ./components/seeMoreProjects.tsx:143:22
+Parsing ecmascript source code failed
+  141 |               </button>
+  142 |                   {seeMoreProject.find((p) => p.id === openModule)?.linkWebsite && (
+> 143 |                     )}
+      |                      ^
+  144 |               <button
+  145 |                 className="px-4 py-2 mb-2 mt-5 border text-white shadow-[3px_3px_0_#fff] hover:scale-[1.03] hover:shadow-[6px_6px_0_#fff] transition-all duration-200 ease-out hover:cursor-pointer"
+  146 |               >
+
+Expected '</', got '}'
+
+Import traces:
+  Client Component Browser:
+    ./components/seeMoreProjects.tsx [Client Component Browser]
+    ./components/project.tsx [Client Component Browser]
+    ./components/sisiTengah.tsx [Client Component Browser]
+    ./components/porto.tsx [Client Component Browser]
+    ./components/canvas.tsx [Client Component Browser]
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./components/seeMoreProjects.tsx [Client Component SSR]
+    ./components/project.tsx [Client Component SSR]
+    ./components/sisiTengah.tsx [Client Component SSR]
+    ./components/porto.tsx [Client Component SSR]
+    ./components/canvas.tsx [Client Component SSR]
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+[00:02:25.209] Browser ERROR   ./components/seeMoreProjects.tsx:144:22
+Parsing ecmascript source code failed
+  142 |                   {seeMoreProject.find((p) => p.id === openModule)?.linkWebsite && (
+  143 |                     
+> 144 |                     )}
+      |                      ^
+  145 |               <button
+  146 |                 className="px-4 py-2 mb-2 mt-5 border text-white shadow-[3px_3px_0_#fff] hover:scale-[1.03] hover:shadow-[6px_6px_0_#fff] transition-all duration-200 ease-out hover:cursor-pointer"
+  147 |               >
+
+Expected '</', got '}'
+
+Import traces:
+  Client Component Browser:
+    ./components/seeMoreProjects.tsx [Client Component Browser]
+    ./components/project.tsx [Client Component Browser]
+    ./components/sisiTengah.tsx [Client Component Browser]
+    ./components/porto.tsx [Client Component Browser]
+    ./components/canvas.tsx [Client Component Browser]
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./components/seeMoreProjects.tsx [Client Component SSR]
+    ./components/project.tsx [Client Component SSR]
+    ./components/sisiTengah.tsx [Client Component SSR]
+    ./components/porto.tsx [Client Component SSR]
+    ./components/canvas.tsx [Client Component SSR]
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+[00:02:54.535] Server  LOG      ✓ Compiled in 89ms
+[00:02:54.821] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/seeMoreProjects.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:02:55.435] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:02:56.353] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:02:58.243] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/seeMoreProjects.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:02:58.429] Server  LOG      ✓ Compiled in 39ms
+[00:02:59.094] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:03:00.051] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:03:02.494] Browser WARN    Image with src "/Foto.jpeg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:07:47.658] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./data/seeMoreProjects.json (json) changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:07:47.677] Server  LOG      ✓ Compiled in 85ms
+[00:07:48.874] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:07:49.819] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:07:50.794] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./data/seeMoreProjects.json (json) changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:07:50.956] Server  LOG      ✓ Compiled in 39ms
+[00:07:51.635] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:07:52.587] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:08:00.791] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./data/seeMoreProjects.json (json) changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:08:00.811] Server  LOG      ✓ Compiled in 78ms
+[00:08:01.690] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:08:02.662] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:08:04.798] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./data/seeMoreProjects.json (json) changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:08:04.823] Server  LOG      ✓ Compiled in 68ms
+[00:08:05.829] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:08:06.805] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:08:30.751] Server  LOG      ✓ Compiled in 40ms
+[00:08:31.684] Browser ERROR   ./data/seeMoreProjects.json
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/data/seeMoreProjects.json (json)
+
+Caused by:
+- Unable to make a module from invalid JSON: control character (\u0000-\u001F) found while parsing a string at line 66 column 0
+
+Debug info:
+- An error occurred while generating the chunk item [project]/data/seeMoreProjects.json (json)
+- Execution of <JsonChunkItem as EcmascriptChunkItem>::content failed
+- Unable to make a module from invalid JSON: control character (\u0000-\u001F) found while parsing a string at line 66 column 0
+    at [3].description
+      62 |     "id": 4,
+      63 |     "title": "Café Flash",
+      64 |     "image": "/projects/carrental.png",
+      65 |     "description": "Developed the payment interface for cafe flash to enhance the checkout experience and visual
+         | v
+      66 + design.
+         | ^
+      67 | Tested and debugged the payment feature to ensure smooth functionality and user reliability.
+      68 | Assisted in documenting the project’s development process to maintain clear and organized records.",
+      69 |     "technologies": [
+      70 |       "/contacts/github.svg",
+
+Import trace:
+  Client Component SSR:
+    ./data/seeMoreProjects.json
+    ./components/seeMoreProjects.tsx [Client Component SSR]
+    ./components/project.tsx [Client Component SSR]
+    ./components/sisiTengah.tsx [Client Component SSR]
+    ./components/porto.tsx [Client Component SSR]
+    ./components/canvas.tsx [Client Component SSR]
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+[00:08:35.596] Server  LOG      ✓ Compiled in 40ms
+[00:08:36.628] Browser ERROR   ./data/seeMoreProjects.json
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/data/seeMoreProjects.json (json)
+
+Caused by:
+- Unable to make a module from invalid JSON: control character (\u0000-\u001F) found while parsing a string at line 66 column 0
+
+Debug info:
+- An error occurred while generating the chunk item [project]/data/seeMoreProjects.json (json)
+- Execution of <JsonChunkItem as EcmascriptChunkItem>::content failed
+- Unable to make a module from invalid JSON: control character (\u0000-\u001F) found while parsing a string at line 66 column 0
+    at [3].description
+      62 |     "id": 4,
+      63 |     "title": "Café Flash",
+      64 |     "image": "/projects/carrental.png",
+      65 |     "description": "Developed the payment interface for cafe flash to enhance the checkouexperience and visual
+         | v
+      66 + design.
+         | ^
+      67 | Tested and debugged the payment feature to ensure smooth functionality and user reliability.
+      68 | Assisted in documenting the project’s development process to maintain clear and organized records.",
+      69 |     "technologies": [
+      70 |       "/contacts/github.svg",
+
+Import trace:
+  Client Component SSR:
+    ./data/seeMoreProjects.json
+    ./components/seeMoreProjects.tsx [Client Component SSR]
+    ./components/project.tsx [Client Component SSR]
+    ./components/sisiTengah.tsx [Client Component SSR]
+    ./components/porto.tsx [Client Component SSR]
+    ./components/canvas.tsx [Client Component SSR]
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+[00:08:36.991] Server  LOG      ✓ Compiled in 76ms
+[00:08:37.886] Browser ERROR   ./data/seeMoreProjects.json
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/data/seeMoreProjects.json (json)
+
+Caused by:
+- Unable to make a module from invalid JSON: control character (\u0000-\u001F) found while parsing a string at line 66 column 0
+
+Debug info:
+- An error occurred while generating the chunk item [project]/data/seeMoreProjects.json (json)
+- Execution of <JsonChunkItem as EcmascriptChunkItem>::content failed
+- Unable to make a module from invalid JSON: control character (\u0000-\u001F) found while parsing a string at line 66 column 0
+    at [3].description
+      62 |     "id": 4,
+      63 |     "title": "Café Flash",
+      64 |     "image": "/projects/carrental.png",
+      65 |     "description": "Developed the payment interface for cafe flash to enhance the checkout experience and visual
+         | v
+      66 + design.
+         | ^
+      67 | Tested and debugged the payment feature to ensure smooth functionality and user reliability.
+      68 | Assisted in documenting the project’s development process to maintain clear and organized records.",
+      69 |     "technologies": [
+      70 |       "/contacts/github.svg",
+
+Import trace:
+  Client Component SSR:
+    ./data/seeMoreProjects.json
+    ./components/seeMoreProjects.tsx [Client Component SSR]
+    ./components/project.tsx [Client Component SSR]
+    ./components/sisiTengah.tsx [Client Component SSR]
+    ./components/porto.tsx [Client Component SSR]
+    ./components/canvas.tsx [Client Component SSR]
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+[00:08:40.451] Browser ERROR   ./data/seeMoreProjects.json
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/data/seeMoreProjects.json (json)
+
+Caused by:
+- Unable to make a module from invalid JSON: control character (\u0000-\u001F) found while parsing a string at line 66 column 0
+
+Debug info:
+- An error occurred while generating the chunk item [project]/data/seeMoreProjects.json (json)
+- Execution of <JsonChunkItem as EcmascriptChunkItem>::content failed
+- Unable to make a module from invalid JSON: control character (\u0000-\u001F) found while parsing a string at line 66 column 0
+    at [3].description
+      62 |     "id": 4,
+      63 |     "title": "Café Flash",
+      64 |     "image": "/projects/carrental.png",
+      65 |     "description": "Developed the payment interface for cafe flash to enhance the checkout experience and visual
+         | v
+      66 + design.
+         | ^
+      67 | Tested and debugged the payment feature to ensure smooth functionality and user reliability.
+      68 | Assisted in documenting the project’s development process to maintain clear and organized records.",
+      69 |     "technologies": [
+      70 |       "/contacts/github.svg",
+
+Import trace:
+  Client Component SSR:
+    ./data/seeMoreProjects.json
+    ./components/seeMoreProjects.tsx [Client Component SSR]
+    ./components/project.tsx [Client Component SSR]
+    ./components/sisiTengah.tsx [Client Component SSR]
+    ./components/porto.tsx [Client Component SSR]
+    ./components/canvas.tsx [Client Component SSR]
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+[00:08:42.074] Server  LOG      ✓ Compiled in 61ms
+[00:08:43.094] Browser ERROR   ./data/seeMoreProjects.json
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/data/seeMoreProjects.json (json)
+
+Caused by:
+- Unable to make a module from invalid JSON: control character (\u0000-\u001F) found while parsing a string at line 66 column 0
+
+Debug info:
+- An error occurred while generating the chunk item [project]/data/seeMoreProjects.json (json)
+- Execution of <JsonChunkItem as EcmascriptChunkItem>::content failed
+- Unable to make a module from invalid JSON: control character (\u0000-\u001F) found while parsing a string at line 66 column 0
+    at [3].description
+      62 |     "id": 4,
+      63 |     "title": "Café Flash",
+      64 |     "image": "/projects/carrental.png",
+      65 |     "description": "Developed the payment interface for cafe flash to enhance the checkoutexperience and visual
+         | v
+      66 + design.
+         | ^
+      67 | Tested and debugged the payment feature to ensure smooth functionality and user reliability.
+      68 | Assisted in documenting the project’s development process to maintain clear and organized records.",
+      69 |     "technologies": [
+      70 |       "/contacts/github.svg",
+
+Import trace:
+  Client Component SSR:
+    ./data/seeMoreProjects.json
+    ./components/seeMoreProjects.tsx [Client Component SSR]
+    ./components/project.tsx [Client Component SSR]
+    ./components/sisiTengah.tsx [Client Component SSR]
+    ./components/porto.tsx [Client Component SSR]
+    ./components/canvas.tsx [Client Component SSR]
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+[00:08:46.825] Server  LOG      ✓ Compiled in 69ms
+[00:08:47.849] Browser ERROR   ./data/seeMoreProjects.json
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/data/seeMoreProjects.json (json)
+
+Caused by:
+- Unable to make a module from invalid JSON: control character (\u0000-\u001F) found while parsing a string at line 66 column 0
+
+Debug info:
+- An error occurred while generating the chunk item [project]/data/seeMoreProjects.json (json)
+- Execution of <JsonChunkItem as EcmascriptChunkItem>::content failed
+- Unable to make a module from invalid JSON: control character (\u0000-\u001F) found while parsing a string at line 66 column 0
+    at [3].description
+      62 |     "id": 4,
+      63 |     "title": "Café Flash",
+      64 |     "image": "/projects/carrental.png",
+      65 |     "description": "Developed the payment interface for cafe flash to enhance the checkoexperience and visual
+         | v
+      66 + design.
+         | ^
+      67 | Tested and debugged the payment feature to ensure smooth functionality and user reliability.
+      68 | Assisted in documenting the project’s development process to maintain clear and organized records.",
+      69 |     "technologies": [
+      70 |       "/contacts/github.svg",
+
+Import trace:
+  Client Component SSR:
+    ./data/seeMoreProjects.json
+    ./components/seeMoreProjects.tsx [Client Component SSR]
+    ./components/project.tsx [Client Component SSR]
+    ./components/sisiTengah.tsx [Client Component SSR]
+    ./components/porto.tsx [Client Component SSR]
+    ./components/canvas.tsx [Client Component SSR]
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+[00:08:50.687] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./data/seeMoreProjects.json (json) changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:08:50.703] Server  LOG      ✓ Compiled in 62ms
+[00:08:51.324] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:08:52.241] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:08:53.676] Server  LOG      ✓ Compiled in 38ms
+[00:08:54.718] Browser ERROR   ./data/seeMoreProjects.json
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/data/seeMoreProjects.json (json)
+
+Caused by:
+- Unable to make a module from invalid JSON: control character (\u0000-\u001F) found while parsing a string at line 66 column 0
+
+Debug info:
+- An error occurred while generating the chunk item [project]/data/seeMoreProjects.json (json)
+- Execution of <JsonChunkItem as EcmascriptChunkItem>::content failed
+- Unable to make a module from invalid JSON: control character (\u0000-\u001F) found while parsing a string at line 66 column 0
+    at [3].description
+      62 |     "id": 4,
+      63 |     "title": "Café Flash",
+      64 |     "image": "/projects/carrental.png",
+      65 |     "description": "Developed the payment interface for cafe flash to enhance the checkout experience and visual
+         | v
+      66 + design.
+         | ^
+      67 | Tested and debugged the payment feature to ensure smooth functionality and user reliability.
+      68 | Assisted in documenting the project’s development process to maintain clear and organized records.",
+      69 |     "technologies": [
+      70 |       "/contacts/github.svg",
+
+Import trace:
+  Client Component SSR:
+    ./data/seeMoreProjects.json
+    ./components/seeMoreProjects.tsx [Client Component SSR]
+    ./components/project.tsx [Client Component SSR]
+    ./components/sisiTengah.tsx [Client Component SSR]
+    ./components/porto.tsx [Client Component SSR]
+    ./components/canvas.tsx [Client Component SSR]
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+[00:08:59.871] Server  LOG      ✓ Compiled in 29ms
+[00:09:00.915] Browser ERROR   ./data/seeMoreProjects.json
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/data/seeMoreProjects.json (json)
+
+Caused by:
+- Unable to make a module from invalid JSON: key must be a string at line 66 column 1
+
+Debug info:
+- An error occurred while generating the chunk item [project]/data/seeMoreProjects.json (json)
+- Execution of <JsonChunkItem as EcmascriptChunkItem>::content failed
+- Unable to make a module from invalid JSON: key must be a string at line 66 column 1
+    at [3].?
+      62 |     "id": 4,
+      63 |     "title": "Café Flash",
+      64 |     "image": "/projects/carrental.png",
+      65 |     "description": "Developed the payment interface for cafe flash to enhance the checkout experie...isted in documenting the project’s development process to maintain clear and organized records.",
+         | v
+      66 + design.
+         | ^
+      67 | Tested and debugged the payment feature to ensure smooth functionality and user reliability.
+      68 | Assisted in documenting the project’s development process to maintain clear and organized records.",
+      69 |     "technologies": [
+      70 |       "/contacts/github.svg",
+
+Import trace:
+  Client Component SSR:
+    ./data/seeMoreProjects.json
+    ./components/seeMoreProjects.tsx [Client Component SSR]
+    ./components/project.tsx [Client Component SSR]
+    ./components/sisiTengah.tsx [Client Component SSR]
+    ./components/porto.tsx [Client Component SSR]
+    ./components/canvas.tsx [Client Component SSR]
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+[00:09:03.302] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./data/seeMoreProjects.json (json) changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:09:03.321] Server  LOG      ✓ Compiled in 66ms
+[00:09:04.207] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:09:05.142] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:09:12.347] Server  LOG      ✓ Compiled in 30ms
+[00:09:13.291] Browser ERROR   ./data/seeMoreProjects.json
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/data/seeMoreProjects.json (json)
+
+Caused by:
+- Unable to make a module from invalid JSON: expected `,` or `]` at line 69 column 7
+
+Debug info:
+- An error occurred while generating the chunk item [project]/data/seeMoreProjects.json (json)
+- Execution of <JsonChunkItem as EcmascriptChunkItem>::content failed
+- Unable to make a module from invalid JSON: expected `,` or `]` at line 69 column 7
+    at [3].technologies
+      65 |     "description": "Developed the payment interface for cafe flash to enhance the checkout experie...isted in documenting the project’s development process to maintain clear and organized records.",
+      66 |     "technologies": [
+      67 |       "/contacts/github.svg",
+      68 |       ""
+         |       v
+      69 +       "/technologies/javascript.svg",
+         |       ^
+      70 |       "/technologies/html.svg",
+      71 |       "/technologies/css.svg"
+      72 |     ],
+      73 |     "linkCode": "https://github.com/awps13/CarRental/",
+
+Import trace:
+  Client Component SSR:
+    ./data/seeMoreProjects.json
+    ./components/seeMoreProjects.tsx [Client Component SSR]
+    ./components/project.tsx [Client Component SSR]
+    ./components/sisiTengah.tsx [Client Component SSR]
+    ./components/porto.tsx [Client Component SSR]
+    ./components/canvas.tsx [Client Component SSR]
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+[00:10:08.734] Server  LOG      ✓ Compiled in 69ms
+[00:10:09.637] Browser ERROR   ./data/seeMoreProjects.json
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/data/seeMoreProjects.json (json)
+
+Caused by:
+- Unable to make a module from invalid JSON: expected `,` or `]` at line 69 column 7
+
+Debug info:
+- An error occurred while generating the chunk item [project]/data/seeMoreProjects.json (json)
+- Execution of <JsonChunkItem as EcmascriptChunkItem>::content failed
+- Unable to make a module from invalid JSON: expected `,` or `]` at line 69 column 7
+    at [3].technologies
+      65 |     "description": "Developed the payment interface for cafe flash to enhance the checkout experie...isted in documenting the project’s development process to maintain clear and organized records.",
+      66 |     "technologies": [
+      67 |       "/contacts/github.svg",
+      68 |       "/tech"
+         |       v
+      69 +       "/technologies/javascript.svg",
+         |       ^
+      70 |       "/technologies/html.svg",
+      71 |       "/technologies/css.svg"
+      72 |     ],
+      73 |     "linkCode": "https://github.com/awps13/CarRental/",
+
+Import trace:
+  Client Component SSR:
+    ./data/seeMoreProjects.json
+    ./components/seeMoreProjects.tsx [Client Component SSR]
+    ./components/project.tsx [Client Component SSR]
+    ./components/sisiTengah.tsx [Client Component SSR]
+    ./components/porto.tsx [Client Component SSR]
+    ./components/canvas.tsx [Client Component SSR]
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+[00:10:10.896] Server  LOG      ✓ Compiled in 81ms
+[00:10:10.904] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./data/seeMoreProjects.json (json) changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:10:12.036] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:10:12.972] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:10:16.178] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./data/seeMoreProjects.json (json) changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:10:16.342] Server  LOG      ✓ Compiled in 53ms
+[00:10:16.908] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:10:17.452] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./data/seeMoreProjects.json (json) changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:10:17.453] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:10:17.475] Server  LOG      ✓ Compiled in 155ms
+[00:10:18.261] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:10:18.940] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:11:19.832] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./data/seeMoreProjects.json (json) changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:11:19.849] Server  LOG      ✓ Compiled in 119ms
+[00:11:20.652] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:11:21.579] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:11:30.916] Server  LOG      ✓ Compiled in 75ms
+[00:11:31.817] Browser ERROR   ./data/seeMoreProjects.json
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/data/seeMoreProjects.json (json)
+
+Caused by:
+- Unable to make a module from invalid JSON: trailing comma at line 73 column 5
+
+Debug info:
+- An error occurred while generating the chunk item [project]/data/seeMoreProjects.json (json)
+- Execution of <JsonChunkItem as EcmascriptChunkItem>::content failed
+- Unable to make a module from invalid JSON: trailing comma at line 73 column 5
+    at [3].technologies
+      69 |       "/technologies/mysql.svg",
+      70 |       "/technologies/html.svg",
+      71 |       "/technologies/css.svg",
+      72 |       
+         |     v
+      73 +     ],
+         |     ^
+      74 |     "linkCode": "https://github.com/awps13/CarRental/",
+      75 |     "linkWebsite": "https://awps13.github.io/CarRental/",
+      76 |     "width": 1364,
+      77 |     "height": 649
+
+Import trace:
+  Client Component SSR:
+    ./data/seeMoreProjects.json
+    ./components/seeMoreProjects.tsx [Client Component SSR]
+    ./components/project.tsx [Client Component SSR]
+    ./components/sisiTengah.tsx [Client Component SSR]
+    ./components/porto.tsx [Client Component SSR]
+    ./components/canvas.tsx [Client Component SSR]
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+[00:11:37.546] Server  LOG      ✓ Compiled in 58ms
+[00:11:38.460] Browser ERROR   ./data/seeMoreProjects.json
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/data/seeMoreProjects.json (json)
+
+Caused by:
+- Unable to make a module from invalid JSON: trailing comma at line 74 column 5
+
+Debug info:
+- An error occurred while generating the chunk item [project]/data/seeMoreProjects.json (json)
+- Execution of <JsonChunkItem as EcmascriptChunkItem>::content failed
+- Unable to make a module from invalid JSON: trailing comma at line 74 column 5
+    at [3].technologies
+      70 |       "/technologies/html.svg",
+      71 |       "/technologies/css.svg",
+      72 |       "/technologies/css.svg",
+      73 | 
+         |     v
+      74 +     ],
+         |     ^
+      75 |     "linkCode": "https://github.com/awps13/CarRental/",
+      76 |     "linkWebsite": "https://awps13.github.io/CarRental/",
+      77 |     "width": 1364,
+      78 |     "height": 649
+
+Import trace:
+  Client Component SSR:
+    ./data/seeMoreProjects.json
+    ./components/seeMoreProjects.tsx [Client Component SSR]
+    ./components/project.tsx [Client Component SSR]
+    ./components/sisiTengah.tsx [Client Component SSR]
+    ./components/porto.tsx [Client Component SSR]
+    ./components/canvas.tsx [Client Component SSR]
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+[00:11:39.181] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./data/seeMoreProjects.json (json) changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:11:39.203] Server  LOG      ✓ Compiled in 78ms
+[00:11:40.293] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:11:41.214] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:11:43.074] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./data/seeMoreProjects.json (json) changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:11:43.091] Server  LOG      ✓ Compiled in 73ms
+[00:11:43.985] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:11:44.142] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./data/seeMoreProjects.json (json) changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:11:44.143] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:11:44.262] Server  LOG      ✓ Compiled in 34ms
+[00:11:44.753] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:11:45.367] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:11:58.325] Server  LOG      ✓ Compiled in 92ms
+[00:11:58.338] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./data/seeMoreProjects.json (json) changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:11:59.445] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:12:00.392] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:12:06.438] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./data/seeMoreProjects.json (json) changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:12:06.577] Server  LOG      ✓ Compiled in 39ms
+[00:12:07.080] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:12:07.355] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:23:34.774] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./data/seeMoreProjects.json (json) changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:23:34.794] Server  LOG      ✓ Compiled in 72ms
+[00:23:35.781] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:23:36.732] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:23:38.284] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./data/seeMoreProjects.json (json) changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:23:38.309] Server  LOG      ✓ Compiled in 52ms
+[00:23:39.200] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:23:40.148] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:23:50.135] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./data/seeMoreProjects.json (json) changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:23:50.154] Server  LOG      ✓ Compiled in 70ms
+[00:23:50.881] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:23:51.835] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:23:51.920] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./data/seeMoreProjects.json (json) changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:23:51.942] Server  LOG      ✓ Compiled in 56ms
+[00:23:52.771] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:23:53.163] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./data/seeMoreProjects.json (json) changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:23:53.164] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:23:53.187] Server  LOG      ✓ Compiled in 50ms
+[00:23:54.136] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:23:54.857] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./data/seeMoreProjects.json (json) changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:23:54.857] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:23:54.862] Server  LOG      ✓ Compiled in 84ms
+[00:23:55.844] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:23:57.330] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:26:09.915] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./data/seeMoreProjects.json (json) changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:26:09.938] Server  LOG      ✓ Compiled in 53ms
+[00:26:10.758] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:26:11.704] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:26:12.827] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./data/seeMoreProjects.json (json) changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:26:12.842] Server  LOG      ✓ Compiled in 96ms
+[00:26:13.715] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:26:14.667] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:26:15.980] Browser WARN    Image with src "/Foto.jpeg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:26:21.396] Server  LOG      ✓ Compiled in 70ms
+[00:26:22.299] Browser ERROR   ./data/seeMoreProjects.json
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/data/seeMoreProjects.json (json)
+
+Caused by:
+- Unable to make a module from invalid JSON: trailing comma at line 74 column 5
+
+Debug info:
+- An error occurred while generating the chunk item [project]/data/seeMoreProjects.json (json)
+- Execution of <JsonChunkItem as EcmascriptChunkItem>::content failed
+- Unable to make a module from invalid JSON: trailing comma at line 74 column 5
+    at [3].technologies
+      70 |       "/technologies/html.svg",
+      71 |       "/technologies/css.svg",
+      72 |       "/technologies/tailwindcss.svg",
+      73 |       
+         |     v
+      74 +     ],
+         |     ^
+      75 |     "linkCode": "https://github.com/fathan-alf/cafe-flash",
+      76 |     "linkWebsite": "",
+      77 |     "width": 1600,
+      78 |     "height": 761
+
+Import trace:
+  Client Component SSR:
+    ./data/seeMoreProjects.json
+    ./components/seeMoreProjects.tsx [Client Component SSR]
+    ./components/project.tsx [Client Component SSR]
+    ./components/sisiTengah.tsx [Client Component SSR]
+    ./components/porto.tsx [Client Component SSR]
+    ./components/canvas.tsx [Client Component SSR]
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+[00:26:24.008] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./data/seeMoreProjects.json (json) changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:26:24.020] Server  LOG      ✓ Compiled in 115ms
+[00:26:24.816] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:26:25.838] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:26:26.879] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./data/seeMoreProjects.json (json) changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:26:26.879] Browser WARN    Image with src "/Foto.jpeg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:26:26.886] Server  LOG      ✓ Compiled in 152ms
+[00:26:27.759] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:26:28.022] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:27:58.649] Server  LOG      ✓ Compiled in 80ms
+[00:27:59.870] Server  LOG      ✓ Compiled in 37ms
+[00:28:00.912] Browser ERROR   ./data/seeMoreProjects.json
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/data/seeMoreProjects.json (json)
+
+Caused by:
+- Unable to make a module from invalid JSON: trailing comma at line 80 column 1
+
+Debug info:
+- An error occurred while generating the chunk item [project]/data/seeMoreProjects.json (json)
+- Execution of <JsonChunkItem as EcmascriptChunkItem>::content failed
+- Unable to make a module from invalid JSON: trailing comma at line 80 column 1
+    at .
+      76 |     "linkWebsite": "",
+      77 |     "width": 1600,
+      78 |     "height": 761
+      79 |   },
+         | v
+      80 + ]
+         | ^
+
+Import trace:
+  Client Component SSR:
+    ./data/seeMoreProjects.json
+    ./components/seeMoreProjects.tsx [Client Component SSR]
+    ./components/project.tsx [Client Component SSR]
+    ./components/sisiTengah.tsx [Client Component SSR]
+    ./components/porto.tsx [Client Component SSR]
+    ./components/canvas.tsx [Client Component SSR]
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+[00:28:00.912] Browser ERROR   ./data/seeMoreProjects.json
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/data/seeMoreProjects.json (json)
+
+Caused by:
+- Unable to make a module from invalid JSON: trailing comma at line 81 column 1
+
+Debug info:
+- An error occurred while generating the chunk item [project]/data/seeMoreProjects.json (json)
+- Execution of <JsonChunkItem as EcmascriptChunkItem>::content failed
+- Unable to make a module from invalid JSON: trailing comma at line 81 column 1
+    at .
+      77 |     "width": 1600,
+      78 |     "height": 761
+      79 |   },
+      80 |   
+         | v
+      81 + ]
+         | ^
+
+Import trace:
+  Client Component SSR:
+    ./data/seeMoreProjects.json
+    ./components/seeMoreProjects.tsx [Client Component SSR]
+    ./components/project.tsx [Client Component SSR]
+    ./components/sisiTengah.tsx [Client Component SSR]
+    ./components/porto.tsx [Client Component SSR]
+    ./components/canvas.tsx [Client Component SSR]
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+[00:28:09.038] Server  LOG      ✓ Compiled in 42ms
+[00:28:10.048] Browser ERROR   ./data/seeMoreProjects.json
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/data/seeMoreProjects.json (json)
+
+Caused by:
+- Unable to make a module from invalid JSON: trailing comma at line 99 column 1
+
+Debug info:
+- An error occurred while generating the chunk item [project]/data/seeMoreProjects.json (json)
+- Execution of <JsonChunkItem as EcmascriptChunkItem>::content failed
+- Unable to make a module from invalid JSON: trailing comma at line 99 column 1
+    at .
+      95 |     "linkWebsite": "",
+      96 |     "width": 1600,
+      97 |     "height": 761
+      98 |   },
+         | v
+      99 + ]
+         | ^
+
+Import trace:
+  Client Component SSR:
+    ./data/seeMoreProjects.json
+    ./components/seeMoreProjects.tsx [Client Component SSR]
+    ./components/project.tsx [Client Component SSR]
+    ./components/sisiTengah.tsx [Client Component SSR]
+    ./components/porto.tsx [Client Component SSR]
+    ./components/canvas.tsx [Client Component SSR]
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+[00:28:10.916] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./data/seeMoreProjects.json (json) changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:28:10.937] Server  LOG      ✓ Compiled in 76ms
+[00:28:11.871] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:28:12.789] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:28:13.612] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./data/seeMoreProjects.json (json) changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:28:13.635] Server  LOG      ✓ Compiled in 31ms
+[00:28:14.503] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:28:15.458] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:28:21.343] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./data/seeMoreProjects.json (json) changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:28:21.364] Server  LOG      ✓ Compiled in 82ms
+[00:28:22.218] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:28:23.267] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:28:23.453] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./data/seeMoreProjects.json (json) changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:28:23.474] Server  LOG      ✓ Compiled in 74ms
+[00:28:24.307] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:28:24.543] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./data/seeMoreProjects.json (json) changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:28:24.543] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:28:24.735] Server  LOG      ✓ Compiled in 30ms
+[00:28:25.209] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:28:26.167] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:28:26.645] Server  LOG      ✓ Compiled in 55ms
+[00:28:26.663] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./data/seeMoreProjects.json (json) changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:28:27.439] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:28:27.925] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./data/seeMoreProjects.json (json) changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:28:27.926] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:28:28.036] Server  LOG      ✓ Compiled in 24ms
+[00:28:28.591] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:28:29.519] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:29:58.027] Server  LOG      ✓ Compiled in 48ms
+[00:29:59.957] Browser ERROR   ./data/seeMoreProjects.json
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/data/seeMoreProjects.json (json)
+
+Caused by:
+- Unable to make a module from invalid JSON: control character (\u0000-\u001F) found while parsing a string at line 85 column 0
+
+Debug info:
+- An error occurred while generating the chunk item [project]/data/seeMoreProjects.json (json)
+- Execution of <JsonChunkItem as EcmascriptChunkItem>::content failed
+- Unable to make a module from invalid JSON: control character (\u0000-\u001F) found while parsing a string at line 85 column 0
+    at [4].description
+      81 |     "id": 5,
+      82 |     "title": "WarniSys",
+      83 |     "image": "/projects/cafe.jpeg",
+      84 |     "description": "Created high- and low-fidelity website designs for warnisys using figma to visualize the system
+         | v
+      85 + layout and user flow.
+         | ^
+      86 | Submitted copyright registration for the website product to protect the project’s intellectual property.
+      87 | Prepared comprehensive project documentation covering design, features, and development details.
+      88 | Performed bug testing and added dummy data to ensure proper functionality and realistic display.",
+      89 |     "technologies": [
+
+Import trace:
+  Client Component SSR:
+    ./data/seeMoreProjects.json
+    ./components/seeMoreProjects.tsx [Client Component SSR]
+    ./components/project.tsx [Client Component SSR]
+    ./components/sisiTengah.tsx [Client Component SSR]
+    ./components/porto.tsx [Client Component SSR]
+    ./components/canvas.tsx [Client Component SSR]
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+[00:30:02.330] Server  LOG      ✓ Compiled in 65ms
+[00:30:03.236] Browser ERROR   ./data/seeMoreProjects.json
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/data/seeMoreProjects.json (json)
+
+Caused by:
+- Unable to make a module from invalid JSON: control character (\u0000-\u001F) found while parsing a string at line 85 column 0
+
+Debug info:
+- An error occurred while generating the chunk item [project]/data/seeMoreProjects.json (json)
+- Execution of <JsonChunkItem as EcmascriptChunkItem>::content failed
+- Unable to make a module from invalid JSON: control character (\u0000-\u001F) found while parsing a string at line 85 column 0
+    at [4].description
+      81 |     "id": 5,
+      82 |     "title": "WarniSys",
+      83 |     "image": "/projects/cafe.jpeg",
+      84 |     "description": "Created high- and low-fidelity website designs for warnisys using figma to visualize the system layout and user flow.
+         | v
+      85 + Submitted copyright registration for the website product to protect the project’s intellectual property.
+         | ^
+      86 | Prepared comprehensive project documentation covering design, features, and development details.
+      87 | Performed bug testing and added dummy data to ensure proper functionality and realistic display.",
+      88 |     "technologies": [
+      89 |       "/contacts/github.svg",
+
+Import trace:
+  Client Component SSR:
+    ./data/seeMoreProjects.json
+    ./components/seeMoreProjects.tsx [Client Component SSR]
+    ./components/project.tsx [Client Component SSR]
+    ./components/sisiTengah.tsx [Client Component SSR]
+    ./components/porto.tsx [Client Component SSR]
+    ./components/canvas.tsx [Client Component SSR]
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+[00:30:07.308] Server  LOG      ✓ Compiled in 76ms
+[00:30:08.204] Browser ERROR   ./data/seeMoreProjects.json
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/data/seeMoreProjects.json (json)
+
+Caused by:
+- Unable to make a module from invalid JSON: control character (\u0000-\u001F) found while parsing a string at line 85 column 0
+
+Debug info:
+- An error occurred while generating the chunk item [project]/data/seeMoreProjects.json (json)
+- Execution of <JsonChunkItem as EcmascriptChunkItem>::content failed
+- Unable to make a module from invalid JSON: control character (\u0000-\u001F) found while parsing a string at line 85 column 0
+    at [4].description
+      81 |     "id": 5,
+      82 |     "title": "WarniSys",
+      83 |     "image": "/projects/cafe.jpeg",
+      84 |     "description": "Created high- and low-fidelity website designs for warnisys using figma to vis...ed copyright registration for the website product to protect the project’s intellectual property.
+         | v
+      85 + Prepared comprehensive project documentation covering design, features, and development details.
+         | ^
+      86 | Performed bug testing and added dummy data to ensure proper functionality and realistic display.",
+      87 |     "technologies": [
+      88 |       "/contacts/github.svg",
+      89 |       "/technologies/php.svg",
+
+Import trace:
+  Client Component SSR:
+    ./data/seeMoreProjects.json
+    ./components/seeMoreProjects.tsx [Client Component SSR]
+    ./components/project.tsx [Client Component SSR]
+    ./components/sisiTengah.tsx [Client Component SSR]
+    ./components/porto.tsx [Client Component SSR]
+    ./components/canvas.tsx [Client Component SSR]
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+[00:30:12.328] Server  LOG      ✓ Compiled in 69ms
+[00:30:13.230] Browser ERROR   ./data/seeMoreProjects.json
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/data/seeMoreProjects.json (json)
+
+Caused by:
+- Unable to make a module from invalid JSON: control character (\u0000-\u001F) found while parsing a string at line 85 column 0
+
+Debug info:
+- An error occurred while generating the chunk item [project]/data/seeMoreProjects.json (json)
+- Execution of <JsonChunkItem as EcmascriptChunkItem>::content failed
+- Unable to make a module from invalid JSON: control character (\u0000-\u001F) found while parsing a string at line 85 column 0
+    at [4].description
+      81 |     "id": 5,
+      82 |     "title": "WarniSys",
+      83 |     "image": "/projects/cafe.jpeg",
+      84 |     "description": "Created high- and low-fidelity website designs for warnisys using figma to vis...y. Prepared comprehensive project documentation covering design, features, and development details.
+         | v
+      85 + Performed bug testing and added dummy data to ensure proper functionality and realistic display.",
+         | ^
+      86 |     "technologies": [
+      87 |       "/contacts/github.svg",
+      88 |       "/technologies/php.svg",
+      89 |       "/technologies/mysql.svg",
+
+Import trace:
+  Client Component SSR:
+    ./data/seeMoreProjects.json
+    ./components/seeMoreProjects.tsx [Client Component SSR]
+    ./components/project.tsx [Client Component SSR]
+    ./components/sisiTengah.tsx [Client Component SSR]
+    ./components/porto.tsx [Client Component SSR]
+    ./components/canvas.tsx [Client Component SSR]
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+[00:30:20.056] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./data/seeMoreProjects.json (json) changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:30:20.080] Server  LOG      ✓ Compiled in 42ms
+[00:30:20.865] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:30:21.815] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:30:25.174] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./data/seeMoreProjects.json (json) changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:30:25.189] Server  LOG      ✓ Compiled in 107ms
+[00:30:25.967] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:30:26.917] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:30:48.172] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./data/seeMoreProjects.json (json) changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:30:48.193] Server  LOG      ✓ Compiled in 82ms
+[00:30:48.945] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:30:49.904] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:30:58.360] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./data/seeMoreProjects.json (json) changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:30:58.490] Server  LOG      ✓ Compiled in 26ms
+[00:30:59.087] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:31:00.048] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:31:06.697] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./data/seeMoreProjects.json (json) changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:31:06.715] Server  LOG      ✓ Compiled in 69ms
+[00:31:07.599] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:31:07.738] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./data/seeMoreProjects.json (json) changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:31:07.739] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:31:07.874] Server  LOG      ✓ Compiled in 33ms
+[00:31:08.449] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:31:10.412] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:31:19.785] Server  LOG      ✓ Compiled in 75ms
+[00:31:20.682] Browser ERROR   ./data/seeMoreProjects.json
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/data/seeMoreProjects.json (json)
+
+Caused by:
+- Unable to make a module from invalid JSON: trailing comma at line 94 column 5
+
+Debug info:
+- An error occurred while generating the chunk item [project]/data/seeMoreProjects.json (json)
+- Execution of <JsonChunkItem as EcmascriptChunkItem>::content failed
+- Unable to make a module from invalid JSON: trailing comma at line 94 column 5
+    at [4].technologies
+      90 |       "/technologies/css.svg",
+      91 |       "/technologies/tailwindcss.svg",
+      92 |       "/technologies/word.svg",
+      93 |       
+         |     v
+      94 +     ],
+         |     ^
+      95 |     "linkCode": "https://github.com/fathan-alf/cafe-flash",
+      96 |     "linkWebsite": "",
+      97 |     "width": 1600,
+      98 |     "height": 761
+
+Import trace:
+  Client Component SSR:
+    ./data/seeMoreProjects.json
+    ./components/seeMoreProjects.tsx [Client Component SSR]
+    ./components/project.tsx [Client Component SSR]
+    ./components/sisiTengah.tsx [Client Component SSR]
+    ./components/porto.tsx [Client Component SSR]
+    ./components/canvas.tsx [Client Component SSR]
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+[00:31:21.280] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./data/seeMoreProjects.json (json) changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:31:21.306] Server  LOG      ✓ Compiled in 70ms
+[00:31:22.027] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:31:22.983] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:31:32.898] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./data/seeMoreProjects.json (json) changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:31:32.914] Server  LOG      ✓ Compiled in 76ms
+[00:31:33.705] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:31:34.681] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:31:37.056] Server  LOG      ✓ Compiled in 61ms
+[00:31:38.970] Browser ERROR   ./data/seeMoreProjects.json
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/data/seeMoreProjects.json (json)
+
+Caused by:
+- Unable to make a module from invalid JSON: trailing comma at line 95 column 5
+
+Debug info:
+- An error occurred while generating the chunk item [project]/data/seeMoreProjects.json (json)
+- Execution of <JsonChunkItem as EcmascriptChunkItem>::content failed
+- Unable to make a module from invalid JSON: trailing comma at line 95 column 5
+    at [4].technologies
+      91 |       "/technologies/tailwindcss.svg",
+      92 |       "/technologies/word.svg",
+      93 |       "/technologies/prisma.svg",
+      94 |       
+         |     v
+      95 +     ],
+         |     ^
+      96 |     "linkCode": "https://github.com/fathan-alf/cafe-flash",
+      97 |     "linkWebsite": "",
+      98 |     "width": 1600,
+      99 |     "height": 761
+
+Import trace:
+  Client Component SSR:
+    ./data/seeMoreProjects.json
+    ./components/seeMoreProjects.tsx [Client Component SSR]
+    ./components/project.tsx [Client Component SSR]
+    ./components/sisiTengah.tsx [Client Component SSR]
+    ./components/porto.tsx [Client Component SSR]
+    ./components/canvas.tsx [Client Component SSR]
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+[00:31:39.504] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./data/seeMoreProjects.json (json) changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:31:39.522] Server  LOG      ✓ Compiled in 68ms
+[00:31:40.414] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:31:41.357] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:31:43.072] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./data/seeMoreProjects.json (json) changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:31:43.089] Server  LOG      ✓ Compiled in 69ms
+[00:31:43.761] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:31:44.093] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./data/seeMoreProjects.json (json) changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:31:44.094] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:31:44.370] Server  LOG      ✓ Compiled in 52ms
+[00:31:44.915] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:31:45.877] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:31:46.467] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./data/seeMoreProjects.json (json) changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:31:46.485] Server  LOG      ✓ Compiled in 67ms
+[00:31:47.375] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:31:49.345] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:33:27.876] Server  LOG      ✓ Compiled in 96ms
+[00:33:28.853] Browser ERROR   ./data/seeMoreProjects.json
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/data/seeMoreProjects.json (json)
+
+Caused by:
+- Unable to make a module from invalid JSON: trailing comma at line 96 column 5
+
+Debug info:
+- An error occurred while generating the chunk item [project]/data/seeMoreProjects.json (json)
+- Execution of <JsonChunkItem as EcmascriptChunkItem>::content failed
+- Unable to make a module from invalid JSON: trailing comma at line 96 column 5
+    at [4].technologies
+      92 |       "/technologies/word.svg",
+      93 |       "/technologies/prisma.svg",
+      94 |       "/technologies/word.svg",
+      95 |       
+         |     v
+      96 +     ],
+         |     ^
+      97 |     "linkCode": "https://github.com/fathan-alf/cafe-flash",
+      98 |     "linkWebsite": "",
+      99 |     "width": 1600,
+     100 |     "height": 761
+
+Import trace:
+  Client Component SSR:
+    ./data/seeMoreProjects.json
+    ./components/seeMoreProjects.tsx [Client Component SSR]
+    ./components/project.tsx [Client Component SSR]
+    ./components/sisiTengah.tsx [Client Component SSR]
+    ./components/porto.tsx [Client Component SSR]
+    ./components/canvas.tsx [Client Component SSR]
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+[00:33:29.755] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./data/seeMoreProjects.json (json) changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:33:29.775] Server  LOG      ✓ Compiled in 80ms
+[00:33:30.664] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:33:31.369] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./data/seeMoreProjects.json (json) changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:33:31.369] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:33:31.529] Server  LOG      ✓ Compiled in 60ms
+[00:33:32.056] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:33:33.082] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:33:35.141] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./data/seeMoreProjects.json (json) changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:33:35.249] Server  LOG      ✓ Compiled in 51ms
+[00:33:35.652] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:33:36.614] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:33:39.443] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./data/seeMoreProjects.json (json) changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:33:39.455] Server  LOG      ✓ Compiled in 86ms
+[00:33:40.277] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:33:41.234] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:33:41.675] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./data/seeMoreProjects.json (json) changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:33:41.694] Server  LOG      ✓ Compiled in 67ms
+[00:33:42.551] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:33:44.529] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:33:45.064] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./data/seeMoreProjects.json (json) changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:33:45.217] Server  LOG      ✓ Compiled in 59ms
+[00:33:45.801] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:33:46.775] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:33:48.924] Browser ERROR   Encountered two children with the same key, `%s`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version. /technologies/word.svg
+[00:33:49.145] Browser WARN    Image with src "http://localhost:3000/technologies/react.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:34:00.740] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./data/seeMoreProjects.json (json) changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:34:00.757] Server  LOG      ✓ Compiled in 81ms
+[00:34:01.906] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:34:02.081] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:34:05.990] Browser WARN    Image with src "http://localhost:3000/technologies/react.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:35:07.784] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./data/seeMoreProjects.json (json) changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:35:07.802] Server  LOG      ✓ Compiled in 63ms
+[00:35:08.632] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:35:08.948] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:35:11.204] Browser WARN    Image with src "http://localhost:3000/technologies/react.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:36:02.730] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/seeMoreProjects.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:36:02.748] Server  LOG      ✓ Compiled in 72ms
+[00:36:03.651] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:36:03.906] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:36:06.080] Browser WARN    Image with src "http://localhost:3000/technologies/react.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:37:33.929] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./data/seeMoreProjects.json (json) changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:37:33.947] Server  LOG      ✓ Compiled in 70ms
+[00:37:34.875] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:37:35.852] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:37:37.981] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./data/seeMoreProjects.json (json) changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:37:38.003] Server  LOG      ✓ Compiled in 72ms
+[00:37:38.842] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:37:39.821] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:37:45.568] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./data/seeMoreProjects.json (json) changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:37:45.579] Server  LOG      ✓ Compiled in 123ms
+[00:37:46.694] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:37:48.673] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:38:05.869] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./data/seeMoreProjects.json (json) changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:38:05.889] Server  LOG      ✓ Compiled in 65ms
+[00:38:06.658] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:38:07.604] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:38:07.850] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./data/seeMoreProjects.json (json) changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:38:07.857] Server  LOG      ✓ Compiled in 79ms
+[00:38:08.706] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:38:09.645] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:38:22.785] Server  LOG      ✓ Compiled in 97ms
+[00:38:23.659] Browser ERROR   ./data/seeMoreProjects.json
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/data/seeMoreProjects.json (json)
+
+Caused by:
+- Unable to make a module from invalid JSON: control character (\u0000-\u001F) found while parsing a string at line 107 column 0
+
+Debug info:
+- An error occurred while generating the chunk item [project]/data/seeMoreProjects.json (json)
+- Execution of <JsonChunkItem as EcmascriptChunkItem>::content failed
+- Unable to make a module from invalid JSON: control character (\u0000-\u001F) found while parsing a string at line 107 column 0
+    at [5].description
+     103 |     "id": 6,
+     104 |     "title": "GPT Scraper",
+     105 |     "image": "/projects/gptsniffer.png",
+     106 |     "description": "Developed the backend system to scrape and process data from shared chatgpt conversation
+         | v
+     107 + histories.
+         | ^
+     108 | Integrated the backend with the frontend interface to enable seamless data synchronization and
+     109 | feature functionality.",
+     110 |     "technologies": [
+     111 |       "/technologies/react.svg",
+
+Import trace:
+  Client Component SSR:
+    ./data/seeMoreProjects.json
+    ./components/seeMoreProjects.tsx [Client Component SSR]
+    ./components/project.tsx [Client Component SSR]
+    ./components/sisiTengah.tsx [Client Component SSR]
+    ./components/porto.tsx [Client Component SSR]
+    ./components/canvas.tsx [Client Component SSR]
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+[00:38:27.996] Server  LOG      ✓ Compiled in 96ms
+[00:38:28.871] Browser ERROR   ./data/seeMoreProjects.json
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/data/seeMoreProjects.json (json)
+
+Caused by:
+- Unable to make a module from invalid JSON: control character (\u0000-\u001F) found while parsing a string at line 107 column 0
+
+Debug info:
+- An error occurred while generating the chunk item [project]/data/seeMoreProjects.json (json)
+- Execution of <JsonChunkItem as EcmascriptChunkItem>::content failed
+- Unable to make a module from invalid JSON: control character (\u0000-\u001F) found while parsing a string at line 107 column 0
+    at [5].description
+     103 |     "id": 6,
+     104 |     "title": "GPT Scraper",
+     105 |     "image": "/projects/gptsniffer.png",
+     106 |     "description": "Developed the backend system to scrape and process data from shared chatgpt conversation histories.
+         | v
+     107 + Integrated the backend with the frontend interface to enable seamless data synchronization and
+         | ^
+     108 | feature functionality.",
+     109 |     "technologies": [
+     110 |       "/technologies/react.svg",
+     111 |       "/technologies/javascript.svg",
+
+Import trace:
+  Client Component SSR:
+    ./data/seeMoreProjects.json
+    ./components/seeMoreProjects.tsx [Client Component SSR]
+    ./components/project.tsx [Client Component SSR]
+    ./components/sisiTengah.tsx [Client Component SSR]
+    ./components/porto.tsx [Client Component SSR]
+    ./components/canvas.tsx [Client Component SSR]
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+[00:38:32.257] Server  LOG      ✓ Compiled in 74ms
+[00:38:33.154] Browser ERROR   ./data/seeMoreProjects.json
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/data/seeMoreProjects.json (json)
+
+Caused by:
+- Unable to make a module from invalid JSON: control character (\u0000-\u001F) found while parsing a string at line 107 column 0
+
+Debug info:
+- An error occurred while generating the chunk item [project]/data/seeMoreProjects.json (json)
+- Execution of <JsonChunkItem as EcmascriptChunkItem>::content failed
+- Unable to make a module from invalid JSON: control character (\u0000-\u001F) found while parsing a string at line 107 column 0
+    at [5].description
+     103 |     "id": 6,
+     104 |     "title": "GPT Scraper",
+     105 |     "image": "/projects/gptsniffer.png",
+     106 |     "description": "Developed the backend system to scrape and process data from shared chatgpt co...ies. Integrated the backend with the frontend interface to enable seamless data synchronization and
+         | v
+     107 + feature functionality.",
+         | ^
+     108 |     "technologies": [
+     109 |       "/technologies/react.svg",
+     110 |       "/technologies/javascript.svg",
+     111 |       "/technologies/mysql.svg",
+
+Import trace:
+  Client Component SSR:
+    ./data/seeMoreProjects.json
+    ./components/seeMoreProjects.tsx [Client Component SSR]
+    ./components/project.tsx [Client Component SSR]
+    ./components/sisiTengah.tsx [Client Component SSR]
+    ./components/porto.tsx [Client Component SSR]
+    ./components/canvas.tsx [Client Component SSR]
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+[00:38:37.307] Server  LOG      ✓ Compiled in 113ms
+[00:38:37.320] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./data/seeMoreProjects.json (json) changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:38:38.134] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:38:39.080] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:43:31.251] Browser WARN    Image with src "http://localhost:3000/technologies/react.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:43:50.170] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./data/seeMoreProjects.json (json) changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:43:50.189] Server  LOG      ✓ Compiled in 102ms
+[00:43:51.023] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:43:51.974] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:43:55.028] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./data/seeMoreProjects.json (json) changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:43:55.050] Server  LOG      ✓ Compiled in 75ms
+[00:43:55.914] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:43:56.402] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./data/seeMoreProjects.json (json) changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:43:56.403] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:43:56.415] Server  LOG      ✓ Compiled in 94ms
+[00:43:57.122] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:43:58.069] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:43:59.180] Server  LOG      ✓ Compiled in 68ms
+[00:43:59.203] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./data/seeMoreProjects.json (json) changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:44:00.021] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:44:00.971] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:44:02.134] Server  LOG      ✓ Compiled in 70ms
+[00:44:02.136] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./data/seeMoreProjects.json (json) changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:44:02.960] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:44:04.942] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:44:07.367] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./data/seeMoreProjects.json (json) changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:44:07.386] Server  LOG      ✓ Compiled in 88ms
+[00:44:08.373] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:44:09.322] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:44:10.458] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./data/seeMoreProjects.json (json) changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:44:10.484] Server  LOG      ✓ Compiled in 26ms
+[00:44:11.253] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:44:11.386] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:44:23.102] Server  LOG      ✓ Compiled in 82ms
+[00:44:23.995] Browser ERROR   ./data/seeMoreProjects.json
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/data/seeMoreProjects.json (json)
+
+Caused by:
+- Unable to make a module from invalid JSON: trailing comma at line 110 column 5
+
+Debug info:
+- An error occurred while generating the chunk item [project]/data/seeMoreProjects.json (json)
+- Execution of <JsonChunkItem as EcmascriptChunkItem>::content failed
+- Unable to make a module from invalid JSON: trailing comma at line 110 column 5
+    at [5].technologies
+     106 |     "description": "Developed the backend system to scrape and process data from shared chatgpt co...nd with the frontend interface to enable seamless data synchronization and feature functionality.",
+     107 |     "technologies": [
+     108 |       "/technologies/flask.svg",
+     109 |       
+         |     v
+     110 +     ],
+         |     ^
+     111 |     "linkCode": "https://github.com/fathan-alf/cafe-flash",
+     112 |     "linkWebsite": "",
+     113 |     "width": 1600,
+     114 |     "height": 761
+
+Import trace:
+  Client Component SSR:
+    ./data/seeMoreProjects.json
+    ./components/seeMoreProjects.tsx [Client Component SSR]
+    ./components/project.tsx [Client Component SSR]
+    ./components/sisiTengah.tsx [Client Component SSR]
+    ./components/porto.tsx [Client Component SSR]
+    ./components/canvas.tsx [Client Component SSR]
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+[00:44:24.640] Server  LOG      ✓ Compiled in 39ms
+[00:44:24.742] Browser ERROR   ./data/seeMoreProjects.json
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/data/seeMoreProjects.json (json)
+
+Caused by:
+- Unable to make a module from invalid JSON: trailing comma at line 110 column 5
+
+Debug info:
+- An error occurred while generating the chunk item [project]/data/seeMoreProjects.json (json)
+- Execution of <JsonChunkItem as EcmascriptChunkItem>::content failed
+- Unable to make a module from invalid JSON: trailing comma at line 110 column 5
+    at [5].technologies
+     106 |     "description": "Developed the backend system to scrape and process data from shared chatgpt co...nd with the frontend interface to enable seamless data synchronization and feature functionality.",
+     107 |     "technologies": [
+     108 |       "/technologies/flask.svg",
+     109 |       "/technologies/python.svg",
+         |     v
+     110 +     ],
+         |     ^
+     111 |     "linkCode": "https://github.com/fathan-alf/cafe-flash",
+     112 |     "linkWebsite": "",
+     113 |     "width": 1600,
+     114 |     "height": 761
+
+Import trace:
+  Client Component SSR:
+    ./data/seeMoreProjects.json
+    ./components/seeMoreProjects.tsx [Client Component SSR]
+    ./components/project.tsx [Client Component SSR]
+    ./components/sisiTengah.tsx [Client Component SSR]
+    ./components/porto.tsx [Client Component SSR]
+    ./components/canvas.tsx [Client Component SSR]
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+[00:45:25.772] Server  LOG      ✓ Compiled in 76ms
+[00:45:26.669] Browser ERROR   ./data/seeMoreProjects.json
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/data/seeMoreProjects.json (json)
+
+Caused by:
+- Unable to make a module from invalid JSON: trailing comma at line 111 column 5
+
+Debug info:
+- An error occurred while generating the chunk item [project]/data/seeMoreProjects.json (json)
+- Execution of <JsonChunkItem as EcmascriptChunkItem>::content failed
+- Unable to make a module from invalid JSON: trailing comma at line 111 column 5
+    at [5].technologies
+     107 |     "technologies": [
+     108 |       "/technologies/flask.svg",
+     109 |       "/technologies/python.svg",
+     110 |       
+         |     v
+     111 +     ],
+         |     ^
+     112 |     "linkCode": "https://github.com/fathan-alf/cafe-flash",
+     113 |     "linkWebsite": "",
+     114 |     "width": 1600,
+     115 |     "height": 761
+
+Import trace:
+  Client Component SSR:
+    ./data/seeMoreProjects.json
+    ./components/seeMoreProjects.tsx [Client Component SSR]
+    ./components/project.tsx [Client Component SSR]
+    ./components/sisiTengah.tsx [Client Component SSR]
+    ./components/porto.tsx [Client Component SSR]
+    ./components/canvas.tsx [Client Component SSR]
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+[00:45:27.042] Server  LOG      ✓ Compiled in 71ms
+[00:45:27.943] Browser ERROR   ./data/seeMoreProjects.json
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/data/seeMoreProjects.json (json)
+
+Caused by:
+- Unable to make a module from invalid JSON: trailing comma at line 111 column 5
+
+Debug info:
+- An error occurred while generating the chunk item [project]/data/seeMoreProjects.json (json)
+- Execution of <JsonChunkItem as EcmascriptChunkItem>::content failed
+- Unable to make a module from invalid JSON: trailing comma at line 111 column 5
+    at [5].technologies
+     107 |     "technologies": [
+     108 |       "/technologies/flask.svg",
+     109 |       "/technologies/python.svg",
+     110 |       "/technologies/mongodb.svg",
+         |     v
+     111 +     ],
+         |     ^
+     112 |     "linkCode": "https://github.com/fathan-alf/cafe-flash",
+     113 |     "linkWebsite": "",
+     114 |     "width": 1600,
+     115 |     "height": 761
+
+Import trace:
+  Client Component SSR:
+    ./data/seeMoreProjects.json
+    ./components/seeMoreProjects.tsx [Client Component SSR]
+    ./components/project.tsx [Client Component SSR]
+    ./components/sisiTengah.tsx [Client Component SSR]
+    ./components/porto.tsx [Client Component SSR]
+    ./components/canvas.tsx [Client Component SSR]
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+[00:45:31.390] Server  LOG      ✓ Compiled in 100ms
+[00:45:32.267] Browser ERROR   ./data/seeMoreProjects.json
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/data/seeMoreProjects.json (json)
+
+Caused by:
+- Unable to make a module from invalid JSON: trailing comma at line 111 column 5
+
+Debug info:
+- An error occurred while generating the chunk item [project]/data/seeMoreProjects.json (json)
+- Execution of <JsonChunkItem as EcmascriptChunkItem>::content failed
+- Unable to make a module from invalid JSON: trailing comma at line 111 column 5
+    at [5].technologies
+     107 |     "technologies": [
+     108 |       "/technologies/flask.svg",
+     109 |       "/technologies/python.svg",
+     110 |       "/technologies/",
+         |     v
+     111 +     ],
+         |     ^
+     112 |     "linkCode": "https://github.com/fathan-alf/cafe-flash",
+     113 |     "linkWebsite": "",
+     114 |     "width": 1600,
+     115 |     "height": 761
+
+Import trace:
+  Client Component SSR:
+    ./data/seeMoreProjects.json
+    ./components/seeMoreProjects.tsx [Client Component SSR]
+    ./components/project.tsx [Client Component SSR]
+    ./components/sisiTengah.tsx [Client Component SSR]
+    ./components/porto.tsx [Client Component SSR]
+    ./components/canvas.tsx [Client Component SSR]
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+[00:45:43.090] Server  LOG      ✓ Compiled in 100ms
+[00:45:43.964] Browser ERROR   ./data/seeMoreProjects.json
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/data/seeMoreProjects.json (json)
+
+Caused by:
+- Unable to make a module from invalid JSON: trailing comma at line 111 column 5
+
+Debug info:
+- An error occurred while generating the chunk item [project]/data/seeMoreProjects.json (json)
+- Execution of <JsonChunkItem as EcmascriptChunkItem>::content failed
+- Unable to make a module from invalid JSON: trailing comma at line 111 column 5
+    at [5].technologies
+     107 |     "technologies": [
+     108 |       "/technologies/flask.svg",
+     109 |       "/technologies/python.svg",
+     110 |       "/technologies/laragon.svg",
+         |     v
+     111 +     ],
+         |     ^
+     112 |     "linkCode": "https://github.com/fathan-alf/cafe-flash",
+     113 |     "linkWebsite": "",
+     114 |     "width": 1600,
+     115 |     "height": 761
+
+Import trace:
+  Client Component SSR:
+    ./data/seeMoreProjects.json
+    ./components/seeMoreProjects.tsx [Client Component SSR]
+    ./components/project.tsx [Client Component SSR]
+    ./components/sisiTengah.tsx [Client Component SSR]
+    ./components/porto.tsx [Client Component SSR]
+    ./components/canvas.tsx [Client Component SSR]
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+[00:45:48.105] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./data/seeMoreProjects.json (json) changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:45:48.124] Server  LOG      ✓ Compiled in 77ms
+[00:45:48.913] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:45:49.871] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:45:52.630] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./data/seeMoreProjects.json (json) changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:45:52.772] Server  LOG      ✓ Compiled in 35ms
+[00:45:53.222] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:45:54.172] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:45:54.949] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./data/seeMoreProjects.json (json) changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:45:54.971] Server  LOG      ✓ Compiled in 81ms
+[00:45:55.847] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:45:56.796] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:46:04.603] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./data/seeMoreProjects.json (json) changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:46:04.620] Server  LOG      ✓ Compiled in 70ms
+[00:46:05.269] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:46:06.226] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:46:12.120] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./data/seeMoreProjects.json (json) changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:46:12.142] Server  LOG      ✓ Compiled in 55ms
+[00:46:12.804] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:46:14.802] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:46:15.287] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./data/seeMoreProjects.json (json) changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:46:15.420] Server  LOG      ✓ Compiled in 29ms
+[00:46:15.999] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:46:16.917] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:46:18.544] Server  LOG      ✓ Compiled in 116ms
+[00:46:19.748] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./data/seeMoreProjects.json (json) changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:46:19.749] Browser ERROR   ./data/seeMoreProjects.json
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/data/seeMoreProjects.json (json)
+
+Caused by:
+- Unable to make a module from invalid JSON: trailing comma at line 114 column 5
+
+Debug info:
+- An error occurred while generating the chunk item [project]/data/seeMoreProjects.json (json)
+- Execution of <JsonChunkItem as EcmascriptChunkItem>::content failed
+- Unable to make a module from invalid JSON: trailing comma at line 114 column 5
+    at [5].technologies
+     110 |       "/technologies/laragon.svg",
+     111 |       "/technologies/html.svg",
+     112 |       "/technologies/css.svg",
+     113 |       
+         |     v
+     114 +     ],
+         |     ^
+     115 |     "linkCode": "https://github.com/fathan-alf/cafe-flash",
+     116 |     "linkWebsite": "",
+     117 |     "width": 1600,
+     118 |     "height": 761
+
+Import trace:
+  Client Component SSR:
+    ./data/seeMoreProjects.json
+    ./components/seeMoreProjects.tsx [Client Component SSR]
+    ./components/project.tsx [Client Component SSR]
+    ./components/sisiTengah.tsx [Client Component SSR]
+    ./components/porto.tsx [Client Component SSR]
+    ./components/canvas.tsx [Client Component SSR]
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+[00:46:19.874] Server  LOG      ✓ Compiled in 31ms
+[00:46:20.425] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:46:21.417] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:46:22.230] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./data/seeMoreProjects.json (json) changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:46:22.249] Server  LOG      ✓ Compiled in 97ms
+[00:46:23.134] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:46:24.082] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:46:25.679] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./data/seeMoreProjects.json (json) changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:46:25.836] Server  LOG      ✓ Compiled in 76ms
+[00:46:26.330] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:46:26.961] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./data/seeMoreProjects.json (json) changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:46:26.962] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:46:26.982] Server  LOG      ✓ Compiled in 63ms
+[00:46:27.623] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:46:28.575] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:46:31.003] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./data/seeMoreProjects.json (json) changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:46:31.125] Server  LOG      ✓ Compiled in 28ms
+[00:46:31.622] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:46:33.668] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:46:33.936] Server  LOG      ✓ Compiled in 68ms
+[00:46:34.842] Browser ERROR   ./data/seeMoreProjects.json
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/data/seeMoreProjects.json (json)
+
+Caused by:
+- Unable to make a module from invalid JSON: trailing comma at line 115 column 5
+
+Debug info:
+- An error occurred while generating the chunk item [project]/data/seeMoreProjects.json (json)
+- Execution of <JsonChunkItem as EcmascriptChunkItem>::content failed
+- Unable to make a module from invalid JSON: trailing comma at line 115 column 5
+    at [5].technologies
+     111 |       "/technologies/html.svg",
+     112 |       "/technologies/css.svg",
+     113 |       "/technologies/tailwindcss.svg",
+     114 |       
+         |     v
+     115 +     ],
+         |     ^
+     116 |     "linkCode": "https://github.com/fathan-alf/cafe-flash",
+     117 |     "linkWebsite": "",
+     118 |     "width": 1600,
+     119 |     "height": 761
+
+Import trace:
+  Client Component SSR:
+    ./data/seeMoreProjects.json
+    ./components/seeMoreProjects.tsx [Client Component SSR]
+    ./components/project.tsx [Client Component SSR]
+    ./components/sisiTengah.tsx [Client Component SSR]
+    ./components/porto.tsx [Client Component SSR]
+    ./components/canvas.tsx [Client Component SSR]
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+[00:46:42.299] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./data/seeMoreProjects.json (json) changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:46:42.316] Server  LOG      ✓ Compiled in 81ms
+[00:46:43.222] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:46:44.185] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:46:45.896] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./data/seeMoreProjects.json (json) changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:46:45.907] Server  LOG      ✓ Compiled in 89ms
+[00:46:46.833] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:46:46.925] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./data/seeMoreProjects.json (json) changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:46:46.944] Server  LOG      ✓ Compiled in 54ms
+[00:46:47.661] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:46:47.991] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:46:50.581] Browser WARN    Image with src "http://localhost:3000/technologies/laragon.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:46:58.113] Browser WARN    Image with src "http://localhost:3000/technologies/react.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:47:39.482] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./data/seeMoreProjects.json (json) changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:47:39.504] Server  LOG      ✓ Compiled in 86ms
+[00:47:40.296] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:47:41.228] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:47:42.523] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./data/seeMoreProjects.json (json) changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:47:42.544] Server  LOG      ✓ Compiled in 49ms
+[00:47:43.523] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:47:44.466] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:47:52.349] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./data/seeMoreProjects.json (json) changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:47:52.365] Server  LOG      ✓ Compiled in 85ms
+[00:47:53.456] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:47:54.362] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:48:16.207] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./data/seeMoreProjects.json (json) changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:48:16.379] Server  LOG      ✓ Compiled in 35ms
+[00:48:17.163] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:48:17.930] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:48:21.716] Browser WARN    Image with src "http://localhost:3000/technologies/laragon.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:48:40.255] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./data/seeMoreProjects.json (json) changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:48:40.275] Server  LOG      ✓ Compiled in 78ms
+[00:48:41.126] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:48:42.079] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:48:42.150] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./data/seeMoreProjects.json (json) changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:48:42.174] Server  LOG      ✓ Compiled in 60ms
+[00:48:42.952] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:48:43.870] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:48:44.752] Browser WARN    Image with src "/Foto.jpeg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:48:47.776] Browser WARN    Image with src "http://localhost:3000/technologies/laragon.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:49:37.934] Server  LOG      ✓ Compiled in 42ms
+[00:49:39.969] Browser ERROR   ./data/seeMoreProjects.json
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/data/seeMoreProjects.json (json)
+
+Caused by:
+- Unable to make a module from invalid JSON: control character (\u0000-\u001F) found while parsing a string at line 127 column 0
+
+Debug info:
+- An error occurred while generating the chunk item [project]/data/seeMoreProjects.json (json)
+- Execution of <JsonChunkItem as EcmascriptChunkItem>::content failed
+- Unable to make a module from invalid JSON: control character (\u0000-\u001F) found while parsing a string at line 127 column 0
+    at [6].description
+     123 |     "id": 7,
+     124 |     "title": "Disease Spread",
+     125 |     "image": "/projects/gptsniffer.png",
+     126 |     "description": "Assisted in debugging and fixing code errors during the development of a 3D disease spread
+         | v
+     127 + visualization system.
+         | ^
+     128 | Prepared the project report and presentation materials for final evaluation.",
+     129 |     "technologies": [
+     130 |       "/technologies/flask.svg",
+     131 |       "/technologies/python.svg",
+
+Import trace:
+  Client Component SSR:
+    ./data/seeMoreProjects.json
+    ./components/seeMoreProjects.tsx [Client Component SSR]
+    ./components/project.tsx [Client Component SSR]
+    ./components/sisiTengah.tsx [Client Component SSR]
+    ./components/porto.tsx [Client Component SSR]
+    ./components/canvas.tsx [Client Component SSR]
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+[00:49:41.941] Server  LOG      ✓ Compiled in 78ms
+[00:49:42.835] Browser ERROR   ./data/seeMoreProjects.json
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/data/seeMoreProjects.json (json)
+
+Caused by:
+- Unable to make a module from invalid JSON: control character (\u0000-\u001F) found while parsing a string at line 127 column 0
+
+Debug info:
+- An error occurred while generating the chunk item [project]/data/seeMoreProjects.json (json)
+- Execution of <JsonChunkItem as EcmascriptChunkItem>::content failed
+- Unable to make a module from invalid JSON: control character (\u0000-\u001F) found while parsing a string at line 127 column 0
+    at [6].description
+     123 |     "id": 7,
+     124 |     "title": "Disease Spread",
+     125 |     "image": "/projects/gptsniffer.png",
+     126 |     "description": "Assisted in debugging and fixing code errors during the development of a 3D disease spread visualization system.
+         | v
+     127 + Prepared the project report and presentation materials for final evaluation.",
+         | ^
+     128 |     "technologies": [
+     129 |       "/technologies/flask.svg",
+     130 |       "/technologies/python.svg",
+     131 |       "/technologies/laragon.svg",
+
+Import trace:
+  Client Component SSR:
+    ./data/seeMoreProjects.json
+    ./components/seeMoreProjects.tsx [Client Component SSR]
+    ./components/project.tsx [Client Component SSR]
+    ./components/sisiTengah.tsx [Client Component SSR]
+    ./components/porto.tsx [Client Component SSR]
+    ./components/canvas.tsx [Client Component SSR]
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+[00:49:45.509] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./data/seeMoreProjects.json (json) changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:49:45.529] Server  LOG      ✓ Compiled in 103ms
+[00:49:46.443] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:49:47.397] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:49:52.602] Server  LOG      ✓ Compiled in 35ms
+[00:49:54.554] Browser ERROR   ./data/seeMoreProjects.json
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/data/seeMoreProjects.json (json)
+
+Caused by:
+- Unable to make a module from invalid JSON: expected `,` or `]` at line 129 column 5
+
+Debug info:
+- An error occurred while generating the chunk item [project]/data/seeMoreProjects.json (json)
+- Execution of <JsonChunkItem as EcmascriptChunkItem>::content failed
+- Unable to make a module from invalid JSON: expected `,` or `]` at line 129 column 5
+    at [6].technologies
+     125 |     "image": "/projects/gptsniffer.png",
+     126 |     "description": "Assisted in debugging and fixing code errors during the development of a 3D di...isualization system. Prepared the project report and presentation materials for final evaluation.",
+     127 |     "technologies": [
+     128 |       ""
+         |     v
+     129 +     "linkCode": "https://github.com/fathan-alf/cafe-flash",
+         |     ^
+     130 |     "linkWebsite": "",
+     131 |     "width": 1600,
+     132 |     "height": 761
+     133 |   }
+
+Import trace:
+  Client Component SSR:
+    ./data/seeMoreProjects.json
+    ./components/seeMoreProjects.tsx [Client Component SSR]
+    ./components/project.tsx [Client Component SSR]
+    ./components/sisiTengah.tsx [Client Component SSR]
+    ./components/porto.tsx [Client Component SSR]
+    ./components/canvas.tsx [Client Component SSR]
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+[00:49:55.364] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./data/seeMoreProjects.json (json) changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:49:55.390] Server  LOG      ✓ Compiled in 37ms
+[00:49:55.961] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:49:56.909] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:50:02.907] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./data/seeMoreProjects.json (json) changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:50:02.928] Server  LOG      ✓ Compiled in 68ms
+[00:50:03.718] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:50:04.427] Server  LOG      ✓ Compiled in 81ms
+[00:50:05.684] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:50:05.684] Browser ERROR   ./data/seeMoreProjects.json
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/data/seeMoreProjects.json (json)
+
+Caused by:
+- Unable to make a module from invalid JSON: trailing comma at line 130 column 5
+
+Debug info:
+- An error occurred while generating the chunk item [project]/data/seeMoreProjects.json (json)
+- Execution of <JsonChunkItem as EcmascriptChunkItem>::content failed
+- Unable to make a module from invalid JSON: trailing comma at line 130 column 5
+    at [6].technologies
+     126 |     "description": "Assisted in debugging and fixing code errors during the development of a 3D di...isualization system. Prepared the project report and presentation materials for final evaluation.",
+     127 |     "technologies": [
+     128 |     "/technologies/python.svg",
+     129 |     
+         |     v
+     130 +     ],
+         |     ^
+     131 |     "linkCode": "https://github.com/fathan-alf/cafe-flash",
+     132 |     "linkWebsite": "",
+     133 |     "width": 1600,
+     134 |     "height": 761
+
+Import trace:
+  Client Component SSR:
+    ./data/seeMoreProjects.json
+    ./components/seeMoreProjects.tsx [Client Component SSR]
+    ./components/project.tsx [Client Component SSR]
+    ./components/sisiTengah.tsx [Client Component SSR]
+    ./components/porto.tsx [Client Component SSR]
+    ./components/canvas.tsx [Client Component SSR]
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+[00:50:08.715] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./data/seeMoreProjects.json (json) changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:50:08.735] Server  LOG      ✓ Compiled in 69ms
+[00:50:09.579] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:50:09.830] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:50:22.489] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./data/seeMoreProjects.json (json) changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:50:22.511] Server  LOG      ✓ Compiled in 47ms
+[00:50:23.286] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:50:23.472] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:50:41.496] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./data/seeMoreProjects.json (json) changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:50:41.516] Server  LOG      ✓ Compiled in 88ms
+[00:50:42.464] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:50:43.502] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:50:44.828] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./data/seeMoreProjects.json (json) changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:50:44.852] Server  LOG      ✓ Compiled in 73ms
+[00:50:45.610] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:50:46.566] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:50:47.103] Browser WARN    Image with src "/Foto.jpeg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:51:18.861] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./data/seeMoreProjects.json (json) changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:51:18.882] Server  LOG      ✓ Compiled in 98ms
+[00:51:19.613] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:51:20.569] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:52:44.044] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./data/seeMoreProjects.json (json) changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:52:44.060] Server  LOG      ✓ Compiled in 96ms
+[00:52:45.237] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:52:46.190] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:52:47.043] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./data/seeMoreProjects.json (json) changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:52:47.073] Server  LOG      ✓ Compiled in 130ms
+[00:52:47.973] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:52:48.926] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:53:53.919] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./data/seeMoreProjects.json (json) changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:53:53.936] Server  LOG      ✓ Compiled in 70ms
+[00:53:54.797] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:53:55.545] Server  LOG      ✓ Compiled in 83ms
+[00:53:55.550] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./data/seeMoreProjects.json (json) changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:53:55.550] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:53:56.228] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:53:57.196] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:53:59.561] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./data/seeMoreProjects.json (json) changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:53:59.583] Server  LOG      ✓ Compiled in 60ms
+[00:54:00.189] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:54:00.696] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./data/seeMoreProjects.json (json) changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:54:00.697] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:54:00.721] Server  LOG      ✓ Compiled in 60ms
+[00:54:01.418] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:54:02.374] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:54:26.687] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./data/seeMoreProjects.json (json) changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:54:26.803] Server  LOG      ✓ Compiled in 29ms
+[00:54:27.388] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:54:28.311] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:54:29.430] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./data/seeMoreProjects.json (json) changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:54:29.452] Server  LOG      ✓ Compiled in 66ms
+[00:54:30.132] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:54:31.093] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:54:31.571] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./data/seeMoreProjects.json (json) changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:54:31.595] Server  LOG      ✓ Compiled in 65ms
+[00:54:32.217] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:54:33.152] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:54:40.739] Browser WARN    Image with src "/Foto.jpeg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:56:48.999] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./data/seeMoreProjects.json (json) changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:56:49.017] Server  LOG      ✓ Compiled in 73ms
+[00:56:49.667] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:56:50.624] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:57:05.254] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./data/seeMoreProjects.json (json) changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:57:05.274] Server  LOG      ✓ Compiled in 52ms
+[00:57:05.912] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:57:06.846] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:57:07.047] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./data/seeMoreProjects.json (json) changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:57:07.067] Server  LOG      ✓ Compiled in 75ms
+[00:57:07.706] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:57:08.703] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:57:09.480] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./data/seeMoreProjects.json (json) changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:57:09.501] Server  LOG      ✓ Compiled in 71ms
+[00:57:10.082] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:57:11.042] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:57:15.538] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./data/seeMoreProjects.json (json) changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:57:15.559] Server  LOG      ✓ Compiled in 66ms
+[00:57:16.260] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:57:17.268] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:57:26.787] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./data/seeMoreProjects.json (json) changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:57:26.805] Server  LOG      ✓ Compiled in 109ms
+[00:57:27.552] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:57:28.003] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:57:28.171] Browser WARN    Image with src "/contacts/linkedin.svg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:57:28.171] Browser WARN    Image with src "/contacts/whatsapp.svg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[01:20:23.365] Server  LOG      ✓ Compiled in 97ms
+[01:20:23.372] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./data/seeMoreProjects.json (json) changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[01:20:24.494] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:20:24.696] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[01:20:42.803] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./data/seeMoreProjects.json (json) changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[01:20:42.823] Server  LOG      ✓ Compiled in 67ms
+[01:20:43.566] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:20:44.517] Server  LOG      ✓ Compiled in 87ms
+[01:20:45.665] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[01:20:45.665] Browser ERROR   ./data/seeMoreProjects.json
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/data/seeMoreProjects.json (json)
+
+Caused by:
+- Unable to make a module from invalid JSON: expected value at line 151 column 3
+
+Debug info:
+- An error occurred while generating the chunk item [project]/data/seeMoreProjects.json (json)
+- Execution of <JsonChunkItem as EcmascriptChunkItem>::content failed
+- Unable to make a module from invalid JSON: expected value at line 151 column 3
+    at [7].height
+     147 |     "linkCode": "https://github.com/awps13/Visualisasi-Penyebaran-Penyakit-Disease-Spread-use-python",
+     148 |     "linkWebsite": "",
+     149 |     "width": 1011,
+     150 |     "height": 
+         |   v
+     151 +   }
+         |   ^
+     152 | ]
+
+Import trace:
+  Client Component SSR:
+    ./data/seeMoreProjects.json
+    ./components/seeMoreProjects.tsx [Client Component SSR]
+    ./components/project.tsx [Client Component SSR]
+    ./components/sisiTengah.tsx [Client Component SSR]
+    ./components/porto.tsx [Client Component SSR]
+    ./components/canvas.tsx [Client Component SSR]
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+[01:20:46.888] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./data/seeMoreProjects.json (json) changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[01:20:46.913] Server  LOG      ✓ Compiled in 70ms
+[01:20:47.879] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:20:48.787] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[01:21:28.167] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/project.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[01:21:28.324] Server  LOG      ✓ Compiled in 40ms
+[01:21:28.884] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:21:29.829] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[01:21:53.068] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/seeMoreProjects.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[01:21:53.090] Server  LOG      ✓ Compiled in 68ms
+[01:21:53.961] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:21:54.872] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[01:22:17.583] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./data/seeMoreProjects.json (json) changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[01:22:17.604] Server  LOG      ✓ Compiled in 73ms
+[01:22:18.304] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:22:19.259] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[01:22:19.706] Browser WARN    Image with src "/Foto.jpeg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[01:22:45.852] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./data/seeMoreProjects.json (json) changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[01:22:45.874] Server  LOG      ✓ Compiled in 52ms
+[01:22:46.631] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:22:46.835] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[01:23:22.928] Server  LOG      ✓ Compiled in 70ms
+[01:23:24.828] Browser ERROR   ./components/seeMoreProjects.tsx:143:15
+Parsing ecmascript source code failed
+  141 |                 </Link>
+  142 |               </button>
+> 143 |               {seeMoreProject.find((p) => p.id === openModule)?.linkWebsite && (
+      |               ^
+  144 |                 <button className="px-4 py-2 mb-2 mt-5 border text-white shadow-[3px_3px_0_#fff] hover:scale-[1.03] hover:shadow-[6px_6px_0_#fff] transition-all duration-200 ease-out hover:cursor-pointer">
+  145 |                   <Link
+  146 |                     href={
+
+Expected '</', got '{'
+
+Import traces:
+  Client Component Browser:
+    ./components/seeMoreProjects.tsx [Client Component Browser]
+    ./components/project.tsx [Client Component Browser]
+    ./components/sisiTengah.tsx [Client Component Browser]
+    ./components/porto.tsx [Client Component Browser]
+    ./components/canvas.tsx [Client Component Browser]
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./components/seeMoreProjects.tsx [Client Component SSR]
+    ./components/project.tsx [Client Component SSR]
+    ./components/sisiTengah.tsx [Client Component SSR]
+    ./components/porto.tsx [Client Component SSR]
+    ./components/canvas.tsx [Client Component SSR]
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+[01:23:25.648] Server  LOG      ✓ Compiled in 116ms
+[01:23:26.461] Browser ERROR   ./components/seeMoreProjects.tsx:132:15
+Parsing ecmascript source code failed
+  130 |             <div className="flex gap-5">
+  131 |               {seeMoreProject.find((p) => p.id === openModule)?.linkWebsite && ()
+> 132 |               <button className="px-4 py-2 mb-2 mt-5 border text-white shadow-[3px_3px_0_#fff] hover:scale-[1.03] hover:shadow-[6px_6px_0_#fff] transition-all duration-200 ease-out hover:cursor-pointer">
+      |               ^
+  133 |                 <Link
+  134 |                   href={
+  135 |                     seeMoreProject.find((p) => p.id === openModule)?.linkCode ||
+
+Expression expected
+
+Import traces:
+  Client Component Browser:
+    ./components/seeMoreProjects.tsx [Client Component Browser]
+    ./components/project.tsx [Client Component Browser]
+    ./components/sisiTengah.tsx [Client Component Browser]
+    ./components/porto.tsx [Client Component Browser]
+    ./components/canvas.tsx [Client Component Browser]
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./components/seeMoreProjects.tsx [Client Component SSR]
+    ./components/project.tsx [Client Component SSR]
+    ./components/sisiTengah.tsx [Client Component SSR]
+    ./components/porto.tsx [Client Component SSR]
+    ./components/canvas.tsx [Client Component SSR]
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+[01:23:28.828] Server  LOG      ✓ Compiled in 85ms
+[01:23:29.707] Browser ERROR   ./components/seeMoreProjects.tsx:131:82
+Parsing ecmascript source code failed
+  129 |             </div>
+  130 |             <div className="flex gap-5">
+> 131 |               {seeMoreProject.find((p) => p.id === openModule)?.linkWebsite && ()}
+      |                                                                                  ^
+  132 |               <button className="px-4 py-2 mb-2 mt-5 border text-white shadow-[3px_3px_0_#fff] hover:scale-[1.03] hover:shadow-[6px_6px_0_#fff] transition-all duration-200 ease-out hover:cursor-pointer">
+  133 |                 <Link
+  134 |                   href={
+
+Expected '</', got '}'
+
+Import traces:
+  Client Component Browser:
+    ./components/seeMoreProjects.tsx [Client Component Browser]
+    ./components/project.tsx [Client Component Browser]
+    ./components/sisiTengah.tsx [Client Component Browser]
+    ./components/porto.tsx [Client Component Browser]
+    ./components/canvas.tsx [Client Component Browser]
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./components/seeMoreProjects.tsx [Client Component SSR]
+    ./components/project.tsx [Client Component SSR]
+    ./components/sisiTengah.tsx [Client Component SSR]
+    ./components/porto.tsx [Client Component SSR]
+    ./components/canvas.tsx [Client Component SSR]
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+[01:23:37.777] Browser ERROR   ./components/seeMoreProjects.tsx:131:79
+Parsing ecmascript source code failed
+  129 |             </div>
+  130 |             <div className="flex gap-5">
+> 131 |               {seeMoreProject.find((p) => p.id === openModule)?.linkCode && ()}
+      |                                                                               ^
+  132 |               <button className="px-4 py-2 mb-2 mt-5 border text-white shadow-[3px_3px_0_#fff] hover:scale-[1.03] hover:shadow-[6px_6px_0_#fff] transition-all duration-200 ease-out hover:cursor-pointer">
+  133 |                 <Link
+  134 |                   href={
+
+Expected '</', got '}'
+
+Import traces:
+  Client Component Browser:
+    ./components/seeMoreProjects.tsx [Client Component Browser]
+    ./components/project.tsx [Client Component Browser]
+    ./components/sisiTengah.tsx [Client Component Browser]
+    ./components/porto.tsx [Client Component Browser]
+    ./components/canvas.tsx [Client Component Browser]
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./components/seeMoreProjects.tsx [Client Component SSR]
+    ./components/project.tsx [Client Component SSR]
+    ./components/sisiTengah.tsx [Client Component SSR]
+    ./components/porto.tsx [Client Component SSR]
+    ./components/canvas.tsx [Client Component SSR]
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+[01:23:46.939] Browser ERROR   ./components/seeMoreProjects.tsx:133:16
+Parsing ecmascript source code failed
+  131 |               {seeMoreProject.find((p) => p.id === openModule)?.linkCode && (
+  132 |                 
+> 133 |               )}
+      |                ^
+  134 |               <button className="px-4 py-2 mb-2 mt-5 border text-white shadow-[3px_3px_0_#fff] hover:scale-[1.03] hover:shadow-[6px_6px_0_#fff] transition-all duration-200 ease-out hover:cursor-pointer">
+  135 |                 <Link
+  136 |                   href={
+
+Expected '</', got '}'
+
+Import traces:
+  Client Component Browser:
+    ./components/seeMoreProjects.tsx [Client Component Browser]
+    ./components/project.tsx [Client Component Browser]
+    ./components/sisiTengah.tsx [Client Component Browser]
+    ./components/porto.tsx [Client Component Browser]
+    ./components/canvas.tsx [Client Component Browser]
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./components/seeMoreProjects.tsx [Client Component SSR]
+    ./components/project.tsx [Client Component SSR]
+    ./components/sisiTengah.tsx [Client Component SSR]
+    ./components/porto.tsx [Client Component SSR]
+    ./components/canvas.tsx [Client Component SSR]
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+[01:23:52.655] Server  LOG      ✓ Compiled in 100ms
+[01:23:52.881] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/seeMoreProjects.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[01:23:53.642] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:23:53.913] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[01:23:53.913] Browser WARN    Image with src "/contacts/linkedin.svg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[01:23:53.913] Browser WARN    Image with src "/contacts/whatsapp.svg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[01:24:57.157] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./data/seeMoreProjects.json (json) changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[01:24:57.286] Server  LOG      ✓ Compiled in 31ms
+[01:24:57.767] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:24:58.728] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[01:25:00.381] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./data/seeMoreProjects.json (json) changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[01:25:00.481] Server  LOG      ✓ Compiled in 28ms
+[01:25:01.030] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:25:01.993] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[01:25:03.072] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./data/seeMoreProjects.json (json) changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[01:25:03.093] Server  LOG      ✓ Compiled in 81ms
+[01:25:03.894] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:25:04.860] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.

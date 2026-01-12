@@ -44,20 +44,14 @@
   },
   {
     "id": 3,
-    "title": "Gallery Mobile",
+    "title": "ZDR Trans",
     "image": "/projects/carrental.png",
-    "description": "Developed a full-stack web application for uploading, storing, and displaying photos using cloud storage integration. Implemented secure image upload and retrieval features to ensure data safety and efficient performance. Designed a responsive gallery interface to provide users with a clean and seamless photo browsing experience. (Mobile version)",
+    "description": "Developed a responsive company profile website for ZDR_Trans, enabling customers to easily view services and contact the business directly (Mobile Version). Integrated a WhatsApp Business booking button to streamline the car rental ordering process and improve customer engagement. Collaborated with the business owner to align the website's design and features with ZDR_Trans's branding and marketing goals.",
     "technologies": [
       "/contacts/github.svg",
-      "/technologies/nextjs.svg",
       "/technologies/javascript.svg",
-      "/technologies/prisma.svg",
       "/technologies/html.svg",
-      "/technologies/css.svg",
-      "/technologies/tailwindcss.svg",
-      "/technologies/vercel.svg",
-      "/technologies/cloudinary.svg",
-      "/technologies/neon.svg"
+      "/technologies/css.svg"
     ],
     "linkCode": "https://github.com/awps13/CarRental/",
     "linkWebsite": "https://awps13.github.io/CarRental/",
