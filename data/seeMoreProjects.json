@@ -5,6 +5,7 @@
     "image": "/projects/compropurworejo.jpeg",
     "description": "Collected and organized informational content from the village office to serve as website materials. Designed and developed the complete website layout and content structure to effectively present village information and services. Submitted copyright registration for the company profile website to protect the digital product's intellectual property. Prepared full project documentation, including website reports and published articles.",
     "technologies": [
+      "/contacts/github.svg",
       "/technologies/nextjs.svg",
       "/technologies/javascript.svg",
       "/technologies/prisma.svg",
@@ -12,8 +13,7 @@
       "/technologies/css.svg",
       "/technologies/tailwindcss.svg",
       "/technologies/vercel.svg",
-      "/technologies/word.svg",
-      "/contacts/github.svg"
+      "/technologies/word.svg"
     ],
     "linkCode": "https://github.com/awps13/Company_Profile_Desa_Purworejo",
     "linkWebsite": "https://desapurworejongantang.vercel.app/",
@@ -80,9 +80,10 @@
   {
     "id": 5,
     "title": "WarniSys",
-    "image": "/projects/cafe.jpeg",
+    "image": "/projects/warnisys.jpeg",
     "description": "Created high- and low-fidelity website designs for warnisys using figma to visualize the system layout and user flow. Submitted copyright registration for the website product to protect the project's intellectual property. Prepared comprehensive project documentation covering design, features, and development details. Performed bug testing and added dummy data to ensure proper functionality and realistic display.",
     "technologies": [
+      "/contacts/github.svg",
       "/technologies/react.svg",
       "/technologies/javascript.svg",
       "/technologies/mysql.svg",
@@ -99,12 +100,13 @@
     "width": 1600,
     "height": 761
   },
-   {
+  {
     "id": 6,
     "title": "GPT Scraper",
     "image": "/projects/gptsniffer.png",
     "description": "Developed the backend system to scrape and process data from shared chatgpt conversation histories. Integrated the backend with the frontend interface to enable seamless data synchronization and feature functionality.",
     "technologies": [
+      "/contacts/github.svg",
       "/technologies/flask.svg",
       "/technologies/python.svg",
       "/technologies/laragon.svg",
@@ -125,9 +127,10 @@
     "image": "/projects/disease.png",
     "description": "Assisted in debugging and fixing code errors during the development of a 3D disease spread visualization system. Prepared the project report and presentation materials for final evaluation.",
     "technologies": [
-    "/technologies/python.svg",
-    "/technologies/word.svg",
-    "/technologies/canva.jpeg"
+      "/contacts/github.svg",
+      "/technologies/python.svg",
+      "/technologies/word.svg",
+      "/technologies/canva.jpeg"
     ],
     "linkCode": "https://github.com/awps13/Visualisasi-Penyebaran-Penyakit-Disease-Spread-use-python",
     "linkWebsite": "",
@@ -140,12 +143,31 @@
     "image": "/projects/uiux.png",
     "description": "Assisted in debugging and fixing code errors during the development of a 3D disease spread visualization system. Prepared the project report and presentation materials for final evaluation.",
     "technologies": [
-    "/technologies/figma.svg",
-    "/technologies/canva.jpeg"
+      "/technologies/figma.svg",
+      "/technologies/canva.jpeg",
+      "/technologies/word.svg"
     ],
     "linkCode": "",
     "linkWebsite": "https://www.figma.com/proto/mbd2M79tV5Al7w49sud1L3/Lomba-UI-UX?node-id=29-2557&starting-point-node-id=29%3A2557",
     "width": 1011,
     "height": 657
+  },
+  {
+    "id": 9,
+    "title": "GreenTech: Platform Monitoring Tanaman",
+    "image": "/projects/monitoring.png",
+    "description": "Created the landing page interface for GreenTech, a sensor-based plant monitoring website. Focused on building a clean, responsive, and user-friendly UI.",
+    "technologies": [
+      "/contacts/github.svg",
+      "/technologies/html.svg",
+      "/technologies/css.svg",
+      "/technologies/javascript.svg",
+      "/technologies/react.svg",
+      "/technologies/nodejs.svg"
+    ],
+    "linkCode": "https://github.com/awps13/Plant-Health-Monitoring-Landing-Page",
+    "linkWebsite": "",
+    "width": 1365,
+    "height": 596
   }
 ]

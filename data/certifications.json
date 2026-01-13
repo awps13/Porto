@@ -1,20 +1,32 @@
 [
   {
     "id": 1,
-    "title": "Certification 1",
-    "image": "/carrental.png",
-    "description": "Ini sertifikasi pertama"
+    "title": "Dasar Pemrograman Web",
+    "image": "/certifications/dicoding.jpeg",
+    "description": "Completed the “Basic Web Programming” course from Dicoding Indonesia, learning fundamental concepts of HTML, CSS, and JavaScript for building simple web interfaces.",
+    "width": 731,
+    "height": 516,
+    "certif": "https://drive.google.com/file/d/1uHJVcJcGp8eSUP9QOflEpyBUEPxfYKsF/view",
+    "subtitle": "Coding Camp 2024 powered by DBS Foundation"
   },
   {
     "id": 2,
-    "title": "Certification 2",
-    "image": "/carrental.png",
-    "description": "Ini sertifikasi kedua"
+    "title": "Cisco IT Essentials",
+    "image": "/certifications/cisco.jpeg",
+    "description": "Ini sertifikasi pertama",
+    "width": 800,
+    "height": 521,
+    "certif": "https://drive.google.com/file/d/1rH7HpZa7Wkt-DDUKNmkKb3bOnSv3JRPr/view",
+    "subtitle": "Cisco Academy International IT Essentials Certification"
   },
   {
     "id": 3,
-    "title": "Certification 3",
-    "image": "/projects/carrental.png",
-    "description": "Ini sertifikasi ketiga"
+    "title": "Workshop AI",
+    "image": "/certifications/workshop.jpeg",
+    "description": "Ini sertifikasi pertama",
+    "width": 762,
+    "height": 520,
+    "certif": "https://drive.google.com/file/d/1lJrUpqRiM8vReroHgcWPWOqNl6lsz2EP/view",
+    "subtitle": "AI Beyond Code Workshop: Building Smart Solutions for the Real World"
   }
 ]

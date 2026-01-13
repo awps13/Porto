@@ -1,6 +1,7 @@
 import seeMoreCertifications from "@/data/seeMoreCertifications.json";
 import { useState } from "react";
 import Image from "next/image";
+import Link from "next/link";
 
 const seeMoreSertif = () => {
   const [openModule, setOpenModule] = useState<number | null>(null);
@@ -39,8 +40,8 @@ const seeMoreSertif = () => {
                   <div className="w-full h-[200px] overflow-hidden flex items-center justify-center">
                     <Image
                       src={cert.image}
-                      width={400}
-                      height={300}
+                      width={cert.width}
+                      height={cert.height}
                       alt={cert.title}
                       className="w-full h-full object-cover"
                     />
@@ -91,14 +92,14 @@ const seeMoreSertif = () => {
                   seeMoreCertifications.find((c) => c.id === openModule)
                     ?.title || ""
                 }
-                width={600}
-                height={400}
+                width={seeMoreCertifications.find((c) => c.id === openModule)?.width}
+                height={seeMoreCertifications.find((c) => c.id === openModule)?.height}
                 className="w-full h-auto object-contain"
               />
             </div>
 
             <div className="text-center">
-              <h1 className="font-semibold mb-2 text-white">Description</h1>
+              <h1 className="font-semibold mb-2 text-white">{seeMoreCertifications.find((c) => c.id === openModule)?.subtitle}</h1>
               <p className="text-sm text-white">
                 {
                   seeMoreCertifications.find((c) => c.id === openModule)
@@ -106,13 +107,17 @@ const seeMoreSertif = () => {
                 }
               </p>
             </div>
-
-            <button
-              onClick={() => setOpenModule(null)}
-              className="px-4 py-2 mb-2 mt-5 border text-white shadow-[3px_3px_0_#fff] hover:scale-[1.03] hover:shadow-[6px_6px_0_#fff] transition-all duration-200 ease-out hover:cursor-pointer"
-            >
-              Close
-            </button>
+            <div className="flex gap-5">
+              <button className="px-4 py-2 mb-2 mt-5 border text-white shadow-[3px_3px_0_#fff] hover:scale-[1.03] hover:shadow-[6px_6px_0_#fff] transition-all duration-200 ease-out hover:cursor-pointer"><Link href={seeMoreCertifications.find((c)=> c.id === openModule)?.certif!} target="blank">View Certificate</Link>
+                
+              </button>
+              <button
+                onClick={() => setOpenModule(null)}
+                className="px-4 py-2 mb-2 mt-5 border text-white shadow-[3px_3px_0_#fff] hover:scale-[1.03] hover:shadow-[6px_6px_0_#fff] transition-all duration-200 ease-out hover:cursor-pointer"
+              >
+                Close
+              </button>
+            </div>
           </div>
         </div>
       )}

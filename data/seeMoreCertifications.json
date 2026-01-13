@@ -1,32 +1,72 @@
 [
   {
     "id": 1,
-    "title": "Certification 1",
-    "image": "/carrental.png",
-    "description": "Ini sertifikasi pertama dengan deskripsi lengkap tentang pencapaian dan skills yang didapat"
+    "title": "Dasar Pemrograman Web",
+    "image": "/certifications/dicoding.jpeg",
+    "description": "Completed the “Basic Web Programming” course from Dicoding Indonesia, learning fundamental concepts of HTML, CSS, and JavaScript for building simple web interfaces.",
+    "width": 731,
+    "height": 516,
+    "certif": "https://drive.google.com/file/d/1uHJVcJcGp8eSUP9QOflEpyBUEPxfYKsF/view",
+    "subtitle": "Coding Camp 2024 powered by DBS Foundation"
   },
   {
     "id": 2,
-    "title": "Certification 2",
-    "image": "/carrental.png",
-    "description": "Ini sertifikasi kedua yang menunjukkan penguasaan dalam bidang tertentu"
+    "title": "Cisco IT Essentials",
+    "image": "/certifications/cisco.jpeg",
+    "description": "Completed the “IT Essentials” course from Cisco Networking Academy, gaining foundational knowledge in computer hardware, software, and basic IT troubleshooting.",
+    "width": 800,
+    "height": 521,
+    "certif": "https://drive.google.com/file/d/1rH7HpZa7Wkt-DDUKNmkKb3bOnSv3JRPr/view",
+    "subtitle": "Cisco Academy International IT Essentials Certification"
   },
   {
     "id": 3,
-    "title": "Certification 3",
-    "image": "/carrental.png",
-    "description": "Ini sertifikasi ketiga sebagai bukti kompetensi dan dedikasi dalam pembelajaran"
+    "title": "Workshop AI",
+    "image": "/certifications/workshop.jpeg",
+    "description": "This certificate marks my participation in the Artificial Intelligence Workshop themed “AI Beyond Code: Building Intelligent Solutions for the Real World” held by Universitas Negeri Malang. Through this workshop, I gained deeper insights into how artificial intelligence extends beyond theoretical concepts into practical, real-world applications. The experience strengthened my understanding of AI fundamentals, emerging technologies, and the mindset required to develop intelligent solutions that address real societal and technological challenges.",
+    "width": 762,
+    "height": 520,
+    "certif": "https://drive.google.com/file/d/1lJrUpqRiM8vReroHgcWPWOqNl6lsz2EP/view",
+    "subtitle": "AI Beyond Code Workshop: Building Smart Solutions for the Real World"
   },
   {
     "id": 4,
-    "title": "Certification 4",
-    "image": "/carrental.png",
-    "description": "Sertifikasi keempat menunjukkan kesuksesan dalam menyelesaikan program pelatihan"
+    "title": "FESMARO 2025",
+    "image": "/certifications/fesmaro.jpeg",
+    "description": "Won 2nd place at the National Scientific Writing (ICT) Competition during FESMARO 2025, presenting research on technology innovation in the field of Informatics.",
+    "width": 803,
+    "height": 520,
+    "certif": "https://drive.google.com/file/d/1iaLCoZu0RyLeWhBCwPeSHhi-FT7smBqg/view",
+    "subtitle": "Electrical Engineering and Informatics Student Creativity Festival (FESMARO) 2025"
+  },
+   {
+    "id": 5,
+    "title": "IDEA-Fest 2024",
+    "image": "/certifications/ideafest.jpeg",
+    "description": "Awarded a Bronze Medal at IDEA-Fest 2024 for developing an innovative techno-science project in the field of engineering and applied technology.",
+    "width": 803,
+    "height": 520,
+    "certif": "https://drive.google.com/file/d/1iimwzW3Q65Pi0waQ7V8yHJwwWGubh3qs/view",
+    "subtitle": "Innovations, Developments, Explorations and Applications in Techno-Science Festival (IDEA-Fest) 2024"
   },
   {
-    "id": 5,
-    "title": "Certification 5",
-    "image": "/carrental.png",
-    "description": "Sertifikasi kelima adalah pencapaian terbaru dalam pengembangan skill profesional"
+    "id": 6,
+    "title": "Capstone 2025",
+    "image": "/certifications/capstone.jpeg",
+    "description": "Awarded a Bronze Medal at the national level for “WARNISYS,” an information system designed to help MSMEs streamline product management, orders, workforce, and financial operations in a single platform.",
+    "width": 803,
+    "height": 520,
+    "certif": "https://drive.google.com/file/d/1wfJoavxLsmCG9A8R4eBIvGQMChDhDc1d/view",
+    "subtitle": "Capstone Project Competition 2025: Empowering Society Through Smart Solutions"
+  },
+  {
+    "id": 7,
+    "title": "UI UX Desain Competition",
+    "image": "/certifications/uiux.jpeg",
+    "description": "This certificate represents my journey in the UI/UX Competition – Explore AH! 2025, where I collaborated as part of the Soullink Team. Through this competition, I contributed to designing user-centered solutions by applying design thinking, usability principles, and collaborative problem-solving. Achieving 2nd Runner-Up (Honorable Mention) reflects not only the outcome, but also the valuable experience of working under real design challenges, refining ideas through iteration, and translating user needs into meaningful digital experiences.",
+    "width": 755,
+    "height": 520,
+    "certif": "https://drive.google.com/file/d/18KqF8HJZSMk-EsF9aWY98soSrn8ovzyG/view",
+    "subtitle": "UI/UX COMPETITION - EXPLORE AH! 2025"
   }
 ]

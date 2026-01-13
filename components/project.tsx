@@ -25,8 +25,8 @@ const project = () => {
               <div className="w-full h-[120px] overflow-hidden flex items-center justify-center">
                 <Image
                   src={project.image}
-                  width={1350}
-                  height={598}
+                  width={project.width}
+                  height={project.height}
                   alt={project.title}
                   className="w-full h-full object-cover"
                 />

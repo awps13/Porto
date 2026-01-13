@@ -497,7 +497,7 @@ const __TURBOPACK__default__export__ = sisiKanan;
 __turbopack_context__.v([{"id":1,"title":"ComPro Desa Purworejo","image":"/projects/compropurworejo.jpeg","description":"Collected and organized informational content from the village office to serve as website materials. Designed and developed the complete website layout and content structure to effectively present village information and services. Submitted copyright registration for the company profile website to protect the digital product's intellectual property. Prepared full project documentation, including website reports and published articles.","technologies":["/technologies/nextjs.svg","/technologies/javascript.svg","/technologies/prisma.svg","/technologies/html.svg","/technologies/css.svg","/technologies/tailwindcss.svg","/technologies/vercel.svg","/technologies/word.svg","/contacts/github.svg"],"linkCode":"https://github.com/awps13/Company_Profile_Desa_Purworejo","linkWebsite":"https://desapurworejongantang.vercel.app/","width":1350,"height":598},{"id":2,"title":"Gallery Mobile","image":"/projects/gallery.png","description":"Developed a full-stack web application for uploading, storing, and displaying photos using cloud storage integration. Implemented secure image upload and retrieval features to ensure data safety and efficient performance. Designed a responsive gallery interface to provide users with a clean and seamless photo browsing experience. (Mobile version)","technologies":["/contacts/github.svg","/technologies/nextjs.svg","/technologies/javascript.svg","/technologies/prisma.svg","/technologies/html.svg","/technologies/css.svg","/technologies/tailwindcss.svg","/technologies/vercel.svg","/technologies/cloudinary.svg","/technologies/neon.svg"],"linkCode":"https://github.com/awps13/Anniversary-3th","linkWebsite":"","width":1364,"height":649},{"id":3,"title":"ZDR Trans","image":"/projects/carrental.png","description":"Developed a responsive company profile website for ZDR_Trans, enabling customers to easily view services and contact the business directly (Mobile Version). Integrated a WhatsApp Business booking button to streamline the car rental ordering process and improve customer engagement. Collaborated with the business owner to align the website's design and features with ZDR_Trans's branding and marketing goals.","technologies":["/contacts/github.svg","/technologies/javascript.svg","/technologies/html.svg","/technologies/css.svg"],"linkCode":"https://github.com/awps13/CarRental/","linkWebsite":"https://awps13.github.io/CarRental/","width":1364,"height":649}]);}),
 "[project]/data/seeMoreProjects.json (json)", ((__turbopack_context__) => {
 
-__turbopack_context__.v([{"id":1,"title":"ComPro Desa Purworejo","image":"/projects/compropurworejo.jpeg","description":"Collected and organized informational content from the village office to serve as website materials. Designed and developed the complete website layout and content structure to effectively present village information and services. Submitted copyright registration for the company profile website to protect the digital product's intellectual property. Prepared full project documentation, including website reports and published articles.","technologies":["/technologies/nextjs.svg","/technologies/javascript.svg","/technologies/prisma.svg","/technologies/html.svg","/technologies/css.svg","/technologies/tailwindcss.svg","/technologies/vercel.svg","/technologies/word.svg","/contacts/github.svg"],"linkCode":"https://github.com/awps13/Company_Profile_Desa_Purworejo","linkWebsite":"https://desapurworejongantang.vercel.app/","width":1350,"height":598},{"id":2,"title":"Gallery Mobile","image":"/projects/gallery.png","description":"Developed a full-stack web application for uploading, storing, and displaying photos using cloud storage integration. Implemented secure image upload and retrieval features to ensure data safety and efficient performance. Designed a responsive gallery interface to provide users with a clean and seamless photo browsing experience. (Mobile version)","technologies":["/contacts/github.svg","/technologies/nextjs.svg","/technologies/javascript.svg","/technologies/prisma.svg","/technologies/html.svg","/technologies/css.svg","/technologies/tailwindcss.svg","/technologies/vercel.svg","/technologies/cloudinary.svg","/technologies/neon.svg"],"linkCode":"https://github.com/awps13/Anniversary-3th","linkWebsite":"","width":1364,"height":649},{"id":3,"title":"ZDR Trans","image":"/projects/carrental.png","description":"Developed a responsive company profile website for ZDR_Trans, enabling customers to easily view services and contact the business directly (Mobile Version). Integrated a WhatsApp Business booking button to streamline the car rental ordering process and improve customer engagement. Collaborated with the business owner to align the website's design and features with ZDR_Trans's branding and marketing goals.","technologies":["/contacts/github.svg","/technologies/javascript.svg","/technologies/html.svg","/technologies/css.svg"],"linkCode":"https://github.com/awps13/CarRental/","linkWebsite":"https://awps13.github.io/CarRental/","width":1364,"height":649},{"id":4,"title":"Café Flash","image":"/projects/cafe.jpeg","description":"Developed the payment interface for cafe flash to enhance the checkout experience and visual design.Tested and debugged the payment feature to ensure smooth functionality and user reliability.Assisted in documenting the project’s development process to maintain clear and organized records.","technologies":["/contacts/github.svg","/technologies/php.svg","/technologies/mysql.svg","/technologies/html.svg","/technologies/css.svg","/technologies/tailwindcss.svg","/technologies/word.svg"],"linkCode":"https://github.com/fathan-alf/cafe-flash","linkWebsite":"","width":1600,"height":761},{"id":5,"title":"WarniSys","image":"/projects/cafe.jpeg","description":"Created high- and low-fidelity website designs for warnisys using figma to visualize the system layout and user flow. Submitted copyright registration for the website product to protect the project's intellectual property. Prepared comprehensive project documentation covering design, features, and development details. Performed bug testing and added dummy data to ensure proper functionality and realistic display.","technologies":["/technologies/react.svg","/technologies/javascript.svg","/technologies/mysql.svg","/technologies/html.svg","/technologies/css.svg","/technologies/tailwindcss.svg","/technologies/word.svg","/technologies/prisma.svg","/technologies/canva.jpeg","/technologies/figma.svg"],"linkCode":"https://github.com/fathan-alf/cafe-flash","linkWebsite":"","width":1600,"height":761},{"id":6,"title":"GPT Scraper","image":"/projects/gptsniffer.png","description":"Developed the backend system to scrape and process data from shared chatgpt conversation histories. Integrated the backend with the frontend interface to enable seamless data synchronization and feature functionality.","technologies":["/technologies/flask.svg","/technologies/python.svg","/technologies/laragon.svg","/technologies/html.svg","/technologies/css.svg","/technologies/tailwindcss.svg","/technologies/word.svg","/technologies/canva.jpeg"],"linkCode":"https://github.com/awps13/GPT-SCRAPER","linkWebsite":"","width":1366,"height":766},{"id":7,"title":"Disease Spread","image":"/projects/disease.png","description":"Assisted in debugging and fixing code errors during the development of a 3D disease spread visualization system. Prepared the project report and presentation materials for final evaluation.","technologies":["/technologies/python.svg","/technologies/word.svg","/technologies/canva.jpeg"],"linkCode":"https://github.com/awps13/Visualisasi-Penyebaran-Penyakit-Disease-Spread-use-python","linkWebsite":"","width":796,"height":596},{"id":8,"title":"UI/UX Desain SoulLink","image":"/projects/uiux.png","description":"Assisted in debugging and fixing code errors during the development of a 3D disease spread visualization system. Prepared the project report and presentation materials for final evaluation.","technologies":["/technologies/figma.svg","/technologies/canva.jpeg"],"linkCode":"","linkWebsite":"https://www.figma.com/proto/mbd2M79tV5Al7w49sud1L3/Lomba-UI-UX?node-id=29-2557&starting-point-node-id=29%3A2557","width":1011,"height":657}]);}),
+__turbopack_context__.v([{"id":1,"title":"ComPro Desa Purworejo","image":"/projects/compropurworejo.jpeg","description":"Collected and organized informational content from the village office to serve as website materials. Designed and developed the complete website layout and content structure to effectively present village information and services. Submitted copyright registration for the company profile website to protect the digital product's intellectual property. Prepared full project documentation, including website reports and published articles.","technologies":["/contacts/github.svg","/technologies/nextjs.svg","/technologies/javascript.svg","/technologies/prisma.svg","/technologies/html.svg","/technologies/css.svg","/technologies/tailwindcss.svg","/technologies/vercel.svg","/technologies/word.svg"],"linkCode":"https://github.com/awps13/Company_Profile_Desa_Purworejo","linkWebsite":"https://desapurworejongantang.vercel.app/","width":1350,"height":598},{"id":2,"title":"Gallery Mobile","image":"/projects/gallery.png","description":"Developed a full-stack web application for uploading, storing, and displaying photos using cloud storage integration. Implemented secure image upload and retrieval features to ensure data safety and efficient performance. Designed a responsive gallery interface to provide users with a clean and seamless photo browsing experience. (Mobile version)","technologies":["/contacts/github.svg","/technologies/nextjs.svg","/technologies/javascript.svg","/technologies/prisma.svg","/technologies/html.svg","/technologies/css.svg","/technologies/tailwindcss.svg","/technologies/vercel.svg","/technologies/cloudinary.svg","/technologies/neon.svg"],"linkCode":"https://github.com/awps13/Anniversary-3th","linkWebsite":"","width":1364,"height":649},{"id":3,"title":"ZDR Trans","image":"/projects/carrental.png","description":"Developed a responsive company profile website for ZDR_Trans, enabling customers to easily view services and contact the business directly (Mobile Version). Integrated a WhatsApp Business booking button to streamline the car rental ordering process and improve customer engagement. Collaborated with the business owner to align the website's design and features with ZDR_Trans's branding and marketing goals.","technologies":["/contacts/github.svg","/technologies/javascript.svg","/technologies/html.svg","/technologies/css.svg"],"linkCode":"https://github.com/awps13/CarRental/","linkWebsite":"https://awps13.github.io/CarRental/","width":1364,"height":649},{"id":4,"title":"Café Flash","image":"/projects/cafe.jpeg","description":"Developed the payment interface for cafe flash to enhance the checkout experience and visual design.Tested and debugged the payment feature to ensure smooth functionality and user reliability.Assisted in documenting the project’s development process to maintain clear and organized records.","technologies":["/contacts/github.svg","/technologies/php.svg","/technologies/mysql.svg","/technologies/html.svg","/technologies/css.svg","/technologies/tailwindcss.svg","/technologies/word.svg"],"linkCode":"https://github.com/fathan-alf/cafe-flash","linkWebsite":"","width":1600,"height":761},{"id":5,"title":"WarniSys","image":"/projects/warnisys.jpeg","description":"Created high- and low-fidelity website designs for warnisys using figma to visualize the system layout and user flow. Submitted copyright registration for the website product to protect the project's intellectual property. Prepared comprehensive project documentation covering design, features, and development details. Performed bug testing and added dummy data to ensure proper functionality and realistic display.","technologies":["/contacts/github.svg","/technologies/react.svg","/technologies/javascript.svg","/technologies/mysql.svg","/technologies/html.svg","/technologies/css.svg","/technologies/tailwindcss.svg","/technologies/word.svg","/technologies/prisma.svg","/technologies/canva.jpeg","/technologies/figma.svg"],"linkCode":"https://github.com/fathan-alf/cafe-flash","linkWebsite":"","width":1600,"height":761},{"id":6,"title":"GPT Scraper","image":"/projects/gptsniffer.png","description":"Developed the backend system to scrape and process data from shared chatgpt conversation histories. Integrated the backend with the frontend interface to enable seamless data synchronization and feature functionality.","technologies":["/contacts/github.svg","/technologies/flask.svg","/technologies/python.svg","/technologies/laragon.svg","/technologies/html.svg","/technologies/css.svg","/technologies/tailwindcss.svg","/technologies/word.svg","/technologies/canva.jpeg"],"linkCode":"https://github.com/awps13/GPT-SCRAPER","linkWebsite":"","width":1366,"height":766},{"id":7,"title":"Disease Spread","image":"/projects/disease.png","description":"Assisted in debugging and fixing code errors during the development of a 3D disease spread visualization system. Prepared the project report and presentation materials for final evaluation.","technologies":["/contacts/github.svg","/technologies/python.svg","/technologies/word.svg","/technologies/canva.jpeg"],"linkCode":"https://github.com/awps13/Visualisasi-Penyebaran-Penyakit-Disease-Spread-use-python","linkWebsite":"","width":796,"height":596},{"id":8,"title":"UI/UX Desain SoulLink","image":"/projects/uiux.png","description":"Assisted in debugging and fixing code errors during the development of a 3D disease spread visualization system. Prepared the project report and presentation materials for final evaluation.","technologies":["/technologies/figma.svg","/technologies/canva.jpeg","/technologies/word.svg"],"linkCode":"","linkWebsite":"https://www.figma.com/proto/mbd2M79tV5Al7w49sud1L3/Lomba-UI-UX?node-id=29-2557&starting-point-node-id=29%3A2557","width":1011,"height":657},{"id":9,"title":"GreenTech: Platform Monitoring Tanaman","image":"/projects/monitoring.png","description":"Created the landing page interface for GreenTech, a sensor-based plant monitoring website. Focused on building a clean, responsive, and user-friendly UI.","technologies":["/contacts/github.svg","/technologies/html.svg","/technologies/css.svg","/technologies/javascript.svg","/technologies/react.svg","/technologies/nodejs.svg"],"linkCode":"https://github.com/awps13/Plant-Health-Monitoring-Landing-Page","linkWebsite":"","width":1365,"height":596}]);}),
 "[project]/components/seeMoreProjects.tsx [app-ssr] (ecmascript)", ((__turbopack_context__) => {
 "use strict";
 
@@ -672,7 +672,7 @@ const seeMoreProjects = ()=>{
                                     children: [
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h1", {
                                             className: "font-semibold mb-2 text-white",
-                                            children: "Description"
+                                            children: "My Jobdesk"
                                         }, void 0, false, {
                                             fileName: "[project]/components/seeMoreProjects.tsx",
                                             lineNumber: 106,
@@ -858,8 +858,8 @@ const project = ()=>{
                                         className: "w-full h-[120px] overflow-hidden flex items-center justify-center",
                                         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"], {
                                             src: project.image,
-                                            width: 1350,
-                                            height: 598,
+                                            width: project.width,
+                                            height: project.height,
                                             alt: project.title,
                                             className: "w-full h-full object-cover"
                                         }, void 0, false, {
@@ -1164,10 +1164,10 @@ const __TURBOPACK__default__export__ = navbar;
 }),
 "[project]/data/certifications.json (json)", ((__turbopack_context__) => {
 
-__turbopack_context__.v([{"id":1,"title":"Certification 1","image":"/carrental.png","description":"Ini sertifikasi pertama"},{"id":2,"title":"Certification 2","image":"/carrental.png","description":"Ini sertifikasi kedua"},{"id":3,"title":"Certification 3","image":"/projects/carrental.png","description":"Ini sertifikasi ketiga"}]);}),
+__turbopack_context__.v([{"id":1,"title":"Dasar Pemrograman Web","image":"/certifications/dicoding.jpeg","description":"Completed the “Basic Web Programming” course from Dicoding Indonesia, learning fundamental concepts of HTML, CSS, and JavaScript for building simple web interfaces.","width":731,"height":516,"certif":"https://drive.google.com/file/d/1uHJVcJcGp8eSUP9QOflEpyBUEPxfYKsF/view","subtitle":"Coding Camp 2024 powered by DBS Foundation"},{"id":2,"title":"Cisco IT Essentials","image":"/certifications/cisco.jpeg","description":"Ini sertifikasi pertama","width":800,"height":521,"certif":"https://drive.google.com/file/d/1rH7HpZa7Wkt-DDUKNmkKb3bOnSv3JRPr/view","subtitle":"Cisco Academy International IT Essentials Certification"},{"id":3,"title":"Workshop AI","image":"/certifications/workshop.jpeg","description":"Ini sertifikasi pertama","width":762,"height":520,"certif":"https://drive.google.com/file/d/1lJrUpqRiM8vReroHgcWPWOqNl6lsz2EP/view","subtitle":"AI Beyond Code Workshop: Building Smart Solutions for the Real World"}]);}),
 "[project]/data/seeMoreCertifications.json (json)", ((__turbopack_context__) => {
 
-__turbopack_context__.v([{"id":1,"title":"Certification 1","image":"/carrental.png","description":"Ini sertifikasi pertama dengan deskripsi lengkap tentang pencapaian dan skills yang didapat"},{"id":2,"title":"Certification 2","image":"/carrental.png","description":"Ini sertifikasi kedua yang menunjukkan penguasaan dalam bidang tertentu"},{"id":3,"title":"Certification 3","image":"/carrental.png","description":"Ini sertifikasi ketiga sebagai bukti kompetensi dan dedikasi dalam pembelajaran"},{"id":4,"title":"Certification 4","image":"/carrental.png","description":"Sertifikasi keempat menunjukkan kesuksesan dalam menyelesaikan program pelatihan"},{"id":5,"title":"Certification 5","image":"/carrental.png","description":"Sertifikasi kelima adalah pencapaian terbaru dalam pengembangan skill profesional"}]);}),
+__turbopack_context__.v([{"id":1,"title":"Dasar Pemrograman Web","image":"/certifications/dicoding.jpeg","description":"Completed the “Basic Web Programming” course from Dicoding Indonesia, learning fundamental concepts of HTML, CSS, and JavaScript for building simple web interfaces.","width":731,"height":516,"certif":"https://drive.google.com/file/d/1uHJVcJcGp8eSUP9QOflEpyBUEPxfYKsF/view","subtitle":"Coding Camp 2024 powered by DBS Foundation"},{"id":2,"title":"Cisco IT Essentials","image":"/certifications/cisco.jpeg","description":"Completed the “IT Essentials” course from Cisco Networking Academy, gaining foundational knowledge in computer hardware, software, and basic IT troubleshooting.","width":800,"height":521,"certif":"https://drive.google.com/file/d/1rH7HpZa7Wkt-DDUKNmkKb3bOnSv3JRPr/view","subtitle":"Cisco Academy International IT Essentials Certification"},{"id":3,"title":"Workshop AI","image":"/certifications/workshop.jpeg","description":"This certificate marks my participation in the Artificial Intelligence Workshop themed “AI Beyond Code: Building Intelligent Solutions for the Real World” held by Universitas Negeri Malang. Through this workshop, I gained deeper insights into how artificial intelligence extends beyond theoretical concepts into practical, real-world applications. The experience strengthened my understanding of AI fundamentals, emerging technologies, and the mindset required to develop intelligent solutions that address real societal and technological challenges.","width":762,"height":520,"certif":"https://drive.google.com/file/d/1lJrUpqRiM8vReroHgcWPWOqNl6lsz2EP/view","subtitle":"AI Beyond Code Workshop: Building Smart Solutions for the Real World"},{"id":4,"title":"FESMARO 2025","image":"/certifications/fesmaro.jpeg","description":"Won 2nd place at the National Scientific Writing (ICT) Competition during FESMARO 2025, presenting research on technology innovation in the field of Informatics.","width":803,"height":520,"certif":"https://drive.google.com/file/d/1iaLCoZu0RyLeWhBCwPeSHhi-FT7smBqg/view","subtitle":"Electrical Engineering and Informatics Student Creativity Festival (FESMARO) 2025"},{"id":5,"title":"IDEA-Fest 2024","image":"/certifications/ideafest.jpeg","description":"Awarded a Bronze Medal at IDEA-Fest 2024 for developing an innovative techno-science project in the field of engineering and applied technology.","width":803,"height":520,"certif":"https://drive.google.com/file/d/1iimwzW3Q65Pi0waQ7V8yHJwwWGubh3qs/view","subtitle":"Innovations, Developments, Explorations and Applications in Techno-Science Festival (IDEA-Fest) 2024"},{"id":6,"title":"Capstone 2025","image":"/certifications/capstone.jpeg","description":"Awarded a Bronze Medal at the national level for “WARNISYS,” an information system designed to help MSMEs streamline product management, orders, workforce, and financial operations in a single platform.","width":803,"height":520,"certif":"https://drive.google.com/file/d/1wfJoavxLsmCG9A8R4eBIvGQMChDhDc1d/view","subtitle":"Capstone Project Competition 2025: Empowering Society Through Smart Solutions"},{"id":7,"title":"UI UX Desain Competition","image":"/certifications/uiux.jpeg","description":"This certificate represents my journey in the UI/UX Competition – Explore AH! 2025, where I collaborated as part of the Soullink Team. Through this competition, I contributed to designing user-centered solutions by applying design thinking, usability principles, and collaborative problem-solving. Achieving 2nd Runner-Up (Honorable Mention) reflects not only the outcome, but also the valuable experience of working under real design challenges, refining ideas through iteration, and translating user needs into meaningful digital experiences.","width":755,"height":520,"certif":"https://drive.google.com/file/d/18KqF8HJZSMk-EsF9aWY98soSrn8ovzyG/view","subtitle":"UI/UX COMPETITION - EXPLORE AH! 2025"}]);}),
 "[project]/components/seeMoreSertif.tsx [app-ssr] (ecmascript)", ((__turbopack_context__) => {
 "use strict";
 
@@ -1179,6 +1179,8 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist
 var __TURBOPACK__imported__module__$5b$project$5d2f$data$2f$seeMoreCertifications$2e$json__$28$json$29$__ = __turbopack_context__.i("[project]/data/seeMoreCertifications.json (json)");
 var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/next/dist/server/route-modules/app-page/vendored/ssr/react.js [app-ssr] (ecmascript)");
 var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/next/image.js [app-ssr] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/next/dist/client/app-dir/link.js [app-ssr] (ecmascript)");
+;
 ;
 ;
 ;
@@ -1195,7 +1197,7 @@ const seeMoreSertif = ()=>{
                 children: "See More"
             }, void 0, false, {
                 fileName: "[project]/components/seeMoreSertif.tsx",
-                lineNumber: 11,
+                lineNumber: 12,
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             showAll && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1210,7 +1212,7 @@ const seeMoreSertif = ()=>{
                             children: "All Certifications"
                         }, void 0, false, {
                             fileName: "[project]/components/seeMoreSertif.tsx",
-                            lineNumber: 27,
+                            lineNumber: 28,
                             columnNumber: 13
                         }, ("TURBOPACK compile-time value", void 0)),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1223,18 +1225,18 @@ const seeMoreSertif = ()=>{
                                             className: "w-full h-[200px] overflow-hidden flex items-center justify-center",
                                             children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"], {
                                                 src: cert.image,
-                                                width: 400,
-                                                height: 300,
+                                                width: cert.width,
+                                                height: cert.height,
                                                 alt: cert.title,
                                                 className: "w-full h-full object-cover"
                                             }, void 0, false, {
                                                 fileName: "[project]/components/seeMoreSertif.tsx",
-                                                lineNumber: 40,
+                                                lineNumber: 41,
                                                 columnNumber: 21
                                             }, ("TURBOPACK compile-time value", void 0))
                                         }, void 0, false, {
                                             fileName: "[project]/components/seeMoreSertif.tsx",
-                                            lineNumber: 39,
+                                            lineNumber: 40,
                                             columnNumber: 19
                                         }, ("TURBOPACK compile-time value", void 0)),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1245,7 +1247,7 @@ const seeMoreSertif = ()=>{
                                                     children: cert.title
                                                 }, void 0, false, {
                                                     fileName: "[project]/components/seeMoreSertif.tsx",
-                                                    lineNumber: 49,
+                                                    lineNumber: 50,
                                                     columnNumber: 21
                                                 }, ("TURBOPACK compile-time value", void 0)),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -1253,24 +1255,24 @@ const seeMoreSertif = ()=>{
                                                     children: cert.description
                                                 }, void 0, false, {
                                                     fileName: "[project]/components/seeMoreSertif.tsx",
-                                                    lineNumber: 52,
+                                                    lineNumber: 53,
                                                     columnNumber: 21
                                                 }, ("TURBOPACK compile-time value", void 0))
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/components/seeMoreSertif.tsx",
-                                            lineNumber: 48,
+                                            lineNumber: 49,
                                             columnNumber: 19
                                         }, ("TURBOPACK compile-time value", void 0))
                                     ]
                                 }, cert.id, true, {
                                     fileName: "[project]/components/seeMoreSertif.tsx",
-                                    lineNumber: 34,
+                                    lineNumber: 35,
                                     columnNumber: 17
                                 }, ("TURBOPACK compile-time value", void 0)))
                         }, void 0, false, {
                             fileName: "[project]/components/seeMoreSertif.tsx",
-                            lineNumber: 32,
+                            lineNumber: 33,
                             columnNumber: 13
                         }, ("TURBOPACK compile-time value", void 0)),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
@@ -1279,18 +1281,18 @@ const seeMoreSertif = ()=>{
                             children: "Close"
                         }, void 0, false, {
                             fileName: "[project]/components/seeMoreSertif.tsx",
-                            lineNumber: 60,
+                            lineNumber: 61,
                             columnNumber: 13
                         }, ("TURBOPACK compile-time value", void 0))
                     ]
                 }, void 0, true, {
                     fileName: "[project]/components/seeMoreSertif.tsx",
-                    lineNumber: 23,
+                    lineNumber: 24,
                     columnNumber: 11
                 }, ("TURBOPACK compile-time value", void 0))
             }, void 0, false, {
                 fileName: "[project]/components/seeMoreSertif.tsx",
-                lineNumber: 19,
+                lineNumber: 20,
                 columnNumber: 9
             }, ("TURBOPACK compile-time value", void 0)),
             openModule && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1305,7 +1307,7 @@ const seeMoreSertif = ()=>{
                             children: __TURBOPACK__imported__module__$5b$project$5d2f$data$2f$seeMoreCertifications$2e$json__$28$json$29$__["default"].find((c)=>c.id === openModule)?.title
                         }, void 0, false, {
                             fileName: "[project]/components/seeMoreSertif.tsx",
-                            lineNumber: 79,
+                            lineNumber: 80,
                             columnNumber: 13
                         }, ("TURBOPACK compile-time value", void 0)),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1313,17 +1315,17 @@ const seeMoreSertif = ()=>{
                             children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"], {
                                 src: __TURBOPACK__imported__module__$5b$project$5d2f$data$2f$seeMoreCertifications$2e$json__$28$json$29$__["default"].find((c)=>c.id === openModule)?.image || "",
                                 alt: __TURBOPACK__imported__module__$5b$project$5d2f$data$2f$seeMoreCertifications$2e$json__$28$json$29$__["default"].find((c)=>c.id === openModule)?.title || "",
-                                width: 600,
-                                height: 400,
+                                width: __TURBOPACK__imported__module__$5b$project$5d2f$data$2f$seeMoreCertifications$2e$json__$28$json$29$__["default"].find((c)=>c.id === openModule)?.width,
+                                height: __TURBOPACK__imported__module__$5b$project$5d2f$data$2f$seeMoreCertifications$2e$json__$28$json$29$__["default"].find((c)=>c.id === openModule)?.height,
                                 className: "w-full h-auto object-contain"
                             }, void 0, false, {
                                 fileName: "[project]/components/seeMoreSertif.tsx",
-                                lineNumber: 85,
+                                lineNumber: 86,
                                 columnNumber: 15
                             }, ("TURBOPACK compile-time value", void 0))
                         }, void 0, false, {
                             fileName: "[project]/components/seeMoreSertif.tsx",
-                            lineNumber: 84,
+                            lineNumber: 85,
                             columnNumber: 13
                         }, ("TURBOPACK compile-time value", void 0)),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1331,10 +1333,10 @@ const seeMoreSertif = ()=>{
                             children: [
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h1", {
                                     className: "font-semibold mb-2 text-white",
-                                    children: "Description"
+                                    children: __TURBOPACK__imported__module__$5b$project$5d2f$data$2f$seeMoreCertifications$2e$json__$28$json$29$__["default"].find((c)=>c.id === openModule)?.subtitle
                                 }, void 0, false, {
                                     fileName: "[project]/components/seeMoreSertif.tsx",
-                                    lineNumber: 101,
+                                    lineNumber: 102,
                                     columnNumber: 15
                                 }, ("TURBOPACK compile-time value", void 0)),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -1342,20 +1344,45 @@ const seeMoreSertif = ()=>{
                                     children: __TURBOPACK__imported__module__$5b$project$5d2f$data$2f$seeMoreCertifications$2e$json__$28$json$29$__["default"].find((c)=>c.id === openModule)?.description
                                 }, void 0, false, {
                                     fileName: "[project]/components/seeMoreSertif.tsx",
-                                    lineNumber: 102,
+                                    lineNumber: 103,
                                     columnNumber: 15
                                 }, ("TURBOPACK compile-time value", void 0))
                             ]
                         }, void 0, true, {
                             fileName: "[project]/components/seeMoreSertif.tsx",
-                            lineNumber: 100,
+                            lineNumber: 101,
                             columnNumber: 13
                         }, ("TURBOPACK compile-time value", void 0)),
-                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
-                            onClick: ()=>setOpenModule(null),
-                            className: "px-4 py-2 mb-2 mt-5 border text-white shadow-[3px_3px_0_#fff] hover:scale-[1.03] hover:shadow-[6px_6px_0_#fff] transition-all duration-200 ease-out hover:cursor-pointer",
-                            children: "Close"
-                        }, void 0, false, {
+                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                            className: "flex gap-5",
+                            children: [
+                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
+                                    className: "px-4 py-2 mb-2 mt-5 border text-white shadow-[3px_3px_0_#fff] hover:scale-[1.03] hover:shadow-[6px_6px_0_#fff] transition-all duration-200 ease-out hover:cursor-pointer",
+                                    children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"], {
+                                        href: __TURBOPACK__imported__module__$5b$project$5d2f$data$2f$seeMoreCertifications$2e$json__$28$json$29$__["default"].find((c)=>c.id === openModule)?.certif,
+                                        target: "blank",
+                                        children: "View Certificate"
+                                    }, void 0, false, {
+                                        fileName: "[project]/components/seeMoreSertif.tsx",
+                                        lineNumber: 111,
+                                        columnNumber: 204
+                                    }, ("TURBOPACK compile-time value", void 0))
+                                }, void 0, false, {
+                                    fileName: "[project]/components/seeMoreSertif.tsx",
+                                    lineNumber: 111,
+                                    columnNumber: 15
+                                }, ("TURBOPACK compile-time value", void 0)),
+                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
+                                    onClick: ()=>setOpenModule(null),
+                                    className: "px-4 py-2 mb-2 mt-5 border text-white shadow-[3px_3px_0_#fff] hover:scale-[1.03] hover:shadow-[6px_6px_0_#fff] transition-all duration-200 ease-out hover:cursor-pointer",
+                                    children: "Close"
+                                }, void 0, false, {
+                                    fileName: "[project]/components/seeMoreSertif.tsx",
+                                    lineNumber: 114,
+                                    columnNumber: 15
+                                }, ("TURBOPACK compile-time value", void 0))
+                            ]
+                        }, void 0, true, {
                             fileName: "[project]/components/seeMoreSertif.tsx",
                             lineNumber: 110,
                             columnNumber: 13
@@ -1363,18 +1390,18 @@ const seeMoreSertif = ()=>{
                     ]
                 }, void 0, true, {
                     fileName: "[project]/components/seeMoreSertif.tsx",
-                    lineNumber: 75,
+                    lineNumber: 76,
                     columnNumber: 11
                 }, ("TURBOPACK compile-time value", void 0))
             }, void 0, false, {
                 fileName: "[project]/components/seeMoreSertif.tsx",
-                lineNumber: 71,
+                lineNumber: 72,
                 columnNumber: 9
             }, ("TURBOPACK compile-time value", void 0))
         ]
     }, void 0, true, {
         fileName: "[project]/components/seeMoreSertif.tsx",
-        lineNumber: 10,
+        lineNumber: 11,
         columnNumber: 5
     }, ("TURBOPACK compile-time value", void 0));
 };
@@ -1388,10 +1415,12 @@ __turbopack_context__.s([
     ()=>__TURBOPACK__default__export__
 ]);
 var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/next/dist/server/route-modules/app-page/vendored/ssr/react-jsx-dev-runtime.js [app-ssr] (ecmascript)");
-var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/next/dist/server/route-modules/app-page/vendored/ssr/react.js [app-ssr] (ecmascript)");
-var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/next/image.js [app-ssr] (ecmascript)");
 var __TURBOPACK__imported__module__$5b$project$5d2f$data$2f$certifications$2e$json__$28$json$29$__ = __turbopack_context__.i("[project]/data/certifications.json (json)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/next/image.js [app-ssr] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/next/dist/server/route-modules/app-page/vendored/ssr/react.js [app-ssr] (ecmascript)");
 var __TURBOPACK__imported__module__$5b$project$5d2f$components$2f$seeMoreSertif$2e$tsx__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/components/seeMoreSertif.tsx [app-ssr] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/next/dist/client/app-dir/link.js [app-ssr] (ecmascript)");
+;
 ;
 ;
 ;
@@ -1407,21 +1436,21 @@ const sertif = ()=>{
                 children: [
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h1", {
                         className: "font-semibold underline text-sm md:text-base text-[2rem] sm:text-[1rem] sm:mt-0 mt-5",
-                        children: "CERTIFICATIONS"
+                        children: "CERTIFICATES"
                     }, void 0, false, {
                         fileName: "[project]/components/sertif.tsx",
-                        lineNumber: 11,
+                        lineNumber: 12,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0)),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$components$2f$seeMoreSertif$2e$tsx__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"], {}, void 0, false, {
                         fileName: "[project]/components/sertif.tsx",
-                        lineNumber: 14,
+                        lineNumber: 15,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0))
                 ]
             }, void 0, true, {
                 fileName: "[project]/components/sertif.tsx",
-                lineNumber: 10,
+                lineNumber: 11,
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1432,29 +1461,36 @@ const sertif = ()=>{
                                 onClick: ()=>setOpenCert(cert.id),
                                 className: "relative border shadow-[6px_6px_0_#fff] w-full lg:w-[200px] transition-all duration-200 ease-out hover:scale-[1.03] hover:shadow-[10px_10px_0_white] hover:cursor-pointer",
                                 children: [
-                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"], {
-                                        src: cert.image,
-                                        width: 200,
-                                        height: 100,
-                                        alt: cert.title,
-                                        className: "w-full h-auto"
+                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                        className: "w-full h-[120px] overflow-hidden flex items-center justify-center",
+                                        children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"], {
+                                            src: cert.image,
+                                            width: cert.width,
+                                            height: cert.height,
+                                            alt: cert.title,
+                                            className: "w-full h-full object-cover"
+                                        }, void 0, false, {
+                                            fileName: "[project]/components/sertif.tsx",
+                                            lineNumber: 26,
+                                            columnNumber: 17
+                                        }, ("TURBOPACK compile-time value", void 0))
                                     }, void 0, false, {
                                         fileName: "[project]/components/sertif.tsx",
-                                        lineNumber: 24,
+                                        lineNumber: 25,
                                         columnNumber: 15
                                     }, ("TURBOPACK compile-time value", void 0)),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                        className: "p-2 text-center text-sm",
+                                        className: "p-2 font-bold text-center text-sm",
                                         children: cert.title
                                     }, void 0, false, {
                                         fileName: "[project]/components/sertif.tsx",
-                                        lineNumber: 31,
+                                        lineNumber: 34,
                                         columnNumber: 15
                                     }, ("TURBOPACK compile-time value", void 0))
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/components/sertif.tsx",
-                                lineNumber: 20,
+                                lineNumber: 21,
                                 columnNumber: 13
                             }, ("TURBOPACK compile-time value", void 0)),
                             openCert === cert.id && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1469,7 +1505,7 @@ const sertif = ()=>{
                                             children: cert.title
                                         }, void 0, false, {
                                             fileName: "[project]/components/sertif.tsx",
-                                            lineNumber: 42,
+                                            lineNumber: 45,
                                             columnNumber: 19
                                         }, ("TURBOPACK compile-time value", void 0)),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1477,17 +1513,17 @@ const sertif = ()=>{
                                             children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"], {
                                                 src: cert.image,
                                                 alt: cert.title,
-                                                width: 600,
-                                                height: 400,
+                                                width: cert.width,
+                                                height: cert.height,
                                                 className: "w-full h-auto object-contain"
                                             }, void 0, false, {
                                                 fileName: "[project]/components/sertif.tsx",
-                                                lineNumber: 48,
+                                                lineNumber: 51,
                                                 columnNumber: 21
                                             }, ("TURBOPACK compile-time value", void 0))
                                         }, void 0, false, {
                                             fileName: "[project]/components/sertif.tsx",
-                                            lineNumber: 47,
+                                            lineNumber: 50,
                                             columnNumber: 19
                                         }, ("TURBOPACK compile-time value", void 0)),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1495,10 +1531,10 @@ const sertif = ()=>{
                                             children: [
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h1", {
                                                     className: "font-semibold mb-2",
-                                                    children: "Description"
+                                                    children: cert.subtitle
                                                 }, void 0, false, {
                                                     fileName: "[project]/components/sertif.tsx",
-                                                    lineNumber: 58,
+                                                    lineNumber: 61,
                                                     columnNumber: 21
                                                 }, ("TURBOPACK compile-time value", void 0)),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -1506,50 +1542,75 @@ const sertif = ()=>{
                                                     children: cert.description
                                                 }, void 0, false, {
                                                     fileName: "[project]/components/sertif.tsx",
-                                                    lineNumber: 59,
+                                                    lineNumber: 62,
                                                     columnNumber: 21
                                                 }, ("TURBOPACK compile-time value", void 0))
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/components/sertif.tsx",
-                                            lineNumber: 57,
+                                            lineNumber: 60,
                                             columnNumber: 19
                                         }, ("TURBOPACK compile-time value", void 0)),
-                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
-                                            onClick: ()=>setOpenCert(null),
-                                            className: " px-4 py-2 mb-2 mt-5 border text-white shadow-[3px_3px_0_#fff] hover:scale-[1.03] hover:shadow-[6px_6px_0_#fff] transition-all duration-200 ease-out hover:cursor-pointer ",
-                                            children: "Close"
-                                        }, void 0, false, {
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                            className: "flex gap-5",
+                                            children: [
+                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
+                                                    className: " px-4 py-2 mb-2 mt-5 border text-white shadow-[3px_3px_0_#fff] hover:scale-[1.03] hover:shadow-[6px_6px_0_#fff] transition-all duration-200 ease-out hover:cursor-pointer ",
+                                                    children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"], {
+                                                        href: cert.certif,
+                                                        target: "blank",
+                                                        children: "View Certificate"
+                                                    }, void 0, false, {
+                                                        fileName: "[project]/components/sertif.tsx",
+                                                        lineNumber: 76,
+                                                        columnNumber: 23
+                                                    }, ("TURBOPACK compile-time value", void 0))
+                                                }, void 0, false, {
+                                                    fileName: "[project]/components/sertif.tsx",
+                                                    lineNumber: 65,
+                                                    columnNumber: 22
+                                                }, ("TURBOPACK compile-time value", void 0)),
+                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
+                                                    onClick: ()=>setOpenCert(null),
+                                                    className: " px-4 py-2 mb-2 mt-5 border text-white shadow-[3px_3px_0_#fff] hover:scale-[1.03] hover:shadow-[6px_6px_0_#fff] transition-all duration-200 ease-out hover:cursor-pointer ",
+                                                    children: "Close"
+                                                }, void 0, false, {
+                                                    fileName: "[project]/components/sertif.tsx",
+                                                    lineNumber: 78,
+                                                    columnNumber: 21
+                                                }, ("TURBOPACK compile-time value", void 0))
+                                            ]
+                                        }, void 0, true, {
                                             fileName: "[project]/components/sertif.tsx",
-                                            lineNumber: 62,
+                                            lineNumber: 64,
                                             columnNumber: 19
                                         }, ("TURBOPACK compile-time value", void 0))
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/components/sertif.tsx",
-                                    lineNumber: 38,
+                                    lineNumber: 41,
                                     columnNumber: 17
                                 }, ("TURBOPACK compile-time value", void 0))
                             }, void 0, false, {
                                 fileName: "[project]/components/sertif.tsx",
-                                lineNumber: 34,
+                                lineNumber: 37,
                                 columnNumber: 15
                             }, ("TURBOPACK compile-time value", void 0))
                         ]
                     }, cert.id, true, {
                         fileName: "[project]/components/sertif.tsx",
-                        lineNumber: 19,
+                        lineNumber: 20,
                         columnNumber: 11
                     }, ("TURBOPACK compile-time value", void 0)))
             }, void 0, false, {
                 fileName: "[project]/components/sertif.tsx",
-                lineNumber: 17,
+                lineNumber: 18,
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0))
         ]
     }, void 0, true, {
         fileName: "[project]/components/sertif.tsx",
-        lineNumber: 9,
+        lineNumber: 10,
         columnNumber: 5
     }, ("TURBOPACK compile-time value", void 0));
 };

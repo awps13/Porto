@@ -103,7 +103,7 @@ const seeMoreProjects = () => {
 
             <div className="grid sm:grid-cols-2 gap-5 text-center">
               <div>
-                <h1 className="font-semibold mb-2 text-white">Description</h1>
+                <h1 className="font-semibold mb-2 text-white">My Jobdesk</h1>
                 <p className="text-sm text-white">
                   {seeMoreProject.find((p) => p.id === openModule)?.description}
                 </p>
