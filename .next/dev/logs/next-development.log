@@ -1,15 +1,819 @@
-[00:00:02.507] Server  LOG      ✓ Ready in 1946ms
-[00:00:39.397] Server  LOG      ○ Compiling / ...
-[00:00:40.926] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:00:41.099] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:02:37.085] Server  LOG      ✓ Compiled in 630ms
-[00:02:37.697] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:02:38.438] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:05:00.908] Server  LOG      ✓ Compiled in 355ms
-[00:05:00.918] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./node_modules/next/dist/client/image-component.js changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
-[00:05:01.353] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:05:01.541] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:05:01.541] Browser WARN    Image with src "/contacts/linkedin.svg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+[00:00:06.559] Server  LOG      ✓ Ready in 4.8s
+[00:00:09.598] Server  LOG      ○ Compiling / ...
+[00:00:14.725] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:15.653] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:00:18.011] Browser WARN    Image with src "/Foto.jpeg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
 Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
-[00:05:01.541] Browser WARN    Image with src "/contacts/whatsapp.svg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+[00:00:18.011] Browser WARN    Image with src "/certifications/dicoding.jpeg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
 Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:01:26.739] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/aboutContacts.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:01:26.928] Server  LOG      ✓ Compiled in 152ms
+[00:01:27.535] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:01:28.486] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:01:29.003] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/aboutContacts.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:01:29.018] Server  LOG      ✓ Compiled in 111ms
+[00:01:29.846] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:01:30.147] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:01:30.148] Browser WARN    Image with src "/contacts/linkedin.svg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:01:30.148] Browser WARN    Image with src "/contacts/whatsapp.svg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:01:30.714] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/aboutContacts.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:01:30.735] Server  LOG      ✓ Compiled in 101ms
+[00:01:31.579] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:01:31.949] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:01:34.425] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/aboutContacts.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:01:34.446] Server  LOG      ✓ Compiled in 82ms
+[00:01:35.312] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:01:35.539] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/aboutContacts.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:01:35.540] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:01:35.540] Browser WARN    Image with src "/contacts/linkedin.svg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:01:35.540] Browser WARN    Image with src "/contacts/whatsapp.svg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:01:35.567] Server  LOG      ✓ Compiled in 39ms
+[00:01:36.266] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:01:36.458] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:02:06.237] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/aboutContacts.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:02:06.261] Server  LOG      ✓ Compiled in 73ms
+[00:02:07.409] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:02:07.711] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:03:13.252] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/project.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:03:13.268] Server  LOG      ✓ Compiled in 130ms
+[00:03:14.421] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:03:14.725] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:10:41.021] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/canvas.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:10:41.038] Server  LOG      ✓ Compiled in 72ms
+[00:10:41.982] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:10:42.953] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:10:44.521] Server  LOG      ✓ Compiled in 79ms
+[00:10:45.398] Browser ERROR   ./components/canvas.tsx:8:1
+Parsing ecmascript source code failed
+   6 | import 
+   7 |
+>  8 | const canvas = () => {
+     | ^^^^^
+   9 |   useEffect(() => {
+  10 |     initCursorRain();
+  11 |   }, []);
+
+Expected 'from', got 'const'
+
+Import traces:
+  Client Component Browser:
+    ./components/canvas.tsx [Client Component Browser]
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./components/canvas.tsx [Client Component SSR]
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+[00:10:47.829] Server  LOG      ✓ Compiled in 74ms
+[00:10:48.766] Browser ERROR   ./components/canvas.tsx:8:1
+Parsing ecmascript source code failed
+   6 | import Alert
+   7 |
+>  8 | const canvas = () => {
+     | ^^^^^
+   9 |   useEffect(() => {
+  10 |     initCursorRain();
+  11 |   }, []);
+
+Expected ',', got 'const'
+
+Import traces:
+  Client Component Browser:
+    ./components/canvas.tsx [Client Component Browser]
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./components/canvas.tsx [Client Component SSR]
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+[00:10:50.798] Server  LOG      ✓ Compiled in 75ms
+[00:10:51.725] Browser ERROR   ./components/canvas.tsx:8:1
+Parsing ecmascript source code failed
+   6 | import Alert from 
+   7 |
+>  8 | const canvas = () => {
+     | ^^^^^
+   9 |   useEffect(() => {
+  10 |     initCursorRain();
+  11 |   }, []);
+
+Unexpected token `const`. Expected a string literal
+
+Import traces:
+  Client Component Browser:
+    ./components/canvas.tsx [Client Component Browser]
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./components/canvas.tsx [Client Component SSR]
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+[00:10:51.880] Server  LOG      ✓ Compiled in 87ms
+[00:10:52.156] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/canvas.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:10:53.016] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:10:53.946] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:10:56.527] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/canvas.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:10:57.204] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:10:58.174] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:11:00.227] Browser WARN    Image with src "/Foto.jpeg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:11:00.227] Browser WARN    Image with src "/certifications/dicoding.jpeg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:11:07.406] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/alert.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:11:07.557] Server  LOG      ✓ Compiled in 39ms
+[00:11:08.120] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:11:09.098] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:11:09.626] Browser WARN    Image with src "/Foto.jpeg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:11:09.626] Browser WARN    Image with src "/certifications/dicoding.jpeg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:11:09.786] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/alert.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:11:09.805] Server  LOG      ✓ Compiled in 145ms
+[00:11:10.550] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:11:10.733] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:11:13.747] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/alert.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:11:14.035] Server  LOG      ✓ Compiled in 82ms
+[00:11:14.610] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:11:15.546] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:11:23.075] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/alert.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:11:23.096] Server  LOG      ✓ Compiled in 89ms
+[00:11:23.969] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:11:24.934] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:11:26.410] Browser WARN    Image with src "/Foto.jpeg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:11:26.410] Browser WARN    Image with src "/certifications/dicoding.jpeg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:11:26.900] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/alert.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:11:26.921] Server  LOG      ✓ Compiled in 84ms
+[00:11:27.740] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:11:27.909] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:11:34.111] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/alert.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:11:34.133] Server  LOG      ✓ Compiled in 83ms
+[00:11:34.876] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:11:36.892] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:11:41.289] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/alert.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:11:41.464] Server  LOG      ✓ Compiled in 87ms
+[00:11:42.120] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:11:42.300] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:11:50.364] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/alert.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:11:50.384] Server  LOG      ✓ Compiled in 96ms
+[00:11:51.176] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:11:52.128] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:11:53.393] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/alert.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:11:53.415] Server  LOG      ✓ Compiled in 65ms
+[00:11:54.629] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:11:55.263] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/alert.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:11:55.264] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:11:55.286] Server  LOG      ✓ Compiled in 111ms
+[00:11:55.995] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:11:56.183] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:12:14.716] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/alert.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:12:14.878] Server  LOG      ✓ Compiled in 55ms
+[00:12:15.500] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:12:16.442] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:12:34.634] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/alert.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:12:34.655] Server  LOG      ✓ Compiled in 127ms
+[00:12:35.680] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:12:36.637] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:12:38.643] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/alert.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:12:38.812] Server  LOG      ✓ Compiled in 34ms
+[00:12:39.375] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:12:40.295] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:12:57.416] Server  LOG      ✓ Compiled in 78ms
+[00:12:58.306] Browser ERROR   ./components/alert.tsx:10:10
+Parsing ecmascript source code failed
+   8 |   return (
+   9 |     showAlert
+> 10 |     <div className="absolute text-white bg-black/80 p-4 rounded-lg items-center">
+     |          ^^^^^^^^^
+  11 |       <h1>Bukanya di Handphone atau PC dulu ya, belum bisa di tablet. Akan aku update secepatnya agar bisa responsive ygy</h1>
+  12 |     </div>
+  13 |   );
+
+Expected ',', got 'className'
+
+Import traces:
+  Client Component Browser:
+    ./components/alert.tsx [Client Component Browser]
+    ./components/canvas.tsx [Client Component Browser]
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./components/alert.tsx [Client Component SSR]
+    ./components/canvas.tsx [Client Component SSR]
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+[00:13:01.023] Server  LOG      ✓ Compiled in 79ms
+[00:13:01.916] Browser ERROR   ./components/alert.tsx:12:5
+Parsing ecmascript source code failed
+  10 |         
+  11 |     )
+> 12 |     <div className="absolute text-white bg-black/80 p-4 rounded-lg items-center">
+     |     ^
+  13 |       <h1>Bukanya di Handphone atau PC dulu ya, belum bisa di tablet. Akan aku update secepatnya agar bisa responsive ygy</h1>
+  14 |     </div>
+  15 |   );
+
+Expression expected
+
+Import traces:
+  Client Component Browser:
+    ./components/alert.tsx [Client Component Browser]
+    ./components/canvas.tsx [Client Component Browser]
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./components/alert.tsx [Client Component SSR]
+    ./components/canvas.tsx [Client Component SSR]
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+[00:13:05.400] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/alert.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:13:06.082] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:13:07.026] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:13:16.372] Browser WARN    Image with src "/Foto.jpeg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:13:16.372] Browser WARN    Image with src "/certifications/dicoding.jpeg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:13:26.152] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/alert.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:13:26.154] Server  LOG      ✓ Compiled in 145ms
+[00:13:26.965] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:13:27.985] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:13:29.118] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/alert.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:13:29.136] Server  LOG      ✓ Compiled in 99ms
+[00:13:30.036] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:13:30.199] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:13:47.924] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:13:48.127] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:13:57.291] Server  LOG      ✓ Compiled in 109ms
+[00:13:58.148] Browser ERROR   ./components/alert.tsx:13:12
+Parsing ecmascript source code failed
+  11 |             
+  12 |         </div>
+> 13 |       <div className="absolute text-white bg-black/80 p-4 rounded-lg items-center">
+     |            ^^^^^^^^^
+  14 |         <h1>
+  15 |           Bukanya di Handphone atau PC dulu ya, belum bisa di tablet. Akan aku
+  16 |           update secepatnya agar bisa responsive ygy
+
+Expected ',', got 'className'
+
+Import traces:
+  Client Component Browser:
+    ./components/alert.tsx [Client Component Browser]
+    ./components/canvas.tsx [Client Component Browser]
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./components/alert.tsx [Client Component SSR]
+    ./components/canvas.tsx [Client Component SSR]
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+[00:14:00.088] Server  LOG      ✓ Compiled in 86ms
+[00:14:00.479] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/alert.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:14:00.503] Server  LOG      ✓ Compiled in 59ms
+[00:14:01.255] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:14:02.216] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:14:04.684] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/alert.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:14:04.710] Server  LOG      ✓ Compiled in 89ms
+[00:14:05.683] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:14:06.567] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/alert.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:14:06.567] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:14:06.590] Server  LOG      ✓ Compiled in 59ms
+[00:14:07.323] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:14:08.288] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:14:08.825] Browser WARN    Image with src "/Foto.jpeg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:14:08.826] Browser WARN    Image with src "/certifications/dicoding.jpeg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:14:13.707] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/alert.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:14:13.727] Server  LOG      ✓ Compiled in 81ms
+[00:14:14.504] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:14:15.417] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:14:17.460] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/alert.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:14:17.481] Server  LOG      ✓ Compiled in 75ms
+[00:14:18.322] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:14:18.650] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:14:18.650] Browser WARN    Image with src "/contacts/linkedin.svg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:14:18.650] Browser WARN    Image with src "/contacts/whatsapp.svg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:14:19.189] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/alert.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:14:19.212] Server  LOG      ✓ Compiled in 65ms
+[00:14:19.993] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:14:20.191] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:14:25.283] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/alert.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:14:25.411] Server  LOG      ✓ Compiled in 27ms
+[00:14:25.970] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:14:27.625] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:14:27.625] Browser WARN    Image with src "/Foto.jpeg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:14:27.625] Browser WARN    Image with src "/certifications/dicoding.jpeg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:14:27.899] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/alert.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:14:27.922] Server  LOG      ✓ Compiled in 62ms
+[00:14:28.678] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:14:28.923] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:14:36.301] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/alert.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:14:36.320] Server  LOG      ✓ Compiled in 70ms
+[00:14:37.159] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:14:37.394] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:14:50.503] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:14:50.680] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:14:57.139] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/alert.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:14:57.160] Server  LOG      ✓ Compiled in 72ms
+[00:14:57.805] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:14:58.724] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:15:03.183] Browser WARN    Image with src "/Foto.jpeg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:15:03.183] Browser WARN    Image with src "/certifications/dicoding.jpeg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:15:09.761] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/alert.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:15:09.887] Server  LOG      ✓ Compiled in 32ms
+[00:15:10.422] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:15:11.370] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:15:12.640] Browser WARN    Image with src "/Foto.jpeg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:15:12.640] Browser WARN    Image with src "/certifications/dicoding.jpeg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:15:12.771] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/alert.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:15:12.923] Server  LOG      ✓ Compiled in 81ms
+[00:15:13.517] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:15:13.766] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:15:26.452] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/alert.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:15:26.468] Server  LOG      ✓ Compiled in 97ms
+[00:15:26.681] Server  ERROR   Received `true` for a non-boolean attribute `clas`.
+
+If you want to write it to the DOM, pass a string instead: clas="true" or clas={value.toString()}.
+[00:15:27.179] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:15:27.879] Server  LOG      ✓ Compiled in 101ms
+[00:15:27.886] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/alert.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:15:27.887] Browser ERROR   Received `%s` for a non-boolean attribute `%s`.
+
+If you want to write it to the DOM, pass a string instead: %s="%s" or %s={value.toString()}. true clas clas true clas
+[00:15:27.887] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:15:28.629] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:15:29.546] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:15:33.885] Browser WARN    Image with src "/Foto.jpeg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:15:33.885] Browser WARN    Image with src "/certifications/dicoding.jpeg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:15:34.538] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/alert.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:15:34.656] Server  LOG      ✓ Compiled in 41ms
+[00:15:35.232] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:15:35.404] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:15:41.968] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/alert.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:15:41.988] Server  LOG      ✓ Compiled in 83ms
+[00:15:42.703] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:15:43.591] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:15:43.591] Browser WARN    Image with src "/contacts/linkedin.svg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:15:43.591] Browser WARN    Image with src "/contacts/whatsapp.svg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:15:43.817] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/alert.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:15:43.962] Server  LOG      ✓ Compiled in 44ms
+[00:15:44.505] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:15:44.815] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:15:50.275] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/alert.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:15:50.295] Server  LOG      ✓ Compiled in 164ms
+[00:15:51.162] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:15:51.413] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:15:57.329] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/alert.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:15:57.348] Server  LOG      ✓ Compiled in 88ms
+[00:15:58.205] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:15:58.481] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:16:19.477] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/alert.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:16:19.498] Server  LOG      ✓ Compiled in 67ms
+[00:16:20.488] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:16:21.449] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:16:21.449] Browser WARN    Image with src "/Foto.jpeg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:16:21.449] Browser WARN    Image with src "/certifications/dicoding.jpeg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:16:21.853] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/alert.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:16:21.868] Server  LOG      ✓ Compiled in 83ms
+[00:16:22.555] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:16:22.837] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:16:30.446] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/alert.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:16:30.585] Server  LOG      ✓ Compiled in 33ms
+[00:16:31.239] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:16:32.268] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:16:38.614] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/alert.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:16:38.635] Server  LOG      ✓ Compiled in 96ms
+[00:16:39.344] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:16:40.297] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:16:42.876] Browser WARN    Image with src "/Foto.jpeg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:16:42.878] Browser WARN    Image with src "/certifications/dicoding.jpeg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:16:42.954] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/alert.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:16:43.098] Server  LOG      ✓ Compiled in 92ms
+[00:16:43.642] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:16:43.867] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:17:05.726] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/alert.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:17:05.747] Server  LOG      ✓ Compiled in 71ms
+[00:17:06.638] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:17:06.934] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:17:14.694] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/alert.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:17:14.714] Server  LOG      ✓ Compiled in 96ms
+[00:17:15.716] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:17:15.974] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:18:22.753] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/alert.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:18:22.897] Server  LOG      ✓ Compiled in 46ms
+[00:18:23.584] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:18:24.091] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/alert.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:18:24.092] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:18:24.118] Server  LOG      ✓ Compiled in 95ms
+[00:18:24.942] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:18:25.452] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/alert.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:18:25.453] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:18:25.476] Server  LOG      ✓ Compiled in 78ms
+[00:18:26.357] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:18:27.253] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:18:29.087] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/alert.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:18:29.108] Server  LOG      ✓ Compiled in 188ms
+[00:18:29.893] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:18:30.581] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/alert.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:18:30.582] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:18:30.603] Server  LOG      ✓ Compiled in 193ms
+[00:18:31.217] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:18:32.178] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:18:37.068] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/alert.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:18:37.089] Server  LOG      ✓ Compiled in 82ms
+[00:18:37.959] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:18:38.234] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/alert.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:18:38.234] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:18:38.265] Server  LOG      ✓ Compiled in 59ms
+[00:18:39.359] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:18:41.343] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:18:42.980] Browser WARN    Image with src "/Foto.jpeg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:18:42.980] Browser WARN    Image with src "/certifications/dicoding.jpeg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:20:56.198] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/alert.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:20:56.343] Server  LOG      ✓ Compiled in 33ms
+[00:20:57.146] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:20:57.293] Browser WARN    Image with src "/Foto.jpeg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:20:57.293] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:21:05.381] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:21:05.575] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:23:40.319] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/alert.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:23:40.337] Server  LOG      ✓ Compiled in 86ms
+[00:23:41.524] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:23:42.521] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:23:46.652] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/alert.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:23:46.671] Server  LOG      ✓ Compiled in 86ms
+[00:23:47.650] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:23:48.676] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:23:51.673] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/alert.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:23:51.693] Server  LOG      ✓ Compiled in 39ms
+[00:23:53.049] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:23:53.271] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:23:55.620] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:23:55.839] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:24:10.462] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/alert.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:24:10.481] Server  LOG      ✓ Compiled in 68ms
+[00:24:11.376] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:24:12.397] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:24:13.177] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/alert.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:24:13.178] Browser WARN    Image with src "/Foto.jpeg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:24:13.201] Server  LOG      ✓ Compiled in 118ms
+[00:24:14.454] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:24:14.677] Browser WARN    Image with src "/Foto.jpeg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:24:14.677] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:24:29.134] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/alert.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:24:29.152] Server  LOG      ✓ Compiled in 68ms
+[00:24:30.106] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:24:31.097] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:24:32.912] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/alert.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:24:32.935] Server  LOG      ✓ Compiled in 77ms
+[00:24:33.707] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:24:34.312] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/alert.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:24:34.313] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:24:34.327] Server  LOG      ✓ Compiled in 82ms
+[00:24:35.200] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:24:35.775] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/alert.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:24:35.776] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:24:35.780] Server  LOG      ✓ Compiled in 70ms
+[00:24:36.771] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:24:38.755] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:24:39.460] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/alert.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:24:39.479] Server  LOG      ✓ Compiled in 72ms
+[00:24:40.199] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:24:41.167] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:24:42.685] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/alert.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:24:42.705] Server  LOG      ✓ Compiled in 88ms
+[00:24:43.663] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:24:43.916] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/alert.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:24:43.916] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:24:43.916] Browser WARN    Image with src "/Foto.jpeg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:24:44.065] Server  LOG      ✓ Compiled in 51ms
+[00:24:45.039] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:24:45.039] Browser WARN    Image with src "/Foto.jpeg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:24:45.158] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:25:06.022] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/alert.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:25:06.046] Server  LOG      ✓ Compiled in 40ms
+[00:25:07.007] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:25:08.026] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:25:08.388] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/alert.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:25:08.411] Server  LOG      ✓ Compiled in 57ms
+[00:25:09.077] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:25:10.105] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:25:10.884] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/alert.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:25:10.905] Server  LOG      ✓ Compiled in 75ms
+[00:25:11.642] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:25:12.670] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:25:17.621] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/alert.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:25:17.640] Server  LOG      ✓ Compiled in 73ms
+[00:25:18.566] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:25:20.516] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/alert.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:25:20.516] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:25:20.534] Server  LOG      ✓ Compiled in 137ms
+[00:25:21.353] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:25:21.745] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/alert.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:25:21.745] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:25:21.767] Server  LOG      ✓ Compiled in 124ms
+[00:25:22.596] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:25:23.621] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:25:27.278] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/alert.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:25:27.293] Server  LOG      ✓ Compiled in 106ms
+[00:25:28.114] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:25:29.065] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:25:32.423] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/alert.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:25:32.445] Server  LOG      ✓ Compiled in 106ms
+[00:25:33.141] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:25:34.150] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:25:37.107] Browser WARN    Image with src "/Foto.jpeg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:26:01.427] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/alert.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:26:01.452] Server  LOG      ✓ Compiled in 42ms
+[00:26:02.401] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:26:03.354] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:26:04.070] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/alert.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:26:04.203] Server  LOG      ✓ Compiled in 99ms
+[00:26:04.652] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:26:05.690] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:26:22.595] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/alert.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:26:22.740] Server  LOG      ✓ Compiled in 43ms
+[00:26:23.229] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:26:24.189] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:26:26.135] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/alert.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:26:26.159] Server  LOG      ✓ Compiled in 86ms
+[00:26:27.111] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:26:27.558] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/alert.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:26:27.558] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:26:27.580] Server  LOG      ✓ Compiled in 65ms
+[00:26:28.409] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:26:29.306] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:26:29.962] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/alert.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:26:29.981] Server  LOG      ✓ Compiled in 124ms
+[00:26:30.668] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:26:31.684] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:26:31.798] Server  LOG      ✓ Compiled in 83ms
+[00:26:31.806] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/alert.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:26:32.678] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:26:32.922] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:26:45.488] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/alert.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:26:45.508] Server  LOG      ✓ Compiled in 72ms
+[00:26:46.600] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:26:46.792] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:26:52.665] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/alert.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:26:52.860] Server  LOG      ✓ Compiled in 57ms
+[00:26:53.450] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:26:53.746] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:27:05.819] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/alert.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:27:05.837] Server  LOG      ✓ Compiled in 71ms
+[00:27:06.607] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:27:06.920] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:27:07.039] Browser WARN    Image with src "/contacts/linkedin.svg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:27:07.039] Browser WARN    Image with src "/contacts/whatsapp.svg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:27:07.714] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/alert.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:27:07.736] Server  LOG      ✓ Compiled in 75ms
+[00:27:08.723] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:27:09.002] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:27:55.362] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/alert.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:27:55.379] Server  LOG      ✓ Compiled in 77ms
+[00:27:56.229] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:27:56.413] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:28:01.606] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:28:01.800] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:28:56.095] Server  LOG      ✓ Compiled in 182ms
+[00:28:56.109] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/alert.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:28:57.289] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:28:57.473] Browser WARN    Image with src "/Foto.jpeg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:28:57.473] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:29:54.981] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/alert.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:29:55.003] Server  LOG      ✓ Compiled in 130ms
+[00:29:55.886] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:29:56.137] Browser WARN    Image with src "/Foto.jpeg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:29:56.137] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:30:05.123] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/alert.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:30:05.141] Server  LOG      ✓ Compiled in 80ms
+[00:30:06.181] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:30:06.445] Browser WARN    Image with src "/Foto.jpeg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:30:06.445] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:30:17.127] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/alert.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:30:17.146] Server  LOG      ✓ Compiled in 76ms
+[00:30:18.142] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:30:18.340] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:30:41.806] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/alert.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:30:41.824] Server  LOG      ✓ Compiled in 72ms
+[00:30:42.770] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:30:42.969] Browser WARN    Image with src "/Foto.jpeg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:30:42.969] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:30:51.078] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/alert.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:30:51.098] Server  LOG      ✓ Compiled in 73ms
+[00:30:52.053] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:30:52.263] Browser WARN    Image with src "/Foto.jpeg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:30:52.263] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:30:56.277] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/alert.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:30:56.299] Server  LOG      ✓ Compiled in 73ms
+[00:30:57.086] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:30:58.123] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:31:04.649] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/alert.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:31:04.672] Server  LOG      ✓ Compiled in 68ms
+[00:31:05.549] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:31:06.097] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:31:06.241] Browser WARN    Image with src "/Foto.jpeg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:31:06.976] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/alert.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:31:07.002] Server  LOG      ✓ Compiled in 181ms
+[00:31:07.885] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:31:08.068] Browser WARN    Image with src "/Foto.jpeg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:31:08.068] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:31:22.547] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/alert.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:31:22.567] Server  LOG      ✓ Compiled in 82ms
+[00:31:23.459] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:31:23.641] Browser WARN    Image with src "/Foto.jpeg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:31:23.641] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:31:34.367] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:31:34.606] Browser WARN    Image with src "/Foto.jpeg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:31:34.606] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:32:01.186] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/alert.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:32:01.328] Server  LOG      ✓ Compiled in 39ms
+[00:32:01.994] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:32:02.883] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/alert.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:32:02.884] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:32:02.905] Server  LOG      ✓ Compiled in 93ms
+[00:32:04.013] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:32:04.190] Browser WARN    Image with src "/Foto.jpeg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:32:04.190] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:32:14.125] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/alert.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:32:14.142] Server  LOG      ✓ Compiled in 86ms
+[00:32:15.051] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:32:15.295] Browser WARN    Image with src "/Foto.jpeg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:32:15.295] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:32:24.266] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/alert.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:32:24.285] Server  LOG      ✓ Compiled in 80ms
+[00:32:25.219] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:32:25.450] Browser WARN    Image with src "/Foto.jpeg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:32:25.450] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:32:29.660] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/alert.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:32:29.676] Server  LOG      ✓ Compiled in 144ms
+[00:32:30.583] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:32:31.536] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:32:31.536] Browser WARN    Image with src "/Foto.jpeg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:32:31.967] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/alert.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:32:31.986] Server  LOG      ✓ Compiled in 78ms
+[00:32:32.773] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:32:33.010] Browser WARN    Image with src "/Foto.jpeg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:32:33.010] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:32:38.478] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/alert.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:32:38.499] Server  LOG      ✓ Compiled in 76ms
+[00:32:39.181] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:32:41.218] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:33:02.426] Browser WARN    Image with src "/Foto.jpeg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:33:02.678] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/alert.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:33:02.696] Server  LOG      ✓ Compiled in 40ms
+[00:33:03.534] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:33:03.708] Browser WARN    Image with src "/Foto.jpeg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:33:03.708] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:33:30.388] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/alert.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:33:30.412] Server  LOG      ✓ Compiled in 39ms
+[00:33:31.405] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:33:32.397] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:33:35.908] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/alert.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:33:36.042] Server  LOG      ✓ Compiled in 44ms
+[00:33:36.678] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:33:37.706] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:33:39.341] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/alert.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:33:39.499] Server  LOG      ✓ Compiled in 39ms
+[00:33:40.127] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:33:41.157] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:33:42.249] Browser WARN    Image with src "/Foto.jpeg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:33:42.654] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/alert.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:33:42.789] Server  LOG      ✓ Compiled in 39ms
+[00:33:43.390] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:33:43.580] Browser WARN    Image with src "/Foto.jpeg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:33:43.580] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:33:46.184] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/alert.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:33:46.208] Server  LOG      ✓ Compiled in 191ms
+[00:33:47.032] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:33:48.059] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:33:51.500] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/alert.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:33:51.522] Server  LOG      ✓ Compiled in 100ms
+[00:33:52.487] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:33:52.782] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:33:52.885] Browser WARN    Image with src "/Foto.jpeg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:33:57.839] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/alert.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:33:57.858] Server  LOG      ✓ Compiled in 77ms
+[00:33:58.772] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:33:59.800] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:34:01.404] Browser WARN    Image with src "/Foto.jpeg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:34:01.892] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/alert.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:34:01.913] Server  LOG      ✓ Compiled in 81ms
+[00:34:02.809] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:34:03.037] Browser WARN    Image with src "/Foto.jpeg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:34:03.037] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:34:07.988] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/alert.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:34:08.007] Server  LOG      ✓ Compiled in 81ms
+[00:34:08.903] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:34:09.645] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:34:09.803] Browser WARN    Image with src "/Foto.jpeg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:34:10.295] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/alert.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:34:10.319] Server  LOG      ✓ Compiled in 153ms
+[00:34:11.187] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:34:11.484] Browser WARN    Image with src "/Foto.jpeg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:34:11.484] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:34:15.185] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/alert.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:34:15.204] Server  LOG      ✓ Compiled in 74ms
+[00:34:16.001] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:34:16.199] Browser WARN    Image with src "/Foto.jpeg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:34:16.199] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:34:19.640] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/alert.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:34:19.772] Server  LOG      ✓ Compiled in 36ms
+[00:34:20.298] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:34:20.491] Browser WARN    Image with src "/Foto.jpeg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:34:20.491] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:34:26.876] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/alert.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:34:26.900] Server  LOG      ✓ Compiled in 59ms
+[00:34:27.611] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:34:27.783] Browser WARN    Image with src "/Foto.jpeg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:34:27.783] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:34:30.579] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/alert.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:34:30.606] Server  LOG      ✓ Compiled in 37ms
+[00:34:31.274] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:34:31.470] Browser WARN    Image with src "/Foto.jpeg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:34:31.471] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:35:33.469] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/alert.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:35:33.495] Server  LOG      ✓ Compiled in 119ms
+[00:35:34.356] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:35:34.558] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:35:42.596] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/alert.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:35:42.731] Server  LOG      ✓ Compiled in 110ms
+[00:35:43.311] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:35:43.578] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:35:43.578] Browser WARN    Image with src "/contacts/linkedin.svg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:35:43.578] Browser WARN    Image with src "/contacts/whatsapp.svg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:35:44.264] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/alert.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:35:44.413] Server  LOG      ✓ Compiled in 56ms
+[00:35:44.975] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:35:45.194] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:36:05.233] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:36:05.445] Browser WARN    Image with src "/Foto.jpeg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:36:05.445] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.

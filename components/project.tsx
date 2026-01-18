@@ -8,7 +8,7 @@ const project = () => {
   const [openModule, setOpenModule] = useState<number | null>(null);
   return (
     <div>
-      <div className="flex flex-col sm:flex-row sm:justify-between gap-3 sm:gap-0 mt-3 sm:items-center">
+      <div className="flex flex-col sm:flex-row sm:justify-between gap-3 sm:gap-0 mt-0 sm:items-center">
         <h1 className="font-semibold underline text-sm md:text-base text-[2rem] sm:text-[1rem]">
           PROJECTS
         </h1>

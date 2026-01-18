@@ -4,7 +4,7 @@ import Image from "next/image";
 const aboutContacts = () => {
   return (
     <div>
-      <div className="mt-5">
+      <div className="mt-3">
         <h1 className="underline font-semibold text-[2rem] sm:text-[1rem]">ABOUT ME</h1>
         <p className="text-justify mt-2 tracking-wide">
           I am an Informatics Engineering student at Universitas Negeri Malang
