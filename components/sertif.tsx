@@ -9,7 +9,7 @@ const sertif = () => {
   return (
     <div className="mt-5">
       <div className="flex flex-col sm:flex-row sm:justify-between gap-5 sm:gap-0 sm:items-center">
-        <h1 className="font-semibold underline text-sm md:text-base text-[2rem] sm:text-[1rem] sm:mt-0 mt-5">
+        <h1 className="underline font-semibold  sm:text-[1rem] xl:text-base 2xl:text-[3rem]">
           CERTIFICATES
         </h1>
         <SeeMoreSertif />

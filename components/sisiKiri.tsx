@@ -1,31 +1,31 @@
 const sisiKiri = () => {
   return (
-    <div className="text-center my-auto p-2 md:p-5 text-xs md:text-base">
-      <p>U</p>
-      <p>N</p>
-      <p>I</p>
-      <p>V</p>
-      <p>E</p>
-      <p>R</p>
-      <p>S</p>
-      <p>I</p>
-      <p>T</p>
-      <p>A</p>
-      <p>S</p>
+    <div className="text-center my-auto p-2 md:p-5 md:text-base">
+      <p className="xl:text-l 2xl:text-3xl">U</p>
+      <p className="xl:text-l 2xl:text-3xl">N</p>
+      <p className="xl:text-l 2xl:text-3xl">I</p>
+      <p className="xl:text-l 2xl:text-3xl">V</p>
+      <p className="xl:text-l 2xl:text-3xl">E</p>
+      <p className="xl:text-l 2xl:text-3xl">R</p>
+      <p className="xl:text-l 2xl:text-3xl">S</p>
+      <p className="xl:text-l 2xl:text-3xl">I</p>
+      <p className="xl:text-l 2xl:text-3xl">T</p>
+      <p className="xl:text-l 2xl:text-3xl">A</p>
+      <p className="xl:text-l 2xl:text-3xl">S</p>
       <br />
-      <p>N</p>
-      <p>E</p>
-      <p>G</p>
-      <p>E</p>
-      <p>R</p>
-      <p>I</p>
+      <p className="xl:text-l 2xl:text-3xl">N</p>
+      <p className="xl:text-l 2xl:text-3xl">E</p>
+      <p className="xl:text-l 2xl:text-3xl">G</p>
+      <p className="xl:text-l 2xl:text-3xl">E</p>
+      <p className="xl:text-l 2xl:text-3xl">R</p>
+      <p className="xl:text-l 2xl:text-3xl">I</p>
       <br />
-      <p>M</p>
-      <p>A</p>
-      <p>L</p>
-      <p>A</p>
-      <p>N</p>
-      <p>G</p>
+      <p className="xl:text-l 2xl:text-3xl">M</p>
+      <p className="xl:text-l 2xl:text-3xl">A</p>
+      <p className="xl:text-l 2xl:text-3xl">L</p>
+      <p className="xl:text-l 2xl:text-3xl">A</p>
+      <p className="xl:text-l 2xl:text-3xl">N</p>
+      <p className="xl:text-l 2xl:text-3xl">G</p>
     </div>
   );
 };

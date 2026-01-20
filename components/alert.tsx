@@ -16,7 +16,7 @@ const alert = () => {
     bg-black p-4 sm:p-6
     text-center border shadow-[5px_5px_0_#fff]"
         >
-          <h1 className="font-bold text-3xl mb-3">PENGUMUMAN</h1>
+          <h1 className="underline font-semibold  sm:text-[1rem] xl:text-3xl 2xl:text-[3rem] mb-3">PENGUMUMAN</h1>
           <h1>
             Bukanya di Handphone atau PC dulu ya, belum bisa di tablet. Akan aku
             update secepatnya agar bisa responsive ygy

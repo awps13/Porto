@@ -3,27 +3,27 @@ import React from "react";
 const sisiKanan = () => {
   return (
     <div className="text-center my-auto p-2 md:p-5 text-xs md:text-base">
-      <p>S</p>
-      <p>1</p>
+      <p className="xl:text-l 2xl:text-3xl">S</p>
+      <p className="xl:text-l 2xl:text-3xl">1</p>
       <br />
-      <p>T</p>
-      <p>E</p>
-      <p>K</p>
-      <p>N</p>
-      <p>I</p>
-      <p>K</p>
+      <p className="xl:text-l 2xl:text-3xl">T</p>
+      <p className="xl:text-l 2xl:text-3xl">E</p>
+      <p className="xl:text-l 2xl:text-3xl">K</p>
+      <p className="xl:text-l 2xl:text-3xl">N</p>
+      <p className="xl:text-l 2xl:text-3xl">I</p>
+      <p className="xl:text-l 2xl:text-3xl">K</p>
       <br />
-      <p>I</p>
-      <p>N</p>
-      <p>F</p>
-      <p>O</p>
-      <p>R</p>
-      <p>M</p>
-      <p>A</p>
-      <p>T</p>
-      <p>I</p>
-      <p>K</p>
-      <p>A</p>
+      <p className="xl:text-l 2xl:text-3xl">I</p>
+      <p className="xl:text-l 2xl:text-3xl">N</p>
+      <p className="xl:text-l 2xl:text-3xl">F</p>
+      <p className="xl:text-l 2xl:text-3xl">O</p>
+      <p className="xl:text-l 2xl:text-3xl">R</p>
+      <p className="xl:text-l 2xl:text-3xl">M</p>
+      <p className="xl:text-l 2xl:text-3xl">A</p>
+      <p className="xl:text-l 2xl:text-3xl">T</p>
+      <p className="xl:text-l 2xl:text-3xl">I</p>
+      <p className="xl:text-l 2xl:text-3xl">K</p>
+      <p className="xl:text-l 2xl:text-3xl">A</p>
     </div>
   );
 };

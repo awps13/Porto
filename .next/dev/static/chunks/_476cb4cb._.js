@@ -142,9 +142,10 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist
 ;
 const sisiKiri = ()=>{
     return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-        className: "text-center my-auto p-2 md:p-5 text-xs md:text-base",
+        className: "text-center my-auto p-2 md:p-5 md:text-base",
         children: [
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                className: "xl:text-l 2xl:text-3xl",
                 children: "U"
             }, void 0, false, {
                 fileName: "[project]/components/sisiKiri.tsx",
@@ -152,6 +153,7 @@ const sisiKiri = ()=>{
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                className: "xl:text-l 2xl:text-3xl",
                 children: "N"
             }, void 0, false, {
                 fileName: "[project]/components/sisiKiri.tsx",
@@ -159,6 +161,7 @@ const sisiKiri = ()=>{
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                className: "xl:text-l 2xl:text-3xl",
                 children: "I"
             }, void 0, false, {
                 fileName: "[project]/components/sisiKiri.tsx",
@@ -166,6 +169,7 @@ const sisiKiri = ()=>{
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                className: "xl:text-l 2xl:text-3xl",
                 children: "V"
             }, void 0, false, {
                 fileName: "[project]/components/sisiKiri.tsx",
@@ -173,6 +177,7 @@ const sisiKiri = ()=>{
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                className: "xl:text-l 2xl:text-3xl",
                 children: "E"
             }, void 0, false, {
                 fileName: "[project]/components/sisiKiri.tsx",
@@ -180,6 +185,7 @@ const sisiKiri = ()=>{
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                className: "xl:text-l 2xl:text-3xl",
                 children: "R"
             }, void 0, false, {
                 fileName: "[project]/components/sisiKiri.tsx",
@@ -187,6 +193,7 @@ const sisiKiri = ()=>{
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                className: "xl:text-l 2xl:text-3xl",
                 children: "S"
             }, void 0, false, {
                 fileName: "[project]/components/sisiKiri.tsx",
@@ -194,6 +201,7 @@ const sisiKiri = ()=>{
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                className: "xl:text-l 2xl:text-3xl",
                 children: "I"
             }, void 0, false, {
                 fileName: "[project]/components/sisiKiri.tsx",
@@ -201,6 +209,7 @@ const sisiKiri = ()=>{
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                className: "xl:text-l 2xl:text-3xl",
                 children: "T"
             }, void 0, false, {
                 fileName: "[project]/components/sisiKiri.tsx",
@@ -208,6 +217,7 @@ const sisiKiri = ()=>{
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                className: "xl:text-l 2xl:text-3xl",
                 children: "A"
             }, void 0, false, {
                 fileName: "[project]/components/sisiKiri.tsx",
@@ -215,6 +225,7 @@ const sisiKiri = ()=>{
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                className: "xl:text-l 2xl:text-3xl",
                 children: "S"
             }, void 0, false, {
                 fileName: "[project]/components/sisiKiri.tsx",
@@ -227,6 +238,7 @@ const sisiKiri = ()=>{
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                className: "xl:text-l 2xl:text-3xl",
                 children: "N"
             }, void 0, false, {
                 fileName: "[project]/components/sisiKiri.tsx",
@@ -234,6 +246,7 @@ const sisiKiri = ()=>{
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                className: "xl:text-l 2xl:text-3xl",
                 children: "E"
             }, void 0, false, {
                 fileName: "[project]/components/sisiKiri.tsx",
@@ -241,6 +254,7 @@ const sisiKiri = ()=>{
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                className: "xl:text-l 2xl:text-3xl",
                 children: "G"
             }, void 0, false, {
                 fileName: "[project]/components/sisiKiri.tsx",
@@ -248,6 +262,7 @@ const sisiKiri = ()=>{
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                className: "xl:text-l 2xl:text-3xl",
                 children: "E"
             }, void 0, false, {
                 fileName: "[project]/components/sisiKiri.tsx",
@@ -255,6 +270,7 @@ const sisiKiri = ()=>{
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                className: "xl:text-l 2xl:text-3xl",
                 children: "R"
             }, void 0, false, {
                 fileName: "[project]/components/sisiKiri.tsx",
@@ -262,6 +278,7 @@ const sisiKiri = ()=>{
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                className: "xl:text-l 2xl:text-3xl",
                 children: "I"
             }, void 0, false, {
                 fileName: "[project]/components/sisiKiri.tsx",
@@ -274,6 +291,7 @@ const sisiKiri = ()=>{
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                className: "xl:text-l 2xl:text-3xl",
                 children: "M"
             }, void 0, false, {
                 fileName: "[project]/components/sisiKiri.tsx",
@@ -281,6 +299,7 @@ const sisiKiri = ()=>{
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                className: "xl:text-l 2xl:text-3xl",
                 children: "A"
             }, void 0, false, {
                 fileName: "[project]/components/sisiKiri.tsx",
@@ -288,6 +307,7 @@ const sisiKiri = ()=>{
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                className: "xl:text-l 2xl:text-3xl",
                 children: "L"
             }, void 0, false, {
                 fileName: "[project]/components/sisiKiri.tsx",
@@ -295,6 +315,7 @@ const sisiKiri = ()=>{
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                className: "xl:text-l 2xl:text-3xl",
                 children: "A"
             }, void 0, false, {
                 fileName: "[project]/components/sisiKiri.tsx",
@@ -302,6 +323,7 @@ const sisiKiri = ()=>{
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                className: "xl:text-l 2xl:text-3xl",
                 children: "N"
             }, void 0, false, {
                 fileName: "[project]/components/sisiKiri.tsx",
@@ -309,6 +331,7 @@ const sisiKiri = ()=>{
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                className: "xl:text-l 2xl:text-3xl",
                 children: "G"
             }, void 0, false, {
                 fileName: "[project]/components/sisiKiri.tsx",
@@ -341,6 +364,7 @@ const sisiKanan = ()=>{
         className: "text-center my-auto p-2 md:p-5 text-xs md:text-base",
         children: [
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                className: "xl:text-l 2xl:text-3xl",
                 children: "S"
             }, void 0, false, {
                 fileName: "[project]/components/sisiKanan.tsx",
@@ -348,6 +372,7 @@ const sisiKanan = ()=>{
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                className: "xl:text-l 2xl:text-3xl",
                 children: "1"
             }, void 0, false, {
                 fileName: "[project]/components/sisiKanan.tsx",
@@ -360,6 +385,7 @@ const sisiKanan = ()=>{
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                className: "xl:text-l 2xl:text-3xl",
                 children: "T"
             }, void 0, false, {
                 fileName: "[project]/components/sisiKanan.tsx",
@@ -367,6 +393,7 @@ const sisiKanan = ()=>{
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                className: "xl:text-l 2xl:text-3xl",
                 children: "E"
             }, void 0, false, {
                 fileName: "[project]/components/sisiKanan.tsx",
@@ -374,6 +401,7 @@ const sisiKanan = ()=>{
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                className: "xl:text-l 2xl:text-3xl",
                 children: "K"
             }, void 0, false, {
                 fileName: "[project]/components/sisiKanan.tsx",
@@ -381,6 +409,7 @@ const sisiKanan = ()=>{
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                className: "xl:text-l 2xl:text-3xl",
                 children: "N"
             }, void 0, false, {
                 fileName: "[project]/components/sisiKanan.tsx",
@@ -388,6 +417,7 @@ const sisiKanan = ()=>{
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                className: "xl:text-l 2xl:text-3xl",
                 children: "I"
             }, void 0, false, {
                 fileName: "[project]/components/sisiKanan.tsx",
@@ -395,6 +425,7 @@ const sisiKanan = ()=>{
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                className: "xl:text-l 2xl:text-3xl",
                 children: "K"
             }, void 0, false, {
                 fileName: "[project]/components/sisiKanan.tsx",
@@ -407,6 +438,7 @@ const sisiKanan = ()=>{
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                className: "xl:text-l 2xl:text-3xl",
                 children: "I"
             }, void 0, false, {
                 fileName: "[project]/components/sisiKanan.tsx",
@@ -414,6 +446,7 @@ const sisiKanan = ()=>{
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                className: "xl:text-l 2xl:text-3xl",
                 children: "N"
             }, void 0, false, {
                 fileName: "[project]/components/sisiKanan.tsx",
@@ -421,6 +454,7 @@ const sisiKanan = ()=>{
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                className: "xl:text-l 2xl:text-3xl",
                 children: "F"
             }, void 0, false, {
                 fileName: "[project]/components/sisiKanan.tsx",
@@ -428,6 +462,7 @@ const sisiKanan = ()=>{
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                className: "xl:text-l 2xl:text-3xl",
                 children: "O"
             }, void 0, false, {
                 fileName: "[project]/components/sisiKanan.tsx",
@@ -435,6 +470,7 @@ const sisiKanan = ()=>{
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                className: "xl:text-l 2xl:text-3xl",
                 children: "R"
             }, void 0, false, {
                 fileName: "[project]/components/sisiKanan.tsx",
@@ -442,6 +478,7 @@ const sisiKanan = ()=>{
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                className: "xl:text-l 2xl:text-3xl",
                 children: "M"
             }, void 0, false, {
                 fileName: "[project]/components/sisiKanan.tsx",
@@ -449,6 +486,7 @@ const sisiKanan = ()=>{
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                className: "xl:text-l 2xl:text-3xl",
                 children: "A"
             }, void 0, false, {
                 fileName: "[project]/components/sisiKanan.tsx",
@@ -456,6 +494,7 @@ const sisiKanan = ()=>{
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                className: "xl:text-l 2xl:text-3xl",
                 children: "T"
             }, void 0, false, {
                 fileName: "[project]/components/sisiKanan.tsx",
@@ -463,6 +502,7 @@ const sisiKanan = ()=>{
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                className: "xl:text-l 2xl:text-3xl",
                 children: "I"
             }, void 0, false, {
                 fileName: "[project]/components/sisiKanan.tsx",
@@ -470,6 +510,7 @@ const sisiKanan = ()=>{
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                className: "xl:text-l 2xl:text-3xl",
                 children: "K"
             }, void 0, false, {
                 fileName: "[project]/components/sisiKanan.tsx",
@@ -477,6 +518,7 @@ const sisiKanan = ()=>{
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                className: "xl:text-l 2xl:text-3xl",
                 children: "A"
             }, void 0, false, {
                 fileName: "[project]/components/sisiKanan.tsx",
@@ -839,7 +881,7 @@ const project = ()=>{
                 className: "flex flex-col sm:flex-row sm:justify-between gap-3 sm:gap-0 mt-0 sm:items-center",
                 children: [
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h1", {
-                        className: "font-semibold underline text-sm md:text-base text-[2rem] sm:text-[1rem]",
+                        className: "underline font-semibold  sm:text-[1rem] xl:text-base 2xl:text-[3rem]",
                         children: "PROJECTS"
                     }, void 0, false, {
                         fileName: "[project]/components/project.tsx",
@@ -1106,7 +1148,7 @@ const navbar = ()=>{
                     width: 150,
                     height: 150,
                     alt: "passfoto",
-                    className: "w-[200px] h-[200px] sm:w-[150px] sm:h-[150px] object-cover"
+                    className: "w-[200px] h-[200px] sm:w-[150px] sm:h-[150px] object-cover 2xl:w-[300px] 2xl:h-[300px]"
                 }, void 0, false, {
                     fileName: "[project]/components/navbar.tsx",
                     lineNumber: 7,
@@ -1118,10 +1160,10 @@ const navbar = ()=>{
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                className: "p-3 sm:p-5 w-full sm:pr-0",
+                className: "p-3 sm:p-5 w-full sm:pr-0 flex flex-col justify-center",
                 children: [
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h1", {
-                        className: "lg:text-[3rem] font-semibold text-center sm:text-left text-[2rem]",
+                        className: "lg:text-[3rem] font-semibold text-center sm:text-left text-[2rem] 2xl:text-[5rem]",
                         children: "AHMAD WILDAN PUTRO SANTOSO"
                     }, void 0, false, {
                         fileName: "[project]/components/navbar.tsx",
@@ -1132,7 +1174,7 @@ const navbar = ()=>{
                         className: "flex flex-col sm:flex-row sm:justify-between sm:items-center gap-3 sm:gap-0 mt-2 sm:mt-0",
                         children: [
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
-                                className: "text-[1.2rem] sm:text-base lg:text-[1.5rem] underline text-center sm:text-left",
+                                className: "text-[1.2rem] sm:text-base lg:text-[1.5rem] underline text-center sm:text-left 2xl:text-[2.5rem]",
                                 children: "FRONT END DEVELOPER"
                             }, void 0, false, {
                                 fileName: "[project]/components/navbar.tsx",
@@ -1461,7 +1503,7 @@ const sertif = ()=>{
                 className: "flex flex-col sm:flex-row sm:justify-between gap-5 sm:gap-0 sm:items-center",
                 children: [
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h1", {
-                        className: "font-semibold underline text-sm md:text-base text-[2rem] sm:text-[1rem] sm:mt-0 mt-5",
+                        className: "underline font-semibold  sm:text-[1rem] xl:text-base 2xl:text-[3rem]",
                         children: "CERTIFICATES"
                     }, void 0, false, {
                         fileName: "[project]/components/sertif.tsx",
@@ -1666,7 +1708,7 @@ const aboutContacts = ()=>{
                 className: "mt-3",
                 children: [
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h1", {
-                        className: "underline font-semibold text-[2rem] sm:text-[1rem]",
+                        className: "underline font-semibold  sm:text-[1rem] xl:text-base 2xl:text-[3rem]",
                         children: "ABOUT ME"
                     }, void 0, false, {
                         fileName: "[project]/components/aboutContacts.tsx",
@@ -1674,7 +1716,7 @@ const aboutContacts = ()=>{
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0)),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                        className: "text-justify mt-2 tracking-wide",
+                        className: "text-justify mt-2 tracking-wide sm:text-sm md:text-base lg:text-lg xl:text-base 2xl:text-2xl",
                         children: "I am an Informatics Engineering student at Universitas Negeri Malang with a strong interest in Frontend Development. I am experienced in developing website interfaces using React.js, Next.js, JavaScript, and Tailwind CSS. Beyond technical web development, I have experience as an Administrative & Data Entry Assistant and a Copy Writer & Proofreader, which has trained me to work with accuracy, organization, and effective communication. I believe that the combination of technical skills, attention to detail, and strong communication is key to creating high-quality digital solutions."
                     }, void 0, false, {
                         fileName: "[project]/components/aboutContacts.tsx",
@@ -1691,7 +1733,7 @@ const aboutContacts = ()=>{
                 className: "mt-5",
                 children: [
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h1", {
-                        className: "underline font-semibold text-[2rem] sm:text-[1rem]",
+                        className: "underline font-semibold  sm:text-[1rem] xl:text-base 2xl:text-[3rem]",
                         children: "CONTACTS"
                     }, void 0, false, {
                         fileName: "[project]/components/aboutContacts.tsx",
@@ -1987,7 +2029,7 @@ const alert = ()=>{
             className: "fixed z-50 top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[90%] max-w-md bg-black p-4 sm:p-6 text-center border shadow-[5px_5px_0_#fff]",
             children: [
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h1", {
-                    className: "font-bold text-3xl mb-3",
+                    className: "underline font-semibold  sm:text-[1rem] xl:text-3xl 2xl:text-[3rem] mb-3",
                     children: "PENGUMUMAN"
                 }, void 0, false, {
                     fileName: "[project]/components/alert.tsx",

@@ -9,7 +9,7 @@ const project = () => {
   return (
     <div>
       <div className="flex flex-col sm:flex-row sm:justify-between gap-3 sm:gap-0 mt-0 sm:items-center">
-        <h1 className="font-semibold underline text-sm md:text-base text-[2rem] sm:text-[1rem]">
+        <h1 className="underline font-semibold  sm:text-[1rem] xl:text-base 2xl:text-[3rem]">
           PROJECTS
         </h1>
         <SeeMoreProjects />

@@ -9,15 +9,15 @@ const navbar = () => {
           width={150}
           height={150}
           alt="passfoto"
-          className="w-[200px] h-[200px] sm:w-[150px] sm:h-[150px] object-cover"
+          className="w-[200px] h-[200px] sm:w-[150px] sm:h-[150px] object-cover 2xl:w-[300px] 2xl:h-[300px]"
         />
       </div>
-      <div className="p-3 sm:p-5 w-full sm:pr-0">
-        <h1 className="lg:text-[3rem] font-semibold text-center sm:text-left text-[2rem]">
+      <div className="p-3 sm:p-5 w-full sm:pr-0 flex flex-col justify-center">
+        <h1 className="lg:text-[3rem] font-semibold text-center sm:text-left text-[2rem] 2xl:text-[5rem]">
           AHMAD WILDAN PUTRO SANTOSO
         </h1>
         <div className="flex flex-col sm:flex-row sm:justify-between sm:items-center gap-3 sm:gap-0 mt-2 sm:mt-0">
-          <h3 className="text-[1.2rem] sm:text-base lg:text-[1.5rem] underline text-center sm:text-left">
+          <h3 className="text-[1.2rem] sm:text-base lg:text-[1.5rem] underline text-center sm:text-left 2xl:text-[2.5rem]">
             FRONT END DEVELOPER
           </h3>
           <div className="text-center sm:text-right sm:mt-0 mt-2">
