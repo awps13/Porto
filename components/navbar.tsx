@@ -9,7 +9,7 @@ const navbar = () => {
           width={150}
           height={150}
           alt="passfoto"
-          className="w-[200px] h-[200px] sm:w-[150px] sm:h-[150px] object-cover 2xl:w-[300px] 2xl:h-[300px]"
+          className="w-[200px] h-[200px] sm:w-[150px] sm:h-[150px] object-cover 2xl:w-[250px] 2xl:h-[250px]"
         />
       </div>
       <div className="p-3 sm:p-5 w-full sm:pr-0 flex flex-col justify-center">
@@ -24,7 +24,7 @@ const navbar = () => {
             <Link
               href="/mycv.pdf"
               target="blank"
-              className=" border p-2 font-semibold shadow-[3px_3px_0px_#fff] inline-flex flex-col justify-center items-center transition-all duration-200 ease-out hover:scale-[1.03] hover:shadow-[5px_5px_0_white] text-[1rem] sm:text-sm"
+              className="border p-2 font-semibold shadow-[3px_3px_0px_#fff] inline-flex flex-col justify-center items-center transition-all duration-200 ease-out hover:scale-[1.03] hover:shadow-[5px_5px_0_white] text-[1rem] sm:text-sm 2xl:text-3xl 2xl:hover:scale-[1.13] 2xl:hover:shadow-[10px_10px_0_white] 2xl:shadow-[6px_6px_0px_#fff] 2xl:border-2 hover:cursor-pointer"
             >
               MyCV
             </Link>

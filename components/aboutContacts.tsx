@@ -5,7 +5,7 @@ const aboutContacts = () => {
   return (
     <div>
       <div className="mt-3">
-        <h1 className="underline font-semibold  sm:text-[1rem] xl:text-base 2xl:text-[3rem]">ABOUT ME</h1>
+        <h1 className="underline font-semibold  sm:text-[1rem] xl:text-base 2xl:text-[2rem]">ABOUT ME</h1>
         <p className="text-justify mt-2 tracking-wide sm:text-sm md:text-base lg:text-lg xl:text-base 2xl:text-2xl">
           I am an Informatics Engineering student at Universitas Negeri Malang
           with a strong interest in Frontend Development. I am experienced in
@@ -19,7 +19,7 @@ const aboutContacts = () => {
         </p>
       </div>
       <div className="mt-5">
-        <h1 className="underline font-semibold  sm:text-[1rem] xl:text-base 2xl:text-[3rem]">CONTACTS</h1>
+        <h1 className="underline font-semibold  sm:text-[1rem] xl:text-base 2xl:text-[2rem]">CONTACTS</h1>
         <div className="flex mt-2 gap-3 items-center">
           <Link
             href="https://linkedin.com/in/ahmadwildanputrosantoso"
@@ -30,7 +30,7 @@ const aboutContacts = () => {
               alt="linkedin"
               width={32}
               height={32}
-              className=""
+              className="2xl:w-16 2xl:h-16"
             />
           </Link>
           <Link href="https://github.com/awps13" target="blank">
@@ -39,7 +39,7 @@ const aboutContacts = () => {
               alt="github"
               width={32}
               height={32}
-              className=""
+              className="2xl:w-16 2xl:h-16"
             />
           </Link>
           <Link href="https://wa.me/6281216574510" target="blank">
@@ -48,7 +48,7 @@ const aboutContacts = () => {
               alt="whatsapp"
               width={32}
               height={32}
-              className=""
+              className="2xl:w-16 2xl:h-16"
             />
           </Link>
           <Link href="https://instagram.com/awps13_" target="blank">
@@ -57,7 +57,7 @@ const aboutContacts = () => {
               alt="instagram"
               width={32}
               height={32}
-              className=""
+              className="2xl:w-16 2xl:h-16"
             />
           </Link>
           <Link href="https://tiktok.com/awps13_" target="blank">
@@ -66,7 +66,7 @@ const aboutContacts = () => {
               alt="tiktok"
               width={32}
               height={32}
-              className=""
+              className="2xl:w-16 2xl:h-16"
             />
           </Link>
         </div>

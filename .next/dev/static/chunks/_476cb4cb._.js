@@ -570,7 +570,7 @@ const seeMoreProjects = ()=>{
         children: [
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
                 onClick: ()=>setShowAll(true),
-                className: "border p-2 font-semibold shadow-[3px_3px_0px_#fff] inline-flex flex-col justify-center items-center transition-all duration-200 ease-out hover:scale-[1.03] hover:shadow-[5px_5px_0_white] text-[1rem] sm:text-sm hover:cursor-pointer",
+                className: "border p-2 font-semibold shadow-[3px_3px_0px_#fff] inline-flex flex-col justify-center items-center transition-all duration-200 ease-out hover:scale-[1.03] hover:shadow-[5px_5px_0_white] text-[1rem] sm:text-sm 2xl:text-3xl 2xl:hover:scale-[1.13] 2xl:hover:shadow-[10px_10px_0_white] 2xl:shadow-[6px_6px_0px_#fff] 2xl:border-2 hover:cursor-pointer",
                 children: "See More"
             }, void 0, false, {
                 fileName: "[project]/components/seeMoreProjects.tsx",
@@ -582,7 +582,7 @@ const seeMoreProjects = ()=>{
                 className: "fixed inset-0 z-50 flex items-center justify-center bg-black/80 p-4",
                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                     onClick: (e)=>e.stopPropagation(),
-                    className: "relative p-6 max-w-6xl max-h-[90vh] overflow-y-auto sm:shadow-[12px_12px_0_#fff] border-2 flex flex-col items-center bg-black",
+                    className: "relative p-6 max-w-6xl max-h-[90vh] overflow-y-auto sm:shadow-[12px_12px_0_#fff] border-2 flex flex-col items-center bg-black 2xl:max-w-392 2xl:p-8 ",
                     children: [
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h1", {
                             className: "font-semibold text-3xl text-white pb-4 mb-6 border-b-2 border-white w-full text-center",
@@ -599,13 +599,13 @@ const seeMoreProjects = ()=>{
                                     className: "border-2 border-white shadow-[6px_6px_0_#fff] cursor-pointer transition-all duration-200 ease-out hover:scale-[1.05] hover:shadow-[10px_10px_0_#fff]",
                                     children: [
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                            className: "w-full h-[200px] overflow-hidden flex items-center justify-center",
+                                            className: "w-full h-[200px] overflow-hidden flex items-center justify-center 2xl:h-[300px]",
                                             children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
                                                 src: project.image,
                                                 width: project.width,
                                                 height: project.height,
                                                 alt: project.title,
-                                                className: "w-full h-full object-cover"
+                                                className: "w-full h-full object-cover "
                                             }, void 0, false, {
                                                 fileName: "[project]/components/seeMoreProjects.tsx",
                                                 lineNumber: 41,
@@ -881,7 +881,7 @@ const project = ()=>{
                 className: "flex flex-col sm:flex-row sm:justify-between gap-3 sm:gap-0 mt-0 sm:items-center",
                 children: [
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h1", {
-                        className: "underline font-semibold  sm:text-[1rem] xl:text-base 2xl:text-[3rem]",
+                        className: "underline font-semibold  sm:text-[1rem] xl:text-base 2xl:text-[2rem]",
                         children: "PROJECTS"
                     }, void 0, false, {
                         fileName: "[project]/components/project.tsx",
@@ -900,15 +900,15 @@ const project = ()=>{
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                className: "grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5 sm:gap-5 mt-3 w-full lg:w-[calc(200px*3+40px)]",
+                className: "grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5 sm:gap-5 mt-3 w-full lg:w-[calc(200px*3+40px)] 2xl:w-[calc(300px*3+60px)]",
                 children: __TURBOPACK__imported__module__$5b$project$5d2f$data$2f$projects$2e$json__$28$json$29$__["default"].map((project)=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                         children: [
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                 onClick: ()=>setOpenModule(project.id),
-                                className: "relative border shadow-[6px_6px_0_#fff] flex flex-col justify-center items-center transition-all duration-200 ease-out hover:scale-[1.03] hover:shadow-[10px_10px_0_white] hover:cursor-pointer w-full lg:w-[200px] h-[150px]",
+                                className: "relative border shadow-[6px_6px_0_#fff] w-full lg:w-[200px] transition-all duration-200 ease-out hover:scale-[1.03] hover:shadow-[10px_10px_0_white] hover:cursor-pointer 2xl:w-[300px] 2xl:text-3xl 2xl:hover:scale-[1.13] 2xl:hover:shadow-[12px_12px_0_white] 2xl:shadow-[9px_9px_0px_#fff] 2xl:border-2",
                                 children: [
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                        className: "w-full h-[120px] overflow-hidden flex items-center justify-center",
+                                        className: "w-full h-[120px] overflow-hidden flex items-center justify-center 2xl:h-[200px]",
                                         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
                                             src: project.image,
                                             width: project.width,
@@ -926,7 +926,7 @@ const project = ()=>{
                                         columnNumber: 15
                                     }, ("TURBOPACK compile-time value", void 0)),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                        className: "p-2 font-bold text-center text-sm",
+                                        className: "p-2 font-bold text-center text-sm 2xl:text-lg",
                                         children: project.title
                                     }, void 0, false, {
                                         fileName: "[project]/components/project.tsx",
@@ -1148,7 +1148,7 @@ const navbar = ()=>{
                     width: 150,
                     height: 150,
                     alt: "passfoto",
-                    className: "w-[200px] h-[200px] sm:w-[150px] sm:h-[150px] object-cover 2xl:w-[300px] 2xl:h-[300px]"
+                    className: "w-[200px] h-[200px] sm:w-[150px] sm:h-[150px] object-cover 2xl:w-[250px] 2xl:h-[250px]"
                 }, void 0, false, {
                     fileName: "[project]/components/navbar.tsx",
                     lineNumber: 7,
@@ -1186,7 +1186,7 @@ const navbar = ()=>{
                                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
                                     href: "/mycv.pdf",
                                     target: "blank",
-                                    className: " border p-2 font-semibold shadow-[3px_3px_0px_#fff] inline-flex flex-col justify-center items-center transition-all duration-200 ease-out hover:scale-[1.03] hover:shadow-[5px_5px_0_white] text-[1rem] sm:text-sm",
+                                    className: "border p-2 font-semibold shadow-[3px_3px_0px_#fff] inline-flex flex-col justify-center items-center transition-all duration-200 ease-out hover:scale-[1.03] hover:shadow-[5px_5px_0_white] text-[1rem] sm:text-sm 2xl:text-3xl 2xl:hover:scale-[1.13] 2xl:hover:shadow-[10px_10px_0_white] 2xl:shadow-[6px_6px_0px_#fff] 2xl:border-2 hover:cursor-pointer",
                                     children: "MyCV"
                                 }, void 0, false, {
                                     fileName: "[project]/components/navbar.tsx",
@@ -1255,7 +1255,7 @@ const seeMoreSertif = ()=>{
         children: [
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
                 onClick: ()=>setShowAll(true),
-                className: "border p-2 font-semibold shadow-[3px_3px_0px_#fff] inline-flex flex-col justify-center items-center transition-all duration-200 ease-out hover:scale-[1.03] hover:shadow-[5px_5px_0_white] text-[1rem] sm:text-sm hover:cursor-pointer",
+                className: "border p-2 font-semibold shadow-[3px_3px_0px_#fff] inline-flex flex-col justify-center items-center transition-all duration-200 ease-out hover:scale-[1.03] hover:shadow-[5px_5px_0_white] text-[1rem] sm:text-sm 2xl:text-3xl 2xl:hover:scale-[1.13] 2xl:hover:shadow-[10px_10px_0_white] 2xl:shadow-[6px_6px_0px_#fff] 2xl:border-2 hover:cursor-pointer",
                 children: "See More"
             }, void 0, false, {
                 fileName: "[project]/components/seeMoreSertif.tsx",
@@ -1267,7 +1267,7 @@ const seeMoreSertif = ()=>{
                 className: "fixed inset-0 z-50 flex items-center justify-center bg-black/80 p-4",
                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                     onClick: (e)=>e.stopPropagation(),
-                    className: "relative p-6 max-w-6xl max-h-[90vh] overflow-y-auto sm:shadow-[12px_12px_0_#fff] border-2 flex flex-col items-center bg-black",
+                    className: "relative p-6 max-w-6xl max-h-[90vh] overflow-y-auto sm:shadow-[12px_12px_0_#fff] border-2 flex flex-col items-center bg-black 2xl:max-w-392 2xl:p-8 ",
                     children: [
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h1", {
                             className: "font-semibold text-3xl text-white pb-4 mb-6 border-b-2 border-white w-full text-center",
@@ -1503,7 +1503,7 @@ const sertif = ()=>{
                 className: "flex flex-col sm:flex-row sm:justify-between gap-5 sm:gap-0 sm:items-center",
                 children: [
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h1", {
-                        className: "underline font-semibold  sm:text-[1rem] xl:text-base 2xl:text-[3rem]",
+                        className: "underline font-semibold  sm:text-[1rem] xl:text-base 2xl:text-[2rem]",
                         children: "CERTIFICATES"
                     }, void 0, false, {
                         fileName: "[project]/components/sertif.tsx",
@@ -1522,15 +1522,15 @@ const sertif = ()=>{
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                className: "grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5 sm:gap-5 mt-3 w-full lg:w-[calc(200px*3+40px)]",
+                className: "grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5 sm:gap-5 mt-3 w-full lg:w-[calc(200px*3+40px)] 2xl:w-[calc(300px*3+60px)]",
                 children: __TURBOPACK__imported__module__$5b$project$5d2f$data$2f$certifications$2e$json__$28$json$29$__["default"].map((cert)=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                         children: [
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                 onClick: ()=>setOpenCert(cert.id),
-                                className: "relative border shadow-[6px_6px_0_#fff] w-full lg:w-[200px] transition-all duration-200 ease-out hover:scale-[1.03] hover:shadow-[10px_10px_0_white] hover:cursor-pointer",
+                                className: "relative border shadow-[6px_6px_0_#fff] w-full lg:w-[200px] transition-all duration-200 ease-out hover:scale-[1.03] hover:shadow-[10px_10px_0_white] hover:cursor-pointer 2xl:w-[300px] 2xl:text-3xl 2xl:hover:scale-[1.13] 2xl:hover:shadow-[12px_12px_0_white] 2xl:shadow-[9px_9px_0px_#fff] 2xl:border-2",
                                 children: [
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                        className: "w-full h-[120px] overflow-hidden flex items-center justify-center",
+                                        className: "w-full h-[120px] overflow-hidden flex items-center justify-center 2xl:h-[200px]",
                                         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
                                             src: cert.image,
                                             width: cert.width,
@@ -1548,7 +1548,7 @@ const sertif = ()=>{
                                         columnNumber: 15
                                     }, ("TURBOPACK compile-time value", void 0)),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                        className: "p-2 font-bold text-center text-sm",
+                                        className: "p-2 font-bold text-center text-sm 2xl:text-lg",
                                         children: cert.title
                                     }, void 0, false, {
                                         fileName: "[project]/components/sertif.tsx",
@@ -1708,7 +1708,7 @@ const aboutContacts = ()=>{
                 className: "mt-3",
                 children: [
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h1", {
-                        className: "underline font-semibold  sm:text-[1rem] xl:text-base 2xl:text-[3rem]",
+                        className: "underline font-semibold  sm:text-[1rem] xl:text-base 2xl:text-[2rem]",
                         children: "ABOUT ME"
                     }, void 0, false, {
                         fileName: "[project]/components/aboutContacts.tsx",
@@ -1733,7 +1733,7 @@ const aboutContacts = ()=>{
                 className: "mt-5",
                 children: [
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h1", {
-                        className: "underline font-semibold  sm:text-[1rem] xl:text-base 2xl:text-[3rem]",
+                        className: "underline font-semibold  sm:text-[1rem] xl:text-base 2xl:text-[2rem]",
                         children: "CONTACTS"
                     }, void 0, false, {
                         fileName: "[project]/components/aboutContacts.tsx",
@@ -1751,7 +1751,7 @@ const aboutContacts = ()=>{
                                     alt: "linkedin",
                                     width: 32,
                                     height: 32,
-                                    className: ""
+                                    className: "2xl:w-16 2xl:h-16"
                                 }, void 0, false, {
                                     fileName: "[project]/components/aboutContacts.tsx",
                                     lineNumber: 28,
@@ -1770,7 +1770,7 @@ const aboutContacts = ()=>{
                                     alt: "github",
                                     width: 32,
                                     height: 32,
-                                    className: ""
+                                    className: "2xl:w-16 2xl:h-16"
                                 }, void 0, false, {
                                     fileName: "[project]/components/aboutContacts.tsx",
                                     lineNumber: 37,
@@ -1789,7 +1789,7 @@ const aboutContacts = ()=>{
                                     alt: "whatsapp",
                                     width: 32,
                                     height: 32,
-                                    className: ""
+                                    className: "2xl:w-16 2xl:h-16"
                                 }, void 0, false, {
                                     fileName: "[project]/components/aboutContacts.tsx",
                                     lineNumber: 46,
@@ -1808,7 +1808,7 @@ const aboutContacts = ()=>{
                                     alt: "instagram",
                                     width: 32,
                                     height: 32,
-                                    className: ""
+                                    className: "2xl:w-16 2xl:h-16"
                                 }, void 0, false, {
                                     fileName: "[project]/components/aboutContacts.tsx",
                                     lineNumber: 55,
@@ -1827,7 +1827,7 @@ const aboutContacts = ()=>{
                                     alt: "tiktok",
                                     width: 32,
                                     height: 32,
-                                    className: ""
+                                    className: "2xl:w-16 2xl:h-16"
                                 }, void 0, false, {
                                     fileName: "[project]/components/aboutContacts.tsx",
                                     lineNumber: 64,

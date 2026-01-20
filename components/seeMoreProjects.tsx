@@ -11,7 +11,7 @@ const seeMoreProjects = () => {
     <div className="">
       <button
         onClick={() => setShowAll(true)}
-        className="border p-2 font-semibold shadow-[3px_3px_0px_#fff] inline-flex flex-col justify-center items-center transition-all duration-200 ease-out hover:scale-[1.03] hover:shadow-[5px_5px_0_white] text-[1rem] sm:text-sm hover:cursor-pointer"
+        className="border p-2 font-semibold shadow-[3px_3px_0px_#fff] inline-flex flex-col justify-center items-center transition-all duration-200 ease-out hover:scale-[1.03] hover:shadow-[5px_5px_0_white] text-[1rem] sm:text-sm 2xl:text-3xl 2xl:hover:scale-[1.13] 2xl:hover:shadow-[10px_10px_0_white] 2xl:shadow-[6px_6px_0px_#fff] 2xl:border-2 hover:cursor-pointer"
       >
         See More
       </button>
@@ -23,7 +23,7 @@ const seeMoreProjects = () => {
         >
           <div
             onClick={(e) => e.stopPropagation()}
-            className="relative p-6 max-w-6xl max-h-[90vh] overflow-y-auto sm:shadow-[12px_12px_0_#fff] border-2 flex flex-col items-center bg-black"
+            className="relative p-6 max-w-6xl max-h-[90vh] overflow-y-auto sm:shadow-[12px_12px_0_#fff] border-2 flex flex-col items-center bg-black 2xl:max-w-392 2xl:p-8 "
           >
             <h1 className="font-semibold text-3xl text-white pb-4 mb-6 border-b-2 border-white w-full text-center">
               All Projects
@@ -37,13 +37,13 @@ const seeMoreProjects = () => {
                   onClick={() => setOpenModule(project.id)}
                   className="border-2 border-white shadow-[6px_6px_0_#fff] cursor-pointer transition-all duration-200 ease-out hover:scale-[1.05] hover:shadow-[10px_10px_0_#fff]"
                 >
-                  <div className="w-full h-[200px] overflow-hidden flex items-center justify-center">
+                  <div className="w-full h-[200px] overflow-hidden flex items-center justify-center 2xl:h-[300px]">
                     <Image
                       src={project.image}
                       width={project.width}
                       height={project.height}
                       alt={project.title}
-                      className="w-full h-full object-cover"
+                      className="w-full h-full object-cover "
                     />
                   </div>
                   <div className="p-3 text-center">
