@@ -580,7 +580,7 @@ const seeMoreProjects = ()=>{
                     className: "relative p-6 max-w-6xl max-h-[90vh] overflow-y-auto sm:shadow-[12px_12px_0_#fff] border-2 flex flex-col items-center bg-black 2xl:max-w-392 2xl:p-8 ",
                     children: [
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h1", {
-                            className: "font-semibold text-3xl text-white pb-4 mb-6 border-b-2 border-white w-full text-center",
+                            className: "font-semibold text-3xl text-white pb-4 mb-6 border-b-2 border-white w-full text-center 2xl:text-[3rem]",
                             children: "All Projects"
                         }, void 0, false, {
                             fileName: "[project]/components/seeMoreProjects.tsx",
@@ -600,7 +600,7 @@ const seeMoreProjects = ()=>{
                                                 width: project.width,
                                                 height: project.height,
                                                 alt: project.title,
-                                                className: "w-full h-full object-cover "
+                                                className: "w-full h-full object-cover"
                                             }, void 0, false, {
                                                 fileName: "[project]/components/seeMoreProjects.tsx",
                                                 lineNumber: 41,
@@ -615,7 +615,7 @@ const seeMoreProjects = ()=>{
                                             className: "p-3 text-center",
                                             children: [
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
-                                                    className: "font-semibold text-white text-lg",
+                                                    className: "font-semibold text-white text-lg 2xl:text-2xl",
                                                     children: project.title
                                                 }, void 0, false, {
                                                     fileName: "[project]/components/seeMoreProjects.tsx",
@@ -623,7 +623,7 @@ const seeMoreProjects = ()=>{
                                                     columnNumber: 21
                                                 }, ("TURBOPACK compile-time value", void 0)),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                                    className: "text-gray-300 text-xs mt-1 line-clamp-2",
+                                                    className: "text-gray-300 text-xs mt-1 line-clamp-2 2xl:text-xl",
                                                     children: project.description
                                                 }, void 0, false, {
                                                     fileName: "[project]/components/seeMoreProjects.tsx",
@@ -651,7 +651,7 @@ const seeMoreProjects = ()=>{
                             className: "flex gap-5",
                             children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
                                 onClick: ()=>setShowAll(false),
-                                className: "px-4 py-2 border text-white shadow-[3px_3px_0_#fff] hover:scale-[1.03] hover:shadow-[6px_6px_0_#fff] transition-all duration-200 ease-out hover:cursor-pointer",
+                                className: "px-4 py-2 mb-2 mt-5 border p-2 shadow-[3px_3px_0px_#fff] inline-flex flex-col justify-center items-center transition-all duration-200 ease-out hover:scale-[1.03] hover:shadow-[5px_5px_0_white] text-[1rem] sm:text-sm 2xl:text-3xl 2xl:hover:scale-[1.13] 2xl:hover:shadow-[10px_10px_0_white] 2xl:shadow-[6px_6px_0px_#fff] 2xl:border-2 hover:cursor-pointer 2xl:mt-12",
                                 children: "Close"
                             }, void 0, false, {
                                 fileName: "[project]/components/seeMoreProjects.tsx",
@@ -679,14 +679,14 @@ const seeMoreProjects = ()=>{
                 className: "fixed inset-0 z-60 flex items-center justify-center bg-black/80 p-4",
                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                     onClick: (e)=>e.stopPropagation(),
-                    className: "relative p-2 max-w-4xl max-h-[80vh] overflow-y-auto shadow-[12px_12px_0_#fff] border-2 flex flex-col items-center bg-gray-900",
+                    className: "relative p-2 max-w-4xl max-h-[80vh] 2xl:max-w-7xl overflow-y-auto shadow-[12px_12px_0_#fff] border-2 flex flex-col items-center bg-gray-900",
                     children: [
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h1", {
-                            className: "font-semibold text-2xl text-white pb-2",
+                            className: "font-semibold text-2xl text-white pb-2 2xl:text-[3rem]",
                             children: __TURBOPACK__imported__module__$5b$project$5d2f$data$2f$seeMoreProjects$2e$json__$28$json$29$__["default"].find((p)=>p.id === openModule)?.title
                         }, void 0, false, {
                             fileName: "[project]/components/seeMoreProjects.tsx",
-                            lineNumber: 81,
+                            lineNumber: 82,
                             columnNumber: 13
                         }, ("TURBOPACK compile-time value", void 0)),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -699,12 +699,12 @@ const seeMoreProjects = ()=>{
                                 className: "w-full h-auto object-contain"
                             }, void 0, false, {
                                 fileName: "[project]/components/seeMoreProjects.tsx",
-                                lineNumber: 87,
+                                lineNumber: 88,
                                 columnNumber: 15
                             }, ("TURBOPACK compile-time value", void 0))
                         }, void 0, false, {
                             fileName: "[project]/components/seeMoreProjects.tsx",
-                            lineNumber: 86,
+                            lineNumber: 87,
                             columnNumber: 13
                         }, ("TURBOPACK compile-time value", void 0)),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -713,35 +713,35 @@ const seeMoreProjects = ()=>{
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                     children: [
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h1", {
-                                            className: "font-semibold mb-2 text-white",
+                                            className: "font-semibold mb-2 text-white 2xl:text-[2rem]",
                                             children: "My Jobdesk"
                                         }, void 0, false, {
                                             fileName: "[project]/components/seeMoreProjects.tsx",
-                                            lineNumber: 106,
+                                            lineNumber: 107,
                                             columnNumber: 17
                                         }, ("TURBOPACK compile-time value", void 0)),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                            className: "text-sm text-white",
+                                            className: "text-sm text-white 2xl:text-2xl",
                                             children: __TURBOPACK__imported__module__$5b$project$5d2f$data$2f$seeMoreProjects$2e$json__$28$json$29$__["default"].find((p)=>p.id === openModule)?.description
                                         }, void 0, false, {
                                             fileName: "[project]/components/seeMoreProjects.tsx",
-                                            lineNumber: 107,
+                                            lineNumber: 108,
                                             columnNumber: 17
                                         }, ("TURBOPACK compile-time value", void 0))
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/components/seeMoreProjects.tsx",
-                                    lineNumber: 105,
+                                    lineNumber: 106,
                                     columnNumber: 15
                                 }, ("TURBOPACK compile-time value", void 0)),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                     children: [
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h1", {
-                                            className: "font-semibold mb-2 text-white",
+                                            className: "font-semibold mb-2 text-white 2xl:text-[2rem]",
                                             children: "Tools & Technologies"
                                         }, void 0, false, {
                                             fileName: "[project]/components/seeMoreProjects.tsx",
-                                            lineNumber: 112,
+                                            lineNumber: 113,
                                             columnNumber: 17
                                         }, ("TURBOPACK compile-time value", void 0)),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -750,88 +750,89 @@ const seeMoreProjects = ()=>{
                                                     src: tech,
                                                     alt: tech,
                                                     width: 32,
-                                                    height: 32
+                                                    height: 32,
+                                                    className: "2xl:w-16 2xl:h-16"
                                                 }, tech, false, {
                                                     fileName: "[project]/components/seeMoreProjects.tsx",
-                                                    lineNumber: 119,
+                                                    lineNumber: 120,
                                                     columnNumber: 23
                                                 }, ("TURBOPACK compile-time value", void 0)))
                                         }, void 0, false, {
                                             fileName: "[project]/components/seeMoreProjects.tsx",
-                                            lineNumber: 115,
+                                            lineNumber: 116,
                                             columnNumber: 17
                                         }, ("TURBOPACK compile-time value", void 0))
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/components/seeMoreProjects.tsx",
-                                    lineNumber: 111,
+                                    lineNumber: 112,
                                     columnNumber: 15
                                 }, ("TURBOPACK compile-time value", void 0))
                             ]
                         }, void 0, true, {
                             fileName: "[project]/components/seeMoreProjects.tsx",
-                            lineNumber: 104,
+                            lineNumber: 105,
                             columnNumber: 13
                         }, ("TURBOPACK compile-time value", void 0)),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                             className: "flex gap-5",
                             children: [
                                 __TURBOPACK__imported__module__$5b$project$5d2f$data$2f$seeMoreProjects$2e$json__$28$json$29$__["default"].find((p)=>p.id === openModule)?.linkCode && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
-                                    className: "px-4 py-2 mb-2 mt-5 border text-white shadow-[3px_3px_0_#fff] hover:scale-[1.03] hover:shadow-[6px_6px_0_#fff] transition-all duration-200 ease-out hover:cursor-pointer",
+                                    className: "px-4 py-2 mb-2 mt-5 border p-2 shadow-[3px_3px_0px_#fff] inline-flex flex-col justify-center items-center transition-all duration-200 ease-out hover:scale-[1.03] hover:shadow-[5px_5px_0_white] text-[1rem] sm:text-sm 2xl:text-3xl 2xl:hover:scale-[1.13] 2xl:hover:shadow-[10px_10px_0_white] 2xl:shadow-[6px_6px_0px_#fff] 2xl:border-2 hover:cursor-pointer 2xl:mt-12",
                                     children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"], {
                                         href: __TURBOPACK__imported__module__$5b$project$5d2f$data$2f$seeMoreProjects$2e$json__$28$json$29$__["default"].find((p)=>p.id === openModule)?.linkCode || "",
                                         target: "blank",
                                         children: "Code"
                                     }, void 0, false, {
                                         fileName: "[project]/components/seeMoreProjects.tsx",
-                                        lineNumber: 133,
+                                        lineNumber: 135,
                                         columnNumber: 19
                                     }, ("TURBOPACK compile-time value", void 0))
                                 }, void 0, false, {
                                     fileName: "[project]/components/seeMoreProjects.tsx",
-                                    lineNumber: 132,
+                                    lineNumber: 133,
                                     columnNumber: 17
                                 }, ("TURBOPACK compile-time value", void 0)),
                                 __TURBOPACK__imported__module__$5b$project$5d2f$data$2f$seeMoreProjects$2e$json__$28$json$29$__["default"].find((p)=>p.id === openModule)?.linkWebsite && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
-                                    className: "px-4 py-2 mb-2 mt-5 border text-white shadow-[3px_3px_0_#fff] hover:scale-[1.03] hover:shadow-[6px_6px_0_#fff] transition-all duration-200 ease-out hover:cursor-pointer",
+                                    className: "px-4 py-2 mb-2 mt-5 border p-2 shadow-[3px_3px_0px_#fff] inline-flex flex-col justify-center items-center transition-all duration-200 ease-out hover:scale-[1.03] hover:shadow-[5px_5px_0_white] text-[1rem] sm:text-sm 2xl:text-3xl 2xl:hover:scale-[1.13] 2xl:hover:shadow-[10px_10px_0_white] 2xl:shadow-[6px_6px_0px_#fff] 2xl:border-2 hover:cursor-pointer 2xl:mt-12",
                                     children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"], {
                                         href: __TURBOPACK__imported__module__$5b$project$5d2f$data$2f$seeMoreProjects$2e$json__$28$json$29$__["default"].find((p)=>p.id === openModule)?.linkWebsite || "",
                                         target: "blank",
                                         children: "Demo"
                                     }, void 0, false, {
                                         fileName: "[project]/components/seeMoreProjects.tsx",
-                                        lineNumber: 146,
+                                        lineNumber: 149,
                                         columnNumber: 19
                                     }, ("TURBOPACK compile-time value", void 0))
                                 }, void 0, false, {
                                     fileName: "[project]/components/seeMoreProjects.tsx",
-                                    lineNumber: 145,
+                                    lineNumber: 147,
                                     columnNumber: 17
                                 }, ("TURBOPACK compile-time value", void 0)),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
                                     onClick: ()=>setOpenModule(null),
-                                    className: "px-4 py-2 mb-2 mt-5 border text-white shadow-[3px_3px_0_#fff] hover:scale-[1.03] hover:shadow-[6px_6px_0_#fff] transition-all duration-200 ease-out hover:cursor-pointer",
+                                    className: "px-4 py-2 mb-2 mt-5 border p-2 shadow-[3px_3px_0px_#fff] inline-flex flex-col justify-center items-center transition-all duration-200 ease-out hover:scale-[1.03] hover:shadow-[5px_5px_0_white] text-[1rem] sm:text-sm 2xl:text-3xl 2xl:hover:scale-[1.13] 2xl:hover:shadow-[10px_10px_0_white] 2xl:shadow-[6px_6px_0px_#fff] 2xl:border-2 hover:cursor-pointer 2xl:mt-12",
                                     children: "Close"
                                 }, void 0, false, {
                                     fileName: "[project]/components/seeMoreProjects.tsx",
-                                    lineNumber: 157,
+                                    lineNumber: 160,
                                     columnNumber: 15
                                 }, ("TURBOPACK compile-time value", void 0))
                             ]
                         }, void 0, true, {
                             fileName: "[project]/components/seeMoreProjects.tsx",
-                            lineNumber: 130,
+                            lineNumber: 131,
                             columnNumber: 13
                         }, ("TURBOPACK compile-time value", void 0))
                     ]
                 }, void 0, true, {
                     fileName: "[project]/components/seeMoreProjects.tsx",
-                    lineNumber: 77,
+                    lineNumber: 78,
                     columnNumber: 11
                 }, ("TURBOPACK compile-time value", void 0))
             }, void 0, false, {
                 fileName: "[project]/components/seeMoreProjects.tsx",
-                lineNumber: 73,
+                lineNumber: 74,
                 columnNumber: 9
             }, ("TURBOPACK compile-time value", void 0))
         ]
@@ -933,10 +934,10 @@ const project = ()=>{
                                 className: "fixed inset-0 z-50 flex items-center justify-center bg-black/80 p-4",
                                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                     onClick: (e)=>e.stopPropagation(),
-                                    className: "relative p-2 max-w-4xl max-h-[80vh] overflow-y-auto shadow-[12px_12px_0_#fff] border-2 flex flex-col items-center bg-gray-900",
+                                    className: "relative p-2 max-w-4xl max-h-[80vh] 2xl:max-w-7xl overflow-y-auto shadow-[12px_12px_0_#fff] border-2 flex flex-col items-center bg-gray-900",
                                     children: [
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h1", {
-                                            className: "font-semibold text-2xl text-white pb-2",
+                                            className: "font-semibold text-2xl text-white pb-2 2xl:text-[3rem]",
                                             children: project.title
                                         }, void 0, false, {
                                             fileName: "[project]/components/project.tsx",
@@ -967,7 +968,7 @@ const project = ()=>{
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                                     children: [
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h1", {
-                                                            className: "font-semibold mb-2",
+                                                            className: "font-semibold mb-2 2xl:text-[2rem]",
                                                             children: "My Jobdesk"
                                                         }, void 0, false, {
                                                             fileName: "[project]/components/project.tsx",
@@ -975,7 +976,7 @@ const project = ()=>{
                                                             columnNumber: 23
                                                         }, ("TURBOPACK compile-time value", void 0)),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                                            className: "text-sm text-white",
+                                                            className: "text-sm text-white 2xl:text-2xl",
                                                             children: project.description
                                                         }, void 0, false, {
                                                             fileName: "[project]/components/project.tsx",
@@ -992,7 +993,7 @@ const project = ()=>{
                                                     className: "flex flex-col items-center",
                                                     children: [
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h1", {
-                                                            className: "font-semibold mb-2",
+                                                            className: "font-semibold mb-2 2xl:text-[2rem]",
                                                             children: "Tools & Technologies"
                                                         }, void 0, false, {
                                                             fileName: "[project]/components/project.tsx",
@@ -1005,7 +1006,8 @@ const project = ()=>{
                                                                     src: path,
                                                                     alt: path,
                                                                     width: 32,
-                                                                    height: 32
+                                                                    height: 32,
+                                                                    className: "2xl:w-16 2xl:h-16"
                                                                 }, path, false, {
                                                                     fileName: "[project]/components/project.tsx",
                                                                     lineNumber: 75,
@@ -1032,14 +1034,14 @@ const project = ()=>{
                                             className: "flex gap-5",
                                             children: [
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
-                                                    className: " px-4 py-2 mb-2 mt-5 border text-white shadow-[3px_3px_0_#fff] hover:scale-[1.03] hover:shadow-[6px_6px_0_#fff] transition-all duration-200 ease-out hover:cursor-pointer ",
+                                                    className: " px-4 py-2 mb-2 mt-5 border p-2 shadow-[3px_3px_0px_#fff] inline-flex flex-col justify-center items-center transition-all duration-200 ease-out hover:scale-[1.03] hover:shadow-[5px_5px_0_white] text-[1rem] sm:text-sm 2xl:text-3xl 2xl:hover:scale-[1.13] 2xl:hover:shadow-[10px_10px_0_white] 2xl:shadow-[6px_6px_0px_#fff] 2xl:border-2 hover:cursor-pointer 2xl:mt-12 ",
                                                     children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"], {
                                                         href: project.linkCode,
                                                         target: "blank",
                                                         children: "Code"
                                                     }, void 0, false, {
                                                         fileName: "[project]/components/project.tsx",
-                                                        lineNumber: 98,
+                                                        lineNumber: 93,
                                                         columnNumber: 23
                                                     }, ("TURBOPACK compile-time value", void 0))
                                                 }, void 0, false, {
@@ -1048,28 +1050,28 @@ const project = ()=>{
                                                     columnNumber: 21
                                                 }, ("TURBOPACK compile-time value", void 0)),
                                                 project.linkWebsite && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
-                                                    className: " px-4 py-2 mb-2 mt-5 border text-white shadow-[3px_3px_0_#fff] hover:scale-[1.03] hover:shadow-[6px_6px_0_#fff] transition-all duration-200 ease-out hover:cursor-pointer ",
+                                                    className: " px-4 py-2 mb-2 mt-5 border p-2 shadow-[3px_3px_0px_#fff] inline-flex flex-col justify-center items-center transition-all duration-200 ease-out hover:scale-[1.03] hover:shadow-[5px_5px_0_white] text-[1rem] sm:text-sm 2xl:text-3xl 2xl:hover:scale-[1.13] 2xl:hover:shadow-[10px_10px_0_white] 2xl:shadow-[6px_6px_0px_#fff] 2xl:border-2 hover:cursor-pointer 2xl:mt-12 ",
                                                     children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"], {
                                                         href: project.linkWebsite,
                                                         target: "blank",
                                                         children: "Demo"
                                                     }, void 0, false, {
                                                         fileName: "[project]/components/project.tsx",
-                                                        lineNumber: 115,
+                                                        lineNumber: 105,
                                                         columnNumber: 25
                                                     }, ("TURBOPACK compile-time value", void 0))
                                                 }, void 0, false, {
                                                     fileName: "[project]/components/project.tsx",
-                                                    lineNumber: 104,
+                                                    lineNumber: 99,
                                                     columnNumber: 23
                                                 }, ("TURBOPACK compile-time value", void 0)),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
                                                     onClick: ()=>setOpenModule(null),
-                                                    className: " px-4 py-2 mb-2 mt-5 border text-white shadow-[3px_3px_0_#fff] hover:scale-[1.03] hover:shadow-[6px_6px_0_#fff] transition-all duration-200 ease-out hover:cursor-pointer ",
+                                                    className: " px-4 py-2 mb-2 mt-5 border p-2 shadow-[3px_3px_0px_#fff] inline-flex flex-col justify-center items-center transition-all duration-200 ease-out hover:scale-[1.03] hover:shadow-[5px_5px_0_white] text-[1rem] sm:text-sm 2xl:text-3xl 2xl:hover:scale-[1.13] 2xl:hover:shadow-[10px_10px_0_white] 2xl:shadow-[6px_6px_0px_#fff] 2xl:border-2 hover:cursor-pointer 2xl:mt-12  ",
                                                     children: "Close"
                                                 }, void 0, false, {
                                                     fileName: "[project]/components/project.tsx",
-                                                    lineNumber: 120,
+                                                    lineNumber: 110,
                                                     columnNumber: 21
                                                 }, ("TURBOPACK compile-time value", void 0))
                                             ]
@@ -1206,7 +1208,7 @@ const __TURBOPACK__default__export__ = navbar;
 }),
 "[project]/data/certifications.json (json)", ((__turbopack_context__) => {
 
-__turbopack_context__.v([{"id":1,"title":"Dasar Pemrograman Web","image":"/certifications/dicoding.jpeg","description":"Completed the “Basic Web Programming” course from Dicoding Indonesia, learning fundamental concepts of HTML, CSS, and JavaScript for building simple web interfaces.","width":731,"height":516,"certif":"https://drive.google.com/file/d/1uHJVcJcGp8eSUP9QOflEpyBUEPxfYKsF/view","subtitle":"Coding Camp 2024 powered by DBS Foundation"},{"id":2,"title":"Cisco IT Essentials","image":"/certifications/cisco.jpeg","description":"Ini sertifikasi pertama","width":800,"height":521,"certif":"https://drive.google.com/file/d/1rH7HpZa7Wkt-DDUKNmkKb3bOnSv3JRPr/view","subtitle":"Cisco Academy International IT Essentials Certification"},{"id":3,"title":"Workshop AI","image":"/certifications/workshop.jpeg","description":"Ini sertifikasi pertama","width":762,"height":520,"certif":"https://drive.google.com/file/d/1lJrUpqRiM8vReroHgcWPWOqNl6lsz2EP/view","subtitle":"AI Beyond Code Workshop: Building Smart Solutions for the Real World"}]);}),
+__turbopack_context__.v([{"id":1,"title":"Dasar Pemrograman Web","image":"/certifications/dicoding.jpeg","description":"Completed the “Basic Web Programming” course from Dicoding Indonesia, learning fundamental concepts of HTML, CSS, and JavaScript for building simple web interfaces.","width":731,"height":516,"certif":"https://drive.google.com/file/d/1uHJVcJcGp8eSUP9QOflEpyBUEPxfYKsF/view","subtitle":"Coding Camp 2024 powered by DBS Foundation"},{"id":2,"title":"Cisco IT Essentials","image":"/certifications/cisco.jpeg","description":"Completed the “IT Essentials” course from Cisco Networking Academy, gaining foundational knowledge in computer hardware, software, and basic IT troubleshooting.","width":800,"height":521,"certif":"https://drive.google.com/file/d/1rH7HpZa7Wkt-DDUKNmkKb3bOnSv3JRPr/view","subtitle":"Cisco Academy International IT Essentials Certification"},{"id":3,"title":"Workshop AI","image":"/certifications/workshop.jpeg","description":"This certificate marks my participation in the Artificial Intelligence Workshop themed “AI Beyond Code: Building Intelligent Solutions for the Real World” held by Universitas Negeri Malang. Through this workshop, I gained deeper insights into how artificial intelligence extends beyond theoretical concepts into practical, real-world applications. The experience strengthened my understanding of AI fundamentals, emerging technologies, and the mindset required to develop intelligent solutions that address real societal and technological challenges.","width":762,"height":520,"certif":"https://drive.google.com/file/d/1lJrUpqRiM8vReroHgcWPWOqNl6lsz2EP/view","subtitle":"AI Beyond Code Workshop: Building Smart Solutions for the Real World"}]);}),
 "[project]/data/seeMoreCertifications.json (json)", ((__turbopack_context__) => {
 
 __turbopack_context__.v([{"id":1,"title":"Dasar Pemrograman Web","image":"/certifications/dicoding.jpeg","description":"Completed the “Basic Web Programming” course from Dicoding Indonesia, learning fundamental concepts of HTML, CSS, and JavaScript for building simple web interfaces.","width":731,"height":516,"certif":"https://drive.google.com/file/d/1uHJVcJcGp8eSUP9QOflEpyBUEPxfYKsF/view","subtitle":"Coding Camp 2024 powered by DBS Foundation"},{"id":2,"title":"Cisco IT Essentials","image":"/certifications/cisco.jpeg","description":"Completed the “IT Essentials” course from Cisco Networking Academy, gaining foundational knowledge in computer hardware, software, and basic IT troubleshooting.","width":800,"height":521,"certif":"https://drive.google.com/file/d/1rH7HpZa7Wkt-DDUKNmkKb3bOnSv3JRPr/view","subtitle":"Cisco Academy International IT Essentials Certification"},{"id":3,"title":"Workshop AI","image":"/certifications/workshop.jpeg","description":"This certificate marks my participation in the Artificial Intelligence Workshop themed “AI Beyond Code: Building Intelligent Solutions for the Real World” held by Universitas Negeri Malang. Through this workshop, I gained deeper insights into how artificial intelligence extends beyond theoretical concepts into practical, real-world applications. The experience strengthened my understanding of AI fundamentals, emerging technologies, and the mindset required to develop intelligent solutions that address real societal and technological challenges.","width":762,"height":520,"certif":"https://drive.google.com/file/d/1lJrUpqRiM8vReroHgcWPWOqNl6lsz2EP/view","subtitle":"AI Beyond Code Workshop: Building Smart Solutions for the Real World"},{"id":4,"title":"FESMARO 2025","image":"/certifications/fesmaro.jpeg","description":"Won 2nd place at the National Scientific Writing (ICT) Competition during FESMARO 2025, presenting research on technology innovation in the field of Informatics.","width":803,"height":520,"certif":"https://drive.google.com/file/d/1iaLCoZu0RyLeWhBCwPeSHhi-FT7smBqg/view","subtitle":"Electrical Engineering and Informatics Student Creativity Festival (FESMARO) 2025"},{"id":5,"title":"IDEA-Fest 2024","image":"/certifications/ideafest.jpeg","description":"Awarded a Bronze Medal at IDEA-Fest 2024 for developing an innovative techno-science project in the field of engineering and applied technology.","width":803,"height":520,"certif":"https://drive.google.com/file/d/1iimwzW3Q65Pi0waQ7V8yHJwwWGubh3qs/view","subtitle":"Innovations, Developments, Explorations and Applications in Techno-Science Festival (IDEA-Fest) 2024"},{"id":6,"title":"Capstone 2025","image":"/certifications/capstone.jpeg","description":"Awarded a Bronze Medal at the national level for “WARNISYS,” an information system designed to help MSMEs streamline product management, orders, workforce, and financial operations in a single platform.","width":803,"height":520,"certif":"https://drive.google.com/file/d/1wfJoavxLsmCG9A8R4eBIvGQMChDhDc1d/view","subtitle":"Capstone Project Competition 2025: Empowering Society Through Smart Solutions"},{"id":7,"title":"UI UX Desain Competition","image":"/certifications/uiux.jpeg","description":"This certificate represents my journey in the UI/UX Competition – Explore AH! 2025, where I collaborated as part of the Soullink Team. Through this competition, I contributed to designing user-centered solutions by applying design thinking, usability principles, and collaborative problem-solving. Achieving 2nd Runner-Up (Honorable Mention) reflects not only the outcome, but also the valuable experience of working under real design challenges, refining ideas through iteration, and translating user needs into meaningful digital experiences.","width":755,"height":520,"certif":"https://drive.google.com/file/d/18KqF8HJZSMk-EsF9aWY98soSrn8ovzyG/view","subtitle":"UI/UX COMPETITION - EXPLORE AH! 2025"}]);}),
@@ -1250,7 +1252,7 @@ const seeMoreSertif = ()=>{
                     className: "relative p-6 max-w-6xl max-h-[90vh] overflow-y-auto sm:shadow-[12px_12px_0_#fff] border-2 flex flex-col items-center bg-black 2xl:max-w-392 2xl:p-8 ",
                     children: [
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h1", {
-                            className: "font-semibold text-3xl text-white pb-4 mb-6 border-b-2 border-white w-full text-center",
+                            className: "font-semibold text-3xl text-white pb-4 mb-6 border-b-2 border-white w-full text-center 2xl:text-[3rem]",
                             children: "All Certifications"
                         }, void 0, false, {
                             fileName: "[project]/components/seeMoreSertif.tsx",
@@ -1264,7 +1266,7 @@ const seeMoreSertif = ()=>{
                                     className: "border-2 border-white shadow-[6px_6px_0_#fff] cursor-pointer transition-all duration-200 ease-out hover:scale-[1.05] hover:shadow-[10px_10px_0_#fff]",
                                     children: [
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                            className: "w-full h-[200px] overflow-hidden flex items-center justify-center",
+                                            className: "w-full h-[200px] overflow-hidden flex items-center justify-center 2xl:h-[300px]",
                                             children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"], {
                                                 src: cert.image,
                                                 width: cert.width,
@@ -1285,7 +1287,7 @@ const seeMoreSertif = ()=>{
                                             className: "p-3 text-center",
                                             children: [
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
-                                                    className: "font-semibold text-white text-lg",
+                                                    className: "font-semibold text-white text-lg 2xl:text-2xl",
                                                     children: cert.title
                                                 }, void 0, false, {
                                                     fileName: "[project]/components/seeMoreSertif.tsx",
@@ -1293,7 +1295,7 @@ const seeMoreSertif = ()=>{
                                                     columnNumber: 21
                                                 }, ("TURBOPACK compile-time value", void 0)),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                                    className: "text-gray-300 text-xs mt-1 line-clamp-2",
+                                                    className: "text-gray-300 text-xs mt-1 line-clamp-2 2xl:text-xl",
                                                     children: cert.description
                                                 }, void 0, false, {
                                                     fileName: "[project]/components/seeMoreSertif.tsx",
@@ -1319,7 +1321,7 @@ const seeMoreSertif = ()=>{
                         }, ("TURBOPACK compile-time value", void 0)),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
                             onClick: ()=>setShowAll(false),
-                            className: "px-4 py-2 border text-white shadow-[3px_3px_0_#fff] hover:scale-[1.03] hover:shadow-[6px_6px_0_#fff] transition-all duration-200 ease-out hover:cursor-pointer",
+                            className: "px-4 py-2 mb-2 mt-5 border p-2 shadow-[3px_3px_0px_#fff] inline-flex flex-col justify-center items-center transition-all duration-200 ease-out hover:scale-[1.03] hover:shadow-[5px_5px_0_white] text-[1rem] sm:text-sm 2xl:text-3xl 2xl:hover:scale-[1.13] 2xl:hover:shadow-[10px_10px_0_white] 2xl:shadow-[6px_6px_0px_#fff] 2xl:border-2 hover:cursor-pointer 2xl:mt-12",
                             children: "Close"
                         }, void 0, false, {
                             fileName: "[project]/components/seeMoreSertif.tsx",
@@ -1342,10 +1344,10 @@ const seeMoreSertif = ()=>{
                 className: "fixed inset-0 z-60 flex items-center justify-center bg-black/80 p-4",
                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                     onClick: (e)=>e.stopPropagation(),
-                    className: "relative p-2 max-w-4xl max-h-[80vh] overflow-y-auto shadow-[12px_12px_0_#fff] border-2 flex flex-col items-center bg-black",
+                    className: "relative p-2 max-w-4xl max-h-[80vh] 2xl:max-w-7xl overflow-y-auto shadow-[12px_12px_0_#fff] border-2 flex flex-col items-center bg-gray-900",
                     children: [
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h1", {
-                            className: "font-semibold text-2xl text-white pb-2",
+                            className: "font-semibold text-2xl text-white pb-2  2xl:text-[3rem]",
                             children: __TURBOPACK__imported__module__$5b$project$5d2f$data$2f$seeMoreCertifications$2e$json__$28$json$29$__["default"].find((c)=>c.id === openModule)?.title
                         }, void 0, false, {
                             fileName: "[project]/components/seeMoreSertif.tsx",
@@ -1374,7 +1376,7 @@ const seeMoreSertif = ()=>{
                             className: "text-center",
                             children: [
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h1", {
-                                    className: "font-semibold mb-2 text-white",
+                                    className: "font-semibold mb-2 text-white 2xl:text-[2rem]",
                                     children: __TURBOPACK__imported__module__$5b$project$5d2f$data$2f$seeMoreCertifications$2e$json__$28$json$29$__["default"].find((c)=>c.id === openModule)?.subtitle
                                 }, void 0, false, {
                                     fileName: "[project]/components/seeMoreSertif.tsx",
@@ -1382,7 +1384,7 @@ const seeMoreSertif = ()=>{
                                     columnNumber: 15
                                 }, ("TURBOPACK compile-time value", void 0)),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                    className: "text-sm text-white",
+                                    className: "text-sm text-white 2xl:text-2xl",
                                     children: __TURBOPACK__imported__module__$5b$project$5d2f$data$2f$seeMoreCertifications$2e$json__$28$json$29$__["default"].find((c)=>c.id === openModule)?.description
                                 }, void 0, false, {
                                     fileName: "[project]/components/seeMoreSertif.tsx",
@@ -1399,7 +1401,7 @@ const seeMoreSertif = ()=>{
                             className: "flex gap-5",
                             children: [
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
-                                    className: "px-4 py-2 mb-2 mt-5 border text-white shadow-[3px_3px_0_#fff] hover:scale-[1.03] hover:shadow-[6px_6px_0_#fff] transition-all duration-200 ease-out hover:cursor-pointer",
+                                    className: "px-4 py-2 mb-2 mt-5 border p-2 shadow-[3px_3px_0px_#fff] inline-flex flex-col justify-center items-center transition-all duration-200 ease-out hover:scale-[1.03] hover:shadow-[5px_5px_0_white] text-[1rem] sm:text-sm 2xl:text-3xl 2xl:hover:scale-[1.13] 2xl:hover:shadow-[10px_10px_0_white] 2xl:shadow-[6px_6px_0px_#fff] 2xl:border-2 hover:cursor-pointer 2xl:mt-12",
                                     children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"], {
                                         href: __TURBOPACK__imported__module__$5b$project$5d2f$data$2f$seeMoreCertifications$2e$json__$28$json$29$__["default"].find((c)=>c.id === openModule)?.certif,
                                         target: "blank",
@@ -1407,7 +1409,7 @@ const seeMoreSertif = ()=>{
                                     }, void 0, false, {
                                         fileName: "[project]/components/seeMoreSertif.tsx",
                                         lineNumber: 111,
-                                        columnNumber: 204
+                                        columnNumber: 398
                                     }, ("TURBOPACK compile-time value", void 0))
                                 }, void 0, false, {
                                     fileName: "[project]/components/seeMoreSertif.tsx",
@@ -1416,7 +1418,7 @@ const seeMoreSertif = ()=>{
                                 }, ("TURBOPACK compile-time value", void 0)),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
                                     onClick: ()=>setOpenModule(null),
-                                    className: "px-4 py-2 mb-2 mt-5 border text-white shadow-[3px_3px_0_#fff] hover:scale-[1.03] hover:shadow-[6px_6px_0_#fff] transition-all duration-200 ease-out hover:cursor-pointer",
+                                    className: "px-4 py-2 mb-2 mt-5 border p-2 shadow-[3px_3px_0px_#fff] inline-flex flex-col justify-center items-center transition-all duration-200 ease-out hover:scale-[1.03] hover:shadow-[5px_5px_0_white] text-[1rem] sm:text-sm 2xl:text-3xl 2xl:hover:scale-[1.13] 2xl:hover:shadow-[10px_10px_0_white] 2xl:shadow-[6px_6px_0px_#fff] 2xl:border-2 hover:cursor-pointer 2xl:mt-12",
                                     children: "Close"
                                 }, void 0, false, {
                                     fileName: "[project]/components/seeMoreSertif.tsx",
@@ -1540,10 +1542,10 @@ const sertif = ()=>{
                                 className: "fixed inset-0 z-50 flex items-center justify-center bg-black/80 p-4",
                                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                     onClick: (e)=>e.stopPropagation(),
-                                    className: "relative p-2 max-w-4xl max-h-[80vh] overflow-y-auto shadow-[12px_12px_0_#fff] border-2 flex flex-col items-center bg-black",
+                                    className: "relative p-2 max-w-4xl max-h-[80vh] 2xl:max-w-7xl overflow-y-auto shadow-[12px_12px_0_#fff] border-2 flex flex-col items-center bg-gray-900",
                                     children: [
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h1", {
-                                            className: "font-semibold text-2xl text-white pb-2",
+                                            className: "font-semibold text-2xl text-white pb-2 2xl:text-[3rem]",
                                             children: cert.title
                                         }, void 0, false, {
                                             fileName: "[project]/components/sertif.tsx",
@@ -1572,7 +1574,7 @@ const sertif = ()=>{
                                             className: "text-center",
                                             children: [
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h1", {
-                                                    className: "font-semibold mb-2",
+                                                    className: "font-semibold mb-2 2xl:text-[2rem]",
                                                     children: cert.subtitle
                                                 }, void 0, false, {
                                                     fileName: "[project]/components/sertif.tsx",
@@ -1580,7 +1582,7 @@ const sertif = ()=>{
                                                     columnNumber: 21
                                                 }, ("TURBOPACK compile-time value", void 0)),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                                    className: "text-sm text-white",
+                                                    className: "text-sm text-white 2xl:text-2xl",
                                                     children: cert.description
                                                 }, void 0, false, {
                                                     fileName: "[project]/components/sertif.tsx",
@@ -1597,14 +1599,14 @@ const sertif = ()=>{
                                             className: "flex gap-5",
                                             children: [
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
-                                                    className: " px-4 py-2 mb-2 mt-5 border text-white shadow-[3px_3px_0_#fff] hover:scale-[1.03] hover:shadow-[6px_6px_0_#fff] transition-all duration-200 ease-out hover:cursor-pointer ",
+                                                    className: " px-4 py-2 mb-2 mt-5 border p-2 shadow-[3px_3px_0px_#fff] inline-flex flex-col justify-center items-center transition-all duration-200 ease-out hover:scale-[1.03] hover:shadow-[5px_5px_0_white] text-[1rem] sm:text-sm 2xl:text-3xl 2xl:hover:scale-[1.13] 2xl:hover:shadow-[10px_10px_0_white] 2xl:shadow-[6px_6px_0px_#fff] 2xl:border-2 hover:cursor-pointer 2xl:mt-12 ",
                                                     children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"], {
                                                         href: cert.certif,
                                                         target: "blank",
                                                         children: "View Certificate"
                                                     }, void 0, false, {
                                                         fileName: "[project]/components/sertif.tsx",
-                                                        lineNumber: 76,
+                                                        lineNumber: 70,
                                                         columnNumber: 23
                                                     }, ("TURBOPACK compile-time value", void 0))
                                                 }, void 0, false, {
@@ -1614,11 +1616,11 @@ const sertif = ()=>{
                                                 }, ("TURBOPACK compile-time value", void 0)),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
                                                     onClick: ()=>setOpenCert(null),
-                                                    className: " px-4 py-2 mb-2 mt-5 border text-white shadow-[3px_3px_0_#fff] hover:scale-[1.03] hover:shadow-[6px_6px_0_#fff] transition-all duration-200 ease-out hover:cursor-pointer ",
+                                                    className: " px-4 py-2 mb-2 mt-5 border p-2 shadow-[3px_3px_0px_#fff] inline-flex flex-col justify-center items-center transition-all duration-200 ease-out hover:scale-[1.03] hover:shadow-[5px_5px_0_white] text-[1rem] sm:text-sm 2xl:text-3xl 2xl:hover:scale-[1.13] 2xl:hover:shadow-[10px_10px_0_white] 2xl:shadow-[6px_6px_0px_#fff] 2xl:border-2 hover:cursor-pointer 2xl:mt-12 ",
                                                     children: "Close"
                                                 }, void 0, false, {
                                                     fileName: "[project]/components/sertif.tsx",
-                                                    lineNumber: 78,
+                                                    lineNumber: 72,
                                                     columnNumber: 21
                                                 }, ("TURBOPACK compile-time value", void 0))
                                             ]
@@ -1985,30 +1987,31 @@ const alert = ()=>{
     return showAlert && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
         className: "fixed inset-0 z-50 bg-black/50",
         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-            className: "fixed z-50 top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[90%] max-w-md bg-black p-4 sm:p-6 text-center border shadow-[5px_5px_0_#fff]",
+            className: "fixed z-50 top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[90%] max-w-md bg-black p-4 sm:p-6 text-center border shadow-[5px_5px_0_#fff] 2xl:max-w-3xl 2xl:p-8 2xl:shadow-[12px_12px_0_#fff] 2xl:border-2",
             children: [
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h1", {
                     className: "underline font-semibold  sm:text-[1rem] xl:text-3xl 2xl:text-[3rem] mb-3",
                     children: "PENGUMUMAN"
                 }, void 0, false, {
                     fileName: "[project]/components/alert.tsx",
-                    lineNumber: 19,
+                    lineNumber: 14,
                     columnNumber: 11
                 }, ("TURBOPACK compile-time value", void 0)),
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h1", {
+                    className: "2xl:text-[2rem]",
                     children: "Bukanya di Handphone atau PC dulu ya, belum bisa di tablet. Akan aku update secepatnya agar bisa responsive ygy"
                 }, void 0, false, {
                     fileName: "[project]/components/alert.tsx",
-                    lineNumber: 20,
+                    lineNumber: 17,
                     columnNumber: 11
                 }, ("TURBOPACK compile-time value", void 0)),
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
                     onClick: ()=>setShowAlert(false),
-                    className: "px-4 py-2 mb-2 mt-5 border text-white shadow-[3px_3px_0_#fff] hover:scale-[1.03] hover:shadow-[6px_6px_0_#fff] transition-all duration-200 ease-out hover:cursor-pointer",
+                    className: "px-4 py-2 mb-2 mt-5 border p-2 shadow-[3px_3px_0px_#fff] inline-flex flex-col justify-center items-center transition-all duration-200 ease-out hover:scale-[1.03] hover:shadow-[5px_5px_0_white] text-[1rem] sm:text-sm 2xl:text-3xl 2xl:hover:scale-[1.13] 2xl:hover:shadow-[10px_10px_0_white] 2xl:shadow-[6px_6px_0px_#fff] 2xl:border-2 hover:cursor-pointer 2xl:mt-12",
                     children: "Close"
                 }, void 0, false, {
                     fileName: "[project]/components/alert.tsx",
-                    lineNumber: 24,
+                    lineNumber: 21,
                     columnNumber: 11
                 }, ("TURBOPACK compile-time value", void 0))
             ]

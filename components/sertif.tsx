@@ -40,9 +40,9 @@ const sertif = () => {
               >
                 <div
                   onClick={(e) => e.stopPropagation()}
-                  className="relative p-2 max-w-4xl max-h-[80vh] overflow-y-auto shadow-[12px_12px_0_#fff] border-2 flex flex-col items-center bg-black"
+                  className="relative p-2 max-w-4xl max-h-[80vh] 2xl:max-w-7xl overflow-y-auto shadow-[12px_12px_0_#fff] border-2 flex flex-col items-center bg-gray-900"
                 >
-                  <h1 className="font-semibold text-2xl text-white pb-2">
+                  <h1 className="font-semibold text-2xl text-white pb-2 2xl:text-[3rem]">
                     {cert.title}
                   </h1>
 
@@ -58,19 +58,13 @@ const sertif = () => {
                   </div>
 
                   <div className="text-center">
-                    <h1 className="font-semibold mb-2">{cert.subtitle}</h1>
-                    <p className="text-sm text-white">{cert.description}</p>
+                    <h1 className="font-semibold mb-2 2xl:text-[2rem]">{cert.subtitle}</h1>
+                    <p className="text-sm text-white 2xl:text-2xl">{cert.description}</p>
                   </div>
                   <div className="flex gap-5">
                      <button
                       className="
-                              px-4 py-2 mb-2 mt-5
-                              border text-white
-                              shadow-[3px_3px_0_#fff]
-                              hover:scale-[1.03]
-                              hover:shadow-[6px_6px_0_#fff]
-                              transition-all duration-200 ease-out
-                              hover:cursor-pointer
+                              px-4 py-2 mb-2 mt-5 border p-2 shadow-[3px_3px_0px_#fff] inline-flex flex-col justify-center items-center transition-all duration-200 ease-out hover:scale-[1.03] hover:shadow-[5px_5px_0_white] text-[1rem] sm:text-sm 2xl:text-3xl 2xl:hover:scale-[1.13] 2xl:hover:shadow-[10px_10px_0_white] 2xl:shadow-[6px_6px_0px_#fff] 2xl:border-2 hover:cursor-pointer 2xl:mt-12
                               "
                     >
                       <Link href={cert.certif} target="blank">View Certificate</Link>
@@ -78,13 +72,7 @@ const sertif = () => {
                     <button
                       onClick={() => setOpenCert(null)}
                       className="
-                              px-4 py-2 mb-2 mt-5
-                              border text-white
-                              shadow-[3px_3px_0_#fff]
-                              hover:scale-[1.03]
-                              hover:shadow-[6px_6px_0_#fff]
-                              transition-all duration-200 ease-out
-                              hover:cursor-pointer
+                              px-4 py-2 mb-2 mt-5 border p-2 shadow-[3px_3px_0px_#fff] inline-flex flex-col justify-center items-center transition-all duration-200 ease-out hover:scale-[1.03] hover:shadow-[5px_5px_0_white] text-[1rem] sm:text-sm 2xl:text-3xl 2xl:hover:scale-[1.13] 2xl:hover:shadow-[10px_10px_0_white] 2xl:shadow-[6px_6px_0px_#fff] 2xl:border-2 hover:cursor-pointer 2xl:mt-12
                               "
                     >
                       Close
