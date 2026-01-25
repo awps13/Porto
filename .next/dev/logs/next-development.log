@@ -1,162 +1,3233 @@
-[00:00:01.987] Server  LOG      ✓ Ready in 1333ms
-[00:03:52.657] Server  LOG      ○ Compiling / ...
-[00:03:58.353] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:04:26.562] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:05:08.227] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/sertif.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
-[00:05:08.245] Server  LOG      ✓ Compiled in 249ms
-[00:05:09.519] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:05:10.102] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/sertif.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
-[00:05:10.123] Server  LOG      ✓ Compiled in 60ms
-[00:05:11.171] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:05:23.052] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/sertif.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
-[00:05:23.064] Server  LOG      ✓ Compiled in 148ms
-[00:05:24.236] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:05:25.867] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/sertif.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
-[00:05:25.892] Server  LOG      ✓ Compiled in 44ms
-[00:05:26.707] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:05:33.258] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/sertif.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
-[00:05:33.277] Server  LOG      ✓ Compiled in 102ms
-[00:05:34.182] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:05:38.940] Browser WARN    Image with src "/Foto.jpeg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+[00:00:03.855] Server  LOG      ✓ Ready in 3s
+[00:00:06.971] Server  LOG      ○ Compiling / ...
+[00:00:10.304] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:27.711] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:27.915] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:00:30.989] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:31.194] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:00:54.772] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:55.015] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:01:21.276] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:01:21.514] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:03:02.649] Server  LOG      ✓ Compiled in 118ms
+[00:03:31.216] Server  LOG      ✓ Compiled in 52ms
+[00:03:32.915] Server  LOG      ✓ Compiled in 110ms
+[00:03:35.344] Server  LOG      ✓ Compiled in 87ms
+[00:03:37.225] Server  LOG      ✓ Compiled in 85ms
+[00:03:39.776] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:03:40.034] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:04:11.537] Server  LOG      ✓ Compiled in 333ms
+[00:04:15.157] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:04:15.376] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:04:32.359] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:04:32.602] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:05:43.553] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:05:43.790] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:06:37.438] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:06:37.438] Browser WARN    Image with src "https://h1vrd3hp-3000.asse.devtunnels.ms/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:06:46.080] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:07:19.371] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:07:31.062] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:07:33.978] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:07:38.899] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:08:28.101] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:08:30.046] Browser WARN    Image with src "https://h1vrd3hp-3000.asse.devtunnels.ms/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:09:04.289] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:09:04.760] Browser WARN    Image with src "https://h1vrd3hp-3000.asse.devtunnels.ms/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:11:20.375] Server  LOG      ✓ Compiled in 74ms
+[00:11:29.622] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:11:29.842] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:12:39.826] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:12:40.032] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:13:22.092] Server  LOG      ✓ Compiled in 115ms
+[00:13:24.371] Server  LOG      ✓ Compiled in 88ms
+[00:13:26.819] Server  LOG      ✓ Compiled in 84ms
+[00:13:28.511] Server  LOG      ✓ Compiled in 60ms
+[00:13:39.142] Server  LOG      ✓ Compiled in 76ms
+[00:13:41.269] Server  LOG      ✓ Compiled in 161ms
+[00:13:42.156] Browser ERROR   ./components/intro.tsx:27:24
+Parsing ecmascript source code failed
+  25 |   }
+  26 |
+> 27 |   if (!visible) return <?;
+     |                        ^
+  28 |
+  29 |   return (
+  30 |     <>
+
+Expression expected
+
+Import trace:
+  Server Component:
+    ./components/intro.tsx
+    ./app/layout.tsx
+[00:13:44.433] Browser ERROR   ./components/intro.tsx:27:24
+Parsing ecmascript source code failed
+  25 |   }
+  26 |
+> 27 |   if (!visible) return <;
+     |                        ^
+  28 |
+  29 |   return (
+  30 |     <>
+
+Expression expected
+
+Import trace:
+  Server Component:
+    ./components/intro.tsx
+    ./app/layout.tsx
+[00:13:44.774] Server  LOG      ✓ Compiled in 33ms
+[00:14:16.580] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:14:16.832] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:14:55.644] Server  LOG      ✓ Compiled in 176ms
+[00:15:05.932] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:15:06.140] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:15:29.380] Server  LOG      ✓ Compiled in 117ms
+[00:15:35.180] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:15:35.434] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:15:51.802] Server  LOG      ✓ Compiled in 231ms
+[00:16:00.730] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:16:01.718] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:16:06.191] Browser WARN    Image with src "/Foto.jpeg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
 Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
-[00:05:46.034] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/sertif.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
-[00:05:46.052] Server  LOG      ✓ Compiled in 100ms
-[00:05:47.079] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:05:56.099] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/sertif.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
-[00:05:56.108] Server  LOG      ✓ Compiled in 100ms
-[00:05:57.342] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:05:57.882] Server  LOG      ✓ Compiled in 125ms
-[00:05:57.899] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/sertif.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
-[00:05:58.774] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:06:00.911] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/sertif.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
-[00:06:00.928] Server  LOG      ✓ Compiled in 79ms
-[00:06:02.001] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:06:08.596] Browser WARN    Image with src "/Foto.jpeg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+[00:16:06.191] Browser WARN    Image with src "/projects/compropurworejo.jpeg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
 Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
-[00:07:46.304] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/sertif.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
-[00:07:46.326] Server  LOG      ✓ Compiled in 41ms
-[00:07:47.537] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:07:58.081] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:08:52.905] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/seeMoreSertif.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
-[00:08:52.931] Server  LOG      ✓ Compiled in 52ms
-[00:08:54.199] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:09:19.777] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/seeMoreSertif.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
-[00:09:19.786] Server  LOG      ✓ Compiled in 96ms
-[00:09:20.963] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:09:28.383] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:13:29.751] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/project.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
-[00:13:29.767] Server  LOG      ✓ Compiled in 45ms
-[00:13:30.913] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:13:32.215] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:14:00.461] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/sertif.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
-[00:14:00.479] Server  LOG      ✓ Compiled in 55ms
-[00:14:01.780] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:14:07.209] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:15:49.001] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/sertif.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
-[00:15:49.022] Server  LOG      ✓ Compiled in 45ms
-[00:15:50.088] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:16:50.335] Browser WARN    Image with src "/Foto.jpeg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+[00:16:20.546] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:16:20.873] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[01:30:53.976] Server  LOG      ✓ Compiled in 74ms
+[01:31:29.745] Browser ERROR   ./app/layout.tsx:4:10
+Ecmascript file had an error
+  2 | import { Geist, Geist_Mono } from "next/font/google";
+  3 | import "./globals.css";
+> 4 | import { useState } from "react";
+    |          ^^^^^^^^
+  5 |
+  6 | const geistSans = Geist({
+  7 |   variable: "--font-geist-sans",
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+[01:31:34.500] Browser ERROR   ./app/layout.tsx:7:1
+Parsing ecmascript source code failed
+   5 | import
+   6 |
+>  7 | const geistSans = Geist({
+     | ^^^^^
+   8 |   variable: "--font-geist-sans",
+   9 |   subsets: ["latin"],
+  10 | });
+
+Expected 'from', got 'const'
+[01:31:36.212] Browser ERROR   ./app/layout.tsx:4:10
+Ecmascript file had an error
+  2 | import { Geist, Geist_Mono } from "next/font/google";
+  3 | import "./globals.css";
+> 4 | import { useState } from "react";
+    |          ^^^^^^^^
+  5 | import VideoLoader from "../components/loader";
+  6 |
+  7 | const geistSans = Geist({
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+[01:32:39.688] Browser ERROR   ./app/layout.tsx:4:10
+Ecmascript file had an error
+  2 | import { Geist, Geist_Mono } from "next/font/google";
+  3 | import "./globals.css";
+> 4 | import { useState } from "react";
+    |          ^^^^^^^^
+  5 | import VideoLoader from "../components/loader";
+  6 |
+  7 | const geistSans = Geist({
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+[01:33:01.130] Browser ERROR   ./app/layout.tsx:4:10
+Ecmascript file had an error
+  2 | import { Geist, Geist_Mono } from "next/font/google";
+  3 | import "./globals.css";
+> 4 | import { useState } from "react";
+    |          ^^^^^^^^
+  5 | import VideoLoader from "../components/loader";
+  6 |
+  7 | const geistSans = Geist({
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+[01:33:24.052] Server  LOG      ✓ Compiled in 138ms
+[01:33:24.884] Browser ERROR   ./app/layout.tsx:4:10
+Ecmascript file had an error
+  2 | import { Geist, Geist_Mono } from "next/font/google";
+  3 | import "./globals.css";
+> 4 | import { useState } from "react";
+    |          ^^^^^^^^
+  5 | import VideoLoader from "../components/loader";
+  6 |
+  7 | const geistSans = Geist({
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+[01:33:44.220] Browser ERROR   ./app/layout.tsx:4:10
+Ecmascript file had an error
+  2 | import { Geist, Geist_Mono } from "next/font/google";
+  3 | import "./globals.css";
+> 4 | import { useState } from "react";
+    |          ^^^^^^^^
+  5 | import VideoLoader from "../components/loader";
+  6 |
+  7 | const geistSans = Geist({
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+[01:33:46.283] Browser ERROR   ./app/layout.tsx:4:10
+Ecmascript file had an error
+  2 | import { Geist, Geist_Mono } from "next/font/google";
+  3 | import "./globals.css";
+> 4 | import { useState } from "react";
+    |          ^^^^^^^^
+  5 | import VideoLoader from "../components/loader";
+  6 |
+  7 | const geistSans = Geist({
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+[01:33:48.360] Browser ERROR   ./app/layout.tsx:4:10
+Ecmascript file had an error
+  2 | import { Geist, Geist_Mono } from "next/font/google";
+  3 | import "./globals.css";
+> 4 | import { useState } from "react";
+    |          ^^^^^^^^
+  5 | import VideoLoader from "../components/loader";
+  6 |
+  7 | const geistSans = Geist({
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+[01:33:52.179] Server  ERROR    ⨯ ./app/layout.tsx:4:10
+Ecmascript file had an error
+  2 | import { Geist, Geist_Mono } from "next/font/google";
+  3 | import "./globals.css";
+> 4 | import { useState } from "react";
+    |          ^^^^^^^^
+  5 | import VideoLoader from "../components/loader";
+  6 |
+  7 | const geistSans = Geist({
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+
+
+
+[01:33:53.273] Browser ERROR   ./app/layout.tsx:4:10
+Ecmascript file had an error
+  2 | import { Geist, Geist_Mono } from "next/font/google";
+  3 | import "./globals.css";
+> 4 | import { useState } from "react";
+    |          ^^^^^^^^
+  5 | import VideoLoader from "../components/loader";
+  6 |
+  7 | const geistSans = Geist({
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+[01:33:53.273] Browser ERROR   ./app/layout.tsx:4:10
+Ecmascript file had an error
+  2 | import { Geist, Geist_Mono } from "next/font/google";
+  3 | import "./globals.css";
+> 4 | import { useState } from "react";
+    |          ^^^^^^^^
+  5 | import VideoLoader from "../components/loader";
+  6 |
+  7 | const geistSans = Geist({
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+[01:33:54.543] Browser ERROR   ./app/layout.tsx:4:10
+Ecmascript file had an error
+  2 | import { Geist, Geist_Mono } from "next/font/google";
+  3 | import "./globals.css";
+> 4 | import { useState } from "react";
+    |          ^^^^^^^^
+  5 | import VideoLoader from "../components/loader";
+  6 |
+  7 | const geistSans = Geist({
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+[01:33:54.897] Browser ERROR   ./app/layout.tsx:4:10
+Ecmascript file had an error
+  2 | import { Geist, Geist_Mono } from "next/font/google";
+  3 | import "./globals.css";
+> 4 | import { useState } from "react";
+    |          ^^^^^^^^
+  5 | import VideoLoader from "../components/loader";
+  6 |
+  7 | const geistSans = Geist({
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+[01:33:55.203] Server  LOG      ○ Compiling /_error ...
+[01:33:57.290] Browser ERROR   uncaughtError: Error: ./app/layout.tsx:4:10
+Ecmascript file had an error
+  2 | import { Geist, Geist_Mono } from "next/font/google";
+  3 | import "./globals.css";
+> 4 | import { useState } from "react";
+    |          ^^^^^^^^
+  5 | import VideoLoader from "../components/loader";
+  6 |
+  7 | const geistSans = Geist({
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+
+
+
+[01:33:57.433] Browser ERROR   ./app/layout.tsx:4:10
+Ecmascript file had an error
+  2 | import { Geist, Geist_Mono } from "next/font/google";
+  3 | import "./globals.css";
+> 4 | import { useState } from "react";
+    |          ^^^^^^^^
+  5 | import VideoLoader from "../components/loader";
+  6 |
+  7 | const geistSans = Geist({
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+[01:33:57.433] Browser ERROR   ./app/layout.tsx:4:10
+Ecmascript file had an error
+  2 | import { Geist, Geist_Mono } from "next/font/google";
+  3 | import "./globals.css";
+> 4 | import { useState } from "react";
+    |          ^^^^^^^^
+  5 | import VideoLoader from "../components/loader";
+  6 |
+  7 | const geistSans = Geist({
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+[01:33:57.538] Browser ERROR   ./app/layout.tsx:4:10
+Ecmascript file had an error
+  2 | import { Geist, Geist_Mono } from "next/font/google";
+  3 | import "./globals.css";
+> 4 | import { useState } from "react";
+    |          ^^^^^^^^
+  5 | import VideoLoader from "../components/loader";
+  6 |
+  7 | const geistSans = Geist({
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+[01:36:00.127] Browser ERROR   ./app/layout.tsx:4:10
+Ecmascript file had an error
+  2 | import { Geist, Geist_Mono } from "next/font/google";
+  3 | import "./globals.css";
+> 4 | import { useState } from "react";
+    |          ^^^^^^^^
+  5 | import VideoLoader from "../components/loader";
+  6 |
+  7 | const geistSans = Geist({
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+[01:36:04.416] Browser ERROR   ./app/layout.tsx:4:10
+Ecmascript file had an error
+  2 | import { Geist, Geist_Mono } from "next/font/google";
+  3 | import "./globals.css";
+> 4 | import { useState } from "react";
+    |          ^^^^^^^^
+  5 | import VideoLoader from "../components/loader";
+  6 |
+  7 | const geistSans = Geist({
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+[01:36:05.824] Browser ERROR   ./app/layout.tsx:4:10
+Ecmascript file had an error
+  2 | import { Geist, Geist_Mono } from "next/font/google";
+  3 | import "./globals.css";
+> 4 | import { useState } from "react";
+    |          ^^^^^^^^
+  5 | import VideoLoader from "../components/loader";
+  6 |
+  7 | const geistSans = Geist({
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+[01:36:17.466] Server  ERROR    ⨯ ./app/layout.tsx:4:10
+Ecmascript file had an error
+  2 | import { Geist, Geist_Mono } from "next/font/google";
+  3 | import "./globals.css";
+> 4 | import { useState } from "react";
+    |          ^^^^^^^^
+  5 | import VideoLoader from "../components/loader";
+  6 |
+  7 | const geistSans = Geist({
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+
+
+
+[01:36:18.223] Browser ERROR   uncaughtError: Error: ./app/layout.tsx:4:10
+Ecmascript file had an error
+  2 | import { Geist, Geist_Mono } from "next/font/google";
+  3 | import "./globals.css";
+> 4 | import { useState } from "react";
+    |          ^^^^^^^^
+  5 | import VideoLoader from "../components/loader";
+  6 |
+  7 | const geistSans = Geist({
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+
+
+
+[01:36:18.223] Browser ERROR   ./app/layout.tsx:4:10
+Ecmascript file had an error
+  2 | import { Geist, Geist_Mono } from "next/font/google";
+  3 | import "./globals.css";
+> 4 | import { useState } from "react";
+    |          ^^^^^^^^
+  5 | import VideoLoader from "../components/loader";
+  6 |
+  7 | const geistSans = Geist({
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+[01:36:18.223] Browser ERROR   ./app/layout.tsx:4:10
+Ecmascript file had an error
+  2 | import { Geist, Geist_Mono } from "next/font/google";
+  3 | import "./globals.css";
+> 4 | import { useState } from "react";
+    |          ^^^^^^^^
+  5 | import VideoLoader from "../components/loader";
+  6 |
+  7 | const geistSans = Geist({
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+[01:36:18.223] Browser ERROR   ./app/layout.tsx:4:10
+Ecmascript file had an error
+  2 | import { Geist, Geist_Mono } from "next/font/google";
+  3 | import "./globals.css";
+> 4 | import { useState } from "react";
+    |          ^^^^^^^^
+  5 | import VideoLoader from "../components/loader";
+  6 |
+  7 | const geistSans = Geist({
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+[01:37:33.214] Server  LOG      ✓ Compiled in 224ms
+[01:37:33.644] Server  ERROR    ⨯ ReferenceError: useState is not defined
+[01:37:34.320] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:37:34.320] Browser ERROR   uncaughtError: ReferenceError: useState is not defined
+[01:37:40.768] Server  LOG      ✓ Compiled in 72ms
+[01:37:41.297] Server  ERROR    ⨯ ReferenceError: loading is not defined
+[01:37:41.990] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:37:41.990] Browser ERROR   uncaughtError: ReferenceError: loading is not defined
+[01:38:07.730] Server  ERROR    ⨯ ReferenceError: loading is not defined
+[01:38:08.566] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:38:08.566] Browser ERROR   uncaughtError: ReferenceError: loading is not defined
+[01:38:46.292] Server  ERROR    ⨯ ReferenceError: loading is not defined
+[01:38:46.945] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:38:46.945] Browser ERROR   uncaughtError: ReferenceError: loading is not defined
+[01:38:51.813] Server  ERROR    ⨯ ReferenceError: loading is not defined
+[01:38:51.838] Server  LOG      ✓ Compiled in 319ms
+[01:38:52.570] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:38:52.570] Browser ERROR   uncaughtError: ReferenceError: loading is not defined
+[01:38:57.897] Server  LOG      ✓ Compiled in 73ms
+[01:38:59.106] Server  ERROR    ⨯ ReferenceError: wrapper is not defined
+[01:38:59.590] Server  ERROR    ⨯ ReferenceError: wrapper is not defined
+[01:39:02.006] Browser ERROR   uncaughtError: ReferenceError: wrapper is not defined
+[01:39:05.020] Server  LOG      ✓ Compiled in 204ms
+[01:39:05.497] Server  ERROR    ⨯ ReferenceError: loading is not defined
+[01:39:06.162] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:39:06.162] Browser ERROR   uncaughtError: ReferenceError: loading is not defined
+[01:39:27.428] Server  ERROR    ⨯ ReferenceError: loading is not defined
+[01:39:27.451] Server  LOG      ✓ Compiled in 402ms
+[01:39:28.065] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:39:28.066] Browser ERROR   uncaughtError: ReferenceError: loading is not defined
+[01:39:31.153] Server  ERROR    ⨯ ReferenceError: loading is not defined
+[01:39:31.802] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:39:31.802] Browser ERROR   uncaughtError: ReferenceError: loading is not defined
+[01:39:32.705] Server  ERROR    ⨯ ReferenceError: loading is not defined
+[01:39:32.725] Server  LOG      ✓ Compiled in 247ms
+[01:39:33.377] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:39:33.377] Browser ERROR   uncaughtError: ReferenceError: loading is not defined
+[01:39:51.283] Server  LOG      ✓ Compiled in 297ms
+[01:39:51.286] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[01:39:52.392] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:39:57.637] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[01:47:50.291] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:47:54.832] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[01:52:44.796] Server  LOG      ✓ Compiled in 68ms
+[01:52:58.632] Server  LOG      ✓ Compiled in 150ms
+[01:53:32.484] Server  ERROR    ⨯ ./components/loaderWrapper.tsx:4:1
+Module not found: Can't resolve './SideLeft'
+  2 |
+  3 | import { useState } from "react";
+> 4 | import SideLeft from "./SideLeft";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import SideRight from "./SideRight";
+  6 |
+  7 | export default function LoaderWrapper({
+
+
+
+Import trace:
+  Server Component:
+    ./components/loaderWrapper.tsx
+    ./app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:53:32.486] Server  ERROR    ⨯ ./components/loaderWrapper.tsx:4:1
+Module not found: Can't resolve './SideLeft'
+  2 |
+  3 | import { useState } from "react";
+> 4 | import SideLeft from "./SideLeft";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import SideRight from "./SideRight";
+  6 |
+  7 | export default function LoaderWrapper({
+
+
+
+Import trace:
+  Server Component:
+    ./components/loaderWrapper.tsx
+    ./app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:53:32.491] Server  ERROR    ⨯ ./components/loaderWrapper.tsx:4:1
+Module not found: Can't resolve './SideLeft'
+  2 |
+  3 | import { useState } from "react";
+> 4 | import SideLeft from "./SideLeft";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import SideRight from "./SideRight";
+  6 |
+  7 | export default function LoaderWrapper({
+
+
+
+Import trace:
+  Server Component:
+    ./components/loaderWrapper.tsx
+    ./app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:53:32.499] Server  ERROR    ⨯ ./components/loaderWrapper.tsx:4:1
+Module not found: Can't resolve './SideLeft'
+  2 |
+  3 | import { useState } from "react";
+> 4 | import SideLeft from "./SideLeft";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import SideRight from "./SideRight";
+  6 |
+  7 | export default function LoaderWrapper({
+
+
+
+Import trace:
+  Server Component:
+    ./components/loaderWrapper.tsx
+    ./app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:53:32.501] Server  ERROR    ⨯ ./components/loaderWrapper.tsx:5:1
+Module not found: Can't resolve './SideRight'
+  3 | import { useState } from "react";
+  4 | import SideLeft from "./SideLeft";
+> 5 | import SideRight from "./SideRight";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function LoaderWrapper({
+  8 |   children,
+
+
+
+Import trace:
+  Server Component:
+    ./components/loaderWrapper.tsx
+    ./app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:53:32.503] Server  ERROR    ⨯ ./components/loaderWrapper.tsx:5:1
+Module not found: Can't resolve './SideRight'
+  3 | import { useState } from "react";
+  4 | import SideLeft from "./SideLeft";
+> 5 | import SideRight from "./SideRight";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function LoaderWrapper({
+  8 |   children,
+
+
+
+Import trace:
+  Server Component:
+    ./components/loaderWrapper.tsx
+    ./app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:53:32.505] Server  ERROR    ⨯ ./components/loaderWrapper.tsx:5:1
+Module not found: Can't resolve './SideRight'
+  3 | import { useState } from "react";
+  4 | import SideLeft from "./SideLeft";
+> 5 | import SideRight from "./SideRight";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function LoaderWrapper({
+  8 |   children,
+
+
+
+Import trace:
+  Server Component:
+    ./components/loaderWrapper.tsx
+    ./app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:53:32.508] Server  ERROR    ⨯ ./components/loaderWrapper.tsx:5:1
+Module not found: Can't resolve './SideRight'
+  3 | import { useState } from "react";
+  4 | import SideLeft from "./SideLeft";
+> 5 | import SideRight from "./SideRight";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function LoaderWrapper({
+  8 |   children,
+
+
+
+Import trace:
+  Server Component:
+    ./components/loaderWrapper.tsx
+    ./app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:53:32.515] Server  ERROR    ⨯ ./components/loaderWrapper.tsx:4:1
+Module not found: Can't resolve './SideLeft'
+  2 |
+  3 | import { useState } from "react";
+> 4 | import SideLeft from "./SideLeft";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import SideRight from "./SideRight";
+  6 |
+  7 | export default function LoaderWrapper({
+
+
+
+Import trace:
+  Server Component:
+    ./components/loaderWrapper.tsx
+    ./app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:53:32.517] Server  ERROR    ⨯ ./components/loaderWrapper.tsx:4:1
+Module not found: Can't resolve './SideLeft'
+  2 |
+  3 | import { useState } from "react";
+> 4 | import SideLeft from "./SideLeft";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import SideRight from "./SideRight";
+  6 |
+  7 | export default function LoaderWrapper({
+
+
+
+Import trace:
+  Server Component:
+    ./components/loaderWrapper.tsx
+    ./app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:53:32.520] Server  ERROR    ⨯ ./components/loaderWrapper.tsx:4:1
+Module not found: Can't resolve './SideLeft'
+  2 |
+  3 | import { useState } from "react";
+> 4 | import SideLeft from "./SideLeft";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import SideRight from "./SideRight";
+  6 |
+  7 | export default function LoaderWrapper({
+
+
+
+Import trace:
+  Server Component:
+    ./components/loaderWrapper.tsx
+    ./app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:53:32.523] Server  ERROR    ⨯ ./components/loaderWrapper.tsx:4:1
+Module not found: Can't resolve './SideLeft'
+  2 |
+  3 | import { useState } from "react";
+> 4 | import SideLeft from "./SideLeft";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import SideRight from "./SideRight";
+  6 |
+  7 | export default function LoaderWrapper({
+
+
+
+Import trace:
+  Server Component:
+    ./components/loaderWrapper.tsx
+    ./app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:53:32.525] Server  ERROR    ⨯ ./components/loaderWrapper.tsx:5:1
+Module not found: Can't resolve './SideRight'
+  3 | import { useState } from "react";
+  4 | import SideLeft from "./SideLeft";
+> 5 | import SideRight from "./SideRight";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function LoaderWrapper({
+  8 |   children,
+
+
+
+Import trace:
+  Server Component:
+    ./components/loaderWrapper.tsx
+    ./app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:53:32.527] Server  ERROR    ⨯ ./components/loaderWrapper.tsx:5:1
+Module not found: Can't resolve './SideRight'
+  3 | import { useState } from "react";
+  4 | import SideLeft from "./SideLeft";
+> 5 | import SideRight from "./SideRight";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function LoaderWrapper({
+  8 |   children,
+
+
+
+Import trace:
+  Server Component:
+    ./components/loaderWrapper.tsx
+    ./app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:53:32.531] Server  ERROR    ⨯ ./components/loaderWrapper.tsx:5:1
+Module not found: Can't resolve './SideRight'
+  3 | import { useState } from "react";
+  4 | import SideLeft from "./SideLeft";
+> 5 | import SideRight from "./SideRight";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function LoaderWrapper({
+  8 |   children,
+
+
+
+Import trace:
+  Server Component:
+    ./components/loaderWrapper.tsx
+    ./app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:53:32.533] Server  ERROR    ⨯ ./components/loaderWrapper.tsx:5:1
+Module not found: Can't resolve './SideRight'
+  3 | import { useState } from "react";
+  4 | import SideLeft from "./SideLeft";
+> 5 | import SideRight from "./SideRight";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function LoaderWrapper({
+  8 |   children,
+
+
+
+Import trace:
+  Server Component:
+    ./components/loaderWrapper.tsx
+    ./app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:53:32.538] Server  ERROR    ⨯ ./components/loaderWrapper.tsx:4:1
+Module not found: Can't resolve './SideLeft'
+  2 |
+  3 | import { useState } from "react";
+> 4 | import SideLeft from "./SideLeft";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import SideRight from "./SideRight";
+  6 |
+  7 | export default function LoaderWrapper({
+
+
+
+Import trace:
+  Server Component:
+    ./components/loaderWrapper.tsx
+    ./app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:53:32.544] Server  ERROR    ⨯ ./components/loaderWrapper.tsx:4:1
+Module not found: Can't resolve './SideLeft'
+  2 |
+  3 | import { useState } from "react";
+> 4 | import SideLeft from "./SideLeft";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import SideRight from "./SideRight";
+  6 |
+  7 | export default function LoaderWrapper({
+
+
+
+Import trace:
+  Server Component:
+    ./components/loaderWrapper.tsx
+    ./app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:53:32.547] Server  ERROR    ⨯ ./components/loaderWrapper.tsx:4:1
+Module not found: Can't resolve './SideLeft'
+  2 |
+  3 | import { useState } from "react";
+> 4 | import SideLeft from "./SideLeft";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import SideRight from "./SideRight";
+  6 |
+  7 | export default function LoaderWrapper({
+
+
+
+Import trace:
+  Server Component:
+    ./components/loaderWrapper.tsx
+    ./app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:53:32.549] Server  ERROR    ⨯ ./components/loaderWrapper.tsx:4:1
+Module not found: Can't resolve './SideLeft'
+  2 |
+  3 | import { useState } from "react";
+> 4 | import SideLeft from "./SideLeft";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import SideRight from "./SideRight";
+  6 |
+  7 | export default function LoaderWrapper({
+
+
+
+Import trace:
+  Server Component:
+    ./components/loaderWrapper.tsx
+    ./app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:53:32.551] Server  ERROR    ⨯ ./components/loaderWrapper.tsx:5:1
+Module not found: Can't resolve './SideRight'
+  3 | import { useState } from "react";
+  4 | import SideLeft from "./SideLeft";
+> 5 | import SideRight from "./SideRight";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function LoaderWrapper({
+  8 |   children,
+
+
+
+Import trace:
+  Server Component:
+    ./components/loaderWrapper.tsx
+    ./app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:53:32.554] Server  ERROR    ⨯ ./components/loaderWrapper.tsx:5:1
+Module not found: Can't resolve './SideRight'
+  3 | import { useState } from "react";
+  4 | import SideLeft from "./SideLeft";
+> 5 | import SideRight from "./SideRight";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function LoaderWrapper({
+  8 |   children,
+
+
+
+Import trace:
+  Server Component:
+    ./components/loaderWrapper.tsx
+    ./app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:53:32.556] Server  ERROR    ⨯ ./components/loaderWrapper.tsx:5:1
+Module not found: Can't resolve './SideRight'
+  3 | import { useState } from "react";
+  4 | import SideLeft from "./SideLeft";
+> 5 | import SideRight from "./SideRight";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function LoaderWrapper({
+  8 |   children,
+
+
+
+Import trace:
+  Server Component:
+    ./components/loaderWrapper.tsx
+    ./app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:53:32.558] Server  ERROR    ⨯ ./components/loaderWrapper.tsx:5:1
+Module not found: Can't resolve './SideRight'
+  3 | import { useState } from "react";
+  4 | import SideLeft from "./SideLeft";
+> 5 | import SideRight from "./SideRight";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function LoaderWrapper({
+  8 |   children,
+
+
+
+Import trace:
+  Server Component:
+    ./components/loaderWrapper.tsx
+    ./app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:53:32.565] Server  ERROR    ⨯ ./components/loaderWrapper.tsx:4:1
+Module not found: Can't resolve './SideLeft'
+  2 |
+  3 | import { useState } from "react";
+> 4 | import SideLeft from "./SideLeft";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import SideRight from "./SideRight";
+  6 |
+  7 | export default function LoaderWrapper({
+
+
+
+Import trace:
+  Server Component:
+    ./components/loaderWrapper.tsx
+    ./app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:53:32.567] Server  ERROR    ⨯ ./components/loaderWrapper.tsx:4:1
+Module not found: Can't resolve './SideLeft'
+  2 |
+  3 | import { useState } from "react";
+> 4 | import SideLeft from "./SideLeft";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import SideRight from "./SideRight";
+  6 |
+  7 | export default function LoaderWrapper({
+
+
+
+Import trace:
+  Server Component:
+    ./components/loaderWrapper.tsx
+    ./app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:53:32.570] Server  ERROR    ⨯ ./components/loaderWrapper.tsx:4:1
+Module not found: Can't resolve './SideLeft'
+  2 |
+  3 | import { useState } from "react";
+> 4 | import SideLeft from "./SideLeft";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import SideRight from "./SideRight";
+  6 |
+  7 | export default function LoaderWrapper({
+
+
+
+Import trace:
+  Server Component:
+    ./components/loaderWrapper.tsx
+    ./app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:53:32.571] Server  ERROR    ⨯ ./components/loaderWrapper.tsx:4:1
+Module not found: Can't resolve './SideLeft'
+  2 |
+  3 | import { useState } from "react";
+> 4 | import SideLeft from "./SideLeft";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import SideRight from "./SideRight";
+  6 |
+  7 | export default function LoaderWrapper({
+
+
+
+Import trace:
+  Server Component:
+    ./components/loaderWrapper.tsx
+    ./app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:53:32.574] Server  ERROR    ⨯ ./components/loaderWrapper.tsx:5:1
+Module not found: Can't resolve './SideRight'
+  3 | import { useState } from "react";
+  4 | import SideLeft from "./SideLeft";
+> 5 | import SideRight from "./SideRight";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function LoaderWrapper({
+  8 |   children,
+
+
+
+Import trace:
+  Server Component:
+    ./components/loaderWrapper.tsx
+    ./app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:53:32.576] Server  ERROR    ⨯ ./components/loaderWrapper.tsx:5:1
+Module not found: Can't resolve './SideRight'
+  3 | import { useState } from "react";
+  4 | import SideLeft from "./SideLeft";
+> 5 | import SideRight from "./SideRight";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function LoaderWrapper({
+  8 |   children,
+
+
+
+Import trace:
+  Server Component:
+    ./components/loaderWrapper.tsx
+    ./app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:53:32.578] Server  ERROR    ⨯ ./components/loaderWrapper.tsx:5:1
+Module not found: Can't resolve './SideRight'
+  3 | import { useState } from "react";
+  4 | import SideLeft from "./SideLeft";
+> 5 | import SideRight from "./SideRight";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function LoaderWrapper({
+  8 |   children,
+
+
+
+Import trace:
+  Server Component:
+    ./components/loaderWrapper.tsx
+    ./app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:53:32.580] Server  ERROR    ⨯ ./components/loaderWrapper.tsx:5:1
+Module not found: Can't resolve './SideRight'
+  3 | import { useState } from "react";
+  4 | import SideLeft from "./SideLeft";
+> 5 | import SideRight from "./SideRight";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function LoaderWrapper({
+  8 |   children,
+
+
+
+Import trace:
+  Server Component:
+    ./components/loaderWrapper.tsx
+    ./app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:53:32.585] Server  ERROR    ⨯ ./components/loaderWrapper.tsx:4:1
+Module not found: Can't resolve './SideLeft'
+  2 |
+  3 | import { useState } from "react";
+> 4 | import SideLeft from "./SideLeft";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import SideRight from "./SideRight";
+  6 |
+  7 | export default function LoaderWrapper({
+
+
+
+Import trace:
+  Server Component:
+    ./components/loaderWrapper.tsx
+    ./app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:53:32.586] Server  ERROR    ⨯ ./components/loaderWrapper.tsx:4:1
+Module not found: Can't resolve './SideLeft'
+  2 |
+  3 | import { useState } from "react";
+> 4 | import SideLeft from "./SideLeft";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import SideRight from "./SideRight";
+  6 |
+  7 | export default function LoaderWrapper({
+
+
+
+Import trace:
+  Server Component:
+    ./components/loaderWrapper.tsx
+    ./app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:53:32.588] Server  ERROR    ⨯ ./components/loaderWrapper.tsx:4:1
+Module not found: Can't resolve './SideLeft'
+  2 |
+  3 | import { useState } from "react";
+> 4 | import SideLeft from "./SideLeft";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import SideRight from "./SideRight";
+  6 |
+  7 | export default function LoaderWrapper({
+
+
+
+Import trace:
+  Server Component:
+    ./components/loaderWrapper.tsx
+    ./app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:53:32.589] Server  ERROR    ⨯ ./components/loaderWrapper.tsx:4:1
+Module not found: Can't resolve './SideLeft'
+  2 |
+  3 | import { useState } from "react";
+> 4 | import SideLeft from "./SideLeft";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import SideRight from "./SideRight";
+  6 |
+  7 | export default function LoaderWrapper({
+
+
+
+Import trace:
+  Server Component:
+    ./components/loaderWrapper.tsx
+    ./app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:53:32.592] Server  ERROR    ⨯ ./components/loaderWrapper.tsx:5:1
+Module not found: Can't resolve './SideRight'
+  3 | import { useState } from "react";
+  4 | import SideLeft from "./SideLeft";
+> 5 | import SideRight from "./SideRight";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function LoaderWrapper({
+  8 |   children,
+
+
+
+Import trace:
+  Server Component:
+    ./components/loaderWrapper.tsx
+    ./app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:53:32.593] Server  ERROR    ⨯ ./components/loaderWrapper.tsx:5:1
+Module not found: Can't resolve './SideRight'
+  3 | import { useState } from "react";
+  4 | import SideLeft from "./SideLeft";
+> 5 | import SideRight from "./SideRight";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function LoaderWrapper({
+  8 |   children,
+
+
+
+Import trace:
+  Server Component:
+    ./components/loaderWrapper.tsx
+    ./app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:53:32.595] Server  ERROR    ⨯ ./components/loaderWrapper.tsx:5:1
+Module not found: Can't resolve './SideRight'
+  3 | import { useState } from "react";
+  4 | import SideLeft from "./SideLeft";
+> 5 | import SideRight from "./SideRight";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function LoaderWrapper({
+  8 |   children,
+
+
+
+Import trace:
+  Server Component:
+    ./components/loaderWrapper.tsx
+    ./app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:53:32.597] Server  ERROR    ⨯ ./components/loaderWrapper.tsx:5:1
+Module not found: Can't resolve './SideRight'
+  3 | import { useState } from "react";
+  4 | import SideLeft from "./SideLeft";
+> 5 | import SideRight from "./SideRight";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function LoaderWrapper({
+  8 |   children,
+
+
+
+Import trace:
+  Server Component:
+    ./components/loaderWrapper.tsx
+    ./app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:53:32.601] Server  ERROR    ⨯ ./components/loaderWrapper.tsx:4:1
+Module not found: Can't resolve './SideLeft'
+  2 |
+  3 | import { useState } from "react";
+> 4 | import SideLeft from "./SideLeft";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import SideRight from "./SideRight";
+  6 |
+  7 | export default function LoaderWrapper({
+
+
+
+Import trace:
+  Server Component:
+    ./components/loaderWrapper.tsx
+    ./app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:53:32.602] Server  ERROR    ⨯ ./components/loaderWrapper.tsx:4:1
+Module not found: Can't resolve './SideLeft'
+  2 |
+  3 | import { useState } from "react";
+> 4 | import SideLeft from "./SideLeft";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import SideRight from "./SideRight";
+  6 |
+  7 | export default function LoaderWrapper({
+
+
+
+Import trace:
+  Server Component:
+    ./components/loaderWrapper.tsx
+    ./app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:53:32.603] Server  ERROR    ⨯ ./components/loaderWrapper.tsx:4:1
+Module not found: Can't resolve './SideLeft'
+  2 |
+  3 | import { useState } from "react";
+> 4 | import SideLeft from "./SideLeft";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import SideRight from "./SideRight";
+  6 |
+  7 | export default function LoaderWrapper({
+
+
+
+Import trace:
+  Server Component:
+    ./components/loaderWrapper.tsx
+    ./app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:53:32.605] Server  ERROR    ⨯ ./components/loaderWrapper.tsx:4:1
+Module not found: Can't resolve './SideLeft'
+  2 |
+  3 | import { useState } from "react";
+> 4 | import SideLeft from "./SideLeft";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import SideRight from "./SideRight";
+  6 |
+  7 | export default function LoaderWrapper({
+
+
+
+Import trace:
+  Server Component:
+    ./components/loaderWrapper.tsx
+    ./app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:53:32.607] Server  ERROR    ⨯ ./components/loaderWrapper.tsx:5:1
+Module not found: Can't resolve './SideRight'
+  3 | import { useState } from "react";
+  4 | import SideLeft from "./SideLeft";
+> 5 | import SideRight from "./SideRight";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function LoaderWrapper({
+  8 |   children,
+
+
+
+Import trace:
+  Server Component:
+    ./components/loaderWrapper.tsx
+    ./app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:53:32.608] Server  ERROR    ⨯ ./components/loaderWrapper.tsx:5:1
+Module not found: Can't resolve './SideRight'
+  3 | import { useState } from "react";
+  4 | import SideLeft from "./SideLeft";
+> 5 | import SideRight from "./SideRight";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function LoaderWrapper({
+  8 |   children,
+
+
+
+Import trace:
+  Server Component:
+    ./components/loaderWrapper.tsx
+    ./app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:53:32.610] Server  ERROR    ⨯ ./components/loaderWrapper.tsx:5:1
+Module not found: Can't resolve './SideRight'
+  3 | import { useState } from "react";
+  4 | import SideLeft from "./SideLeft";
+> 5 | import SideRight from "./SideRight";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function LoaderWrapper({
+  8 |   children,
+
+
+
+Import trace:
+  Server Component:
+    ./components/loaderWrapper.tsx
+    ./app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:53:32.612] Server  ERROR    ⨯ ./components/loaderWrapper.tsx:5:1
+Module not found: Can't resolve './SideRight'
+  3 | import { useState } from "react";
+  4 | import SideLeft from "./SideLeft";
+> 5 | import SideRight from "./SideRight";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function LoaderWrapper({
+  8 |   children,
+
+
+
+Import trace:
+  Server Component:
+    ./components/loaderWrapper.tsx
+    ./app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:53:32.615] Server  ERROR    ⨯ ./components/loaderWrapper.tsx:4:1
+Module not found: Can't resolve './SideLeft'
+  2 |
+  3 | import { useState } from "react";
+> 4 | import SideLeft from "./SideLeft";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import SideRight from "./SideRight";
+  6 |
+  7 | export default function LoaderWrapper({
+
+
+
+Import trace:
+  Server Component:
+    ./components/loaderWrapper.tsx
+    ./app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:53:32.616] Server  ERROR    ⨯ ./components/loaderWrapper.tsx:4:1
+Module not found: Can't resolve './SideLeft'
+  2 |
+  3 | import { useState } from "react";
+> 4 | import SideLeft from "./SideLeft";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import SideRight from "./SideRight";
+  6 |
+  7 | export default function LoaderWrapper({
+
+
+
+Import trace:
+  Server Component:
+    ./components/loaderWrapper.tsx
+    ./app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:53:32.618] Server  ERROR    ⨯ ./components/loaderWrapper.tsx:4:1
+Module not found: Can't resolve './SideLeft'
+  2 |
+  3 | import { useState } from "react";
+> 4 | import SideLeft from "./SideLeft";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import SideRight from "./SideRight";
+  6 |
+  7 | export default function LoaderWrapper({
+
+
+
+Import trace:
+  Server Component:
+    ./components/loaderWrapper.tsx
+    ./app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:53:32.619] Server  ERROR    ⨯ ./components/loaderWrapper.tsx:4:1
+Module not found: Can't resolve './SideLeft'
+  2 |
+  3 | import { useState } from "react";
+> 4 | import SideLeft from "./SideLeft";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import SideRight from "./SideRight";
+  6 |
+  7 | export default function LoaderWrapper({
+
+
+
+Import trace:
+  Server Component:
+    ./components/loaderWrapper.tsx
+    ./app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:53:32.620] Server  ERROR    ⨯ ./components/loaderWrapper.tsx:5:1
+Module not found: Can't resolve './SideRight'
+  3 | import { useState } from "react";
+  4 | import SideLeft from "./SideLeft";
+> 5 | import SideRight from "./SideRight";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function LoaderWrapper({
+  8 |   children,
+
+
+
+Import trace:
+  Server Component:
+    ./components/loaderWrapper.tsx
+    ./app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:53:32.622] Server  ERROR    ⨯ ./components/loaderWrapper.tsx:5:1
+Module not found: Can't resolve './SideRight'
+  3 | import { useState } from "react";
+  4 | import SideLeft from "./SideLeft";
+> 5 | import SideRight from "./SideRight";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function LoaderWrapper({
+  8 |   children,
+
+
+
+Import trace:
+  Server Component:
+    ./components/loaderWrapper.tsx
+    ./app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:53:32.623] Server  ERROR    ⨯ ./components/loaderWrapper.tsx:5:1
+Module not found: Can't resolve './SideRight'
+  3 | import { useState } from "react";
+  4 | import SideLeft from "./SideLeft";
+> 5 | import SideRight from "./SideRight";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function LoaderWrapper({
+  8 |   children,
+
+
+
+Import trace:
+  Server Component:
+    ./components/loaderWrapper.tsx
+    ./app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:53:32.625] Server  ERROR    ⨯ ./components/loaderWrapper.tsx:5:1
+Module not found: Can't resolve './SideRight'
+  3 | import { useState } from "react";
+  4 | import SideLeft from "./SideLeft";
+> 5 | import SideRight from "./SideRight";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function LoaderWrapper({
+  8 |   children,
+
+
+
+Import trace:
+  Server Component:
+    ./components/loaderWrapper.tsx
+    ./app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:53:32.629] Server  ERROR    ⨯ ./components/loaderWrapper.tsx:4:1
+Module not found: Can't resolve './SideLeft'
+  2 |
+  3 | import { useState } from "react";
+> 4 | import SideLeft from "./SideLeft";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import SideRight from "./SideRight";
+  6 |
+  7 | export default function LoaderWrapper({
+
+
+
+Import trace:
+  Server Component:
+    ./components/loaderWrapper.tsx
+    ./app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:53:32.630] Server  ERROR    ⨯ ./components/loaderWrapper.tsx:4:1
+Module not found: Can't resolve './SideLeft'
+  2 |
+  3 | import { useState } from "react";
+> 4 | import SideLeft from "./SideLeft";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import SideRight from "./SideRight";
+  6 |
+  7 | export default function LoaderWrapper({
+
+
+
+Import trace:
+  Server Component:
+    ./components/loaderWrapper.tsx
+    ./app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:53:32.632] Server  ERROR    ⨯ ./components/loaderWrapper.tsx:4:1
+Module not found: Can't resolve './SideLeft'
+  2 |
+  3 | import { useState } from "react";
+> 4 | import SideLeft from "./SideLeft";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import SideRight from "./SideRight";
+  6 |
+  7 | export default function LoaderWrapper({
+
+
+
+Import trace:
+  Server Component:
+    ./components/loaderWrapper.tsx
+    ./app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:53:32.633] Server  ERROR    ⨯ ./components/loaderWrapper.tsx:4:1
+Module not found: Can't resolve './SideLeft'
+  2 |
+  3 | import { useState } from "react";
+> 4 | import SideLeft from "./SideLeft";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import SideRight from "./SideRight";
+  6 |
+  7 | export default function LoaderWrapper({
+
+
+
+Import trace:
+  Server Component:
+    ./components/loaderWrapper.tsx
+    ./app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:53:32.634] Server  ERROR    ⨯ ./components/loaderWrapper.tsx:5:1
+Module not found: Can't resolve './SideRight'
+  3 | import { useState } from "react";
+  4 | import SideLeft from "./SideLeft";
+> 5 | import SideRight from "./SideRight";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function LoaderWrapper({
+  8 |   children,
+
+
+
+Import trace:
+  Server Component:
+    ./components/loaderWrapper.tsx
+    ./app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:53:32.635] Server  ERROR    ⨯ ./components/loaderWrapper.tsx:5:1
+Module not found: Can't resolve './SideRight'
+  3 | import { useState } from "react";
+  4 | import SideLeft from "./SideLeft";
+> 5 | import SideRight from "./SideRight";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function LoaderWrapper({
+  8 |   children,
+
+
+
+Import trace:
+  Server Component:
+    ./components/loaderWrapper.tsx
+    ./app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:53:32.636] Server  ERROR    ⨯ ./components/loaderWrapper.tsx:5:1
+Module not found: Can't resolve './SideRight'
+  3 | import { useState } from "react";
+  4 | import SideLeft from "./SideLeft";
+> 5 | import SideRight from "./SideRight";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function LoaderWrapper({
+  8 |   children,
+
+
+
+Import trace:
+  Server Component:
+    ./components/loaderWrapper.tsx
+    ./app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:53:32.639] Server  ERROR    ⨯ ./components/loaderWrapper.tsx:5:1
+Module not found: Can't resolve './SideRight'
+  3 | import { useState } from "react";
+  4 | import SideLeft from "./SideLeft";
+> 5 | import SideRight from "./SideRight";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function LoaderWrapper({
+  8 |   children,
+
+
+
+Import trace:
+  Server Component:
+    ./components/loaderWrapper.tsx
+    ./app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:53:32.641] Server  ERROR    ⨯ ./components/loaderWrapper.tsx:4:1
+Module not found: Can't resolve './SideLeft'
+  2 |
+  3 | import { useState } from "react";
+> 4 | import SideLeft from "./SideLeft";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import SideRight from "./SideRight";
+  6 |
+  7 | export default function LoaderWrapper({
+
+
+
+Import trace:
+  Server Component:
+    ./components/loaderWrapper.tsx
+    ./app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:53:32.643] Server  ERROR    ⨯ ./components/loaderWrapper.tsx:4:1
+Module not found: Can't resolve './SideLeft'
+  2 |
+  3 | import { useState } from "react";
+> 4 | import SideLeft from "./SideLeft";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import SideRight from "./SideRight";
+  6 |
+  7 | export default function LoaderWrapper({
+
+
+
+Import trace:
+  Server Component:
+    ./components/loaderWrapper.tsx
+    ./app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:53:32.644] Server  ERROR    ⨯ ./components/loaderWrapper.tsx:4:1
+Module not found: Can't resolve './SideLeft'
+  2 |
+  3 | import { useState } from "react";
+> 4 | import SideLeft from "./SideLeft";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import SideRight from "./SideRight";
+  6 |
+  7 | export default function LoaderWrapper({
+
+
+
+Import trace:
+  Server Component:
+    ./components/loaderWrapper.tsx
+    ./app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:53:32.646] Server  ERROR    ⨯ ./components/loaderWrapper.tsx:4:1
+Module not found: Can't resolve './SideLeft'
+  2 |
+  3 | import { useState } from "react";
+> 4 | import SideLeft from "./SideLeft";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import SideRight from "./SideRight";
+  6 |
+  7 | export default function LoaderWrapper({
+
+
+
+Import trace:
+  Server Component:
+    ./components/loaderWrapper.tsx
+    ./app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:53:32.647] Server  ERROR    ⨯ ./components/loaderWrapper.tsx:5:1
+Module not found: Can't resolve './SideRight'
+  3 | import { useState } from "react";
+  4 | import SideLeft from "./SideLeft";
+> 5 | import SideRight from "./SideRight";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function LoaderWrapper({
+  8 |   children,
+
+
+
+Import trace:
+  Server Component:
+    ./components/loaderWrapper.tsx
+    ./app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:53:32.648] Server  ERROR    ⨯ ./components/loaderWrapper.tsx:5:1
+Module not found: Can't resolve './SideRight'
+  3 | import { useState } from "react";
+  4 | import SideLeft from "./SideLeft";
+> 5 | import SideRight from "./SideRight";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function LoaderWrapper({
+  8 |   children,
+
+
+
+Import trace:
+  Server Component:
+    ./components/loaderWrapper.tsx
+    ./app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:53:32.649] Server  ERROR    ⨯ ./components/loaderWrapper.tsx:5:1
+Module not found: Can't resolve './SideRight'
+  3 | import { useState } from "react";
+  4 | import SideLeft from "./SideLeft";
+> 5 | import SideRight from "./SideRight";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function LoaderWrapper({
+  8 |   children,
+
+
+
+Import trace:
+  Server Component:
+    ./components/loaderWrapper.tsx
+    ./app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:53:32.652] Server  ERROR    ⨯ ./components/loaderWrapper.tsx:5:1
+Module not found: Can't resolve './SideRight'
+  3 | import { useState } from "react";
+  4 | import SideLeft from "./SideLeft";
+> 5 | import SideRight from "./SideRight";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function LoaderWrapper({
+  8 |   children,
+
+
+
+Import trace:
+  Server Component:
+    ./components/loaderWrapper.tsx
+    ./app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:53:32.654] Server  LOG      ✓ Compiled in 96ms
+[01:53:34.408] Browser ERROR   ./components/loaderWrapper.tsx:4:1
+Module not found: Can't resolve './SideLeft'
+  2 |
+  3 | import { useState } from "react";
+> 4 | import SideLeft from "./SideLeft";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import SideRight from "./SideRight";
+  6 |
+  7 | export default function LoaderWrapper({
+
+Import trace:
+  Server Component:
+    ./components/loaderWrapper.tsx
+    ./app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+[01:53:34.408] Browser ERROR   ./components/loaderWrapper.tsx:5:1
+Module not found: Can't resolve './SideRight'
+  3 | import { useState } from "react";
+  4 | import SideLeft from "./SideLeft";
+> 5 | import SideRight from "./SideRight";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function LoaderWrapper({
+  8 |   children,
+
+Import trace:
+  Server Component:
+    ./components/loaderWrapper.tsx
+    ./app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+[01:53:45.696] Server  ERROR    ⨯ ./components/loaderWrapper.tsx:4:1
+Module not found: Can't resolve './SideLeft'
+  2 |
+  3 | import { useState } from "react";
+> 4 | import SideLeft from "./SideLeft";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import SideRight from "./SideRight";
+  6 |
+  7 | export default function LoaderWrapper({
+
+
+
+Import trace:
+  Server Component:
+    ./components/loaderWrapper.tsx
+    ./app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+
+./components/loaderWrapper.tsx:5:1
+Module not found: Can't resolve './SideRight'
+  3 | import { useState } from "react";
+  4 | import SideLeft from "./SideLeft";
+> 5 | import SideRight from "./SideRight";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function LoaderWrapper({
+  8 |   children,
+
+
+
+Import trace:
+  Server Component:
+    ./components/loaderWrapper.tsx
+    ./app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:53:46.455] Browser ERROR   uncaughtError: Error: ./components/loaderWrapper.tsx:4:1
+Module not found: Can't resolve './SideLeft'
+  2 |
+  3 | import { useState } from "react";
+> 4 | import SideLeft from "./SideLeft";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import SideRight from "./SideRight";
+  6 |
+  7 | export default function LoaderWrapper({
+
+
+
+Import trace:
+  Server Component:
+    ./components/loaderWrapper.tsx
+    ./app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:53:46.658] Browser ERROR   ./components/loaderWrapper.tsx:4:1
+Module not found: Can't resolve './SideLeft'
+  2 |
+  3 | import { useState } from "react";
+> 4 | import SideLeft from "./SideLeft";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import SideRight from "./SideRight";
+  6 |
+  7 | export default function LoaderWrapper({
+
+Import trace:
+  Server Component:
+    ./components/loaderWrapper.tsx
+    ./app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+[01:53:46.658] Browser ERROR   ./components/loaderWrapper.tsx:5:1
+Module not found: Can't resolve './SideRight'
+  3 | import { useState } from "react";
+  4 | import SideLeft from "./SideLeft";
+> 5 | import SideRight from "./SideRight";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function LoaderWrapper({
+  8 |   children,
+
+Import trace:
+  Server Component:
+    ./components/loaderWrapper.tsx
+    ./app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+[01:53:46.658] Browser ERROR   ./components/loaderWrapper.tsx:4:1
+Module not found: Can't resolve './SideLeft'
+  2 |
+  3 | import { useState } from "react";
+> 4 | import SideLeft from "./SideLeft";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import SideRight from "./SideRight";
+  6 |
+  7 | export default function LoaderWrapper({
+
+Import trace:
+  Server Component:
+    ./components/loaderWrapper.tsx
+    ./app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+[01:53:46.658] Browser ERROR   ./components/loaderWrapper.tsx:5:1
+Module not found: Can't resolve './SideRight'
+  3 | import { useState } from "react";
+  4 | import SideLeft from "./SideLeft";
+> 5 | import SideRight from "./SideRight";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function LoaderWrapper({
+  8 |   children,
+
+Import trace:
+  Server Component:
+    ./components/loaderWrapper.tsx
+    ./app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+[01:53:46.761] Browser ERROR   ./components/loaderWrapper.tsx:4:1
+Module not found: Can't resolve './SideLeft'
+  2 |
+  3 | import { useState } from "react";
+> 4 | import SideLeft from "./SideLeft";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import SideRight from "./SideRight";
+  6 |
+  7 | export default function LoaderWrapper({
+
+Import trace:
+  Server Component:
+    ./components/loaderWrapper.tsx
+    ./app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+[01:53:46.761] Browser ERROR   ./components/loaderWrapper.tsx:5:1
+Module not found: Can't resolve './SideRight'
+  3 | import { useState } from "react";
+  4 | import SideLeft from "./SideLeft";
+> 5 | import SideRight from "./SideRight";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function LoaderWrapper({
+  8 |   children,
+
+Import trace:
+  Server Component:
+    ./components/loaderWrapper.tsx
+    ./app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+[01:53:55.986] Server  ERROR    ⨯ ./components/loaderWrapper.tsx:4:1
+Module not found: Can't resolve './SideRights'
+  2 |
+  3 | import { useState } from "react";
+> 4 | import SideRight from "./SideRights";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export default function LoaderWrapper({
+  7 |   children,
+
+
+
+Import trace:
+  Server Component:
+    ./components/loaderWrapper.tsx
+    ./app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:53:55.993] Server  ERROR    ⨯ ./components/loaderWrapper.tsx:4:1
+Module not found: Can't resolve './SideRights'
+  2 |
+  3 | import { useState } from "react";
+> 4 | import SideRight from "./SideRights";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export default function LoaderWrapper({
+  7 |   children,
+
+
+
+Import trace:
+  Server Component:
+    ./components/loaderWrapper.tsx
+    ./app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:53:55.998] Server  ERROR    ⨯ ./components/loaderWrapper.tsx:4:1
+Module not found: Can't resolve './SideRights'
+  2 |
+  3 | import { useState } from "react";
+> 4 | import SideRight from "./SideRights";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export default function LoaderWrapper({
+  7 |   children,
+
+
+
+Import trace:
+  Server Component:
+    ./components/loaderWrapper.tsx
+    ./app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:53:56.001] Server  ERROR    ⨯ ./components/loaderWrapper.tsx:4:1
+Module not found: Can't resolve './SideRights'
+  2 |
+  3 | import { useState } from "react";
+> 4 | import SideRight from "./SideRights";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export default function LoaderWrapper({
+  7 |   children,
+
+
+
+Import trace:
+  Server Component:
+    ./components/loaderWrapper.tsx
+    ./app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:53:56.006] Server  ERROR    ⨯ ./components/loaderWrapper.tsx:4:1
+Module not found: Can't resolve './SideRights'
+  2 |
+  3 | import { useState } from "react";
+> 4 | import SideRight from "./SideRights";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export default function LoaderWrapper({
+  7 |   children,
+
+
+
+Import trace:
+  Server Component:
+    ./components/loaderWrapper.tsx
+    ./app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:53:56.012] Server  ERROR    ⨯ ./components/loaderWrapper.tsx:4:1
+Module not found: Can't resolve './SideRights'
+  2 |
+  3 | import { useState } from "react";
+> 4 | import SideRight from "./SideRights";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export default function LoaderWrapper({
+  7 |   children,
+
+
+
+Import trace:
+  Server Component:
+    ./components/loaderWrapper.tsx
+    ./app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:53:56.016] Server  ERROR    ⨯ ./components/loaderWrapper.tsx:4:1
+Module not found: Can't resolve './SideRights'
+  2 |
+  3 | import { useState } from "react";
+> 4 | import SideRight from "./SideRights";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export default function LoaderWrapper({
+  7 |   children,
+
+
+
+Import trace:
+  Server Component:
+    ./components/loaderWrapper.tsx
+    ./app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:53:56.019] Server  ERROR    ⨯ ./components/loaderWrapper.tsx:4:1
+Module not found: Can't resolve './SideRights'
+  2 |
+  3 | import { useState } from "react";
+> 4 | import SideRight from "./SideRights";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export default function LoaderWrapper({
+  7 |   children,
+
+
+
+Import trace:
+  Server Component:
+    ./components/loaderWrapper.tsx
+    ./app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:53:56.864] Browser ERROR   ./components/loaderWrapper.tsx:4:1
+Module not found: Can't resolve './SideRights'
+  2 |
+  3 | import { useState } from "react";
+> 4 | import SideRight from "./SideRights";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export default function LoaderWrapper({
+  7 |   children,
+
+Import trace:
+  Server Component:
+    ./components/loaderWrapper.tsx
+    ./app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+[01:53:57.228] Server  LOG      ✓ Compiled in 118ms
+[01:53:58.584] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:53:59.540] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[01:54:00.864] Server  LOG      ✓ Compiled in 161ms
+[01:54:01.551] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:54:01.954] Server  LOG      ✓ Compiled in 93ms
+[01:54:03.525] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[01:54:05.229] Server  LOG      ✓ Compiled in 93ms
+[01:54:06.585] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[01:54:06.585] Browser ERROR   uncaughtError: ReferenceError: SideRight is not defined
+[01:54:06.586] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[01:54:06.598] Server  LOG      ✓ Compiled in 79ms
+[01:54:08.197] Server  ERROR    ⨯ ReferenceError: side is not defined
+[01:54:08.639] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:54:09.642] Browser ERROR   uncaughtError: ReferenceError: side is not defined
+[01:54:09.681] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[01:54:10.057] Server  LOG      ✓ Compiled in 145ms
+[01:54:10.626] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:54:10.769] Server  LOG      ✓ Compiled in 34ms
+[01:54:11.581] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[01:54:13.585] Server  LOG      ✓ Compiled in 240ms
+[01:54:22.912] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:54:23.138] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[03:07:29.581] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[03:07:29.782] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[03:08:17.076] Server  LOG      ✓ Compiled in 44ms
+[03:08:19.121] Browser ERROR   ./components/sideLeft.tsx:12:3
+Parsing ecmascript source code failed
+  10 |       `}
+  11 |     /><
+> 12 |   );
+     |   ^
+  13 | }
+  14 |
+
+Expression expected
+
+Import traces:
+  Client Component Browser:
+    ./components/sideLeft.tsx [Client Component Browser]
+    ./components/loaderWrapper.tsx [Client Component Browser]
+    ./components/loaderWrapper.tsx [Server Component]
+    ./app/layout.tsx [Server Component]
+
+  Client Component SSR:
+    ./components/sideLeft.tsx [Client Component SSR]
+    ./components/loaderWrapper.tsx [Client Component SSR]
+    ./components/loaderWrapper.tsx [Server Component]
+    ./app/layout.tsx [Server Component]
+[03:08:21.190] Browser ERROR   uncaughtError: ReferenceError: div is not defined
+[03:08:21.526] Server  LOG      ✓ Compiled in 31ms
+[03:08:23.566] Browser ERROR   ./components/sideLeft.tsx:11:12
+Parsing ecmascript source code failed
+   9 |         ${animate ? "-translate-x-full" : "translate-x-0"}
+  10 |       `}
+> 11 |     /><div></div>
+     |            ^
+  12 |   );
+  13 | }
+  14 |
+
+Expression expected
+
+Import traces:
+  Client Component Browser:
+    ./components/sideLeft.tsx [Client Component Browser]
+    ./components/loaderWrapper.tsx [Client Component Browser]
+    ./components/loaderWrapper.tsx [Server Component]
+    ./app/layout.tsx [Server Component]
+
+  Client Component SSR:
+    ./components/sideLeft.tsx [Client Component SSR]
+    ./components/loaderWrapper.tsx [Client Component SSR]
+    ./components/loaderWrapper.tsx [Server Component]
+    ./app/layout.tsx [Server Component]
+[03:08:23.566] Browser ERROR   ./components/sideLeft.tsx:11:13
+Parsing ecmascript source code failed
+   9 |         ${animate ? "-translate-x-full" : "translate-x-0"}
+  10 |       `}
+> 11 |     /><div></div>
+     |             ^^^^^
+  12 |   );
+  13 | }
+  14 |
+
+Unterminated regexp literal
+
+Import traces:
+  Client Component Browser:
+    ./components/sideLeft.tsx [Client Component Browser]
+    ./components/loaderWrapper.tsx [Client Component Browser]
+    ./components/loaderWrapper.tsx [Server Component]
+    ./app/layout.tsx [Server Component]
+
+  Client Component SSR:
+    ./components/sideLeft.tsx [Client Component SSR]
+    ./components/loaderWrapper.tsx [Client Component SSR]
+    ./components/loaderWrapper.tsx [Server Component]
+    ./app/layout.tsx [Server Component]
+[03:08:25.786] Browser ERROR   ./components/sideLeft.tsx:12:10
+Parsing ecmascript source code failed
+  10 |       `}
+  11 |     />
+> 12 |     <div></div>
+     |          ^
+  13 |   );
+  14 | }
+  15 |
+
+Expression expected
+
+Import traces:
+  Client Component Browser:
+    ./components/sideLeft.tsx [Client Component Browser]
+    ./components/loaderWrapper.tsx [Client Component Browser]
+    ./components/loaderWrapper.tsx [Server Component]
+    ./app/layout.tsx [Server Component]
+
+  Client Component SSR:
+    ./components/sideLeft.tsx [Client Component SSR]
+    ./components/loaderWrapper.tsx [Client Component SSR]
+    ./components/loaderWrapper.tsx [Server Component]
+    ./app/layout.tsx [Server Component]
+[03:08:25.786] Browser ERROR   ./components/sideLeft.tsx:12:11
+Parsing ecmascript source code failed
+  10 |       `}
+  11 |     />
+> 12 |     <div></div>
+     |           ^^^^^
+  13 |   );
+  14 | }
+  15 |
+
+Unterminated regexp literal
+
+Import traces:
+  Client Component Browser:
+    ./components/sideLeft.tsx [Client Component Browser]
+    ./components/loaderWrapper.tsx [Client Component Browser]
+    ./components/loaderWrapper.tsx [Server Component]
+    ./app/layout.tsx [Server Component]
+
+  Client Component SSR:
+    ./components/sideLeft.tsx [Client Component SSR]
+    ./components/loaderWrapper.tsx [Client Component SSR]
+    ./components/loaderWrapper.tsx [Server Component]
+    ./app/layout.tsx [Server Component]
+[03:08:27.761] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[03:08:27.782] Server  LOG      ✓ Compiled in 77ms
+[03:08:29.059] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[03:08:30.010] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[03:08:30.620] Server  LOG      ✓ Compiled in 90ms
+[03:08:32.036] Browser ERROR   ./components/sideLeft.tsx:11:12
+Parsing ecmascript source code failed
+   9 |         ${animate ? "-translate-x-full" : "translate-x-0"}
+  10 |       `}
+> 11 |       <div></div>
+     |            ^
+  12 |     />
+  13 |     
+  14 |   );
+
+Expression expected
+
+Import traces:
+  Client Component Browser:
+    ./components/sideLeft.tsx [Client Component Browser]
+    ./components/loaderWrapper.tsx [Client Component Browser]
+    ./components/loaderWrapper.tsx [Server Component]
+    ./app/layout.tsx [Server Component]
+
+  Client Component SSR:
+    ./components/sideLeft.tsx [Client Component SSR]
+    ./components/loaderWrapper.tsx [Client Component SSR]
+    ./components/loaderWrapper.tsx [Server Component]
+    ./app/layout.tsx [Server Component]
+[03:08:32.036] Browser ERROR   ./components/sideLeft.tsx:11:13
+Parsing ecmascript source code failed
+   9 |         ${animate ? "-translate-x-full" : "translate-x-0"}
+  10 |       `}
+> 11 |       <div></div>
+     |             ^^^^^
+  12 |     />
+  13 |     
+  14 |   );
+
+Unterminated regexp literal
+
+Import traces:
+  Client Component Browser:
+    ./components/sideLeft.tsx [Client Component Browser]
+    ./components/loaderWrapper.tsx [Client Component Browser]
+    ./components/loaderWrapper.tsx [Server Component]
+    ./app/layout.tsx [Server Component]
+
+  Client Component SSR:
+    ./components/sideLeft.tsx [Client Component SSR]
+    ./components/loaderWrapper.tsx [Client Component SSR]
+    ./components/loaderWrapper.tsx [Server Component]
+    ./app/layout.tsx [Server Component]
+[03:08:32.586] Server  LOG      ✓ Compiled in 84ms
+[03:08:37.158] Server  LOG      ✓ Compiled in 88ms
+[03:08:38.743] Browser ERROR   ./components/sideLeft.tsx:15:1
+Parsing ecmascript source code failed
+  13 |     
+  14 |   );
+> 15 | }
+     | ^
+  16 |
+
+Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+
+Import traces:
+  Client Component Browser:
+    ./components/sideLeft.tsx [Client Component Browser]
+    ./components/loaderWrapper.tsx [Client Component Browser]
+    ./components/loaderWrapper.tsx [Server Component]
+    ./app/layout.tsx [Server Component]
+
+  Client Component SSR:
+    ./components/sideLeft.tsx [Client Component SSR]
+    ./components/loaderWrapper.tsx [Client Component SSR]
+    ./components/loaderWrapper.tsx [Server Component]
+    ./app/layout.tsx [Server Component]
+[03:08:38.873] Server  LOG      ✓ Compiled in 94ms
+[03:08:39.748] Browser ERROR   ./components/sideLeft.tsx:14:3
+Parsing ecmascript source code failed
+  12 |     ><
+  13 |     
+> 14 |   );
+     |   ^
+  15 | }
+  16 |
+
+Expected '</', got ')'
+
+Import traces:
+  Client Component Browser:
+    ./components/sideLeft.tsx [Client Component Browser]
+    ./components/loaderWrapper.tsx [Client Component Browser]
+    ./components/loaderWrapper.tsx [Server Component]
+    ./app/layout.tsx [Server Component]
+
+  Client Component SSR:
+    ./components/sideLeft.tsx [Client Component SSR]
+    ./components/loaderWrapper.tsx [Client Component SSR]
+    ./components/loaderWrapper.tsx [Server Component]
+    ./app/layout.tsx [Server Component]
+[03:08:48.002] Server  LOG      ✓ Compiled in 87ms
+[03:08:51.278] Server  LOG      ✓ Compiled in 94ms
+[03:08:51.497] Browser ERROR   uncaughtError: ReferenceError: MABAR is not defined
+[03:08:54.826] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[03:08:54.845] Server  LOG      ✓ Compiled in 96ms
+[03:08:56.087] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[03:08:56.345] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[03:11:15.949] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[03:11:16.150] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[03:14:40.369] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[03:14:40.570] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[03:15:09.612] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[03:15:09.814] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[03:17:37.925] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[03:17:38.133] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[03:18:07.245] Server  LOG      ✓ Compiled in 169ms
+[03:18:17.492] Server  LOG      ✓ Compiled in 170ms
+[03:18:22.016] Server  LOG      ✓ Compiled in 119ms
+[03:18:27.186] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[03:18:27.382] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[03:19:27.439] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[03:19:27.688] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[03:19:46.192] Server  LOG      ✓ Compiled in 92ms
+[03:19:48.560] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[03:19:48.765] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[03:19:59.967] Server  LOG      ✓ Compiled in 81ms
+[03:20:01.847] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[03:20:02.046] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[03:55:35.942] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[03:55:36.105] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[03:56:03.967] Server  LOG      ✓ Compiled in 31ms
+[03:56:04.908] Browser ERROR   ./components/loaderWrapper.tsx:32:16
+Parsing ecmascript source code failed
+  30 |           />
+  31 |         </div>
+> 32 |           <div className="bg-gray-600 h-screen w-5"></div>
+     |                ^^^^^^^^^
+  33 |       )}
+  34 |
+  35 |       {/* PANEL KIRI & KANAN */}
+
+Expected '</', got 'className'
+
+Import trace:
+  Server Component:
+    ./components/loaderWrapper.tsx
+    ./app/layout.tsx
+[03:56:08.204] Browser ERROR   ./components/loaderWrapper.tsx:33:16
+Parsing ecmascript source code failed
+  31 |           />
+  32 |         </div>
+> 33 |           <div className="bg-gray-600 h-screen w-5"></div>
+     |                ^^^^^^^^^
+  34 |       )}
+  35 |
+  36 |       {/* PANEL KIRI & KANAN */}
+
+Expected '</', got 'className'
+
+Import trace:
+  Server Component:
+    ./components/loaderWrapper.tsx
+    ./app/layout.tsx
+[03:56:11.520] Browser ERROR   ./components/loaderWrapper.tsx:22:14
+Parsing ecmascript source code failed
+  20 |             
+  21 |         </div>
+> 22 |         <div className="fixed inset-0 z-50 flex items-center justify-center bg-black">
+     |              ^^^^^^^^^
+  23 |           <video
+  24 |             src="/loading.mp4"
+  25 |             autoPlay
+
+Expected '</', got 'className'
+
+Import trace:
+  Server Component:
+    ./components/loaderWrapper.tsx
+    ./app/layout.tsx
+[03:56:20.104] Server  LOG      ✓ Compiled in 28ms
+[03:56:23.525] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[03:56:23.695] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[03:56:32.706] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[03:56:32.862] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[03:57:04.968] Server  LOG      ✓ Compiled in 32ms
+[03:57:12.226] Server  LOG      ✓ Compiled in 45ms
+[03:57:17.387] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[03:57:17.561] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[03:57:44.733] Server  LOG      ✓ Compiled in 27ms
+[03:57:46.734] Server  LOG      ✓ Compiled in 56ms
+[03:57:49.892] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[03:57:50.067] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[03:57:58.847] Server  LOG      ✓ Compiled in 48ms
+[03:58:02.463] Server  LOG      ✓ Compiled in 42ms
+[03:58:04.612] Server  LOG      ✓ Compiled in 40ms
+[03:58:07.964] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[03:58:08.152] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[03:58:20.619] Server  LOG      ✓ Compiled in 26ms
+[03:58:26.333] Server  LOG      ✓ Compiled in 28ms
+[03:58:30.859] Server  LOG      ✓ Compiled in 32ms
+[03:58:34.085] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[03:58:34.256] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[04:00:10.035] Server  LOG      ✓ Compiled in 31ms
+[04:00:17.514] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[04:00:17.688] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[04:00:25.246] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[04:00:25.412] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[04:03:53.748] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[04:03:53.958] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[04:04:01.275] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[04:04:01.493] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[04:04:10.567] Server  LOG      ✓ Compiled in 58ms
+[04:04:11.454] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[04:04:12.441] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[04:04:54.684] Browser WARN    Image with src "/Foto.jpeg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
 Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
-[00:16:52.332] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:17:35.452] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/sertif.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
-[00:17:35.472] Server  LOG      ✓ Compiled in 35ms
-[00:17:36.517] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:17:44.718] Browser WARN    Image with src "/Foto.jpeg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+[04:04:54.684] Browser WARN    Image with src "/projects/compropurworejo.jpeg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
 Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
-[00:18:54.569] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/seeMoreSertif.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
-[00:18:54.588] Server  LOG      ✓ Compiled in 88ms
-[00:18:55.657] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:18:59.072] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/seeMoreSertif.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
-[00:18:59.092] Server  LOG      ✓ Compiled in 104ms
-[00:19:00.335] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:19:06.160] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/seeMoreSertif.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
-[00:19:06.172] Server  LOG      ✓ Compiled in 71ms
-[00:19:07.136] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:19:07.412] Server  LOG      ✓ Compiled in 63ms
-[00:19:07.458] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/seeMoreSertif.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
-[00:19:08.758] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:19:09.546] Browser WARN    Image with src "/Foto.jpeg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+[04:04:56.864] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[04:04:57.047] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[04:05:25.606] Browser WARN    Image with src "/Foto.jpeg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
 Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
-[00:19:28.434] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/seeMoreSertif.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
-[00:19:28.452] Server  LOG      ✓ Compiled in 64ms
-[00:19:29.578] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:23:30.006] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:25:22.090] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/seeMoreSertif.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
-[00:25:22.117] Server  LOG      ✓ Compiled in 38ms
-[00:25:23.502] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:26:03.349] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/seeMoreSertif.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
-[00:26:03.367] Server  LOG      ✓ Compiled in 60ms
-[00:26:04.446] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:26:16.205] Browser WARN    Image with src "/Foto.jpeg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+[04:05:25.606] Browser WARN    Image with src "/projects/compropurworejo.jpeg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
 Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
-[00:26:16.308] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/seeMoreSertif.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
-[00:26:16.323] Server  LOG      ✓ Compiled in 50ms
-[00:26:17.423] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:27:41.978] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/seeMoreSertif.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
-[00:27:41.997] Server  LOG      ✓ Compiled in 48ms
-[00:27:43.082] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:29:26.892] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/seeMoreSertif.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
-[00:29:26.909] Server  LOG      ✓ Compiled in 48ms
-[00:29:27.948] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:29:34.727] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/seeMoreSertif.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
-[00:29:34.746] Server  LOG      ✓ Compiled in 82ms
-[00:29:35.699] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:29:45.370] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/seeMoreSertif.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
-[00:29:45.370] Browser WARN    Image with src "/Foto.jpeg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+[04:15:07.550] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[04:15:08.512] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[04:15:14.438] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[04:15:14.615] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[04:15:58.011] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[04:15:58.177] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[04:18:00.732] Server  LOG      ✓ Compiled in 72ms
+[04:18:03.376] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[04:18:03.572] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[04:18:28.878] Server  LOG      ✓ Compiled in 36ms
+[04:18:32.580] Server  LOG      ✓ Compiled in 27ms
+[04:18:44.614] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[04:18:44.778] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[04:19:56.514] Server  LOG      ✓ Compiled in 30ms
+[04:20:10.576] Server  LOG      ✓ Compiled in 42ms
+[04:20:12.695] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[04:20:12.866] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[04:22:13.047] Server  LOG      ✓ Compiled in 66ms
+[04:22:25.220] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[04:22:25.394] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[04:23:14.644] Server  LOG      ✓ Compiled in 78ms
+[04:23:16.446] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[04:23:16.601] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[04:23:27.032] Server  LOG      ✓ Compiled in 22ms
+[04:23:59.714] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[04:23:59.869] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[04:24:44.346] Server  LOG      ✓ Compiled in 27ms
+[04:24:46.407] Server  LOG      ✓ Compiled in 38ms
+[04:24:53.093] Server  LOG      ✓ Compiled in 28ms
+[04:24:54.920] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[04:24:55.107] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[04:25:16.879] Server  LOG      ✓ Compiled in 38ms
+[04:25:25.379] Server  LOG      ✓ Compiled in 38ms
+[04:25:27.099] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[04:25:27.289] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[04:25:37.097] Server  LOG      ✓ Compiled in 39ms
+[04:25:40.217] Server  LOG      ✓ Compiled in 65ms
+[04:25:41.820] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[04:25:42.035] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[04:25:49.619] Server  LOG      ✓ Compiled in 74ms
+[04:25:50.602] Server  LOG      ✓ Compiled in 35ms
+[04:25:51.828] Server  LOG      ✓ Compiled in 19ms
+[04:25:55.899] Server  LOG      ✓ Compiled in 35ms
+[04:25:57.383] Server  LOG      ✓ Compiled in 31ms
+[04:26:12.541] Server  LOG      ✓ Compiled in 34ms
+[04:26:15.030] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[04:26:15.191] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[04:26:39.895] Server  LOG      ✓ Compiled in 39ms
+[04:26:42.170] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[04:26:42.385] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[04:26:51.504] Server  LOG      ✓ Compiled in 39ms
+[04:27:08.511] Server  LOG      ✓ Compiled in 37ms
+[04:27:12.003] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[04:27:12.168] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[04:27:28.692] Server  LOG      ✓ Compiled in 102ms
+[04:27:30.650] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[04:27:30.793] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[04:27:43.151] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[04:27:43.316] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[04:27:59.085] Server  LOG      ✓ Compiled in 40ms
+[04:28:01.053] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[04:28:01.209] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[04:41:48.893] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[04:41:49.050] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[04:42:37.710] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[04:42:37.857] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[04:43:01.876] Server  LOG      ✓ Compiled in 35ms
+[04:43:09.539] Server  LOG      ✓ Compiled in 67ms
+[04:43:11.587] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[04:43:11.748] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[04:44:32.286] Server  LOG      ✓ Compiled in 39ms
+[04:44:36.615] Server  LOG      ✓ Compiled in 56ms
+[04:44:37.615] Browser ERROR   ./components/loaderWrapper.tsx:43:36
+Parsing ecmascript source code failed
+  41 |             `}
+  42 |           >
+> 43 |             {Array.from({ length:  }).map((_, i) => (
+     |                                    ^
+  44 |               <div
+  45 |                 key={i}
+  46 |                 className="w-5 h-full bg-gray-300/80"
+
+Expected '</', got '}'
+
+Import trace:
+  Server Component:
+    ./components/loaderWrapper.tsx
+    ./app/layout.tsx
+[04:45:05.603] Server  LOG      ✓ Compiled in 26ms
+[04:45:08.679] Server  LOG      ✓ Compiled in 37ms
+[04:47:47.295] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[04:47:47.465] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[04:47:58.280] Server  LOG      ✓ Compiled in 47ms
+[04:47:59.816] Server  LOG      ✓ Compiled in 24ms
+[04:48:01.467] Server  LOG      ✓ Compiled in 68ms
+[04:48:03.737] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[04:48:03.909] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[04:48:21.759] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[04:48:21.917] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[04:48:49.101] Server  LOG      ✓ Compiled in 59ms
+[04:48:52.171] Server  LOG      ✓ Compiled in 32ms
+[04:48:53.429] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[04:48:53.577] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[04:48:58.787] Server  LOG      ✓ Compiled in 56ms
+[04:49:04.835] Server  LOG      ✓ Compiled in 47ms
+[04:49:06.663] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[04:49:06.822] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[04:49:15.797] Server  LOG      ✓ Compiled in 71ms
+[04:49:21.156] Server  LOG      ✓ Compiled in 88ms
+[04:49:23.115] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[04:49:23.285] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[04:49:34.765] Server  LOG      ✓ Compiled in 31ms
+[04:49:36.643] Server  LOG      ✓ Compiled in 59ms
+[04:49:39.956] Server  LOG      ✓ Compiled in 40ms
+[04:49:41.379] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[04:49:41.543] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[04:49:48.429] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[04:49:48.598] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[04:49:56.352] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[04:49:56.533] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[04:50:13.904] Server  LOG      ✓ Compiled in 36ms
+[04:50:20.041] Server  LOG      ✓ Compiled in 46ms
+[04:50:22.126] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[04:50:22.291] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[04:50:33.043] Server  LOG      ✓ Compiled in 37ms
+[04:50:35.439] Server  LOG      ✓ Compiled in 46ms
+[04:50:36.630] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[04:50:36.779] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[04:50:49.054] Server  LOG      ✓ Compiled in 119ms
+[04:50:53.293] Server  LOG      ✓ Compiled in 117ms
+[04:50:54.986] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[04:50:55.147] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[04:51:08.934] Server  LOG      ✓ Compiled in 59ms
+[04:51:11.410] Server  LOG      ✓ Compiled in 47ms
+[04:51:12.823] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[04:51:12.996] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[04:51:23.535] Server  LOG      ✓ Compiled in 64ms
+[04:51:27.893] Server  LOG      ✓ Compiled in 52ms
+[04:51:29.243] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[04:51:29.436] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[04:54:48.330] Server  LOG      ✓ Compiled in 93ms
+[04:54:49.782] Server  LOG      ✓ Compiled in 65ms
+[04:54:56.032] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[04:54:56.228] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[04:55:33.277] Server  LOG      ✓ Compiled in 101ms
+[04:55:35.237] Server  LOG      ✓ Compiled in 79ms
+[04:55:37.461] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[04:55:37.632] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[04:56:18.047] Server  LOG      ✓ Compiled in 35ms
+[04:56:20.105] Browser ERROR   ./components/loaderWrapper.tsx:47:32
+Parsing ecmascript source code failed
+  45 |                 key={i}
+  46 |                 className="w-10 h-full bg-[linear-gradient(90deg,rgba(166,166,166,1)_0%,rgba(255,255,255,1)_100%)]"
+> 47 |                 linear-gradient(90deg,rgba(255, 255, 255, 1) 0%, rgba(166, 166, 166, 1) 100%)
+     |                                ^
+  48 |               />
+  49 |             ))}
+  50 |           </div>
+
+Expected '</', got '('
+
+Import trace:
+  Server Component:
+    ./components/loaderWrapper.tsx
+    ./app/layout.tsx
+[04:56:53.777] Server  LOG      ✓ Compiled in 29ms
+[04:56:55.004] Server  LOG      ✓ Compiled in 30ms
+[04:56:56.776] Server  LOG      ✓ Compiled in 27ms
+[04:56:59.803] Server  LOG      ✓ Compiled in 56ms
+[04:57:04.400] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[04:57:04.577] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[04:59:45.697] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[04:59:45.853] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[05:00:42.156] Server  LOG      ✓ Compiled in 55ms
+[05:00:44.840] Server  LOG      ✓ Compiled in 40ms
+[05:00:48.351] Server  LOG      ✓ Compiled in 32ms
+[05:00:50.917] Server  LOG      ✓ Compiled in 31ms
+[05:00:55.709] Server  LOG      ✓ Compiled in 84ms
+[05:01:01.250] Server  LOG      ✓ Compiled in 38ms
+[05:01:04.326] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[05:01:04.491] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[05:01:28.024] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[05:01:28.210] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[05:01:38.534] Server  LOG      ✓ Compiled in 48ms
+[05:01:40.186] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[05:01:40.373] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[05:01:58.752] Server  LOG      ✓ Compiled in 44ms
+[05:02:02.840] Server  LOG      ✓ Compiled in 68ms
+[05:02:06.824] Server  LOG      ✓ Compiled in 34ms
+[05:02:11.270] Server  LOG      ✓ Compiled in 95ms
+[05:02:13.090] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[05:02:13.259] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[05:02:35.240] Server  LOG      ✓ Compiled in 76ms
+[05:02:36.664] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[05:02:36.826] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[05:02:47.851] Server  LOG      ✓ Compiled in 69ms
+[05:02:49.424] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[05:02:49.605] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[05:02:52.008] Server  LOG      ✓ Compiled in 79ms
+[05:02:53.234] Server  LOG      ✓ Compiled in 81ms
+[05:03:14.948] Server  LOG      ✓ Compiled in 32ms
+[05:03:37.138] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[05:03:37.303] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[05:03:50.752] Server  LOG      ✓ Compiled in 47ms
+[05:03:51.877] Server  LOG      ✓ Compiled in 25ms
+[05:03:54.444] Server  LOG      ✓ Compiled in 28ms
+[05:03:58.316] Server  LOG      ✓ Compiled in 34ms
+[05:04:00.399] Server  LOG      ✓ Compiled in 91ms
+[05:04:02.540] Server  LOG      ✓ Compiled in 36ms
+[05:04:05.026] Server  LOG      ✓ Compiled in 29ms
+[05:04:06.976] Server  LOG      ✓ Compiled in 32ms
+[05:04:08.828] Server  LOG      ✓ Compiled in 66ms
+[05:04:12.069] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[05:04:12.235] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[05:04:26.104] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[05:04:26.290] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[05:06:23.885] Server  LOG      ✓ Compiled in 48ms
+[05:06:24.463] Server  LOG      ✓ Compiled in 23ms
+[05:06:27.983] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[05:06:28.129] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[05:06:47.917] Server  LOG      ✓ Compiled in 127ms
+[05:06:52.419] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[05:06:52.590] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[05:07:00.767] Server  LOG      ✓ Compiled in 141ms
+[05:07:21.930] Server  LOG      ✓ Compiled in 53ms
+[05:07:28.477] Server  LOG      ✓ Compiled in 26ms
+[05:07:30.131] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[05:07:30.331] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[05:07:42.717] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[05:07:42.881] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[05:08:48.137] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[05:08:48.303] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[05:09:19.064] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[05:09:19.230] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[05:10:11.758] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/canvas.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[05:10:11.780] Server  LOG      ✓ Compiled in 131ms
+[05:10:12.572] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[05:10:12.715] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[05:13:55.363] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/sisiKiri.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[05:13:55.536] Server  LOG      ✓ Compiled in 76ms
+[05:13:56.087] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[05:13:57.074] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[05:14:02.314] Server  LOG      ✓ Compiled in 71ms
+[05:14:13.505] Server  LOG      ✓ Compiled in 74ms
+[05:14:19.816] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/sisiKiri.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[05:14:20.002] Server  LOG      ✓ Compiled in 29ms
+[05:14:20.626] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[05:14:21.600] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[05:14:23.584] Browser WARN    Image with src "/Foto.jpeg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
 Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
-[00:29:45.391] Server  LOG      ✓ Compiled in 179ms
-[00:29:46.551] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:30:11.764] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/seeMoreSertif.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
-[00:30:11.776] Server  LOG      ✓ Compiled in 53ms
-[00:30:13.147] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:30:59.085] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/seeMoreSertif.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
-[00:30:59.100] Server  LOG      ✓ Compiled in 66ms
-[00:31:00.386] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:31:56.166] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:33:48.981] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/sertif.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
-[00:33:48.992] Server  LOG      ✓ Compiled in 180ms
-[00:33:53.198] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:34:15.304] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:34:45.017] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/project.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
-[00:34:45.019] Server  LOG      ✓ Compiled in 239ms
-[00:34:49.049] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:34:50.953] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/project.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
-[00:34:51.587] Server  LOG      ✓ Compiled in 1ms
-[00:34:54.753] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:35:13.398] Browser WARN    Image with src "/Foto.jpeg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+[05:14:23.584] Browser WARN    Image with src "/projects/compropurworejo.jpeg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
 Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
-[00:35:13.564] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/project.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
-[00:35:13.568] Server  LOG      ✓ Compiled in 174ms
-[00:35:17.610] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[01:04:55.403] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[01:05:07.578] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/project.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
-[01:05:07.604] Server  LOG      ✓ Compiled in 36ms
-[01:05:08.241] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[01:05:13.624] Browser WARN    Image with src "/Foto.jpeg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+[05:15:32.278] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/sisiKiri.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[05:15:32.304] Server  LOG      ✓ Compiled in 31ms
+[05:15:33.140] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[05:15:33.301] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[05:15:58.551] Server  LOG      ✓ Compiled in 127ms
+[05:18:04.860] Server  LOG      ✓ Compiled in 120ms
+[05:18:05.713] Browser ERROR   ./components/sisiKiri.tsx:30:10
+Parsing ecmascript source code failed
+  28 |       <p className="xl:text-l 2xl:text-3xl">G</p>
+  29 |     </div>
+> 30 |     <div className="mt-10">
+     |          ^^^^^^^^^
+  31 |           <p className="xl:text-l 2xl:text-3xl">U</p>
+  32 |           <p className="xl:text-l 2xl:text-3xl">N</p>
+  33 |           <p className="xl:text-l 2xl:text-3xl">I</p>
+
+Expected ',', got 'className'
+
+Import traces:
+  Client Component Browser:
+    ./components/sisiKiri.tsx [Client Component Browser]
+    ./components/porto.tsx [Client Component Browser]
+    ./components/canvas.tsx [Client Component Browser]
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./components/sisiKiri.tsx [Client Component SSR]
+    ./components/porto.tsx [Client Component SSR]
+    ./components/canvas.tsx [Client Component SSR]
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+[05:18:10.193] Browser ERROR   ./components/sisiKiri.tsx:4:10
+Parsing ecmascript source code failed
+  2 |   return (
+  3 |     <></>
+> 4 |     <div className="animate-verticalLoop text-center my-auto p-2 md:p-5 md:text-base">
+    |          ^^^^^^^^^
+  5 |       <p className="xl:text-l 2xl:text-3xl">U</p>
+  6 |       <p className="xl:text-l 2xl:text-3xl">N</p>
+  7 |       <p className="xl:text-l 2xl:text-3xl">I</p>
+
+Expected ',', got 'className'
+
+Import traces:
+  Client Component Browser:
+    ./components/sisiKiri.tsx [Client Component Browser]
+    ./components/porto.tsx [Client Component Browser]
+    ./components/canvas.tsx [Client Component Browser]
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./components/sisiKiri.tsx [Client Component SSR]
+    ./components/porto.tsx [Client Component SSR]
+    ./components/canvas.tsx [Client Component SSR]
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+[05:18:12.034] Browser ERROR   ./components/sisiKiri.tsx:5:10
+Parsing ecmascript source code failed
+  3 |     <>
+  4 |     </>
+> 5 |     <div className="animate-verticalLoop text-center my-auto p-2 md:p-5 md:text-base">
+    |          ^^^^^^^^^
+  6 |       <p className="xl:text-l 2xl:text-3xl">U</p>
+  7 |       <p className="xl:text-l 2xl:text-3xl">N</p>
+  8 |       <p className="xl:text-l 2xl:text-3xl">I</p>
+
+Expected ',', got 'className'
+
+Import traces:
+  Client Component Browser:
+    ./components/sisiKiri.tsx [Client Component Browser]
+    ./components/porto.tsx [Client Component Browser]
+    ./components/canvas.tsx [Client Component Browser]
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./components/sisiKiri.tsx [Client Component SSR]
+    ./components/porto.tsx [Client Component SSR]
+    ./components/canvas.tsx [Client Component SSR]
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+[05:18:13.333] Browser ERROR   ./components/sisiKiri.tsx:6:10
+Parsing ecmascript source code failed
+  4 |     
+  5 |     </>
+> 6 |     <div className="animate-verticalLoop text-center my-auto p-2 md:p-5 md:text-base">
+    |          ^^^^^^^^^
+  7 |       <p className="xl:text-l 2xl:text-3xl">U</p>
+  8 |       <p className="xl:text-l 2xl:text-3xl">N</p>
+  9 |       <p className="xl:text-l 2xl:text-3xl">I</p>
+
+Expected ',', got 'className'
+
+Import traces:
+  Client Component Browser:
+    ./components/sisiKiri.tsx [Client Component Browser]
+    ./components/porto.tsx [Client Component Browser]
+    ./components/canvas.tsx [Client Component Browser]
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./components/sisiKiri.tsx [Client Component SSR]
+    ./components/porto.tsx [Client Component SSR]
+    ./components/canvas.tsx [Client Component SSR]
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+[05:18:19.056] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/sisiKiri.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[05:18:19.658] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[05:18:20.622] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[05:18:52.421] Server  LOG      ✓ Compiled in 90ms
+[05:19:25.308] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/sisiKiri.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[05:19:25.554] Server  LOG      ✓ Compiled in 47ms
+[05:19:26.246] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[05:19:27.203] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[05:19:42.152] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/sisiKiri.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[05:19:42.357] Server  LOG      ✓ Compiled in 30ms
+[05:19:43.028] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[05:19:44.010] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[05:19:47.411] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/sisiKiri.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[05:19:47.556] Server  LOG      ✓ Compiled in 29ms
+[05:19:48.074] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[05:19:49.035] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[05:19:53.039] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/sisiKiri.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[05:19:53.212] Server  LOG      ✓ Compiled in 32ms
+[05:19:53.773] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[05:19:54.435] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[05:20:14.693] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/sisiKiri.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[05:20:14.816] Server  LOG      ✓ Compiled in 61ms
+[05:20:15.334] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[05:20:16.303] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[05:21:20.220] Server  LOG      ✓ Compiled in 132ms
+[05:22:01.064] Server  LOG      ✓ Compiled in 69ms
+[05:22:07.641] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/sisiKiri.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[05:22:07.664] Server  LOG      ✓ Compiled in 93ms
+[05:22:08.507] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[05:22:08.719] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[05:22:34.293] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/sisiKiri.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[05:22:34.478] Server  LOG      ✓ Compiled in 43ms
+[05:22:34.977] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[05:22:35.949] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[05:22:37.923] Browser WARN    Image with src "/Foto.jpeg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
 Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
-[01:05:17.899] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[01:05:50.820] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/sertif.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
-[01:05:50.846] Server  LOG      ✓ Compiled in 28ms
-[01:05:51.537] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[01:06:13.188] Browser WARN    Image with src "/Foto.jpeg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+[05:22:37.923] Browser WARN    Image with src "/projects/compropurworejo.jpeg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
 Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
-[01:06:13.208] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/sertif.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
-[01:06:13.233] Server  LOG      ✓ Compiled in 42ms
-[01:06:13.927] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[01:08:46.806] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[01:09:04.593] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/project.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
-[01:09:04.619] Server  LOG      ✓ Compiled in 30ms
-[01:09:05.347] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[01:09:23.817] Browser WARN    Image with src "/Foto.jpeg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+[05:22:45.562] Server  LOG      ✓ Compiled in 69ms
+[05:22:47.946] Server  LOG      ✓ Compiled in 84ms
+[05:22:52.925] Server  LOG      ✓ Compiled in 92ms
+[05:22:57.845] Server  LOG      ✓ Compiled in 125ms
+[05:23:14.537] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/sisiKiri.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[05:23:14.804] Server  LOG      ✓ Compiled in 68ms
+[05:23:15.359] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[05:23:16.322] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[05:23:18.808] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/sisiKiri.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[05:23:19.036] Server  LOG      ✓ Compiled in 42ms
+[05:23:19.723] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[05:23:20.720] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[05:23:23.882] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/sisiKiri.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[05:23:24.091] Server  LOG      ✓ Compiled in 41ms
+[05:23:24.657] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[05:23:25.629] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[05:23:26.178] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/sisiKiri.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[05:23:26.326] Server  LOG      ✓ Compiled in 87ms
+[05:23:26.924] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[05:23:28.888] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[05:23:29.701] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/sisiKiri.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[05:23:29.701] Browser WARN    Image with src "/Foto.jpeg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
 Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
-[01:09:23.990] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/project.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
-[01:09:24.015] Server  LOG      ✓ Compiled in 44ms
-[01:09:24.700] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[01:12:05.242] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./data/certifications.json (json) changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
-[01:12:05.269] Server  LOG      ✓ Compiled in 21ms
-[01:12:05.951] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[01:12:28.168] Browser WARN    Image with src "/Foto.jpeg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+[05:23:29.701] Browser WARN    Image with src "/projects/compropurworejo.jpeg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
 Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
-[01:12:48.922] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./data/certifications.json (json) changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
-[01:12:48.946] Server  LOG      ✓ Compiled in 26ms
-[01:12:49.732] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[05:23:29.914] Server  LOG      ✓ Compiled in 84ms
+[05:23:30.667] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[05:23:30.864] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[05:23:32.556] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/sisiKiri.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[05:23:32.775] Server  LOG      ✓ Compiled in 49ms
+[05:23:33.604] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[05:23:33.604] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[05:23:33.734] Browser WARN    Image with src "/contacts/linkedin.svg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[05:23:33.734] Browser WARN    Image with src "/contacts/whatsapp.svg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[05:23:40.491] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/sisiKiri.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[05:23:40.668] Server  LOG      ✓ Compiled in 29ms
+[05:23:41.194] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[05:23:42.155] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[05:23:44.678] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/sisiKiri.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[05:23:44.705] Server  LOG      ✓ Compiled in 34ms
+[05:23:45.582] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[05:23:46.555] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[05:23:47.337] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/sisiKiri.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[05:23:47.501] Server  LOG      ✓ Compiled in 34ms
+[05:23:48.137] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[05:23:49.104] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[05:23:49.694] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/sisiKiri.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[05:23:49.718] Server  LOG      ✓ Compiled in 35ms
+[05:23:50.313] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[05:23:51.294] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[05:23:53.738] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/sisiKiri.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[05:23:53.908] Server  LOG      ✓ Compiled in 37ms
+[05:23:54.460] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[05:23:55.412] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/sisiKiri.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[05:23:55.412] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[05:23:55.570] Server  LOG      ✓ Compiled in 58ms
+[05:23:56.111] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[05:23:57.090] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[05:23:59.884] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/sisiKiri.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[05:24:00.044] Server  LOG      ✓ Compiled in 33ms
+[05:24:00.598] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[05:24:00.823] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[05:24:00.954] Browser WARN    Image with src "/contacts/linkedin.svg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[05:24:00.954] Browser WARN    Image with src "/contacts/whatsapp.svg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[05:24:01.326] Server  LOG      ✓ Compiled in 40ms
+[05:24:01.378] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/sisiKiri.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[05:24:02.017] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[05:24:02.177] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[05:24:32.806] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/sisiKiri.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[05:24:32.999] Server  LOG      ✓ Compiled in 40ms
+[05:24:33.607] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[05:24:34.576] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[05:24:34.907] Browser WARN    Image with src "/Foto.jpeg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[05:24:34.907] Browser WARN    Image with src "/projects/compropurworejo.jpeg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[05:25:06.214] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/sisiKiri.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[05:25:06.338] Server  LOG      ✓ Compiled in 25ms
+[05:25:06.844] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[05:25:07.834] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[05:25:11.817] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/sisiKiri.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[05:25:12.025] Server  LOG      ✓ Compiled in 24ms
+[05:25:12.675] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[05:25:13.645] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[05:25:14.999] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/sisiKiri.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[05:25:15.170] Server  LOG      ✓ Compiled in 38ms
+[05:25:15.637] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[05:25:16.608] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[05:25:19.378] Server  LOG      ✓ Compiled in 45ms
+[05:25:20.386] Browser ERROR   ./components/sisiKiri.tsx:33:9
+Parsing ecmascript source code failed
+  31 |         </div>
+  32 |         
+> 33 |       </div>
+     |         ^^^
+  34 |     </>
+  35 |   );
+  36 | };
+
+Expected '>', got 'div'
+
+Import traces:
+  Client Component Browser:
+    ./components/sisiKiri.tsx [Client Component Browser]
+    ./components/porto.tsx [Client Component Browser]
+    ./components/canvas.tsx [Client Component Browser]
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./components/sisiKiri.tsx [Client Component SSR]
+    ./components/porto.tsx [Client Component SSR]
+    ./components/canvas.tsx [Client Component SSR]
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+[05:25:23.208] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/sisiKiri.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[05:25:23.723] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[05:25:24.201] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[05:25:24.327] Browser WARN    Image with src "/contacts/linkedin.svg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[05:25:24.327] Browser WARN    Image with src "/contacts/whatsapp.svg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[05:25:56.966] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/sisiKiri.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[05:25:57.144] Server  LOG      ✓ Compiled in 28ms
+[05:25:57.622] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[05:25:58.590] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[05:25:59.608] Browser WARN    Image with src "/Foto.jpeg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[05:25:59.608] Browser WARN    Image with src "/projects/compropurworejo.jpeg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[05:26:00.188] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/sisiKiri.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[05:26:00.206] Server  LOG      ✓ Compiled in 138ms
+[05:26:01.068] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[05:26:01.238] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[05:26:06.402] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/sisiKiri.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[05:26:06.592] Server  LOG      ✓ Compiled in 32ms
+[05:26:07.167] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[05:26:08.136] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[05:26:10.281] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/sisiKiri.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[05:26:10.436] Server  LOG      ✓ Compiled in 41ms
+[05:26:10.979] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[05:26:11.934] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/sisiKiri.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[05:26:11.934] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[05:26:11.951] Server  LOG      ✓ Compiled in 113ms
+[05:26:12.632] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[05:26:12.869] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[05:26:12.869] Browser WARN    Image with src "/contacts/linkedin.svg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[05:26:12.869] Browser WARN    Image with src "/contacts/whatsapp.svg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[05:27:20.178] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/sisiKiri.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[05:27:20.365] Server  LOG      ✓ Compiled in 30ms
+[05:27:20.926] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[05:27:21.130] Browser WARN    Image with src "http://localhost:3000/contacts/github.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.

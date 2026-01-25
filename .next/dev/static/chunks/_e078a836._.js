@@ -141,186 +141,211 @@ __turbopack_context__.s([
 var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/next/dist/compiled/react/jsx-dev-runtime.js [app-client] (ecmascript)");
 ;
 const sisiKiri = ()=>{
-    return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-        className: "text-center my-auto p-2 md:p-5 text-xs md:text-base",
-        children: [
-            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                children: "U"
-            }, void 0, false, {
-                fileName: "[project]/components/sisiKiri.tsx",
-                lineNumber: 4,
-                columnNumber: 7
-            }, ("TURBOPACK compile-time value", void 0)),
-            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                children: "N"
-            }, void 0, false, {
-                fileName: "[project]/components/sisiKiri.tsx",
-                lineNumber: 5,
-                columnNumber: 7
-            }, ("TURBOPACK compile-time value", void 0)),
-            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                children: "I"
-            }, void 0, false, {
-                fileName: "[project]/components/sisiKiri.tsx",
-                lineNumber: 6,
-                columnNumber: 7
-            }, ("TURBOPACK compile-time value", void 0)),
-            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                children: "V"
-            }, void 0, false, {
-                fileName: "[project]/components/sisiKiri.tsx",
-                lineNumber: 7,
-                columnNumber: 7
-            }, ("TURBOPACK compile-time value", void 0)),
-            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                children: "E"
-            }, void 0, false, {
-                fileName: "[project]/components/sisiKiri.tsx",
-                lineNumber: 8,
-                columnNumber: 7
-            }, ("TURBOPACK compile-time value", void 0)),
-            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                children: "R"
-            }, void 0, false, {
-                fileName: "[project]/components/sisiKiri.tsx",
-                lineNumber: 9,
-                columnNumber: 7
-            }, ("TURBOPACK compile-time value", void 0)),
-            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                children: "S"
-            }, void 0, false, {
-                fileName: "[project]/components/sisiKiri.tsx",
-                lineNumber: 10,
-                columnNumber: 7
-            }, ("TURBOPACK compile-time value", void 0)),
-            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                children: "I"
-            }, void 0, false, {
-                fileName: "[project]/components/sisiKiri.tsx",
-                lineNumber: 11,
-                columnNumber: 7
-            }, ("TURBOPACK compile-time value", void 0)),
-            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                children: "T"
-            }, void 0, false, {
-                fileName: "[project]/components/sisiKiri.tsx",
-                lineNumber: 12,
-                columnNumber: 7
-            }, ("TURBOPACK compile-time value", void 0)),
-            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                children: "A"
-            }, void 0, false, {
-                fileName: "[project]/components/sisiKiri.tsx",
-                lineNumber: 13,
-                columnNumber: 7
-            }, ("TURBOPACK compile-time value", void 0)),
-            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                children: "S"
-            }, void 0, false, {
-                fileName: "[project]/components/sisiKiri.tsx",
-                lineNumber: 14,
-                columnNumber: 7
-            }, ("TURBOPACK compile-time value", void 0)),
-            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
-                fileName: "[project]/components/sisiKiri.tsx",
-                lineNumber: 15,
-                columnNumber: 7
-            }, ("TURBOPACK compile-time value", void 0)),
-            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                children: "N"
-            }, void 0, false, {
-                fileName: "[project]/components/sisiKiri.tsx",
-                lineNumber: 16,
-                columnNumber: 7
-            }, ("TURBOPACK compile-time value", void 0)),
-            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                children: "E"
-            }, void 0, false, {
-                fileName: "[project]/components/sisiKiri.tsx",
-                lineNumber: 17,
-                columnNumber: 7
-            }, ("TURBOPACK compile-time value", void 0)),
-            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                children: "G"
-            }, void 0, false, {
-                fileName: "[project]/components/sisiKiri.tsx",
-                lineNumber: 18,
-                columnNumber: 7
-            }, ("TURBOPACK compile-time value", void 0)),
-            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                children: "E"
-            }, void 0, false, {
-                fileName: "[project]/components/sisiKiri.tsx",
-                lineNumber: 19,
-                columnNumber: 7
-            }, ("TURBOPACK compile-time value", void 0)),
-            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                children: "R"
-            }, void 0, false, {
-                fileName: "[project]/components/sisiKiri.tsx",
-                lineNumber: 20,
-                columnNumber: 7
-            }, ("TURBOPACK compile-time value", void 0)),
-            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                children: "I"
-            }, void 0, false, {
-                fileName: "[project]/components/sisiKiri.tsx",
-                lineNumber: 21,
-                columnNumber: 7
-            }, ("TURBOPACK compile-time value", void 0)),
-            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
-                fileName: "[project]/components/sisiKiri.tsx",
-                lineNumber: 22,
-                columnNumber: 7
-            }, ("TURBOPACK compile-time value", void 0)),
-            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                children: "M"
-            }, void 0, false, {
-                fileName: "[project]/components/sisiKiri.tsx",
-                lineNumber: 23,
-                columnNumber: 7
-            }, ("TURBOPACK compile-time value", void 0)),
-            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                children: "A"
-            }, void 0, false, {
-                fileName: "[project]/components/sisiKiri.tsx",
-                lineNumber: 24,
-                columnNumber: 7
-            }, ("TURBOPACK compile-time value", void 0)),
-            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                children: "L"
-            }, void 0, false, {
-                fileName: "[project]/components/sisiKiri.tsx",
-                lineNumber: 25,
-                columnNumber: 7
-            }, ("TURBOPACK compile-time value", void 0)),
-            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                children: "A"
-            }, void 0, false, {
-                fileName: "[project]/components/sisiKiri.tsx",
-                lineNumber: 26,
-                columnNumber: 7
-            }, ("TURBOPACK compile-time value", void 0)),
-            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                children: "N"
-            }, void 0, false, {
-                fileName: "[project]/components/sisiKiri.tsx",
-                lineNumber: 27,
-                columnNumber: 7
-            }, ("TURBOPACK compile-time value", void 0)),
-            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                children: "G"
-            }, void 0, false, {
-                fileName: "[project]/components/sisiKiri.tsx",
-                lineNumber: 28,
-                columnNumber: 7
-            }, ("TURBOPACK compile-time value", void 0))
-        ]
-    }, void 0, true, {
-        fileName: "[project]/components/sisiKiri.tsx",
-        lineNumber: 3,
-        columnNumber: 5
-    }, ("TURBOPACK compile-time value", void 0));
+    return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["Fragment"], {
+        children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+            className: "animate-verticalLoop text-center my-auto p-2 md:p-5 md:text-base bg-white/10",
+            children: [
+                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                    className: "xl:text-l 2xl:text-3xl",
+                    children: "U"
+                }, void 0, false, {
+                    fileName: "[project]/components/sisiKiri.tsx",
+                    lineNumber: 5,
+                    columnNumber: 9
+                }, ("TURBOPACK compile-time value", void 0)),
+                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                    className: "xl:text-l 2xl:text-3xl",
+                    children: "N"
+                }, void 0, false, {
+                    fileName: "[project]/components/sisiKiri.tsx",
+                    lineNumber: 6,
+                    columnNumber: 9
+                }, ("TURBOPACK compile-time value", void 0)),
+                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                    className: "xl:text-l 2xl:text-3xl",
+                    children: "I"
+                }, void 0, false, {
+                    fileName: "[project]/components/sisiKiri.tsx",
+                    lineNumber: 7,
+                    columnNumber: 9
+                }, ("TURBOPACK compile-time value", void 0)),
+                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                    className: "xl:text-l 2xl:text-3xl",
+                    children: "V"
+                }, void 0, false, {
+                    fileName: "[project]/components/sisiKiri.tsx",
+                    lineNumber: 8,
+                    columnNumber: 9
+                }, ("TURBOPACK compile-time value", void 0)),
+                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                    className: "xl:text-l 2xl:text-3xl",
+                    children: "E"
+                }, void 0, false, {
+                    fileName: "[project]/components/sisiKiri.tsx",
+                    lineNumber: 9,
+                    columnNumber: 9
+                }, ("TURBOPACK compile-time value", void 0)),
+                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                    className: "xl:text-l 2xl:text-3xl",
+                    children: "R"
+                }, void 0, false, {
+                    fileName: "[project]/components/sisiKiri.tsx",
+                    lineNumber: 10,
+                    columnNumber: 9
+                }, ("TURBOPACK compile-time value", void 0)),
+                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                    className: "xl:text-l 2xl:text-3xl",
+                    children: "S"
+                }, void 0, false, {
+                    fileName: "[project]/components/sisiKiri.tsx",
+                    lineNumber: 11,
+                    columnNumber: 9
+                }, ("TURBOPACK compile-time value", void 0)),
+                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                    className: "xl:text-l 2xl:text-3xl",
+                    children: "I"
+                }, void 0, false, {
+                    fileName: "[project]/components/sisiKiri.tsx",
+                    lineNumber: 12,
+                    columnNumber: 9
+                }, ("TURBOPACK compile-time value", void 0)),
+                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                    className: "xl:text-l 2xl:text-3xl",
+                    children: "T"
+                }, void 0, false, {
+                    fileName: "[project]/components/sisiKiri.tsx",
+                    lineNumber: 13,
+                    columnNumber: 9
+                }, ("TURBOPACK compile-time value", void 0)),
+                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                    className: "xl:text-l 2xl:text-3xl",
+                    children: "A"
+                }, void 0, false, {
+                    fileName: "[project]/components/sisiKiri.tsx",
+                    lineNumber: 14,
+                    columnNumber: 9
+                }, ("TURBOPACK compile-time value", void 0)),
+                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                    className: "xl:text-l 2xl:text-3xl",
+                    children: "S"
+                }, void 0, false, {
+                    fileName: "[project]/components/sisiKiri.tsx",
+                    lineNumber: 15,
+                    columnNumber: 9
+                }, ("TURBOPACK compile-time value", void 0)),
+                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
+                    fileName: "[project]/components/sisiKiri.tsx",
+                    lineNumber: 16,
+                    columnNumber: 9
+                }, ("TURBOPACK compile-time value", void 0)),
+                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                    className: "xl:text-l 2xl:text-3xl",
+                    children: "N"
+                }, void 0, false, {
+                    fileName: "[project]/components/sisiKiri.tsx",
+                    lineNumber: 17,
+                    columnNumber: 9
+                }, ("TURBOPACK compile-time value", void 0)),
+                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                    className: "xl:text-l 2xl:text-3xl",
+                    children: "E"
+                }, void 0, false, {
+                    fileName: "[project]/components/sisiKiri.tsx",
+                    lineNumber: 18,
+                    columnNumber: 9
+                }, ("TURBOPACK compile-time value", void 0)),
+                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                    className: "xl:text-l 2xl:text-3xl",
+                    children: "G"
+                }, void 0, false, {
+                    fileName: "[project]/components/sisiKiri.tsx",
+                    lineNumber: 19,
+                    columnNumber: 9
+                }, ("TURBOPACK compile-time value", void 0)),
+                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                    className: "xl:text-l 2xl:text-3xl",
+                    children: "E"
+                }, void 0, false, {
+                    fileName: "[project]/components/sisiKiri.tsx",
+                    lineNumber: 20,
+                    columnNumber: 9
+                }, ("TURBOPACK compile-time value", void 0)),
+                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                    className: "xl:text-l 2xl:text-3xl",
+                    children: "R"
+                }, void 0, false, {
+                    fileName: "[project]/components/sisiKiri.tsx",
+                    lineNumber: 21,
+                    columnNumber: 9
+                }, ("TURBOPACK compile-time value", void 0)),
+                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                    className: "xl:text-l 2xl:text-3xl",
+                    children: "I"
+                }, void 0, false, {
+                    fileName: "[project]/components/sisiKiri.tsx",
+                    lineNumber: 22,
+                    columnNumber: 9
+                }, ("TURBOPACK compile-time value", void 0)),
+                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
+                    fileName: "[project]/components/sisiKiri.tsx",
+                    lineNumber: 23,
+                    columnNumber: 9
+                }, ("TURBOPACK compile-time value", void 0)),
+                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                    className: "xl:text-l 2xl:text-3xl",
+                    children: "M"
+                }, void 0, false, {
+                    fileName: "[project]/components/sisiKiri.tsx",
+                    lineNumber: 24,
+                    columnNumber: 9
+                }, ("TURBOPACK compile-time value", void 0)),
+                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                    className: "xl:text-l 2xl:text-3xl",
+                    children: "A"
+                }, void 0, false, {
+                    fileName: "[project]/components/sisiKiri.tsx",
+                    lineNumber: 25,
+                    columnNumber: 9
+                }, ("TURBOPACK compile-time value", void 0)),
+                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                    className: "xl:text-l 2xl:text-3xl",
+                    children: "L"
+                }, void 0, false, {
+                    fileName: "[project]/components/sisiKiri.tsx",
+                    lineNumber: 26,
+                    columnNumber: 9
+                }, ("TURBOPACK compile-time value", void 0)),
+                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                    className: "xl:text-l 2xl:text-3xl",
+                    children: "A"
+                }, void 0, false, {
+                    fileName: "[project]/components/sisiKiri.tsx",
+                    lineNumber: 27,
+                    columnNumber: 9
+                }, ("TURBOPACK compile-time value", void 0)),
+                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                    className: "xl:text-l 2xl:text-3xl",
+                    children: "N"
+                }, void 0, false, {
+                    fileName: "[project]/components/sisiKiri.tsx",
+                    lineNumber: 28,
+                    columnNumber: 9
+                }, ("TURBOPACK compile-time value", void 0)),
+                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                    className: "xl:text-l 2xl:text-3xl",
+                    children: "G"
+                }, void 0, false, {
+                    fileName: "[project]/components/sisiKiri.tsx",
+                    lineNumber: 29,
+                    columnNumber: 9
+                }, ("TURBOPACK compile-time value", void 0))
+            ]
+        }, void 0, true, {
+            fileName: "[project]/components/sisiKiri.tsx",
+            lineNumber: 4,
+            columnNumber: 7
+        }, ("TURBOPACK compile-time value", void 0))
+    }, void 0, false);
 };
 const __TURBOPACK__default__export__ = sisiKiri;
 if (typeof globalThis.$RefreshHelpers$ === 'object' && globalThis.$RefreshHelpers !== null) {
@@ -341,6 +366,7 @@ const sisiKanan = ()=>{
         className: "text-center my-auto p-2 md:p-5 text-xs md:text-base",
         children: [
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                className: "xl:text-l 2xl:text-3xl",
                 children: "S"
             }, void 0, false, {
                 fileName: "[project]/components/sisiKanan.tsx",
@@ -348,6 +374,7 @@ const sisiKanan = ()=>{
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                className: "xl:text-l 2xl:text-3xl",
                 children: "1"
             }, void 0, false, {
                 fileName: "[project]/components/sisiKanan.tsx",
@@ -360,6 +387,7 @@ const sisiKanan = ()=>{
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                className: "xl:text-l 2xl:text-3xl",
                 children: "T"
             }, void 0, false, {
                 fileName: "[project]/components/sisiKanan.tsx",
@@ -367,6 +395,7 @@ const sisiKanan = ()=>{
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                className: "xl:text-l 2xl:text-3xl",
                 children: "E"
             }, void 0, false, {
                 fileName: "[project]/components/sisiKanan.tsx",
@@ -374,6 +403,7 @@ const sisiKanan = ()=>{
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                className: "xl:text-l 2xl:text-3xl",
                 children: "K"
             }, void 0, false, {
                 fileName: "[project]/components/sisiKanan.tsx",
@@ -381,6 +411,7 @@ const sisiKanan = ()=>{
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                className: "xl:text-l 2xl:text-3xl",
                 children: "N"
             }, void 0, false, {
                 fileName: "[project]/components/sisiKanan.tsx",
@@ -388,6 +419,7 @@ const sisiKanan = ()=>{
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                className: "xl:text-l 2xl:text-3xl",
                 children: "I"
             }, void 0, false, {
                 fileName: "[project]/components/sisiKanan.tsx",
@@ -395,6 +427,7 @@ const sisiKanan = ()=>{
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                className: "xl:text-l 2xl:text-3xl",
                 children: "K"
             }, void 0, false, {
                 fileName: "[project]/components/sisiKanan.tsx",
@@ -407,6 +440,7 @@ const sisiKanan = ()=>{
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                className: "xl:text-l 2xl:text-3xl",
                 children: "I"
             }, void 0, false, {
                 fileName: "[project]/components/sisiKanan.tsx",
@@ -414,6 +448,7 @@ const sisiKanan = ()=>{
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                className: "xl:text-l 2xl:text-3xl",
                 children: "N"
             }, void 0, false, {
                 fileName: "[project]/components/sisiKanan.tsx",
@@ -421,6 +456,7 @@ const sisiKanan = ()=>{
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                className: "xl:text-l 2xl:text-3xl",
                 children: "F"
             }, void 0, false, {
                 fileName: "[project]/components/sisiKanan.tsx",
@@ -428,6 +464,7 @@ const sisiKanan = ()=>{
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                className: "xl:text-l 2xl:text-3xl",
                 children: "O"
             }, void 0, false, {
                 fileName: "[project]/components/sisiKanan.tsx",
@@ -435,6 +472,7 @@ const sisiKanan = ()=>{
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                className: "xl:text-l 2xl:text-3xl",
                 children: "R"
             }, void 0, false, {
                 fileName: "[project]/components/sisiKanan.tsx",
@@ -442,6 +480,7 @@ const sisiKanan = ()=>{
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                className: "xl:text-l 2xl:text-3xl",
                 children: "M"
             }, void 0, false, {
                 fileName: "[project]/components/sisiKanan.tsx",
@@ -449,6 +488,7 @@ const sisiKanan = ()=>{
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                className: "xl:text-l 2xl:text-3xl",
                 children: "A"
             }, void 0, false, {
                 fileName: "[project]/components/sisiKanan.tsx",
@@ -456,6 +496,7 @@ const sisiKanan = ()=>{
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                className: "xl:text-l 2xl:text-3xl",
                 children: "T"
             }, void 0, false, {
                 fileName: "[project]/components/sisiKanan.tsx",
@@ -463,6 +504,7 @@ const sisiKanan = ()=>{
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                className: "xl:text-l 2xl:text-3xl",
                 children: "I"
             }, void 0, false, {
                 fileName: "[project]/components/sisiKanan.tsx",
@@ -470,6 +512,7 @@ const sisiKanan = ()=>{
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                className: "xl:text-l 2xl:text-3xl",
                 children: "K"
             }, void 0, false, {
                 fileName: "[project]/components/sisiKanan.tsx",
@@ -477,6 +520,7 @@ const sisiKanan = ()=>{
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                className: "xl:text-l 2xl:text-3xl",
                 children: "A"
             }, void 0, false, {
                 fileName: "[project]/components/sisiKanan.tsx",
@@ -528,7 +572,7 @@ const seeMoreProjects = ()=>{
         children: [
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
                 onClick: ()=>setShowAll(true),
-                className: "border p-2 font-semibold shadow-[3px_3px_0px_#fff] inline-flex flex-col justify-center items-center transition-all duration-200 ease-out hover:scale-[1.03] hover:shadow-[5px_5px_0_white] text-[1rem] sm:text-sm hover:cursor-pointer",
+                className: "border p-2 font-semibold shadow-[3px_3px_0px_#fff] inline-flex flex-col justify-center items-center transition-all duration-200 ease-out hover:scale-[1.03] hover:shadow-[5px_5px_0_white] text-[1rem] sm:text-sm 2xl:text-3xl 2xl:hover:scale-[1.13] 2xl:hover:shadow-[10px_10px_0_white] 2xl:shadow-[6px_6px_0px_#fff] 2xl:border-2 hover:cursor-pointer",
                 children: "See More"
             }, void 0, false, {
                 fileName: "[project]/components/seeMoreProjects.tsx",
@@ -540,10 +584,10 @@ const seeMoreProjects = ()=>{
                 className: "fixed inset-0 z-50 flex items-center justify-center bg-black/80 p-4",
                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                     onClick: (e)=>e.stopPropagation(),
-                    className: "relative p-6 max-w-6xl max-h-[90vh] overflow-y-auto sm:shadow-[12px_12px_0_#fff] border-2 flex flex-col items-center bg-black",
+                    className: "relative p-6 max-w-6xl max-h-[90vh] overflow-y-auto sm:shadow-[12px_12px_0_#fff] border-2 flex flex-col items-center bg-black 2xl:max-w-392 2xl:p-8 ",
                     children: [
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h1", {
-                            className: "font-semibold text-3xl text-white pb-4 mb-6 border-b-2 border-white w-full text-center",
+                            className: "font-semibold text-3xl text-white pb-4 mb-6 border-b-2 border-white w-full text-center 2xl:text-[3rem]",
                             children: "All Projects"
                         }, void 0, false, {
                             fileName: "[project]/components/seeMoreProjects.tsx",
@@ -557,7 +601,7 @@ const seeMoreProjects = ()=>{
                                     className: "border-2 border-white shadow-[6px_6px_0_#fff] cursor-pointer transition-all duration-200 ease-out hover:scale-[1.05] hover:shadow-[10px_10px_0_#fff]",
                                     children: [
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                            className: "w-full h-[200px] overflow-hidden flex items-center justify-center",
+                                            className: "w-full h-[200px] overflow-hidden flex items-center justify-center 2xl:h-[300px]",
                                             children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
                                                 src: project.image,
                                                 width: project.width,
@@ -578,7 +622,7 @@ const seeMoreProjects = ()=>{
                                             className: "p-3 text-center",
                                             children: [
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
-                                                    className: "font-semibold text-white text-lg",
+                                                    className: "font-semibold text-white text-lg 2xl:text-2xl",
                                                     children: project.title
                                                 }, void 0, false, {
                                                     fileName: "[project]/components/seeMoreProjects.tsx",
@@ -586,7 +630,7 @@ const seeMoreProjects = ()=>{
                                                     columnNumber: 21
                                                 }, ("TURBOPACK compile-time value", void 0)),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                                    className: "text-gray-300 text-xs mt-1 line-clamp-2",
+                                                    className: "text-gray-300 text-xs mt-1 line-clamp-2 2xl:text-xl",
                                                     children: project.description
                                                 }, void 0, false, {
                                                     fileName: "[project]/components/seeMoreProjects.tsx",
@@ -614,7 +658,7 @@ const seeMoreProjects = ()=>{
                             className: "flex gap-5",
                             children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
                                 onClick: ()=>setShowAll(false),
-                                className: "px-4 py-2 border text-white shadow-[3px_3px_0_#fff] hover:scale-[1.03] hover:shadow-[6px_6px_0_#fff] transition-all duration-200 ease-out hover:cursor-pointer",
+                                className: "px-4 py-2 mb-2 mt-5 border p-2 shadow-[3px_3px_0px_#fff] inline-flex flex-col justify-center items-center transition-all duration-200 ease-out hover:scale-[1.03] hover:shadow-[5px_5px_0_white] text-[1rem] sm:text-sm 2xl:text-3xl 2xl:hover:scale-[1.13] 2xl:hover:shadow-[10px_10px_0_white] 2xl:shadow-[6px_6px_0px_#fff] 2xl:border-2 hover:cursor-pointer 2xl:mt-12",
                                 children: "Close"
                             }, void 0, false, {
                                 fileName: "[project]/components/seeMoreProjects.tsx",
@@ -642,14 +686,14 @@ const seeMoreProjects = ()=>{
                 className: "fixed inset-0 z-60 flex items-center justify-center bg-black/80 p-4",
                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                     onClick: (e)=>e.stopPropagation(),
-                    className: "relative p-2 max-w-4xl max-h-[80vh] overflow-y-auto shadow-[12px_12px_0_#fff] border-2 flex flex-col items-center bg-gray-900",
+                    className: "relative p-2 max-w-4xl max-h-[80vh] 2xl:max-w-7xl overflow-y-auto shadow-[12px_12px_0_#fff] border-2 flex flex-col items-center bg-gray-900",
                     children: [
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h1", {
-                            className: "font-semibold text-2xl text-white pb-2",
+                            className: "font-semibold text-2xl text-white pb-2 2xl:text-[3rem]",
                             children: __TURBOPACK__imported__module__$5b$project$5d2f$data$2f$seeMoreProjects$2e$json__$28$json$29$__["default"].find((p)=>p.id === openModule)?.title
                         }, void 0, false, {
                             fileName: "[project]/components/seeMoreProjects.tsx",
-                            lineNumber: 81,
+                            lineNumber: 82,
                             columnNumber: 13
                         }, ("TURBOPACK compile-time value", void 0)),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -662,12 +706,12 @@ const seeMoreProjects = ()=>{
                                 className: "w-full h-auto object-contain"
                             }, void 0, false, {
                                 fileName: "[project]/components/seeMoreProjects.tsx",
-                                lineNumber: 87,
+                                lineNumber: 88,
                                 columnNumber: 15
                             }, ("TURBOPACK compile-time value", void 0))
                         }, void 0, false, {
                             fileName: "[project]/components/seeMoreProjects.tsx",
-                            lineNumber: 86,
+                            lineNumber: 87,
                             columnNumber: 13
                         }, ("TURBOPACK compile-time value", void 0)),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -676,35 +720,35 @@ const seeMoreProjects = ()=>{
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                     children: [
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h1", {
-                                            className: "font-semibold mb-2 text-white",
+                                            className: "font-semibold mb-2 text-white 2xl:text-[2rem]",
                                             children: "My Jobdesk"
                                         }, void 0, false, {
                                             fileName: "[project]/components/seeMoreProjects.tsx",
-                                            lineNumber: 106,
+                                            lineNumber: 107,
                                             columnNumber: 17
                                         }, ("TURBOPACK compile-time value", void 0)),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                            className: "text-sm text-white",
+                                            className: "text-sm text-white 2xl:text-2xl",
                                             children: __TURBOPACK__imported__module__$5b$project$5d2f$data$2f$seeMoreProjects$2e$json__$28$json$29$__["default"].find((p)=>p.id === openModule)?.description
                                         }, void 0, false, {
                                             fileName: "[project]/components/seeMoreProjects.tsx",
-                                            lineNumber: 107,
+                                            lineNumber: 108,
                                             columnNumber: 17
                                         }, ("TURBOPACK compile-time value", void 0))
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/components/seeMoreProjects.tsx",
-                                    lineNumber: 105,
+                                    lineNumber: 106,
                                     columnNumber: 15
                                 }, ("TURBOPACK compile-time value", void 0)),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                     children: [
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h1", {
-                                            className: "font-semibold mb-2 text-white",
+                                            className: "font-semibold mb-2 text-white 2xl:text-[2rem]",
                                             children: "Tools & Technologies"
                                         }, void 0, false, {
                                             fileName: "[project]/components/seeMoreProjects.tsx",
-                                            lineNumber: 112,
+                                            lineNumber: 113,
                                             columnNumber: 17
                                         }, ("TURBOPACK compile-time value", void 0)),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -713,88 +757,89 @@ const seeMoreProjects = ()=>{
                                                     src: tech,
                                                     alt: tech,
                                                     width: 32,
-                                                    height: 32
+                                                    height: 32,
+                                                    className: "2xl:w-16 2xl:h-16"
                                                 }, tech, false, {
                                                     fileName: "[project]/components/seeMoreProjects.tsx",
-                                                    lineNumber: 119,
+                                                    lineNumber: 120,
                                                     columnNumber: 23
                                                 }, ("TURBOPACK compile-time value", void 0)))
                                         }, void 0, false, {
                                             fileName: "[project]/components/seeMoreProjects.tsx",
-                                            lineNumber: 115,
+                                            lineNumber: 116,
                                             columnNumber: 17
                                         }, ("TURBOPACK compile-time value", void 0))
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/components/seeMoreProjects.tsx",
-                                    lineNumber: 111,
+                                    lineNumber: 112,
                                     columnNumber: 15
                                 }, ("TURBOPACK compile-time value", void 0))
                             ]
                         }, void 0, true, {
                             fileName: "[project]/components/seeMoreProjects.tsx",
-                            lineNumber: 104,
+                            lineNumber: 105,
                             columnNumber: 13
                         }, ("TURBOPACK compile-time value", void 0)),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                             className: "flex gap-5",
                             children: [
                                 __TURBOPACK__imported__module__$5b$project$5d2f$data$2f$seeMoreProjects$2e$json__$28$json$29$__["default"].find((p)=>p.id === openModule)?.linkCode && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
-                                    className: "px-4 py-2 mb-2 mt-5 border text-white shadow-[3px_3px_0_#fff] hover:scale-[1.03] hover:shadow-[6px_6px_0_#fff] transition-all duration-200 ease-out hover:cursor-pointer",
+                                    className: "px-4 py-2 mb-2 mt-5 border p-2 shadow-[3px_3px_0px_#fff] inline-flex flex-col justify-center items-center transition-all duration-200 ease-out hover:scale-[1.03] hover:shadow-[5px_5px_0_white] text-[1rem] sm:text-sm 2xl:text-3xl 2xl:hover:scale-[1.13] 2xl:hover:shadow-[10px_10px_0_white] 2xl:shadow-[6px_6px_0px_#fff] 2xl:border-2 hover:cursor-pointer 2xl:mt-12",
                                     children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
                                         href: __TURBOPACK__imported__module__$5b$project$5d2f$data$2f$seeMoreProjects$2e$json__$28$json$29$__["default"].find((p)=>p.id === openModule)?.linkCode || "",
                                         target: "blank",
                                         children: "Code"
                                     }, void 0, false, {
                                         fileName: "[project]/components/seeMoreProjects.tsx",
-                                        lineNumber: 133,
+                                        lineNumber: 135,
                                         columnNumber: 19
                                     }, ("TURBOPACK compile-time value", void 0))
                                 }, void 0, false, {
                                     fileName: "[project]/components/seeMoreProjects.tsx",
-                                    lineNumber: 132,
+                                    lineNumber: 133,
                                     columnNumber: 17
                                 }, ("TURBOPACK compile-time value", void 0)),
                                 __TURBOPACK__imported__module__$5b$project$5d2f$data$2f$seeMoreProjects$2e$json__$28$json$29$__["default"].find((p)=>p.id === openModule)?.linkWebsite && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
-                                    className: "px-4 py-2 mb-2 mt-5 border text-white shadow-[3px_3px_0_#fff] hover:scale-[1.03] hover:shadow-[6px_6px_0_#fff] transition-all duration-200 ease-out hover:cursor-pointer",
+                                    className: "px-4 py-2 mb-2 mt-5 border p-2 shadow-[3px_3px_0px_#fff] inline-flex flex-col justify-center items-center transition-all duration-200 ease-out hover:scale-[1.03] hover:shadow-[5px_5px_0_white] text-[1rem] sm:text-sm 2xl:text-3xl 2xl:hover:scale-[1.13] 2xl:hover:shadow-[10px_10px_0_white] 2xl:shadow-[6px_6px_0px_#fff] 2xl:border-2 hover:cursor-pointer 2xl:mt-12",
                                     children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
                                         href: __TURBOPACK__imported__module__$5b$project$5d2f$data$2f$seeMoreProjects$2e$json__$28$json$29$__["default"].find((p)=>p.id === openModule)?.linkWebsite || "",
                                         target: "blank",
                                         children: "Demo"
                                     }, void 0, false, {
                                         fileName: "[project]/components/seeMoreProjects.tsx",
-                                        lineNumber: 146,
+                                        lineNumber: 149,
                                         columnNumber: 19
                                     }, ("TURBOPACK compile-time value", void 0))
                                 }, void 0, false, {
                                     fileName: "[project]/components/seeMoreProjects.tsx",
-                                    lineNumber: 145,
+                                    lineNumber: 147,
                                     columnNumber: 17
                                 }, ("TURBOPACK compile-time value", void 0)),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
                                     onClick: ()=>setOpenModule(null),
-                                    className: "px-4 py-2 mb-2 mt-5 border text-white shadow-[3px_3px_0_#fff] hover:scale-[1.03] hover:shadow-[6px_6px_0_#fff] transition-all duration-200 ease-out hover:cursor-pointer",
+                                    className: "px-4 py-2 mb-2 mt-5 border p-2 shadow-[3px_3px_0px_#fff] inline-flex flex-col justify-center items-center transition-all duration-200 ease-out hover:scale-[1.03] hover:shadow-[5px_5px_0_white] text-[1rem] sm:text-sm 2xl:text-3xl 2xl:hover:scale-[1.13] 2xl:hover:shadow-[10px_10px_0_white] 2xl:shadow-[6px_6px_0px_#fff] 2xl:border-2 hover:cursor-pointer 2xl:mt-12",
                                     children: "Close"
                                 }, void 0, false, {
                                     fileName: "[project]/components/seeMoreProjects.tsx",
-                                    lineNumber: 157,
+                                    lineNumber: 160,
                                     columnNumber: 15
                                 }, ("TURBOPACK compile-time value", void 0))
                             ]
                         }, void 0, true, {
                             fileName: "[project]/components/seeMoreProjects.tsx",
-                            lineNumber: 130,
+                            lineNumber: 131,
                             columnNumber: 13
                         }, ("TURBOPACK compile-time value", void 0))
                     ]
                 }, void 0, true, {
                     fileName: "[project]/components/seeMoreProjects.tsx",
-                    lineNumber: 77,
+                    lineNumber: 78,
                     columnNumber: 11
                 }, ("TURBOPACK compile-time value", void 0))
             }, void 0, false, {
                 fileName: "[project]/components/seeMoreProjects.tsx",
-                lineNumber: 73,
+                lineNumber: 74,
                 columnNumber: 9
             }, ("TURBOPACK compile-time value", void 0))
         ]
@@ -839,7 +884,7 @@ const project = ()=>{
                 className: "flex flex-col sm:flex-row sm:justify-between gap-3 sm:gap-0 mt-0 sm:items-center",
                 children: [
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h1", {
-                        className: "font-semibold underline text-sm md:text-base text-[2rem] sm:text-[1rem]",
+                        className: "underline font-semibold  sm:text-[1rem] xl:text-base 2xl:text-[2rem]",
                         children: "PROJECTS"
                     }, void 0, false, {
                         fileName: "[project]/components/project.tsx",
@@ -858,15 +903,15 @@ const project = ()=>{
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                className: "grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5 sm:gap-5 mt-3 w-full lg:w-[calc(200px*3+40px)]",
+                className: "grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5 sm:gap-5 mt-3 w-full lg:w-[calc(200px*3+40px)] 2xl:w-[calc(300px*3+60px)]",
                 children: __TURBOPACK__imported__module__$5b$project$5d2f$data$2f$projects$2e$json__$28$json$29$__["default"].map((project)=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                         children: [
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                 onClick: ()=>setOpenModule(project.id),
-                                className: "relative border shadow-[6px_6px_0_#fff] flex flex-col justify-center items-center transition-all duration-200 ease-out hover:scale-[1.03] hover:shadow-[10px_10px_0_white] hover:cursor-pointer w-full lg:w-[200px] h-[150px]",
+                                className: "relative border shadow-[6px_6px_0_#fff] w-full lg:w-[200px] transition-all duration-200 ease-out hover:scale-[1.03] hover:shadow-[10px_10px_0_white] hover:cursor-pointer 2xl:w-[300px] 2xl:text-3xl 2xl:hover:scale-[1.13] 2xl:hover:shadow-[12px_12px_0_white] 2xl:shadow-[9px_9px_0px_#fff] 2xl:border-2",
                                 children: [
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                        className: "w-full h-[120px] overflow-hidden flex items-center justify-center",
+                                        className: "w-full h-[120px] overflow-hidden flex items-center justify-center 2xl:h-[200px]",
                                         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
                                             src: project.image,
                                             width: project.width,
@@ -884,7 +929,7 @@ const project = ()=>{
                                         columnNumber: 15
                                     }, ("TURBOPACK compile-time value", void 0)),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                        className: "p-2 font-bold text-center text-sm",
+                                        className: "p-2 font-bold text-center text-sm 2xl:text-lg",
                                         children: project.title
                                     }, void 0, false, {
                                         fileName: "[project]/components/project.tsx",
@@ -902,10 +947,10 @@ const project = ()=>{
                                 className: "fixed inset-0 z-50 flex items-center justify-center bg-black/80 p-4",
                                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                     onClick: (e)=>e.stopPropagation(),
-                                    className: "relative p-2 max-w-4xl max-h-[80vh] overflow-y-auto shadow-[12px_12px_0_#fff] border-2 flex flex-col items-center bg-gray-900",
+                                    className: "relative p-2 max-w-4xl max-h-[80vh] 2xl:max-w-7xl overflow-y-auto shadow-[12px_12px_0_#fff] border-2 flex flex-col items-center bg-gray-900",
                                     children: [
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h1", {
-                                            className: "font-semibold text-2xl text-white pb-2",
+                                            className: "font-semibold text-2xl text-white pb-2 2xl:text-[3rem]",
                                             children: project.title
                                         }, void 0, false, {
                                             fileName: "[project]/components/project.tsx",
@@ -936,7 +981,7 @@ const project = ()=>{
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                                     children: [
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h1", {
-                                                            className: "font-semibold mb-2",
+                                                            className: "font-semibold mb-2 2xl:text-[2rem]",
                                                             children: "My Jobdesk"
                                                         }, void 0, false, {
                                                             fileName: "[project]/components/project.tsx",
@@ -944,7 +989,7 @@ const project = ()=>{
                                                             columnNumber: 23
                                                         }, ("TURBOPACK compile-time value", void 0)),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                                            className: "text-sm text-white",
+                                                            className: "text-sm text-white 2xl:text-2xl",
                                                             children: project.description
                                                         }, void 0, false, {
                                                             fileName: "[project]/components/project.tsx",
@@ -961,7 +1006,7 @@ const project = ()=>{
                                                     className: "flex flex-col items-center",
                                                     children: [
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h1", {
-                                                            className: "font-semibold mb-2",
+                                                            className: "font-semibold mb-2 2xl:text-[2rem]",
                                                             children: "Tools & Technologies"
                                                         }, void 0, false, {
                                                             fileName: "[project]/components/project.tsx",
@@ -974,7 +1019,8 @@ const project = ()=>{
                                                                     src: path,
                                                                     alt: path,
                                                                     width: 32,
-                                                                    height: 32
+                                                                    height: 32,
+                                                                    className: "2xl:w-16 2xl:h-16"
                                                                 }, path, false, {
                                                                     fileName: "[project]/components/project.tsx",
                                                                     lineNumber: 75,
@@ -1001,14 +1047,14 @@ const project = ()=>{
                                             className: "flex gap-5",
                                             children: [
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
-                                                    className: " px-4 py-2 mb-2 mt-5 border text-white shadow-[3px_3px_0_#fff] hover:scale-[1.03] hover:shadow-[6px_6px_0_#fff] transition-all duration-200 ease-out hover:cursor-pointer ",
+                                                    className: " px-4 py-2 mb-2 mt-5 border p-2 shadow-[3px_3px_0px_#fff] inline-flex flex-col justify-center items-center transition-all duration-200 ease-out hover:scale-[1.03] hover:shadow-[5px_5px_0_white] text-[1rem] sm:text-sm 2xl:text-3xl 2xl:hover:scale-[1.13] 2xl:hover:shadow-[10px_10px_0_white] 2xl:shadow-[6px_6px_0px_#fff] 2xl:border-2 hover:cursor-pointer 2xl:mt-12 ",
                                                     children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
                                                         href: project.linkCode,
                                                         target: "blank",
                                                         children: "Code"
                                                     }, void 0, false, {
                                                         fileName: "[project]/components/project.tsx",
-                                                        lineNumber: 98,
+                                                        lineNumber: 93,
                                                         columnNumber: 23
                                                     }, ("TURBOPACK compile-time value", void 0))
                                                 }, void 0, false, {
@@ -1017,28 +1063,28 @@ const project = ()=>{
                                                     columnNumber: 21
                                                 }, ("TURBOPACK compile-time value", void 0)),
                                                 project.linkWebsite && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
-                                                    className: " px-4 py-2 mb-2 mt-5 border text-white shadow-[3px_3px_0_#fff] hover:scale-[1.03] hover:shadow-[6px_6px_0_#fff] transition-all duration-200 ease-out hover:cursor-pointer ",
+                                                    className: " px-4 py-2 mb-2 mt-5 border p-2 shadow-[3px_3px_0px_#fff] inline-flex flex-col justify-center items-center transition-all duration-200 ease-out hover:scale-[1.03] hover:shadow-[5px_5px_0_white] text-[1rem] sm:text-sm 2xl:text-3xl 2xl:hover:scale-[1.13] 2xl:hover:shadow-[10px_10px_0_white] 2xl:shadow-[6px_6px_0px_#fff] 2xl:border-2 hover:cursor-pointer 2xl:mt-12 ",
                                                     children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
                                                         href: project.linkWebsite,
                                                         target: "blank",
                                                         children: "Demo"
                                                     }, void 0, false, {
                                                         fileName: "[project]/components/project.tsx",
-                                                        lineNumber: 115,
+                                                        lineNumber: 105,
                                                         columnNumber: 25
                                                     }, ("TURBOPACK compile-time value", void 0))
                                                 }, void 0, false, {
                                                     fileName: "[project]/components/project.tsx",
-                                                    lineNumber: 104,
+                                                    lineNumber: 99,
                                                     columnNumber: 23
                                                 }, ("TURBOPACK compile-time value", void 0)),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
                                                     onClick: ()=>setOpenModule(null),
-                                                    className: " px-4 py-2 mb-2 mt-5 border text-white shadow-[3px_3px_0_#fff] hover:scale-[1.03] hover:shadow-[6px_6px_0_#fff] transition-all duration-200 ease-out hover:cursor-pointer ",
+                                                    className: " px-4 py-2 mb-2 mt-5 border p-2 shadow-[3px_3px_0px_#fff] inline-flex flex-col justify-center items-center transition-all duration-200 ease-out hover:scale-[1.03] hover:shadow-[5px_5px_0_white] text-[1rem] sm:text-sm 2xl:text-3xl 2xl:hover:scale-[1.13] 2xl:hover:shadow-[10px_10px_0_white] 2xl:shadow-[6px_6px_0px_#fff] 2xl:border-2 hover:cursor-pointer 2xl:mt-12  ",
                                                     children: "Close"
                                                 }, void 0, false, {
                                                     fileName: "[project]/components/project.tsx",
-                                                    lineNumber: 120,
+                                                    lineNumber: 110,
                                                     columnNumber: 21
                                                 }, ("TURBOPACK compile-time value", void 0))
                                             ]
@@ -1106,7 +1152,7 @@ const navbar = ()=>{
                     width: 150,
                     height: 150,
                     alt: "passfoto",
-                    className: "w-[200px] h-[200px] sm:w-[150px] sm:h-[150px] object-cover"
+                    className: "w-[200px] h-[200px] sm:w-[150px] sm:h-[150px] object-cover 2xl:w-[250px] 2xl:h-[250px]"
                 }, void 0, false, {
                     fileName: "[project]/components/navbar.tsx",
                     lineNumber: 7,
@@ -1118,10 +1164,10 @@ const navbar = ()=>{
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                className: "p-3 sm:p-5 w-full sm:pr-0",
+                className: "p-3 sm:p-5 w-full sm:pr-0 flex flex-col justify-center",
                 children: [
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h1", {
-                        className: "lg:text-[3rem] font-semibold text-center sm:text-left text-[2rem]",
+                        className: "lg:text-[3rem] font-semibold text-center sm:text-left text-[2rem] 2xl:text-[5rem]",
                         children: "AHMAD WILDAN PUTRO SANTOSO"
                     }, void 0, false, {
                         fileName: "[project]/components/navbar.tsx",
@@ -1132,7 +1178,7 @@ const navbar = ()=>{
                         className: "flex flex-col sm:flex-row sm:justify-between sm:items-center gap-3 sm:gap-0 mt-2 sm:mt-0",
                         children: [
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
-                                className: "text-[1.2rem] sm:text-base lg:text-[1.5rem] underline text-center sm:text-left",
+                                className: "text-[1.2rem] sm:text-base lg:text-[1.5rem] underline text-center sm:text-left 2xl:text-[2.5rem]",
                                 children: "FRONT END DEVELOPER"
                             }, void 0, false, {
                                 fileName: "[project]/components/navbar.tsx",
@@ -1144,7 +1190,7 @@ const navbar = ()=>{
                                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
                                     href: "/mycv.pdf",
                                     target: "blank",
-                                    className: " border p-2 font-semibold shadow-[3px_3px_0px_#fff] inline-flex flex-col justify-center items-center transition-all duration-200 ease-out hover:scale-[1.03] hover:shadow-[5px_5px_0_white] text-[1rem] sm:text-sm",
+                                    className: "border p-2 font-semibold shadow-[3px_3px_0px_#fff] inline-flex flex-col justify-center items-center transition-all duration-200 ease-out hover:scale-[1.03] hover:shadow-[5px_5px_0_white] text-[1rem] sm:text-sm 2xl:text-3xl 2xl:hover:scale-[1.13] 2xl:hover:shadow-[10px_10px_0_white] 2xl:shadow-[6px_6px_0px_#fff] 2xl:border-2 hover:cursor-pointer",
                                     children: "MyCV"
                                 }, void 0, false, {
                                     fileName: "[project]/components/navbar.tsx",
@@ -1182,7 +1228,7 @@ if (typeof globalThis.$RefreshHelpers$ === 'object' && globalThis.$RefreshHelper
 }),
 "[project]/data/certifications.json (json)", ((__turbopack_context__) => {
 
-__turbopack_context__.v([{"id":1,"title":"Dasar Pemrograman Web","image":"/certifications/dicoding.jpeg","description":"Completed the “Basic Web Programming” course from Dicoding Indonesia, learning fundamental concepts of HTML, CSS, and JavaScript for building simple web interfaces.","width":731,"height":516,"certif":"https://drive.google.com/file/d/1uHJVcJcGp8eSUP9QOflEpyBUEPxfYKsF/view","subtitle":"Coding Camp 2024 powered by DBS Foundation"},{"id":2,"title":"Cisco IT Essentials","image":"/certifications/cisco.jpeg","description":"Ini sertifikasi pertama","width":800,"height":521,"certif":"https://drive.google.com/file/d/1rH7HpZa7Wkt-DDUKNmkKb3bOnSv3JRPr/view","subtitle":"Cisco Academy International IT Essentials Certification"},{"id":3,"title":"Workshop AI","image":"/certifications/workshop.jpeg","description":"Ini sertifikasi pertama","width":762,"height":520,"certif":"https://drive.google.com/file/d/1lJrUpqRiM8vReroHgcWPWOqNl6lsz2EP/view","subtitle":"AI Beyond Code Workshop: Building Smart Solutions for the Real World"}]);}),
+__turbopack_context__.v([{"id":1,"title":"Dasar Pemrograman Web","image":"/certifications/dicoding.jpeg","description":"Completed the “Basic Web Programming” course from Dicoding Indonesia, learning fundamental concepts of HTML, CSS, and JavaScript for building simple web interfaces.","width":731,"height":516,"certif":"https://drive.google.com/file/d/1uHJVcJcGp8eSUP9QOflEpyBUEPxfYKsF/view","subtitle":"Coding Camp 2024 powered by DBS Foundation"},{"id":2,"title":"Cisco IT Essentials","image":"/certifications/cisco.jpeg","description":"Completed the “IT Essentials” course from Cisco Networking Academy, gaining foundational knowledge in computer hardware, software, and basic IT troubleshooting.","width":800,"height":521,"certif":"https://drive.google.com/file/d/1rH7HpZa7Wkt-DDUKNmkKb3bOnSv3JRPr/view","subtitle":"Cisco Academy International IT Essentials Certification"},{"id":3,"title":"Workshop AI","image":"/certifications/workshop.jpeg","description":"This certificate marks my participation in the Artificial Intelligence Workshop themed “AI Beyond Code: Building Intelligent Solutions for the Real World” held by Universitas Negeri Malang. Through this workshop, I gained deeper insights into how artificial intelligence extends beyond theoretical concepts into practical, real-world applications. The experience strengthened my understanding of AI fundamentals, emerging technologies, and the mindset required to develop intelligent solutions that address real societal and technological challenges.","width":762,"height":520,"certif":"https://drive.google.com/file/d/1lJrUpqRiM8vReroHgcWPWOqNl6lsz2EP/view","subtitle":"AI Beyond Code Workshop: Building Smart Solutions for the Real World"}]);}),
 "[project]/data/seeMoreCertifications.json (json)", ((__turbopack_context__) => {
 
 __turbopack_context__.v([{"id":1,"title":"Dasar Pemrograman Web","image":"/certifications/dicoding.jpeg","description":"Completed the “Basic Web Programming” course from Dicoding Indonesia, learning fundamental concepts of HTML, CSS, and JavaScript for building simple web interfaces.","width":731,"height":516,"certif":"https://drive.google.com/file/d/1uHJVcJcGp8eSUP9QOflEpyBUEPxfYKsF/view","subtitle":"Coding Camp 2024 powered by DBS Foundation"},{"id":2,"title":"Cisco IT Essentials","image":"/certifications/cisco.jpeg","description":"Completed the “IT Essentials” course from Cisco Networking Academy, gaining foundational knowledge in computer hardware, software, and basic IT troubleshooting.","width":800,"height":521,"certif":"https://drive.google.com/file/d/1rH7HpZa7Wkt-DDUKNmkKb3bOnSv3JRPr/view","subtitle":"Cisco Academy International IT Essentials Certification"},{"id":3,"title":"Workshop AI","image":"/certifications/workshop.jpeg","description":"This certificate marks my participation in the Artificial Intelligence Workshop themed “AI Beyond Code: Building Intelligent Solutions for the Real World” held by Universitas Negeri Malang. Through this workshop, I gained deeper insights into how artificial intelligence extends beyond theoretical concepts into practical, real-world applications. The experience strengthened my understanding of AI fundamentals, emerging technologies, and the mindset required to develop intelligent solutions that address real societal and technological challenges.","width":762,"height":520,"certif":"https://drive.google.com/file/d/1lJrUpqRiM8vReroHgcWPWOqNl6lsz2EP/view","subtitle":"AI Beyond Code Workshop: Building Smart Solutions for the Real World"},{"id":4,"title":"FESMARO 2025","image":"/certifications/fesmaro.jpeg","description":"Won 2nd place at the National Scientific Writing (ICT) Competition during FESMARO 2025, presenting research on technology innovation in the field of Informatics.","width":803,"height":520,"certif":"https://drive.google.com/file/d/1iaLCoZu0RyLeWhBCwPeSHhi-FT7smBqg/view","subtitle":"Electrical Engineering and Informatics Student Creativity Festival (FESMARO) 2025"},{"id":5,"title":"IDEA-Fest 2024","image":"/certifications/ideafest.jpeg","description":"Awarded a Bronze Medal at IDEA-Fest 2024 for developing an innovative techno-science project in the field of engineering and applied technology.","width":803,"height":520,"certif":"https://drive.google.com/file/d/1iimwzW3Q65Pi0waQ7V8yHJwwWGubh3qs/view","subtitle":"Innovations, Developments, Explorations and Applications in Techno-Science Festival (IDEA-Fest) 2024"},{"id":6,"title":"Capstone 2025","image":"/certifications/capstone.jpeg","description":"Awarded a Bronze Medal at the national level for “WARNISYS,” an information system designed to help MSMEs streamline product management, orders, workforce, and financial operations in a single platform.","width":803,"height":520,"certif":"https://drive.google.com/file/d/1wfJoavxLsmCG9A8R4eBIvGQMChDhDc1d/view","subtitle":"Capstone Project Competition 2025: Empowering Society Through Smart Solutions"},{"id":7,"title":"UI UX Desain Competition","image":"/certifications/uiux.jpeg","description":"This certificate represents my journey in the UI/UX Competition – Explore AH! 2025, where I collaborated as part of the Soullink Team. Through this competition, I contributed to designing user-centered solutions by applying design thinking, usability principles, and collaborative problem-solving. Achieving 2nd Runner-Up (Honorable Mention) reflects not only the outcome, but also the valuable experience of working under real design challenges, refining ideas through iteration, and translating user needs into meaningful digital experiences.","width":755,"height":520,"certif":"https://drive.google.com/file/d/18KqF8HJZSMk-EsF9aWY98soSrn8ovzyG/view","subtitle":"UI/UX COMPETITION - EXPLORE AH! 2025"}]);}),
@@ -1213,7 +1259,7 @@ const seeMoreSertif = ()=>{
         children: [
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
                 onClick: ()=>setShowAll(true),
-                className: "border p-2 font-semibold shadow-[3px_3px_0px_#fff] inline-flex flex-col justify-center items-center transition-all duration-200 ease-out hover:scale-[1.03] hover:shadow-[5px_5px_0_white] text-[1rem] sm:text-sm hover:cursor-pointer",
+                className: "border p-2 font-semibold shadow-[3px_3px_0px_#fff] inline-flex flex-col justify-center items-center transition-all duration-200 ease-out hover:scale-[1.03] hover:shadow-[5px_5px_0_white] text-[1rem] sm:text-sm 2xl:text-3xl 2xl:hover:scale-[1.13] 2xl:hover:shadow-[10px_10px_0_white] 2xl:shadow-[6px_6px_0px_#fff] 2xl:border-2 hover:cursor-pointer",
                 children: "See More"
             }, void 0, false, {
                 fileName: "[project]/components/seeMoreSertif.tsx",
@@ -1225,10 +1271,10 @@ const seeMoreSertif = ()=>{
                 className: "fixed inset-0 z-50 flex items-center justify-center bg-black/80 p-4",
                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                     onClick: (e)=>e.stopPropagation(),
-                    className: "relative p-6 max-w-6xl max-h-[90vh] overflow-y-auto sm:shadow-[12px_12px_0_#fff] border-2 flex flex-col items-center bg-black",
+                    className: "relative p-6 max-w-6xl max-h-[90vh] overflow-y-auto sm:shadow-[12px_12px_0_#fff] border-2 flex flex-col items-center bg-black 2xl:max-w-392 2xl:p-8 ",
                     children: [
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h1", {
-                            className: "font-semibold text-3xl text-white pb-4 mb-6 border-b-2 border-white w-full text-center",
+                            className: "font-semibold text-3xl text-white pb-4 mb-6 border-b-2 border-white w-full text-center 2xl:text-[3rem]",
                             children: "All Certifications"
                         }, void 0, false, {
                             fileName: "[project]/components/seeMoreSertif.tsx",
@@ -1242,7 +1288,7 @@ const seeMoreSertif = ()=>{
                                     className: "border-2 border-white shadow-[6px_6px_0_#fff] cursor-pointer transition-all duration-200 ease-out hover:scale-[1.05] hover:shadow-[10px_10px_0_#fff]",
                                     children: [
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                            className: "w-full h-[200px] overflow-hidden flex items-center justify-center",
+                                            className: "w-full h-[200px] overflow-hidden flex items-center justify-center 2xl:h-[300px]",
                                             children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
                                                 src: cert.image,
                                                 width: cert.width,
@@ -1263,7 +1309,7 @@ const seeMoreSertif = ()=>{
                                             className: "p-3 text-center",
                                             children: [
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
-                                                    className: "font-semibold text-white text-lg",
+                                                    className: "font-semibold text-white text-lg 2xl:text-2xl",
                                                     children: cert.title
                                                 }, void 0, false, {
                                                     fileName: "[project]/components/seeMoreSertif.tsx",
@@ -1271,7 +1317,7 @@ const seeMoreSertif = ()=>{
                                                     columnNumber: 21
                                                 }, ("TURBOPACK compile-time value", void 0)),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                                    className: "text-gray-300 text-xs mt-1 line-clamp-2",
+                                                    className: "text-gray-300 text-xs mt-1 line-clamp-2 2xl:text-xl",
                                                     children: cert.description
                                                 }, void 0, false, {
                                                     fileName: "[project]/components/seeMoreSertif.tsx",
@@ -1297,7 +1343,7 @@ const seeMoreSertif = ()=>{
                         }, ("TURBOPACK compile-time value", void 0)),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
                             onClick: ()=>setShowAll(false),
-                            className: "px-4 py-2 border text-white shadow-[3px_3px_0_#fff] hover:scale-[1.03] hover:shadow-[6px_6px_0_#fff] transition-all duration-200 ease-out hover:cursor-pointer",
+                            className: "px-4 py-2 mb-2 mt-5 border p-2 shadow-[3px_3px_0px_#fff] inline-flex flex-col justify-center items-center transition-all duration-200 ease-out hover:scale-[1.03] hover:shadow-[5px_5px_0_white] text-[1rem] sm:text-sm 2xl:text-3xl 2xl:hover:scale-[1.13] 2xl:hover:shadow-[10px_10px_0_white] 2xl:shadow-[6px_6px_0px_#fff] 2xl:border-2 hover:cursor-pointer 2xl:mt-12",
                             children: "Close"
                         }, void 0, false, {
                             fileName: "[project]/components/seeMoreSertif.tsx",
@@ -1320,10 +1366,10 @@ const seeMoreSertif = ()=>{
                 className: "fixed inset-0 z-60 flex items-center justify-center bg-black/80 p-4",
                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                     onClick: (e)=>e.stopPropagation(),
-                    className: "relative p-2 max-w-4xl max-h-[80vh] overflow-y-auto shadow-[12px_12px_0_#fff] border-2 flex flex-col items-center bg-black",
+                    className: "relative p-2 max-w-4xl max-h-[80vh] 2xl:max-w-7xl overflow-y-auto shadow-[12px_12px_0_#fff] border-2 flex flex-col items-center bg-gray-900",
                     children: [
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h1", {
-                            className: "font-semibold text-2xl text-white pb-2",
+                            className: "font-semibold text-2xl text-white pb-2  2xl:text-[3rem]",
                             children: __TURBOPACK__imported__module__$5b$project$5d2f$data$2f$seeMoreCertifications$2e$json__$28$json$29$__["default"].find((c)=>c.id === openModule)?.title
                         }, void 0, false, {
                             fileName: "[project]/components/seeMoreSertif.tsx",
@@ -1352,7 +1398,7 @@ const seeMoreSertif = ()=>{
                             className: "text-center",
                             children: [
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h1", {
-                                    className: "font-semibold mb-2 text-white",
+                                    className: "font-semibold mb-2 text-white 2xl:text-[2rem]",
                                     children: __TURBOPACK__imported__module__$5b$project$5d2f$data$2f$seeMoreCertifications$2e$json__$28$json$29$__["default"].find((c)=>c.id === openModule)?.subtitle
                                 }, void 0, false, {
                                     fileName: "[project]/components/seeMoreSertif.tsx",
@@ -1360,7 +1406,7 @@ const seeMoreSertif = ()=>{
                                     columnNumber: 15
                                 }, ("TURBOPACK compile-time value", void 0)),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                    className: "text-sm text-white",
+                                    className: "text-sm text-white 2xl:text-2xl",
                                     children: __TURBOPACK__imported__module__$5b$project$5d2f$data$2f$seeMoreCertifications$2e$json__$28$json$29$__["default"].find((c)=>c.id === openModule)?.description
                                 }, void 0, false, {
                                     fileName: "[project]/components/seeMoreSertif.tsx",
@@ -1377,7 +1423,7 @@ const seeMoreSertif = ()=>{
                             className: "flex gap-5",
                             children: [
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
-                                    className: "px-4 py-2 mb-2 mt-5 border text-white shadow-[3px_3px_0_#fff] hover:scale-[1.03] hover:shadow-[6px_6px_0_#fff] transition-all duration-200 ease-out hover:cursor-pointer",
+                                    className: "px-4 py-2 mb-2 mt-5 border p-2 shadow-[3px_3px_0px_#fff] inline-flex flex-col justify-center items-center transition-all duration-200 ease-out hover:scale-[1.03] hover:shadow-[5px_5px_0_white] text-[1rem] sm:text-sm 2xl:text-3xl 2xl:hover:scale-[1.13] 2xl:hover:shadow-[10px_10px_0_white] 2xl:shadow-[6px_6px_0px_#fff] 2xl:border-2 hover:cursor-pointer 2xl:mt-12",
                                     children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
                                         href: __TURBOPACK__imported__module__$5b$project$5d2f$data$2f$seeMoreCertifications$2e$json__$28$json$29$__["default"].find((c)=>c.id === openModule)?.certif,
                                         target: "blank",
@@ -1385,7 +1431,7 @@ const seeMoreSertif = ()=>{
                                     }, void 0, false, {
                                         fileName: "[project]/components/seeMoreSertif.tsx",
                                         lineNumber: 111,
-                                        columnNumber: 204
+                                        columnNumber: 398
                                     }, ("TURBOPACK compile-time value", void 0))
                                 }, void 0, false, {
                                     fileName: "[project]/components/seeMoreSertif.tsx",
@@ -1394,7 +1440,7 @@ const seeMoreSertif = ()=>{
                                 }, ("TURBOPACK compile-time value", void 0)),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
                                     onClick: ()=>setOpenModule(null),
-                                    className: "px-4 py-2 mb-2 mt-5 border text-white shadow-[3px_3px_0_#fff] hover:scale-[1.03] hover:shadow-[6px_6px_0_#fff] transition-all duration-200 ease-out hover:cursor-pointer",
+                                    className: "px-4 py-2 mb-2 mt-5 border p-2 shadow-[3px_3px_0px_#fff] inline-flex flex-col justify-center items-center transition-all duration-200 ease-out hover:scale-[1.03] hover:shadow-[5px_5px_0_white] text-[1rem] sm:text-sm 2xl:text-3xl 2xl:hover:scale-[1.13] 2xl:hover:shadow-[10px_10px_0_white] 2xl:shadow-[6px_6px_0px_#fff] 2xl:border-2 hover:cursor-pointer 2xl:mt-12",
                                     children: "Close"
                                 }, void 0, false, {
                                     fileName: "[project]/components/seeMoreSertif.tsx",
@@ -1461,7 +1507,7 @@ const sertif = ()=>{
                 className: "flex flex-col sm:flex-row sm:justify-between gap-5 sm:gap-0 sm:items-center",
                 children: [
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h1", {
-                        className: "font-semibold underline text-sm md:text-base text-[2rem] sm:text-[1rem] sm:mt-0 mt-5",
+                        className: "underline font-semibold  sm:text-[1rem] xl:text-base 2xl:text-[2rem]",
                         children: "CERTIFICATES"
                     }, void 0, false, {
                         fileName: "[project]/components/sertif.tsx",
@@ -1480,15 +1526,15 @@ const sertif = ()=>{
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                className: "grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5 sm:gap-5 mt-3 w-full lg:w-[calc(200px*3+40px)]",
+                className: "grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5 sm:gap-5 mt-3 w-full lg:w-[calc(200px*3+40px)] 2xl:w-[calc(300px*3+60px)]",
                 children: __TURBOPACK__imported__module__$5b$project$5d2f$data$2f$certifications$2e$json__$28$json$29$__["default"].map((cert)=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                         children: [
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                 onClick: ()=>setOpenCert(cert.id),
-                                className: "relative border shadow-[6px_6px_0_#fff] w-full lg:w-[200px] transition-all duration-200 ease-out hover:scale-[1.03] hover:shadow-[10px_10px_0_white] hover:cursor-pointer",
+                                className: "relative border shadow-[6px_6px_0_#fff] w-full lg:w-[200px] transition-all duration-200 ease-out hover:scale-[1.03] hover:shadow-[10px_10px_0_white] hover:cursor-pointer 2xl:w-[300px] 2xl:text-3xl 2xl:hover:scale-[1.13] 2xl:hover:shadow-[12px_12px_0_white] 2xl:shadow-[9px_9px_0px_#fff] 2xl:border-2",
                                 children: [
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                        className: "w-full h-[120px] overflow-hidden flex items-center justify-center",
+                                        className: "w-full h-[120px] overflow-hidden flex items-center justify-center 2xl:h-[200px]",
                                         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
                                             src: cert.image,
                                             width: cert.width,
@@ -1506,7 +1552,7 @@ const sertif = ()=>{
                                         columnNumber: 15
                                     }, ("TURBOPACK compile-time value", void 0)),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                        className: "p-2 font-bold text-center text-sm",
+                                        className: "p-2 font-bold text-center text-sm 2xl:text-lg",
                                         children: cert.title
                                     }, void 0, false, {
                                         fileName: "[project]/components/sertif.tsx",
@@ -1524,10 +1570,10 @@ const sertif = ()=>{
                                 className: "fixed inset-0 z-50 flex items-center justify-center bg-black/80 p-4",
                                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                     onClick: (e)=>e.stopPropagation(),
-                                    className: "relative p-2 max-w-4xl max-h-[80vh] overflow-y-auto shadow-[12px_12px_0_#fff] border-2 flex flex-col items-center bg-black",
+                                    className: "relative p-2 max-w-4xl max-h-[80vh] 2xl:max-w-7xl overflow-y-auto shadow-[12px_12px_0_#fff] border-2 flex flex-col items-center bg-gray-900",
                                     children: [
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h1", {
-                                            className: "font-semibold text-2xl text-white pb-2",
+                                            className: "font-semibold text-2xl text-white pb-2 2xl:text-[3rem]",
                                             children: cert.title
                                         }, void 0, false, {
                                             fileName: "[project]/components/sertif.tsx",
@@ -1556,7 +1602,7 @@ const sertif = ()=>{
                                             className: "text-center",
                                             children: [
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h1", {
-                                                    className: "font-semibold mb-2",
+                                                    className: "font-semibold mb-2 2xl:text-[2rem]",
                                                     children: cert.subtitle
                                                 }, void 0, false, {
                                                     fileName: "[project]/components/sertif.tsx",
@@ -1564,7 +1610,7 @@ const sertif = ()=>{
                                                     columnNumber: 21
                                                 }, ("TURBOPACK compile-time value", void 0)),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                                    className: "text-sm text-white",
+                                                    className: "text-sm text-white 2xl:text-2xl",
                                                     children: cert.description
                                                 }, void 0, false, {
                                                     fileName: "[project]/components/sertif.tsx",
@@ -1581,14 +1627,14 @@ const sertif = ()=>{
                                             className: "flex gap-5",
                                             children: [
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
-                                                    className: " px-4 py-2 mb-2 mt-5 border text-white shadow-[3px_3px_0_#fff] hover:scale-[1.03] hover:shadow-[6px_6px_0_#fff] transition-all duration-200 ease-out hover:cursor-pointer ",
+                                                    className: " px-4 py-2 mb-2 mt-5 border p-2 shadow-[3px_3px_0px_#fff] inline-flex flex-col justify-center items-center transition-all duration-200 ease-out hover:scale-[1.03] hover:shadow-[5px_5px_0_white] text-[1rem] sm:text-sm 2xl:text-3xl 2xl:hover:scale-[1.13] 2xl:hover:shadow-[10px_10px_0_white] 2xl:shadow-[6px_6px_0px_#fff] 2xl:border-2 hover:cursor-pointer 2xl:mt-12 ",
                                                     children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
                                                         href: cert.certif,
                                                         target: "blank",
                                                         children: "View Certificate"
                                                     }, void 0, false, {
                                                         fileName: "[project]/components/sertif.tsx",
-                                                        lineNumber: 76,
+                                                        lineNumber: 70,
                                                         columnNumber: 23
                                                     }, ("TURBOPACK compile-time value", void 0))
                                                 }, void 0, false, {
@@ -1598,11 +1644,11 @@ const sertif = ()=>{
                                                 }, ("TURBOPACK compile-time value", void 0)),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
                                                     onClick: ()=>setOpenCert(null),
-                                                    className: " px-4 py-2 mb-2 mt-5 border text-white shadow-[3px_3px_0_#fff] hover:scale-[1.03] hover:shadow-[6px_6px_0_#fff] transition-all duration-200 ease-out hover:cursor-pointer ",
+                                                    className: " px-4 py-2 mb-2 mt-5 border p-2 shadow-[3px_3px_0px_#fff] inline-flex flex-col justify-center items-center transition-all duration-200 ease-out hover:scale-[1.03] hover:shadow-[5px_5px_0_white] text-[1rem] sm:text-sm 2xl:text-3xl 2xl:hover:scale-[1.13] 2xl:hover:shadow-[10px_10px_0_white] 2xl:shadow-[6px_6px_0px_#fff] 2xl:border-2 hover:cursor-pointer 2xl:mt-12 ",
                                                     children: "Close"
                                                 }, void 0, false, {
                                                     fileName: "[project]/components/sertif.tsx",
-                                                    lineNumber: 78,
+                                                    lineNumber: 72,
                                                     columnNumber: 21
                                                 }, ("TURBOPACK compile-time value", void 0))
                                             ]
@@ -1666,7 +1712,7 @@ const aboutContacts = ()=>{
                 className: "mt-3",
                 children: [
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h1", {
-                        className: "underline font-semibold text-[2rem] sm:text-[1rem]",
+                        className: "underline font-semibold  sm:text-[1rem] xl:text-base 2xl:text-[2rem]",
                         children: "ABOUT ME"
                     }, void 0, false, {
                         fileName: "[project]/components/aboutContacts.tsx",
@@ -1674,7 +1720,7 @@ const aboutContacts = ()=>{
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0)),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                        className: "text-justify mt-2 tracking-wide",
+                        className: "text-justify mt-2 tracking-wide sm:text-sm md:text-base lg:text-lg xl:text-base 2xl:text-2xl",
                         children: "I am an Informatics Engineering student at Universitas Negeri Malang with a strong interest in Frontend Development. I am experienced in developing website interfaces using React.js, Next.js, JavaScript, and Tailwind CSS. Beyond technical web development, I have experience as an Administrative & Data Entry Assistant and a Copy Writer & Proofreader, which has trained me to work with accuracy, organization, and effective communication. I believe that the combination of technical skills, attention to detail, and strong communication is key to creating high-quality digital solutions."
                     }, void 0, false, {
                         fileName: "[project]/components/aboutContacts.tsx",
@@ -1691,7 +1737,7 @@ const aboutContacts = ()=>{
                 className: "mt-5",
                 children: [
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h1", {
-                        className: "underline font-semibold text-[2rem] sm:text-[1rem]",
+                        className: "underline font-semibold  sm:text-[1rem] xl:text-base 2xl:text-[2rem]",
                         children: "CONTACTS"
                     }, void 0, false, {
                         fileName: "[project]/components/aboutContacts.tsx",
@@ -1709,7 +1755,7 @@ const aboutContacts = ()=>{
                                     alt: "linkedin",
                                     width: 32,
                                     height: 32,
-                                    className: ""
+                                    className: "2xl:w-16 2xl:h-16"
                                 }, void 0, false, {
                                     fileName: "[project]/components/aboutContacts.tsx",
                                     lineNumber: 28,
@@ -1728,7 +1774,7 @@ const aboutContacts = ()=>{
                                     alt: "github",
                                     width: 32,
                                     height: 32,
-                                    className: ""
+                                    className: "2xl:w-16 2xl:h-16"
                                 }, void 0, false, {
                                     fileName: "[project]/components/aboutContacts.tsx",
                                     lineNumber: 37,
@@ -1747,7 +1793,7 @@ const aboutContacts = ()=>{
                                     alt: "whatsapp",
                                     width: 32,
                                     height: 32,
-                                    className: ""
+                                    className: "2xl:w-16 2xl:h-16"
                                 }, void 0, false, {
                                     fileName: "[project]/components/aboutContacts.tsx",
                                     lineNumber: 46,
@@ -1766,7 +1812,7 @@ const aboutContacts = ()=>{
                                     alt: "instagram",
                                     width: 32,
                                     height: 32,
-                                    className: ""
+                                    className: "2xl:w-16 2xl:h-16"
                                 }, void 0, false, {
                                     fileName: "[project]/components/aboutContacts.tsx",
                                     lineNumber: 55,
@@ -1785,7 +1831,7 @@ const aboutContacts = ()=>{
                                     alt: "tiktok",
                                     width: 32,
                                     height: 32,
-                                    className: ""
+                                    className: "2xl:w-16 2xl:h-16"
                                 }, void 0, false, {
                                     fileName: "[project]/components/aboutContacts.tsx",
                                     lineNumber: 64,
