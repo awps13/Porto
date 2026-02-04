@@ -1,5 +1,6 @@
 import Image from "next/image";
 import Link from "next/link";
+
 const navbar = () => {
   return (
     <div className="flex flex-col sm:flex-row gap-3 sm:gap-5 w-full">
@@ -12,6 +13,7 @@ const navbar = () => {
           className="w-[200px] h-[200px] sm:w-[150px] sm:h-[150px] object-cover 2xl:w-[250px] 2xl:h-[250px]"
         />
       </div>
+
       <div className="p-3 sm:p-5 w-full sm:pr-0 flex flex-col justify-center">
         <h1 className="lg:text-[3rem] font-semibold text-center sm:text-left text-[2rem] 2xl:text-[5rem]">
           AHMAD WILDAN PUTRO SANTOSO
@@ -35,4 +37,4 @@ const navbar = () => {
   );
 };
 
-export default navbar
+export default navbar;

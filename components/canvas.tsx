@@ -14,6 +14,7 @@ const canvas = () => {
       <canvas id="rain-canvas"/>
       <main className="content">
         {/* <Alert /> */}
+        
         <Porto />
       </main>
     </>
