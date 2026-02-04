@@ -1,7 +1,7 @@
 const sisiKiri = () => {
   return (
     <>
-      <div className="animate-verticalLoop text-center my-auto p-2 md:p-5 md:text-base">
+      <div className="text-center my-auto p-2 xl:p-5 xl:text-base">
         <p className="xl:text-l 2xl:text-3xl">U</p>
         <p className="xl:text-l 2xl:text-3xl">N</p>
         <p className="xl:text-l 2xl:text-3xl">I</p>

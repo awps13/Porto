@@ -5,7 +5,7 @@ import AboutContacts from "./aboutContacts";
 
 const sisiTengah = () => {
   return (
-    <div className="w-full md:w-auto m-auto px-4 md:px-10 py-10 md:py-0">
+    <div className="w-full xl:w-auto m-auto px-4 xl:px-10 py-10 xl:py-0">
       <Navbar />
       {/* Mobile: Stack Vertically, Desktop: Horizontal */}
       <div className="flex flex-col lg:flex-row gap-5 lg:gap-10 mt-3 mx-3 sm:mx-0">

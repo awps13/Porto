@@ -2,7 +2,7 @@ import React from "react";
 
 const sisiKanan = () => {
   return (
-    <div className="text-center my-auto p-2 md:p-5 text-xs md:text-base">
+    <div className="text-center my-auto p-2 xl:p-5 text-xs xl:text-base">
       <p className="xl:text-l 2xl:text-3xl">S</p>
       <p className="xl:text-l 2xl:text-3xl">1</p>
       <br />

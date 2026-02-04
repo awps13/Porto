@@ -38,11 +38,11 @@ function LoaderWrapper({ children }) {
           `
             }, void 0, false, {
                 fileName: "[project]/components/loaderWrapper.tsx",
-                lineNumber: 22,
+                lineNumber: 20,
                 columnNumber: 9
             }, this),
             !hideLoader && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                className: "fixed inset-0 z-45 flex overflow-hidden pointer-events-none",
+                className: "hidden xl:flex fixed inset-0 z-45 overflow-hidden pointer-events-none",
                 children: [
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                         className: `
@@ -56,12 +56,12 @@ function LoaderWrapper({ children }) {
                                 className: "w-10 h-full bg-[linear-gradient(90deg,rgba(166,166,166,1)_0%,rgba(255,255,255,1)_100%)]"
                             }, i, false, {
                                 fileName: "[project]/components/loaderWrapper.tsx",
-                                lineNumber: 44,
+                                lineNumber: 41,
                                 columnNumber: 15
                             }, this))
                     }, void 0, false, {
                         fileName: "[project]/components/loaderWrapper.tsx",
-                        lineNumber: 36,
+                        lineNumber: 33,
                         columnNumber: 11
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -76,18 +76,18 @@ function LoaderWrapper({ children }) {
                                 className: "w-10 h-full bg-[linear-gradient(90deg,rgba(255,255,255,1)_0%,rgba(166,166,166,1)_100%)]"
                             }, i, false, {
                                 fileName: "[project]/components/loaderWrapper.tsx",
-                                lineNumber: 61,
+                                lineNumber: 57,
                                 columnNumber: 15
                             }, this))
                     }, void 0, false, {
                         fileName: "[project]/components/loaderWrapper.tsx",
-                        lineNumber: 53,
+                        lineNumber: 49,
                         columnNumber: 11
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/components/loaderWrapper.tsx",
-                lineNumber: 33,
+                lineNumber: 31,
                 columnNumber: 9
             }, this),
             !hideLoader && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -106,17 +106,17 @@ function LoaderWrapper({ children }) {
                         }
                     }, void 0, false, {
                         fileName: "[project]/components/loaderWrapper.tsx",
-                        lineNumber: 74,
+                        lineNumber: 70,
                         columnNumber: 13
                     }, this)
                 }, void 0, false, {
                     fileName: "[project]/components/loaderWrapper.tsx",
-                    lineNumber: 73,
+                    lineNumber: 69,
                     columnNumber: 11
                 }, this)
             }, void 0, false, {
                 fileName: "[project]/components/loaderWrapper.tsx",
-                lineNumber: 72,
+                lineNumber: 68,
                 columnNumber: 9
             }, this)
         ]

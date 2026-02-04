@@ -13,9 +13,7 @@ export default function LoaderWrapper({
   return (
     <>
       {/* ================= PORTFOLIO ================= */}
-      <div className="relative z-0">
-        {children}
-      </div>
+      <div className="relative z-0">{children}</div>
 
       {/* ================= BACKGROUND HITAM ================= */}
       {!hideLoader && (
@@ -30,8 +28,7 @@ export default function LoaderWrapper({
 
       {/* ================= GERBANG ================= */}
       {!hideLoader && (
-        <div className="fixed inset-0 z-45 flex overflow-hidden pointer-events-none">
-          
+        <div className="hidden xl:flex fixed inset-0 z-45 overflow-hidden pointer-events-none">
           {/* ===== KIRI ===== */}
           <div
             className={`
@@ -44,7 +41,6 @@ export default function LoaderWrapper({
               <div
                 key={i}
                 className="w-10 h-full bg-[linear-gradient(90deg,rgba(166,166,166,1)_0%,rgba(255,255,255,1)_100%)]"
-                
               />
             ))}
           </div>
@@ -79,7 +75,7 @@ export default function LoaderWrapper({
               className="w-full h-full object-cover "
               onEnded={() => {
                 setOpenGate(true);
-                setTimeout(() => setHideLoader(true),1000);
+                setTimeout(() => setHideLoader(true), 1000);
               }}
             />
           </div>
