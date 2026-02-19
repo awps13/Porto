@@ -15,7 +15,7 @@ const AnimateIn = () => {
     >
       <div className="transform -skew-x-12 px-5 ">
         <motion.h1
-          className="text-[2rem] 2xl:text-[5rem]  2xl:tracking-[1rem] sm:tracking-[0.5rem]"
+          className="text-[1.8rem] 2xl:text-[5rem]  2xl:tracking-[1rem] sm:tracking-[0.5rem]"
           initial={{ x: "-120%" }}
           animate={{
             x: ["-120%", "0%", "10%", "1000%"],
@@ -31,7 +31,7 @@ const AnimateIn = () => {
       </div>
       <div className="transform skew-x-12 px-5">
         <motion.h1
-          className="text-[1.3rem] 2xl:text-[3rem] 2xl:tracking-[0.5rem] sm:tracking-[0.25rem]"
+          className="text-[1rem] 2xl:text-[3rem] 2xl:tracking-[0.5rem] sm:tracking-[0.25rem]"
           initial={{ x: "120%" }}
           animate={{
             x: ["120%", "10%", "0%", "-1000%"],
