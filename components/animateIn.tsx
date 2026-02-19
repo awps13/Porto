@@ -18,11 +18,11 @@ const AnimateIn = () => {
           className="text-[2rem] 2xl:text-[5rem]  2xl:tracking-[1rem] sm:tracking-[0.5rem]"
           initial={{ x: "-120%" }}
           animate={{
-            x: ["-120%", "0%", "10%", "120%"],
+            x: ["-120%", "0%", "10%", "1000%"],
           }}
           transition={{
             times: [0, 0.15, 0.85, 1],
-            duration: 6,
+            duration: 3,
             ease: ["easeOut", "linear", "easeIn"],
           }}
         >
@@ -34,11 +34,11 @@ const AnimateIn = () => {
           className="text-[1.3rem] 2xl:text-[3rem] 2xl:tracking-[0.5rem] sm:tracking-[0.25rem]"
           initial={{ x: "120%" }}
           animate={{
-            x: ["120%", "10%", "0%", "-120%"],
+            x: ["120%", "10%", "0%", "-1000%"],
           }}
           transition={{
             times: [0, 0.15, 0.85, 1],
-            duration: 6,
+            duration: 3,
             ease: ["easeOut", "linear", "easeIn"],
           }}
         >

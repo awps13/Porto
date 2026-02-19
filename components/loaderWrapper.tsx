@@ -17,7 +17,7 @@ export default function LoaderWrapper({
     if (showAnimateIn && !fadeOutBlur) {
       const timer = setTimeout(() => {
         setFadeOutBlur(true);
-      }, 6000); // 6 detik sesuai durasi AnimateIn
+      }, 3000); // 6 detik sesuai durasi AnimateIn
 
       return () => clearTimeout(timer);
     }
@@ -34,12 +34,12 @@ export default function LoaderWrapper({
       {showAnimateIn && (
         <div className="relative z-0">
           <div
-            className={`fixed inset-0 z-40 pointer-events-none transition-opacity duration-1000 ease-out ${
+            className={`fixed inset-0 z-40 pointer-events-none transition-opacity duration-100 ease-out ${
               fadeOutBlur ? "opacity-0" : "opacity-100 bg-black/50"
             }`}
           />
           <div
-            className={`relative z-0 transition-all duration-1000 ease-out ${
+            className={`relative z-0 transition-all duration-100 ease-out ${
               fadeOutBlur ? "blur-none" : "blur-sm"
             }`}
           >
@@ -73,7 +73,7 @@ export default function LoaderWrapper({
       {/* ================= ANIMATE IN ================= */}
       {showAnimateIn && (
         <div
-          className={`fixed inset-0 z-50 transition-opacity duration-1000 ease-out ${
+          className={`fixed inset-0 z-50 transition-opacity duration-100 ease-out ${
             fadeOutBlur ? "opacity-0 pointer-events-none" : "opacity-100"
           }`}
         >

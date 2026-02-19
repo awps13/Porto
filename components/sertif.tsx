@@ -3,9 +3,19 @@ import Image from "next/image";
 import { useState } from "react";
 import SeeMoreSertif from "./seeMoreSertif";
 import Link from "next/link";
+import { motion } from "framer-motion";
 
 const sertif = () => {
   const [openCert, setOpenCert] = useState<number | null>(null);
+  const [isClosing, setIsClosing] = useState(false);
+
+  const handleCloseModule = () => {
+    setIsClosing(true);
+    setTimeout(() => {
+      setOpenCert(null);
+      setIsClosing(false);
+    }, 300); // Duration animasi close
+  };
   return (
     <div className="mt-5">
       <div className="flex flex-col sm:flex-row sm:justify-between gap-5 sm:gap-0 sm:items-center">
@@ -31,54 +41,68 @@ const sertif = () => {
                   className="w-full h-full object-cover"
                 />
               </div>
-              <p className="p-2 font-bold text-center text-sm 2xl:text-lg">{cert.title}</p>
+              <p className="p-2 font-bold text-center text-sm 2xl:text-lg">
+                {cert.title}
+              </p>
             </div>
             {openCert === cert.id && (
               <div
-                onClick={() => setOpenCert(null)}
+                onClick={() => handleCloseModule()}
                 className="fixed inset-0 z-50 flex items-center justify-center bg-black/80 p-4"
               >
-                <div
-                  onClick={(e) => e.stopPropagation()}
-                  className="relative p-2 max-w-4xl max-h-[80vh] 2xl:max-w-7xl overflow-y-auto shadow-[12px_12px_0_#fff] border-2 flex flex-col items-center bg-gray-900"
+                <motion.div
+                  initial={{ scale: 0 }}
+                  animate={{ scale: isClosing ? 0 : 1 }}
+                  transition={{ duration: 0.2 }}
                 >
-                  <h1 className="font-semibold text-2xl text-white pb-2 2xl:text-[3rem]">
-                    {cert.title}
-                  </h1>
+                  <div
+                    onClick={(e) => e.stopPropagation()}
+                    className="relative p-2 max-w-4xl max-h-[80vh] 2xl:max-w-7xl overflow-y-auto shadow-[12px_12px_0_#fff] border-2 flex flex-col items-center bg-gray-900"
+                  >
+                    <h1 className="font-semibold text-2xl text-white pb-2 2xl:text-[3rem]">
+                      {cert.title}
+                    </h1>
 
-                  {/* IMAGE */}
-                  <div className="w-full mb-3">
-                    <Image
-                      src={cert.image}
-                      alt={cert.title}
-                      width={cert.width}
-                      height={cert.height}
-                      className="w-full h-auto object-contain"
-                    />
-                  </div>
+                    {/* IMAGE */}
+                    <div className="w-full mb-3">
+                      <Image
+                        src={cert.image}
+                        alt={cert.title}
+                        width={cert.width}
+                        height={cert.height}
+                        className="w-full h-auto object-contain"
+                      />
+                    </div>
 
-                  <div className="text-center">
-                    <h1 className="font-semibold mb-2 2xl:text-[2rem]">{cert.subtitle}</h1>
-                    <p className="text-sm text-white 2xl:text-2xl">{cert.description}</p>
-                  </div>
-                  <div className="flex gap-5">
-                     <button
-                      className="
+                    <div className="text-center">
+                      <h1 className="font-semibold mb-2 2xl:text-[2rem]">
+                        {cert.subtitle}
+                      </h1>
+                      <p className="text-sm text-white 2xl:text-2xl">
+                        {cert.description}
+                      </p>
+                    </div>
+                    <div className="flex gap-5">
+                      <button
+                        className="
                               px-4 py-2 mb-2 mt-5 border p-2 shadow-[3px_3px_0px_#fff] inline-flex flex-col justify-center items-center transition-all duration-200 ease-out hover:scale-[1.03] hover:shadow-[5px_5px_0_white] text-[1rem] sm:text-sm 2xl:text-3xl 2xl:hover:scale-[1.13] 2xl:hover:shadow-[10px_10px_0_white] 2xl:shadow-[6px_6px_0px_#fff] 2xl:border-2 hover:cursor-pointer 2xl:mt-12
                               "
-                    >
-                      <Link href={cert.certif} target="blank">View Certificate</Link>
-                    </button>
-                    <button
-                      onClick={() => setOpenCert(null)}
-                      className="
+                      >
+                        <Link href={cert.certif} target="blank">
+                          View Certificate
+                        </Link>
+                      </button>
+                      <button
+                        onClick={() => handleCloseModule()}
+                        className="
                               px-4 py-2 mb-2 mt-5 border p-2 shadow-[3px_3px_0px_#fff] inline-flex flex-col justify-center items-center transition-all duration-200 ease-out hover:scale-[1.03] hover:shadow-[5px_5px_0_white] text-[1rem] sm:text-sm 2xl:text-3xl 2xl:hover:scale-[1.13] 2xl:hover:shadow-[10px_10px_0_white] 2xl:shadow-[6px_6px_0px_#fff] 2xl:border-2 hover:cursor-pointer 2xl:mt-12
                               "
-                    >
-                      Close
-                    </button>
+                      >
+                        Close
+                      </button>
+                    </div>
                   </div>
-                </div>
+                </motion.div>
               </div>
             )}
           </div>
