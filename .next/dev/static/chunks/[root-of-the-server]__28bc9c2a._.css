@@ -436,6 +436,10 @@
 @layer components;
 
 @layer utilities {
+  .pointer-events-auto {
+    pointer-events: auto;
+  }
+
   .pointer-events-none {
     pointer-events: none;
   }
@@ -470,6 +474,10 @@
 
   .top-1\/2 {
     top: 50%;
+  }
+
+  .top-full {
+    top: 100%;
   }
 
   .right-0 {
@@ -542,6 +550,10 @@
 
   .mt-5 {
     margin-top: calc(var(--spacing) * 5);
+  }
+
+  .mr-2 {
+    margin-right: calc(var(--spacing) * 2);
   }
 
   .mr-8 {
@@ -761,6 +773,10 @@
     justify-content: center;
   }
 
+  .gap-2 {
+    gap: calc(var(--spacing) * 2);
+  }
+
   .gap-3 {
     gap: calc(var(--spacing) * 3);
   }
@@ -925,14 +941,6 @@
     font-size: 1.2rem;
   }
 
-  .text-\[1\.3rem\] {
-    font-size: 1.3rem;
-  }
-
-  .text-\[1\.5rem\] {
-    font-size: 1.5rem;
-  }
-
   .text-\[1\.8rem\] {
     font-size: 1.8rem;
   }
@@ -958,10 +966,6 @@
   .tracking-wide {
     --tw-tracking: var(--tracking-wide);
     letter-spacing: var(--tracking-wide);
-  }
-
-  .text-\[rem\] {
-    color: rem;
   }
 
   .text-gray-300 {
@@ -1136,6 +1140,12 @@
   }
 
   @media (min-width: 40rem) {
+    .sm\:relative {
+      position: relative;
+    }
+  }
+
+  @media (min-width: 40rem) {
     .sm\:mx-0 {
       margin-inline: calc(var(--spacing) * 0);
     }
@@ -1144,6 +1154,24 @@
   @media (min-width: 40rem) {
     .sm\:mt-0 {
       margin-top: calc(var(--spacing) * 0);
+    }
+  }
+
+  @media (min-width: 40rem) {
+    .sm\:block {
+      display: block;
+    }
+  }
+
+  @media (min-width: 40rem) {
+    .sm\:flex {
+      display: flex;
+    }
+  }
+
+  @media (min-width: 40rem) {
+    .sm\:hidden {
+      display: none;
     }
   }
 
@@ -1192,6 +1220,12 @@
   @media (min-width: 40rem) {
     .sm\:justify-between {
       justify-content: space-between;
+    }
+  }
+
+  @media (min-width: 40rem) {
+    .sm\:justify-end {
+      justify-content: flex-end;
     }
   }
 

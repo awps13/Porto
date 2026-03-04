@@ -3,7 +3,7 @@ import Link from "next/link";
 import { useState } from "react";
 
 const navbar = () => {
-  const [open, setOpen] = useState(false)
+  const [open, setOpen] = useState(false);
   return (
     <div className="flex flex-col sm:flex-row gap-3 sm:gap-5 w-full">
       <div className="flex justify-center sm:justify-start shrink-0">
@@ -24,20 +24,55 @@ const navbar = () => {
           <h3 className="text-[1.2rem] sm:text-base lg:text-[1.5rem] underline text-center sm:text-left 2xl:text-[2.5rem]">
             FRONT END DEVELOPER
           </h3>
-          <div className="text-center sm:text-right sm:mt-0 mt-2">
-            <div className="relative inline-block group">
-              <button onClick={() => setOpen(!open)}
+          <div className="text-center sm:text-right sm:mt-0 mt-2 flex justify-center sm:justify-end relative">
+            <div className="relative flex items-center gap-2">
+              <div
+                className={`transition-all duration-300 ease-out hidden sm:block ${open ? "opacity-100 scale-100 pointer-events-auto" : "opacity-0 scale-95 pointer-events-none"}`}
+              >
+                <Link
+                  href="/CV AHMAD WILDAN PUTRO SANTOSO B_INDO.pdf"
+                  target="blank"
+                  className="border p-2 font-semibold shadow-[3px_3px_0px_#fff] inline-flex justify-center items-center transition-all duration-200 ease-out hover:scale-[1.03] hover:shadow-[5px_5px_0_white] text-[1rem] sm:text-sm 2xl:text-3xl 2xl:hover:scale-[1.13] 2xl:hover:shadow-[10px_10px_0_white] 2xl:shadow-[6px_6px_0px_#fff] 2xl:border-2 hover:cursor-pointer"
+                >
+                  Indonesian
+                </Link>
+              </div>
+              <div
+                className={`transition-all duration-300 ease-out hidden sm:block ${open ? "opacity-100 scale-100 pointer-events-auto" : "opacity-0 scale-95 pointer-events-none"}`}
+              >
+                <Link
+                  href="/CV AHMAD WILDAN PUTRO SANTOSO B_ING.pdf"
+                  target="blank"
+                  className="border p-2 font-semibold shadow-[3px_3px_0px_#fff] inline-flex justify-center items-center transition-all duration-200 ease-out hover:scale-[1.03] hover:shadow-[5px_5px_0_white] text-[1rem] sm:text-sm 2xl:text-3xl 2xl:hover:scale-[1.13] 2xl:hover:shadow-[10px_10px_0_white] 2xl:shadow-[6px_6px_0px_#fff] 2xl:border-2 hover:cursor-pointer"
+                >
+                  English
+                </Link>
+              </div>
+              <div
+                className={`transition-all duration-300 ease-out sm:hidden ${open ? "opacity-100 scale-100 pointer-events-auto" : "opacity-0 scale-95 pointer-events-none"}`}
+              >
+                <Link
+                  href="/CV AHMAD WILDAN PUTRO SANTOSO B_INDO.pdf"
+                  target="blank"
+                  className="border p-2 font-semibold shadow-[3px_3px_0px_#fff] inline-flex justify-center items-center transition-all duration-200 ease-out hover:scale-[1.03] hover:shadow-[5px_5px_0_white] text-[1rem] sm:text-sm 2xl:text-3xl 2xl:hover:scale-[1.13] 2xl:hover:shadow-[10px_10px_0_white] 2xl:shadow-[6px_6px_0px_#fff] 2xl:border-2 hover:cursor-pointer"
+                >
+                  Indonesian
+                </Link>
+              </div>
+              <button
+                onClick={() => setOpen(!open)}
                 className="border p-2 font-semibold shadow-[3px_3px_0px_#fff] inline-flex justify-center items-center transition-all duration-200 ease-out hover:scale-[1.03] hover:shadow-[5px_5px_0_white] text-[1rem] sm:text-sm 2xl:text-3xl 2xl:hover:scale-[1.13] 2xl:hover:shadow-[10px_10px_0_white] 2xl:shadow-[6px_6px_0px_#fff] 2xl:border-2 hover:cursor-pointer"
               >
                 MyCV
               </button>
               <div
-                className={`absolute top-0 right-full mr-8 2xl:mr-50 2xl:gap-5 translate-x-2 group-hover:translate-x-0 transition-all duration-300 ease-out shadow-lg gap-3 min-w-max flex bg-transparent group-hover:opacity-100 opacity-0 ${open ? "opacity-100 scale-100" : "opacity-0 scale-95 pointer-events-none"} left-full top-0 lg:top-0 lg:left-auto lg:right-full lg:mr-2 group-sm:flex flex-col`}
+                className={`transition-all duration-300 ease-out sm:hidden ${open ? "opacity-100 scale-100 pointer-events-auto" : "opacity-0 scale-95 pointer-events-none"}`}
               >
-                <Link href="/CV AHMAD WILDAN PUTRO SANTOSO B_INDO.pdf" target="blank" className="border p-2 font-semibold shadow-[3px_3px_0px_#fff] inline-flex justify-center items-center transition-all duration-200 ease-out hover:scale-[1.03] hover:shadow-[5px_5px_0_white] text-[1rem] sm:text-sm 2xl:text-3xl 2xl:hover:scale-[1.13] 2xl:hover:shadow-[10px_10px_0_white] 2xl:shadow-[6px_6px_0px_#fff] 2xl:border-2 hover:cursor-pointer">
-                  Indonesian
-                </Link>
-                <Link href="/CV AHMAD WILDAN PUTRO SANTOSO B_ING.pdf" target="blank" className="border p-2 font-semibold shadow-[3px_3px_0px_#fff] inline-flex justify-center items-center transition-all duration-200 ease-out hover:scale-[1.03] hover:shadow-[5px_5px_0_white] text-[1rem] sm:text-sm 2xl:text-3xl 2xl:hover:scale-[1.13] 2xl:hover:shadow-[10px_10px_0_white] 2xl:shadow-[6px_6px_0px_#fff] 2xl:border-2 hover:cursor-pointer">
+                <Link
+                  href="/CV AHMAD WILDAN PUTRO SANTOSO B_ING.pdf"
+                  target="blank"
+                  className="border p-2 font-semibold shadow-[3px_3px_0px_#fff] inline-flex justify-center items-center transition-all duration-200 ease-out hover:scale-[1.03] hover:shadow-[5px_5px_0_white] text-[1rem] sm:text-sm 2xl:text-3xl 2xl:hover:scale-[1.13] 2xl:hover:shadow-[10px_10px_0_white] 2xl:shadow-[6px_6px_0px_#fff] 2xl:border-2 hover:cursor-pointer"
+                >
                   English
                 </Link>
               </div>
