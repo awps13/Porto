@@ -65,7 +65,7 @@ export default function ProjectForm({
   submitLabel?: string;
 }) {
   return (
-    <form action={action} encType="multipart/form-data" className="space-y-10">
+    <form action={action} className="space-y-10">
       <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
         <Field label="Title" name="title" required className="md:col-span-2">
           <input

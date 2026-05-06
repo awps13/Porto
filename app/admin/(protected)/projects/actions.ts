@@ -58,6 +58,60 @@ function signCloudinaryParams(
     .digest("hex");
 }
 
+function getCloudinaryPublicId(url: string | null) {
+  if (!url) return null;
+
+  let parsed: URL;
+  try {
+    parsed = new URL(url);
+  } catch {
+    return null;
+  }
+
+  if (parsed.hostname !== "res.cloudinary.com") return null;
+
+  const uploadPath = parsed.pathname.split("/image/upload/")[1];
+  if (!uploadPath) return null;
+
+  const parts = uploadPath.split("/");
+  const versionIndex = parts.findIndex((part) => /^v\d+$/.test(part));
+  const publicIdParts = parts.slice(versionIndex >= 0 ? versionIndex + 1 : 0);
+  const publicId = publicIdParts.join("/").replace(/\.[^/.]+$/, "");
+
+  return publicId || null;
+}
+
+async function deleteCloudinaryImage(url: string | null) {
+  const publicId = getCloudinaryPublicId(url);
+  if (!publicId) return;
+
+  const { cloudName, apiKey, apiSecret } = getCloudinaryConfig();
+  const timestamp = Math.round(Date.now() / 1000).toString();
+  const signature = signCloudinaryParams(
+    { public_id: publicId, timestamp },
+    apiSecret
+  );
+
+  const deleteData = new FormData();
+  deleteData.append("public_id", publicId);
+  deleteData.append("api_key", apiKey);
+  deleteData.append("timestamp", timestamp);
+  deleteData.append("signature", signature);
+
+  const response = await fetch(
+    `https://api.cloudinary.com/v1_1/${cloudName}/image/destroy`,
+    {
+      method: "POST",
+      body: deleteData,
+    }
+  );
+
+  if (!response.ok) {
+    const message = await response.text();
+    throw new Error(`Cloudinary delete failed: ${message}`);
+  }
+}
+
 function parseList(value: FormDataEntryValue | null): string[] {
   if (!value) return [];
   return value
@@ -163,6 +217,7 @@ async function buildData(formData: FormData) {
     },
     technologyIds,
     tagIds,
+    uploadedCover: Boolean(uploadedCover),
   };
 }
 
@@ -187,16 +242,35 @@ export async function createProject(formData: FormData) {
 
 export async function updateProject(id: string, formData: FormData) {
   await requireAuth();
-  const { scalars, technologyIds, tagIds } = await buildData(formData);
-
-  await prisma.project.update({
+  const previousProject = await prisma.project.findUnique({
     where: { id },
-    data: {
-      ...scalars,
-      technologies: { set: technologyIds.map((id) => ({ id })) },
-      tags: { set: tagIds.map((id) => ({ id })) },
-    },
+    select: { cover: true },
   });
+  const { scalars, technologyIds, tagIds, uploadedCover } = await buildData(formData);
+
+  try {
+    await prisma.project.update({
+      where: { id },
+      data: {
+        ...scalars,
+        technologies: { set: technologyIds.map((id) => ({ id })) },
+        tags: { set: tagIds.map((id) => ({ id })) },
+      },
+    });
+  } catch (error) {
+    if (uploadedCover) {
+      await deleteCloudinaryImage(scalars.cover);
+    }
+    throw error;
+  }
+
+  if (
+    uploadedCover &&
+    previousProject?.cover &&
+    previousProject.cover !== scalars.cover
+  ) {
+    await deleteCloudinaryImage(previousProject.cover);
+  }
 
   revalidatePath("/admin/projects");
   revalidatePath(`/admin/projects/${id}`);
@@ -209,6 +283,13 @@ export async function deleteProject(formData: FormData) {
   await requireAuth();
   const id = formData.get("id")?.toString();
   if (!id) return;
+  const project = await prisma.project.findUnique({
+    where: { id },
+    select: { cover: true },
+  });
   await prisma.project.delete({ where: { id } });
+  await deleteCloudinaryImage(project?.cover ?? null);
   revalidatePath("/admin/projects");
+  revalidatePath("/projects");
+  revalidatePath("/");
 }
