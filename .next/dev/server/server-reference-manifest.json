@@ -2,8 +2,8 @@
   "node": {
     "40351fde23307c4211a421da78a584d2ad927d0a3f": {
       "workers": {
-        "app/admin/(protected)/projects/new/page": {
-          "moduleId": "[project]/.next-internal/server/app/admin/(protected)/projects/new/page/actions.js { ACTIONS_MODULE0 => \"[project]/app/admin/(protected)/projects/actions.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+        "app/admin/(protected)/projects/[id]/page": {
+          "moduleId": "[project]/.next-internal/server/app/admin/(protected)/projects/[id]/page/actions.js { ACTIONS_MODULE0 => \"[project]/app/admin/(protected)/projects/actions.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
           "async": true,
           "exportedName": "deleteProject",
           "filename": "app/admin/(protected)/projects/actions.ts"
@@ -16,7 +16,7 @@
         }
       },
       "layer": {
-        "app/admin/(protected)/projects/new/page": "rsc",
+        "app/admin/(protected)/projects/[id]/page": "rsc",
         "app/admin/(protected)/projects/page": "rsc"
       },
       "filename": "app/admin/(protected)/projects/actions.ts",
@@ -24,8 +24,8 @@
     },
     "40dcf3c898b50f940ed9a879739eae8c5256bf57d7": {
       "workers": {
-        "app/admin/(protected)/projects/new/page": {
-          "moduleId": "[project]/.next-internal/server/app/admin/(protected)/projects/new/page/actions.js { ACTIONS_MODULE0 => \"[project]/app/admin/(protected)/projects/actions.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+        "app/admin/(protected)/projects/[id]/page": {
+          "moduleId": "[project]/.next-internal/server/app/admin/(protected)/projects/[id]/page/actions.js { ACTIONS_MODULE0 => \"[project]/app/admin/(protected)/projects/actions.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
           "async": true,
           "exportedName": "createProject",
           "filename": "app/admin/(protected)/projects/actions.ts"
@@ -38,7 +38,7 @@
         }
       },
       "layer": {
-        "app/admin/(protected)/projects/new/page": "rsc",
+        "app/admin/(protected)/projects/[id]/page": "rsc",
         "app/admin/(protected)/projects/page": "rsc"
       },
       "filename": "app/admin/(protected)/projects/actions.ts",
@@ -46,8 +46,8 @@
     },
     "6004f385b7cb5b4706bce6953eeaf106a9f72a44df": {
       "workers": {
-        "app/admin/(protected)/projects/new/page": {
-          "moduleId": "[project]/.next-internal/server/app/admin/(protected)/projects/new/page/actions.js { ACTIONS_MODULE0 => \"[project]/app/admin/(protected)/projects/actions.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+        "app/admin/(protected)/projects/[id]/page": {
+          "moduleId": "[project]/.next-internal/server/app/admin/(protected)/projects/[id]/page/actions.js { ACTIONS_MODULE0 => \"[project]/app/admin/(protected)/projects/actions.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
           "async": true,
           "exportedName": "updateProject",
           "filename": "app/admin/(protected)/projects/actions.ts"
@@ -60,7 +60,7 @@
         }
       },
       "layer": {
-        "app/admin/(protected)/projects/new/page": "rsc",
+        "app/admin/(protected)/projects/[id]/page": "rsc",
         "app/admin/(protected)/projects/page": "rsc"
       },
       "filename": "app/admin/(protected)/projects/actions.ts",

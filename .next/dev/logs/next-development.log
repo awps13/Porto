@@ -1,22 +1,13 @@
-[00:00:03.554] Server  LOG      ✓ Ready in 2.6s
-[00:00:06.654] Server  LOG      ○ Compiling /projects ...
-[00:00:20.199] Server  ERROR   Cannot specify a encType or method for a form that specifies a function as the action. React provides those automatically. They will get overridden.
-[00:00:20.746] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:01:10.350] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:01:10.896] Browser WARN    Image with src "/uploads/projects/glucoio-1778055987992.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
-Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
-[00:03:01.660] Server  LOG      ✓ Compiled in 186ms
-[00:03:03.440] Server  LOG      ✓ Compiled in 0ms
-[00:03:04.553] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:04:27.037] Browser WARN    Image with src "/uploads/projects/glucoio-1778055987992.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
-Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
-[00:05:16.791] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:06:14.568] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:06:14.747] Browser WARN    Image with src "/uploads/projects/glucoio-1778055987992.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
-Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
-[00:07:00.578] Server  LOG      ✓ Compiled in 204ms
-[00:07:01.118] Server  LOG      ✓ Compiled in 357ms
-[00:07:01.823] Server  LOG      ✓ Compiled in 293ms
-[00:07:03.752] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:08:01.421] Browser WARN    Image with src "/uploads/projects/glucoio-1778055987992.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
-Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:00:02.525] Server  LOG      ✓ Ready in 1767ms
+[00:00:05.575] Server  LOG      ○ Compiling /admin/projects/[id] ...
+[00:00:11.691] Server  ERROR   Cannot specify a encType or method for a form that specifies a function as the action. React provides those automatically. They will get overridden.
+[00:00:12.220] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:24.710] Server  ERROR    ⨯ Error: Cloudinary upload failed: {"error":{"message":"Invalid Signature 1b9a0829233f06568da98cdf37da8a88abaca78a. String to sign - 'folder=portfolio/projects&public_id=glucoio-1778058967835&timestamp=1778058968'."}}. Check that CLOUDINARY_URL uses the API secret, not the API key or cloud name.
+[00:00:24.923] Browser ERROR   uncaughtError: Error: Cloudinary upload failed: {"error":{"message":"Invalid Signature 1b9a0829233f06568da98cdf37da8a88abaca78a. String to sign - 'folder=portfolio/projects&public_id=glucoio-1778058967835&timestamp=1778058968'."}}. Check that CLOUDINARY_URL uses the API secret, not the API key or cloud name.
+[00:01:01.433] Server  LOG        Reload env: .env
+[00:01:03.855] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:01:05.063] Server  LOG        Reload env: .env
+[00:01:06.316] Browser ERROR   Cannot specify a encType or method for a form that specifies a function as the action. React provides those automatically. They will get overridden.
+[00:01:09.963] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:01:27.477] Browser ERROR   Cannot specify a encType or method for a form that specifies a function as the action. React provides those automatically. They will get overridden.
+[00:13:53.248] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold

@@ -2,20 +2,61 @@
 
 import { redirect } from "next/navigation";
 import { revalidatePath } from "next/cache";
-import { mkdir, writeFile } from "fs/promises";
-import path from "path";
+import { createHash } from "crypto";
 import { prisma } from "@/lib/prisma";
 import { requireAuth } from "@/lib/auth";
 import { slugify } from "@/lib/slug";
 
 const MAX_COVER_SIZE = 5 * 1024 * 1024;
-const COVER_UPLOAD_DIR = path.join(process.cwd(), "public", "uploads", "projects");
-const IMAGE_EXTENSIONS: Record<string, string> = {
-  "image/jpeg": "jpg",
-  "image/png": "png",
-  "image/webp": "webp",
-  "image/gif": "gif",
+const ALLOWED_IMAGE_TYPES = ["image/jpeg", "image/png", "image/webp", "image/gif"];
+
+type CloudinaryConfig = {
+  cloudName: string;
+  apiKey: string;
+  apiSecret: string;
 };
+
+function getCloudinaryConfig(): CloudinaryConfig {
+  const cloudName = process.env.CLOUDINARY_CLOUD_NAME?.trim();
+  const apiKey = process.env.CLOUDINARY_API_KEY?.trim();
+  const apiSecret = process.env.CLOUDINARY_API_SECRET?.trim();
+
+  if (cloudName && apiKey && apiSecret) {
+    return { cloudName, apiKey, apiSecret };
+  }
+
+  const cloudinaryUrl = process.env.CLOUDINARY_URL?.trim();
+  if (!cloudinaryUrl) {
+    throw new Error("CLOUDINARY_URL is not set");
+  }
+
+  const match = cloudinaryUrl.match(/^cloudinary:\/\/([^:]+):([^@]+)@([^/?#]+)/);
+  if (!match) {
+    throw new Error(
+      "CLOUDINARY_URL must use cloudinary://<api_key>:<api_secret>@<cloud_name>"
+    );
+  }
+
+  return {
+    apiKey: decodeURIComponent(match[1]),
+    apiSecret: decodeURIComponent(match[2]),
+    cloudName: decodeURIComponent(match[3]),
+  };
+}
+
+function signCloudinaryParams(
+  params: Record<string, string | number>,
+  apiSecret: string
+) {
+  const stringToSign = Object.entries(params)
+    .sort(([a], [b]) => a.localeCompare(b))
+    .map(([key, value]) => `${key}=${value}`)
+    .join("&");
+
+  return createHash("sha1")
+    .update(`${stringToSign}${apiSecret}`)
+    .digest("hex");
+}
 
 function parseList(value: FormDataEntryValue | null): string[] {
   if (!value) return [];
@@ -41,22 +82,51 @@ function getUploadedCover(formData: FormData) {
 }
 
 async function saveProjectCover(file: File, title: string) {
-  const extension = IMAGE_EXTENSIONS[file.type];
-  if (!extension) {
+  if (!ALLOWED_IMAGE_TYPES.includes(file.type)) {
     throw new Error("Cover image must be a JPG, PNG, WEBP, or GIF file");
   }
   if (file.size > MAX_COVER_SIZE) {
     throw new Error("Cover image must be 5MB or smaller");
   }
 
-  await mkdir(COVER_UPLOAD_DIR, { recursive: true });
+  const { cloudName, apiKey, apiSecret } = getCloudinaryConfig();
+  const timestamp = Math.round(Date.now() / 1000).toString();
+  const folder = "portfolio/projects";
+  const publicId = `${slugify(title) || "project"}-${Date.now()}`;
+  const signature = signCloudinaryParams(
+    { folder, public_id: publicId, timestamp },
+    apiSecret
+  );
 
-  const baseName = slugify(title) || "project";
-  const filename = `${baseName}-${Date.now()}.${extension}`;
-  const bytes = Buffer.from(await file.arrayBuffer());
-  await writeFile(path.join(COVER_UPLOAD_DIR, filename), bytes);
+  const uploadData = new FormData();
+  uploadData.append("file", file);
+  uploadData.append("api_key", apiKey);
+  uploadData.append("timestamp", timestamp);
+  uploadData.append("signature", signature);
+  uploadData.append("folder", folder);
+  uploadData.append("public_id", publicId);
 
-  return `/uploads/projects/${filename}`;
+  const response = await fetch(
+    `https://api.cloudinary.com/v1_1/${cloudName}/image/upload`,
+    {
+      method: "POST",
+      body: uploadData,
+    }
+  );
+
+  if (!response.ok) {
+    const message = await response.text();
+    throw new Error(
+      `Cloudinary upload failed: ${message}. Check that CLOUDINARY_URL uses the API secret, not the API key or cloud name.`
+    );
+  }
+
+  const result = (await response.json()) as { secure_url?: string };
+  if (!result.secure_url) {
+    throw new Error("Cloudinary upload did not return a secure URL");
+  }
+
+  return result.secure_url;
 }
 
 async function buildData(formData: FormData) {

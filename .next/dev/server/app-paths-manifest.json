@@ -1,9 +1,4 @@
 {
-  "/(overview)/certificates/page": "app/(overview)/certificates/page.js",
-  "/(overview)/experience/page": "app/(overview)/experience/page.js",
-  "/(overview)/projects/page": "app/(overview)/projects/page.js",
-  "/admin/(protected)/page": "app/admin/(protected)/page.js",
-  "/admin/(protected)/projects/new/page": "app/admin/(protected)/projects/new/page.js",
-  "/admin/(protected)/projects/page": "app/admin/(protected)/projects/page.js",
-  "/page": "app/page.js"
+  "/admin/(protected)/projects/[id]/page": "app/admin/(protected)/projects/[id]/page.js",
+  "/admin/(protected)/projects/page": "app/admin/(protected)/projects/page.js"
 }

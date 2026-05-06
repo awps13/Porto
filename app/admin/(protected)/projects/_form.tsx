@@ -143,7 +143,7 @@ export default function ProjectForm({
         <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
           <Field
             label="Upload cover image"
-            hint="JPG, PNG, WEBP, or GIF. Max 5MB. Upload replaces the cover URL when saved."
+            hint="JPG, PNG, WEBP, or GIF. Max 5MB. Uploaded to Cloudinary and replaces the cover URL when saved."
           >
             <input
               type="file"
