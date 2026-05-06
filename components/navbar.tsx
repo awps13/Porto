@@ -1,87 +1,132 @@
-import Image from "next/image";
-import Link from "next/link";
-import { useState } from "react";
+"use client";
 
-const navbar = () => {
-  const [open, setOpen] = useState(false);
+import { useEffect, useRef, useState } from "react";
+import { useTheme } from "@/components/theme-provider";
+
+const links = [
+  { label: "About", href: "#about", id: "about" },
+  { label: "Project", href: "#project", id: "project" },
+  { label: "Experience", href: "#experience", id: "experience" },
+  { label: "Contact", href: "#contact", id: "contact" },
+];
+
+const Navbar = () => {
+  const { theme, toggle, mounted } = useTheme();
+  const [activeId, setActiveId] = useState<string>("about");
+  const [indicator, setIndicator] = useState<{ left: number; width: number }>({
+    left: 0,
+    width: 0,
+  });
+  const containerRef = useRef<HTMLDivElement>(null);
+  const linkRefs = useRef<Record<string, HTMLAnchorElement | null>>({});
+  const headerRef = useRef<HTMLElement>(null);
+
+  useEffect(() => {
+    const sections = links
+      .map((l) => document.getElementById(l.id))
+      .filter((el): el is HTMLElement => el !== null);
+
+    if (sections.length === 0) return;
+
+    const observer = new IntersectionObserver(
+      (entries) => {
+        const visible = entries
+          .filter((e) => e.isIntersecting)
+          .sort((a, b) => b.intersectionRatio - a.intersectionRatio);
+        if (visible[0]) setActiveId(visible[0].target.id);
+      },
+      { rootMargin: "-40% 0px -50% 0px", threshold: [0, 0.25, 0.5, 0.75, 1] }
+    );
+
+    sections.forEach((s) => observer.observe(s));
+    return () => observer.disconnect();
+  }, []);
+
+  useEffect(() => {
+    const updateIndicator = () => {
+      const el = linkRefs.current[activeId];
+      const container = containerRef.current;
+      if (!el || !container) return;
+      const elRect = el.getBoundingClientRect();
+      const containerRect = container.getBoundingClientRect();
+      setIndicator({
+        left: elRect.left - containerRect.left,
+        width: elRect.width,
+      });
+    };
+
+    updateIndicator();
+    window.addEventListener("resize", updateIndicator);
+    return () => window.removeEventListener("resize", updateIndicator);
+  }, [activeId]);
+
+  const handleClick = (
+    e: React.MouseEvent<HTMLAnchorElement>,
+    id: string
+  ) => {
+    const target = document.getElementById(id);
+    if (!target) return;
+    e.preventDefault();
+    setActiveId(id);
+    const offset = headerRef.current?.offsetHeight ?? 0;
+    const top =
+      target.getBoundingClientRect().top + window.scrollY - offset;
+    window.scrollTo({ top, behavior: "smooth" });
+    history.replaceState(null, "", `#${id}`);
+  };
+
   return (
-    <div className="flex flex-col sm:flex-row gap-3 sm:gap-5 w-full">
-      <div className="flex justify-center sm:justify-start shrink-0">
-        <Image
-          src="/Foto.jpeg"
-          width={150}
-          height={150}
-          alt="passfoto"
-          className="w-[200px] h-[200px] sm:w-[150px] sm:h-[150px] object-cover 2xl:w-[250px] 2xl:h-[250px]"
-        />
-      </div>
-
-      <div className="p-3 sm:p-5 w-full sm:pr-0 flex flex-col justify-center">
-        <h1 className="lg:text-[3rem] font-semibold text-center sm:text-left text-[2rem] 2xl:text-[5rem]">
-          AHMAD WILDAN PUTRO SANTOSO
-        </h1>
-        <div className="flex flex-col sm:flex-row sm:justify-between sm:items-center gap-3 sm:gap-0 mt-2 sm:mt-0">
-          <h3 className="text-[1.2rem] sm:text-base lg:text-[1.5rem] underline text-center sm:text-left 2xl:text-[2.5rem]">
-            FRONT END DEVELOPER
-          </h3>
-          <div className="text-center sm:text-right sm:mt-0 mt-2 flex justify-center sm:justify-end relative">
-            <div className="relative flex items-center gap-2">
-              <div
-                className={`transition-all duration-300 ease-out hidden sm:block ${open ? "opacity-100 scale-100 pointer-events-auto" : "opacity-0 scale-95 pointer-events-none"}`}
+    <header
+      ref={headerRef}
+      className="fixed top-0 left-0 w-full z-50 bg-bg border-b border-fg/15 transition-colors duration-500 ease-architect"
+    >
+      <nav className="flex justify-between items-center w-full px-8 md:px-16 xl:px-24 2xl:px-32 py-6 max-w-full">
+        <a
+          href="#about"
+          onClick={(e) => handleClick(e, "about")}
+          className="font-epilogue font-bold text-xl tracking-tighter text-fg"
+        >
+          AWPS13
+        </a>
+        <div ref={containerRef} className="hidden md:flex gap-12 relative">
+          {links.map((link) => {
+            const isActive = activeId === link.id;
+            return (
+              <a
+                key={link.label}
+                ref={(el) => {
+                  linkRefs.current[link.id] = el;
+                }}
+                href={link.href}
+                onClick={(e) => handleClick(e, link.id)}
+                className={`font-epilogue text-xs tracking-[0.2em] uppercase font-medium pb-1 transition-colors duration-300 ease-architect ${
+                  isActive ? "text-fg" : "text-outline-variant hover:text-fg"
+                }`}
               >
-                <Link
-                  href="/CV AHMAD WILDAN PUTRO SANTOSO B_INDO.pdf"
-                  target="blank"
-                  className="border p-2 font-semibold shadow-[3px_3px_0px_#fff] inline-flex justify-center items-center transition-all duration-200 ease-out hover:scale-[1.03] hover:shadow-[5px_5px_0_white] text-[1rem] sm:text-sm 2xl:text-3xl 2xl:hover:scale-[1.13] 2xl:hover:shadow-[10px_10px_0_white] 2xl:shadow-[6px_6px_0px_#fff] 2xl:border-2 hover:cursor-pointer"
-                >
-                  Indonesian
-                </Link>
-              </div>
-              <div
-                className={`transition-all duration-300 ease-out hidden sm:block ${open ? "opacity-100 scale-100 pointer-events-auto" : "opacity-0 scale-95 pointer-events-none"}`}
-              >
-                <Link
-                  href="/CV AHMAD WILDAN PUTRO SANTOSO B_ING.pdf"
-                  target="blank"
-                  className="border p-2 font-semibold shadow-[3px_3px_0px_#fff] inline-flex justify-center items-center transition-all duration-200 ease-out hover:scale-[1.03] hover:shadow-[5px_5px_0_white] text-[1rem] sm:text-sm 2xl:text-3xl 2xl:hover:scale-[1.13] 2xl:hover:shadow-[10px_10px_0_white] 2xl:shadow-[6px_6px_0px_#fff] 2xl:border-2 hover:cursor-pointer"
-                >
-                  English
-                </Link>
-              </div>
-              <div
-                className={`transition-all duration-300 ease-out sm:hidden ${open ? "opacity-100 scale-100 pointer-events-auto" : "opacity-0 scale-95 pointer-events-none"}`}
-              >
-                <Link
-                  href="/CV AHMAD WILDAN PUTRO SANTOSO B_INDO.pdf"
-                  target="blank"
-                  className="border p-2 font-semibold shadow-[3px_3px_0px_#fff] inline-flex justify-center items-center transition-all duration-200 ease-out hover:scale-[1.03] hover:shadow-[5px_5px_0_white] text-[1rem] sm:text-sm 2xl:text-3xl 2xl:hover:scale-[1.13] 2xl:hover:shadow-[10px_10px_0_white] 2xl:shadow-[6px_6px_0px_#fff] 2xl:border-2 hover:cursor-pointer"
-                >
-                  Indonesian
-                </Link>
-              </div>
-              <button
-                onClick={() => setOpen(!open)}
-                className="border p-2 font-semibold shadow-[3px_3px_0px_#fff] inline-flex justify-center items-center transition-all duration-200 ease-out hover:scale-[1.03] hover:shadow-[5px_5px_0_white] text-[1rem] sm:text-sm 2xl:text-3xl 2xl:hover:scale-[1.13] 2xl:hover:shadow-[10px_10px_0_white] 2xl:shadow-[6px_6px_0px_#fff] 2xl:border-2 hover:cursor-pointer"
-              >
-                MyCV
-              </button>
-              <div
-                className={`transition-all duration-300 ease-out sm:hidden ${open ? "opacity-100 scale-100 pointer-events-auto" : "opacity-0 scale-95 pointer-events-none"}`}
-              >
-                <Link
-                  href="/CV AHMAD WILDAN PUTRO SANTOSO B_ING.pdf"
-                  target="blank"
-                  className="border p-2 font-semibold shadow-[3px_3px_0px_#fff] inline-flex justify-center items-center transition-all duration-200 ease-out hover:scale-[1.03] hover:shadow-[5px_5px_0_white] text-[1rem] sm:text-sm 2xl:text-3xl 2xl:hover:scale-[1.13] 2xl:hover:shadow-[10px_10px_0_white] 2xl:shadow-[6px_6px_0px_#fff] 2xl:border-2 hover:cursor-pointer"
-                >
-                  English
-                </Link>
-              </div>
-            </div>
-          </div>
+                {link.label}
+              </a>
+            );
+          })}
+          <span
+            aria-hidden
+            className="pointer-events-none absolute bottom-0 h-px bg-fg transition-[transform,width] duration-500 ease-[cubic-bezier(0.65,0,0.35,1)]"
+            style={{
+              transform: `translateX(${indicator.left}px)`,
+              width: indicator.width,
+              opacity: indicator.width > 0 ? 1 : 0,
+            }}
+          />
         </div>
-      </div>
-    </div>
+        <button
+          aria-label="Toggle theme"
+          onClick={toggle}
+          className="material-symbols-outlined text-fg transition-transform duration-300 ease-button active:scale-[0.98] cursor-pointer"
+        >
+          {mounted ? (theme === "dark" ? "light_mode" : "dark_mode") : "dark_mode"}
+        </button>
+      </nav>
+    </header>
   );
 };
 
-export default navbar;
+export default Navbar;

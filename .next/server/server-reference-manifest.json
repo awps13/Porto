@@ -1,5 +1,588 @@
 {
-  "node": {},
+  "node": {
+    "402197a72725df9d1ed1e3679a63226faabd868c87": {
+      "workers": {
+        "app/admin/(protected)/certificates/[id]/page": {
+          "moduleId": 76520,
+          "async": true,
+          "exportedName": "createCertificate",
+          "filename": "app/admin/(protected)/certificates/actions.ts"
+        },
+        "app/admin/(protected)/certificates/new/page": {
+          "moduleId": 68801,
+          "async": true,
+          "exportedName": "createCertificate",
+          "filename": "app/admin/(protected)/certificates/actions.ts"
+        },
+        "app/admin/(protected)/certificates/page": {
+          "moduleId": 16944,
+          "async": true,
+          "exportedName": "createCertificate",
+          "filename": "app/admin/(protected)/certificates/actions.ts"
+        }
+      },
+      "layer": {
+        "app/admin/(protected)/certificates/[id]/page": "rsc",
+        "app/admin/(protected)/certificates/new/page": "rsc",
+        "app/admin/(protected)/certificates/page": "rsc"
+      },
+      "filename": "app/admin/(protected)/certificates/actions.ts",
+      "exportedName": "createCertificate"
+    },
+    "407ec3309adc3f1a44516087d1e68bbace62e090a8": {
+      "workers": {
+        "app/admin/(protected)/certificates/[id]/page": {
+          "moduleId": 76520,
+          "async": true,
+          "exportedName": "deleteCertificate",
+          "filename": "app/admin/(protected)/certificates/actions.ts"
+        },
+        "app/admin/(protected)/certificates/new/page": {
+          "moduleId": 68801,
+          "async": true,
+          "exportedName": "deleteCertificate",
+          "filename": "app/admin/(protected)/certificates/actions.ts"
+        },
+        "app/admin/(protected)/certificates/page": {
+          "moduleId": 16944,
+          "async": true,
+          "exportedName": "deleteCertificate",
+          "filename": "app/admin/(protected)/certificates/actions.ts"
+        }
+      },
+      "layer": {
+        "app/admin/(protected)/certificates/[id]/page": "rsc",
+        "app/admin/(protected)/certificates/new/page": "rsc",
+        "app/admin/(protected)/certificates/page": "rsc"
+      },
+      "filename": "app/admin/(protected)/certificates/actions.ts",
+      "exportedName": "deleteCertificate"
+    },
+    "60855eb480d391773404c35662033f5aab182cba92": {
+      "workers": {
+        "app/admin/(protected)/certificates/[id]/page": {
+          "moduleId": 76520,
+          "async": true,
+          "exportedName": "updateCertificate",
+          "filename": "app/admin/(protected)/certificates/actions.ts"
+        },
+        "app/admin/(protected)/certificates/new/page": {
+          "moduleId": 68801,
+          "async": true,
+          "exportedName": "updateCertificate",
+          "filename": "app/admin/(protected)/certificates/actions.ts"
+        },
+        "app/admin/(protected)/certificates/page": {
+          "moduleId": 16944,
+          "async": true,
+          "exportedName": "updateCertificate",
+          "filename": "app/admin/(protected)/certificates/actions.ts"
+        }
+      },
+      "layer": {
+        "app/admin/(protected)/certificates/[id]/page": "rsc",
+        "app/admin/(protected)/certificates/new/page": "rsc",
+        "app/admin/(protected)/certificates/page": "rsc"
+      },
+      "filename": "app/admin/(protected)/certificates/actions.ts",
+      "exportedName": "updateCertificate"
+    },
+    "4036e942d22906d4034b4277982a6151957f22e848": {
+      "workers": {
+        "app/admin/(protected)/contacts/[id]/page": {
+          "moduleId": 4523,
+          "async": true,
+          "exportedName": "createContact",
+          "filename": "app/admin/(protected)/contacts/actions.ts"
+        },
+        "app/admin/(protected)/contacts/new/page": {
+          "moduleId": 47703,
+          "async": true,
+          "exportedName": "createContact",
+          "filename": "app/admin/(protected)/contacts/actions.ts"
+        },
+        "app/admin/(protected)/contacts/page": {
+          "moduleId": 83022,
+          "async": true,
+          "exportedName": "createContact",
+          "filename": "app/admin/(protected)/contacts/actions.ts"
+        }
+      },
+      "layer": {
+        "app/admin/(protected)/contacts/[id]/page": "rsc",
+        "app/admin/(protected)/contacts/new/page": "rsc",
+        "app/admin/(protected)/contacts/page": "rsc"
+      },
+      "filename": "app/admin/(protected)/contacts/actions.ts",
+      "exportedName": "createContact"
+    },
+    "40b80a5cc23c3deb4fa9baa9470a5b8905877cd71f": {
+      "workers": {
+        "app/admin/(protected)/contacts/[id]/page": {
+          "moduleId": 4523,
+          "async": true,
+          "exportedName": "deleteContact",
+          "filename": "app/admin/(protected)/contacts/actions.ts"
+        },
+        "app/admin/(protected)/contacts/new/page": {
+          "moduleId": 47703,
+          "async": true,
+          "exportedName": "deleteContact",
+          "filename": "app/admin/(protected)/contacts/actions.ts"
+        },
+        "app/admin/(protected)/contacts/page": {
+          "moduleId": 83022,
+          "async": true,
+          "exportedName": "deleteContact",
+          "filename": "app/admin/(protected)/contacts/actions.ts"
+        }
+      },
+      "layer": {
+        "app/admin/(protected)/contacts/[id]/page": "rsc",
+        "app/admin/(protected)/contacts/new/page": "rsc",
+        "app/admin/(protected)/contacts/page": "rsc"
+      },
+      "filename": "app/admin/(protected)/contacts/actions.ts",
+      "exportedName": "deleteContact"
+    },
+    "60dd5e1fb403d6ab52535fb027ac657db7f8844bdb": {
+      "workers": {
+        "app/admin/(protected)/contacts/[id]/page": {
+          "moduleId": 4523,
+          "async": true,
+          "exportedName": "updateContact",
+          "filename": "app/admin/(protected)/contacts/actions.ts"
+        },
+        "app/admin/(protected)/contacts/new/page": {
+          "moduleId": 47703,
+          "async": true,
+          "exportedName": "updateContact",
+          "filename": "app/admin/(protected)/contacts/actions.ts"
+        },
+        "app/admin/(protected)/contacts/page": {
+          "moduleId": 83022,
+          "async": true,
+          "exportedName": "updateContact",
+          "filename": "app/admin/(protected)/contacts/actions.ts"
+        }
+      },
+      "layer": {
+        "app/admin/(protected)/contacts/[id]/page": "rsc",
+        "app/admin/(protected)/contacts/new/page": "rsc",
+        "app/admin/(protected)/contacts/page": "rsc"
+      },
+      "filename": "app/admin/(protected)/contacts/actions.ts",
+      "exportedName": "updateContact"
+    },
+    "408752d9b980db23c8b464e0e8776b6985675638b9": {
+      "workers": {
+        "app/admin/(protected)/experience/[id]/page": {
+          "moduleId": 32249,
+          "async": true,
+          "exportedName": "createExperience",
+          "filename": "app/admin/(protected)/experience/actions.ts"
+        },
+        "app/admin/(protected)/experience/new/page": {
+          "moduleId": 28078,
+          "async": true,
+          "exportedName": "createExperience",
+          "filename": "app/admin/(protected)/experience/actions.ts"
+        },
+        "app/admin/(protected)/experience/page": {
+          "moduleId": 1223,
+          "async": true,
+          "exportedName": "createExperience",
+          "filename": "app/admin/(protected)/experience/actions.ts"
+        }
+      },
+      "layer": {
+        "app/admin/(protected)/experience/[id]/page": "rsc",
+        "app/admin/(protected)/experience/new/page": "rsc",
+        "app/admin/(protected)/experience/page": "rsc"
+      },
+      "filename": "app/admin/(protected)/experience/actions.ts",
+      "exportedName": "createExperience"
+    },
+    "40d5a164c3559770d08c6c39f6878538ec03a0ffea": {
+      "workers": {
+        "app/admin/(protected)/experience/[id]/page": {
+          "moduleId": 32249,
+          "async": true,
+          "exportedName": "deleteExperience",
+          "filename": "app/admin/(protected)/experience/actions.ts"
+        },
+        "app/admin/(protected)/experience/new/page": {
+          "moduleId": 28078,
+          "async": true,
+          "exportedName": "deleteExperience",
+          "filename": "app/admin/(protected)/experience/actions.ts"
+        },
+        "app/admin/(protected)/experience/page": {
+          "moduleId": 1223,
+          "async": true,
+          "exportedName": "deleteExperience",
+          "filename": "app/admin/(protected)/experience/actions.ts"
+        }
+      },
+      "layer": {
+        "app/admin/(protected)/experience/[id]/page": "rsc",
+        "app/admin/(protected)/experience/new/page": "rsc",
+        "app/admin/(protected)/experience/page": "rsc"
+      },
+      "filename": "app/admin/(protected)/experience/actions.ts",
+      "exportedName": "deleteExperience"
+    },
+    "6012ca63a2a6c537e20bc5d901e8d6cbaec1010046": {
+      "workers": {
+        "app/admin/(protected)/experience/[id]/page": {
+          "moduleId": 32249,
+          "async": true,
+          "exportedName": "updateExperience",
+          "filename": "app/admin/(protected)/experience/actions.ts"
+        },
+        "app/admin/(protected)/experience/new/page": {
+          "moduleId": 28078,
+          "async": true,
+          "exportedName": "updateExperience",
+          "filename": "app/admin/(protected)/experience/actions.ts"
+        },
+        "app/admin/(protected)/experience/page": {
+          "moduleId": 1223,
+          "async": true,
+          "exportedName": "updateExperience",
+          "filename": "app/admin/(protected)/experience/actions.ts"
+        }
+      },
+      "layer": {
+        "app/admin/(protected)/experience/[id]/page": "rsc",
+        "app/admin/(protected)/experience/new/page": "rsc",
+        "app/admin/(protected)/experience/page": "rsc"
+      },
+      "filename": "app/admin/(protected)/experience/actions.ts",
+      "exportedName": "updateExperience"
+    },
+    "404cc78b991c7e0dcc770d3217eeb15b9a72ce344f": {
+      "workers": {
+        "app/admin/(protected)/messages/[id]/page": {
+          "moduleId": 35917,
+          "async": true,
+          "exportedName": "updateMessageStatus",
+          "filename": "app/admin/(protected)/messages/actions.ts"
+        }
+      },
+      "layer": {
+        "app/admin/(protected)/messages/[id]/page": "rsc"
+      },
+      "filename": "app/admin/(protected)/messages/actions.ts",
+      "exportedName": "updateMessageStatus"
+    },
+    "405330615c3e2479725938856bae96121d129e477a": {
+      "workers": {
+        "app/admin/(protected)/messages/[id]/page": {
+          "moduleId": 35917,
+          "async": true,
+          "exportedName": "deleteMessage",
+          "filename": "app/admin/(protected)/messages/actions.ts"
+        }
+      },
+      "layer": {
+        "app/admin/(protected)/messages/[id]/page": "rsc"
+      },
+      "filename": "app/admin/(protected)/messages/actions.ts",
+      "exportedName": "deleteMessage"
+    },
+    "40ea769045c1483eee0e3fbd46d1314df5b712bd0c": {
+      "workers": {
+        "app/admin/(protected)/profile/page": {
+          "moduleId": 73534,
+          "async": true,
+          "exportedName": "saveProfile",
+          "filename": "app/admin/(protected)/profile/actions.ts"
+        }
+      },
+      "layer": {
+        "app/admin/(protected)/profile/page": "rsc"
+      },
+      "filename": "app/admin/(protected)/profile/actions.ts",
+      "exportedName": "saveProfile"
+    },
+    "4082ddc2e2148ef1f278d575955bebe5a8162e5e63": {
+      "workers": {
+        "app/admin/(protected)/projects/[id]/page": {
+          "moduleId": 19041,
+          "async": true,
+          "exportedName": "createProject",
+          "filename": "app/admin/(protected)/projects/actions.ts"
+        },
+        "app/admin/(protected)/projects/new/page": {
+          "moduleId": 75494,
+          "async": true,
+          "exportedName": "createProject",
+          "filename": "app/admin/(protected)/projects/actions.ts"
+        },
+        "app/admin/(protected)/projects/page": {
+          "moduleId": 43435,
+          "async": true,
+          "exportedName": "createProject",
+          "filename": "app/admin/(protected)/projects/actions.ts"
+        }
+      },
+      "layer": {
+        "app/admin/(protected)/projects/[id]/page": "rsc",
+        "app/admin/(protected)/projects/new/page": "rsc",
+        "app/admin/(protected)/projects/page": "rsc"
+      },
+      "filename": "app/admin/(protected)/projects/actions.ts",
+      "exportedName": "createProject"
+    },
+    "409acf7fe00145b4d59ac2435ed16cc4f8cf59e164": {
+      "workers": {
+        "app/admin/(protected)/projects/[id]/page": {
+          "moduleId": 19041,
+          "async": true,
+          "exportedName": "deleteProject",
+          "filename": "app/admin/(protected)/projects/actions.ts"
+        },
+        "app/admin/(protected)/projects/new/page": {
+          "moduleId": 75494,
+          "async": true,
+          "exportedName": "deleteProject",
+          "filename": "app/admin/(protected)/projects/actions.ts"
+        },
+        "app/admin/(protected)/projects/page": {
+          "moduleId": 43435,
+          "async": true,
+          "exportedName": "deleteProject",
+          "filename": "app/admin/(protected)/projects/actions.ts"
+        }
+      },
+      "layer": {
+        "app/admin/(protected)/projects/[id]/page": "rsc",
+        "app/admin/(protected)/projects/new/page": "rsc",
+        "app/admin/(protected)/projects/page": "rsc"
+      },
+      "filename": "app/admin/(protected)/projects/actions.ts",
+      "exportedName": "deleteProject"
+    },
+    "60e80802b14cd77b4f926cbd259ef51e11ce0e4cea": {
+      "workers": {
+        "app/admin/(protected)/projects/[id]/page": {
+          "moduleId": 19041,
+          "async": true,
+          "exportedName": "updateProject",
+          "filename": "app/admin/(protected)/projects/actions.ts"
+        },
+        "app/admin/(protected)/projects/new/page": {
+          "moduleId": 75494,
+          "async": true,
+          "exportedName": "updateProject",
+          "filename": "app/admin/(protected)/projects/actions.ts"
+        },
+        "app/admin/(protected)/projects/page": {
+          "moduleId": 43435,
+          "async": true,
+          "exportedName": "updateProject",
+          "filename": "app/admin/(protected)/projects/actions.ts"
+        }
+      },
+      "layer": {
+        "app/admin/(protected)/projects/[id]/page": "rsc",
+        "app/admin/(protected)/projects/new/page": "rsc",
+        "app/admin/(protected)/projects/page": "rsc"
+      },
+      "filename": "app/admin/(protected)/projects/actions.ts",
+      "exportedName": "updateProject"
+    },
+    "400eef6e4f236974fc54caf63ed43d2d7cd592c774": {
+      "workers": {
+        "app/admin/(protected)/skills/[id]/page": {
+          "moduleId": 2871,
+          "async": true,
+          "exportedName": "createSkill",
+          "filename": "app/admin/(protected)/skills/actions.ts"
+        },
+        "app/admin/(protected)/skills/new/page": {
+          "moduleId": 20572,
+          "async": true,
+          "exportedName": "createSkill",
+          "filename": "app/admin/(protected)/skills/actions.ts"
+        },
+        "app/admin/(protected)/skills/page": {
+          "moduleId": 76917,
+          "async": true,
+          "exportedName": "createSkill",
+          "filename": "app/admin/(protected)/skills/actions.ts"
+        }
+      },
+      "layer": {
+        "app/admin/(protected)/skills/[id]/page": "rsc",
+        "app/admin/(protected)/skills/new/page": "rsc",
+        "app/admin/(protected)/skills/page": "rsc"
+      },
+      "filename": "app/admin/(protected)/skills/actions.ts",
+      "exportedName": "createSkill"
+    },
+    "40519f3907034ee4460e6ebc26e1a417dfbc50095d": {
+      "workers": {
+        "app/admin/(protected)/skills/[id]/page": {
+          "moduleId": 2871,
+          "async": true,
+          "exportedName": "deleteSkill",
+          "filename": "app/admin/(protected)/skills/actions.ts"
+        },
+        "app/admin/(protected)/skills/new/page": {
+          "moduleId": 20572,
+          "async": true,
+          "exportedName": "deleteSkill",
+          "filename": "app/admin/(protected)/skills/actions.ts"
+        },
+        "app/admin/(protected)/skills/page": {
+          "moduleId": 76917,
+          "async": true,
+          "exportedName": "deleteSkill",
+          "filename": "app/admin/(protected)/skills/actions.ts"
+        }
+      },
+      "layer": {
+        "app/admin/(protected)/skills/[id]/page": "rsc",
+        "app/admin/(protected)/skills/new/page": "rsc",
+        "app/admin/(protected)/skills/page": "rsc"
+      },
+      "filename": "app/admin/(protected)/skills/actions.ts",
+      "exportedName": "deleteSkill"
+    },
+    "6064b3cbd9a927ca18c999c1a54b399006bf55065b": {
+      "workers": {
+        "app/admin/(protected)/skills/[id]/page": {
+          "moduleId": 2871,
+          "async": true,
+          "exportedName": "updateSkill",
+          "filename": "app/admin/(protected)/skills/actions.ts"
+        },
+        "app/admin/(protected)/skills/new/page": {
+          "moduleId": 20572,
+          "async": true,
+          "exportedName": "updateSkill",
+          "filename": "app/admin/(protected)/skills/actions.ts"
+        },
+        "app/admin/(protected)/skills/page": {
+          "moduleId": 76917,
+          "async": true,
+          "exportedName": "updateSkill",
+          "filename": "app/admin/(protected)/skills/actions.ts"
+        }
+      },
+      "layer": {
+        "app/admin/(protected)/skills/[id]/page": "rsc",
+        "app/admin/(protected)/skills/new/page": "rsc",
+        "app/admin/(protected)/skills/page": "rsc"
+      },
+      "filename": "app/admin/(protected)/skills/actions.ts",
+      "exportedName": "updateSkill"
+    },
+    "4046f0b95f924aa63a2ab735e79e91057ce4bec3f5": {
+      "workers": {
+        "app/admin/(protected)/technologies/[id]/page": {
+          "moduleId": 19411,
+          "async": true,
+          "exportedName": "createTechnology",
+          "filename": "app/admin/(protected)/technologies/actions.ts"
+        },
+        "app/admin/(protected)/technologies/new/page": {
+          "moduleId": 22644,
+          "async": true,
+          "exportedName": "createTechnology",
+          "filename": "app/admin/(protected)/technologies/actions.ts"
+        },
+        "app/admin/(protected)/technologies/page": {
+          "moduleId": 14012,
+          "async": true,
+          "exportedName": "createTechnology",
+          "filename": "app/admin/(protected)/technologies/actions.ts"
+        }
+      },
+      "layer": {
+        "app/admin/(protected)/technologies/[id]/page": "rsc",
+        "app/admin/(protected)/technologies/new/page": "rsc",
+        "app/admin/(protected)/technologies/page": "rsc"
+      },
+      "filename": "app/admin/(protected)/technologies/actions.ts",
+      "exportedName": "createTechnology"
+    },
+    "40ff3c865c5fd4df53717effe180db13d6ca6dcf6e": {
+      "workers": {
+        "app/admin/(protected)/technologies/[id]/page": {
+          "moduleId": 19411,
+          "async": true,
+          "exportedName": "deleteTechnology",
+          "filename": "app/admin/(protected)/technologies/actions.ts"
+        },
+        "app/admin/(protected)/technologies/new/page": {
+          "moduleId": 22644,
+          "async": true,
+          "exportedName": "deleteTechnology",
+          "filename": "app/admin/(protected)/technologies/actions.ts"
+        },
+        "app/admin/(protected)/technologies/page": {
+          "moduleId": 14012,
+          "async": true,
+          "exportedName": "deleteTechnology",
+          "filename": "app/admin/(protected)/technologies/actions.ts"
+        }
+      },
+      "layer": {
+        "app/admin/(protected)/technologies/[id]/page": "rsc",
+        "app/admin/(protected)/technologies/new/page": "rsc",
+        "app/admin/(protected)/technologies/page": "rsc"
+      },
+      "filename": "app/admin/(protected)/technologies/actions.ts",
+      "exportedName": "deleteTechnology"
+    },
+    "600345daf18e695f61ab62fe3aa5becad6ec4ebf34": {
+      "workers": {
+        "app/admin/(protected)/technologies/[id]/page": {
+          "moduleId": 19411,
+          "async": true,
+          "exportedName": "updateTechnology",
+          "filename": "app/admin/(protected)/technologies/actions.ts"
+        },
+        "app/admin/(protected)/technologies/new/page": {
+          "moduleId": 22644,
+          "async": true,
+          "exportedName": "updateTechnology",
+          "filename": "app/admin/(protected)/technologies/actions.ts"
+        },
+        "app/admin/(protected)/technologies/page": {
+          "moduleId": 14012,
+          "async": true,
+          "exportedName": "updateTechnology",
+          "filename": "app/admin/(protected)/technologies/actions.ts"
+        }
+      },
+      "layer": {
+        "app/admin/(protected)/technologies/[id]/page": "rsc",
+        "app/admin/(protected)/technologies/new/page": "rsc",
+        "app/admin/(protected)/technologies/page": "rsc"
+      },
+      "filename": "app/admin/(protected)/technologies/actions.ts",
+      "exportedName": "updateTechnology"
+    },
+    "60dd57cb941b48187534d907d9c8b2b55bffc316e5": {
+      "workers": {
+        "app/admin/login/page": {
+          "moduleId": 97857,
+          "async": true,
+          "exportedName": "signIn",
+          "filename": "app/admin/login/actions.ts"
+        }
+      },
+      "layer": {
+        "app/admin/login/page": "action-browser"
+      },
+      "filename": "app/admin/login/actions.ts",
+      "exportedName": "signIn"
+    }
+  },
   "edge": {},
-  "encryptionKey": "ug05eHcesZB0rFeEHWfEprgfh0+eQWi1CyhmGLIelsE="
+  "encryptionKey": "RZRk35SX/lGA5Q2n3/OQYQfDDaiJLKHoUlSwkyysgYU="
 }
