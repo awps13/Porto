@@ -211,6 +211,12 @@
       "namedRegex": "^/experience(?:/)?$"
     },
     {
+      "page": "/favicon.ico",
+      "regex": "^/favicon\\.ico(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/favicon\\.ico(?:/)?$"
+    },
+    {
       "page": "/projects",
       "regex": "^/projects(?:/)?$",
       "routeKeys": {},

@@ -1,4 +1,7 @@
 {
-  "/admin/(protected)/projects/[id]/page": "app/admin/(protected)/projects/[id]/page.js",
-  "/admin/(protected)/projects/page": "app/admin/(protected)/projects/page.js"
+  "/(overview)/projects/page": "app/(overview)/projects/page.js",
+  "/admin/(protected)/page": "app/admin/(protected)/page.js",
+  "/admin/(protected)/projects/page": "app/admin/(protected)/projects/page.js",
+  "/admin/login/page": "app/admin/login/page.js",
+  "/page": "app/page.js"
 }

@@ -121,6 +121,16 @@ function parseList(value: FormDataEntryValue | null): string[] {
     .filter(Boolean);
 }
 
+function uniqueList(values: string[]) {
+  const seen = new Set<string>();
+  return values.filter((value) => {
+    const key = value.toLowerCase();
+    if (seen.has(key)) return false;
+    seen.add(key);
+    return true;
+  });
+}
+
 function parseDate(value: FormDataEntryValue | null): Date | null {
   if (!value) return null;
   const s = value.toString().trim();
@@ -183,6 +193,66 @@ async function saveProjectCover(file: File, title: string) {
   return result.secure_url;
 }
 
+async function getUniqueTechnologySlug(name: string, reservedSlugs: Set<string>) {
+  const baseSlug = slugify(name) || "technology";
+  let slug = baseSlug;
+  let suffix = 2;
+
+  while (reservedSlugs.has(slug)) {
+    slug = `${baseSlug}-${suffix}`;
+    suffix += 1;
+  }
+
+  const existing = await prisma.technology.findUnique({
+    where: { slug },
+    select: { id: true },
+  });
+
+  if (!existing) {
+    reservedSlugs.add(slug);
+    return slug;
+  }
+
+  reservedSlugs.add(slug);
+  return getUniqueTechnologySlug(`${baseSlug}-${suffix}`, reservedSlugs);
+}
+
+async function resolveTechnologyIds(
+  selectedIds: string[],
+  manualNames: string[]
+) {
+  const ids = new Set(selectedIds);
+  const names = uniqueList(manualNames);
+  if (names.length === 0) return [...ids];
+
+  const existingTechnologies = await prisma.technology.findMany({
+    select: { id: true, name: true },
+  });
+  const existingByName = new Map(
+    existingTechnologies.map((tech) => [tech.name.toLowerCase(), tech])
+  );
+  const reservedSlugs = new Set<string>();
+
+  for (const name of names) {
+    const existing = existingByName.get(name.toLowerCase());
+    if (existing) {
+      ids.add(existing.id);
+      continue;
+    }
+
+    const technology = await prisma.technology.create({
+      data: {
+        name,
+        slug: await getUniqueTechnologySlug(name, reservedSlugs),
+      },
+      select: { id: true },
+    });
+    ids.add(technology.id);
+  }
+
+  return [...ids];
+}
+
 async function buildData(formData: FormData) {
   const title = formData.get("title")?.toString().trim() ?? "";
   const slug =
@@ -194,6 +264,7 @@ async function buildData(formData: FormData) {
       : formData.get("cover")?.toString().trim() || null;
 
   const technologyIds = formData.getAll("technologyIds").map((v) => v.toString());
+  const technologyNames = parseList(formData.get("technologyNames"));
   const tagIds = formData.getAll("tagIds").map((v) => v.toString());
 
   return {
@@ -216,6 +287,7 @@ async function buildData(formData: FormData) {
       finishedAt: parseDate(formData.get("finishedAt")),
     },
     technologyIds,
+    technologyNames,
     tagIds,
     uploadedCover: Boolean(uploadedCover),
   };
@@ -223,18 +295,23 @@ async function buildData(formData: FormData) {
 
 export async function createProject(formData: FormData) {
   await requireAuth();
-  const { scalars, technologyIds, tagIds } = await buildData(formData);
+  const { scalars, technologyIds, technologyNames, tagIds } = await buildData(formData);
   if (!scalars.title) throw new Error("Title is required");
+  const resolvedTechnologyIds = await resolveTechnologyIds(
+    technologyIds,
+    technologyNames
+  );
 
   await prisma.project.create({
     data: {
       ...scalars,
-      technologies: { connect: technologyIds.map((id) => ({ id })) },
+      technologies: { connect: resolvedTechnologyIds.map((id) => ({ id })) },
       tags: { connect: tagIds.map((id) => ({ id })) },
     },
   });
 
   revalidatePath("/admin/projects");
+  revalidatePath("/admin/technologies");
   revalidatePath("/projects");
   revalidatePath("/");
   redirect("/admin/projects");
@@ -246,14 +323,18 @@ export async function updateProject(id: string, formData: FormData) {
     where: { id },
     select: { cover: true },
   });
-  const { scalars, technologyIds, tagIds, uploadedCover } = await buildData(formData);
+  const { scalars, technologyIds, technologyNames, tagIds, uploadedCover } = await buildData(formData);
+  const resolvedTechnologyIds = await resolveTechnologyIds(
+    technologyIds,
+    technologyNames
+  );
 
   try {
     await prisma.project.update({
       where: { id },
       data: {
         ...scalars,
-        technologies: { set: technologyIds.map((id) => ({ id })) },
+        technologies: { set: resolvedTechnologyIds.map((id) => ({ id })) },
         tags: { set: tagIds.map((id) => ({ id })) },
       },
     });
@@ -274,6 +355,7 @@ export async function updateProject(id: string, formData: FormData) {
 
   revalidatePath("/admin/projects");
   revalidatePath(`/admin/projects/${id}`);
+  revalidatePath("/admin/technologies");
   revalidatePath("/projects");
   revalidatePath("/");
   redirect("/admin/projects");

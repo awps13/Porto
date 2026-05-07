@@ -220,6 +220,19 @@ export default function ProjectForm({
               ))}
             </div>
           )}
+          <div className="mt-5">
+            <Field
+              label="Add technologies manually"
+              hint="Separate with commas or new lines. New names will be saved and related to this project."
+            >
+              <textarea
+                name="technologyNames"
+                className={textareaCls}
+                rows={3}
+                placeholder="Next.js, Prisma, PostgreSQL"
+              />
+            </Field>
+          </div>
         </div>
 
         <div>
@@ -253,7 +266,7 @@ export default function ProjectForm({
           Timeline & Visibility
         </legend>
         <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
-          <Field label="Started">
+          <Field label="Date start">
             <input
               type="date"
               name="startedAt"
@@ -261,7 +274,7 @@ export default function ProjectForm({
               className={inputCls}
             />
           </Field>
-          <Field label="Finished">
+          <Field label="Date end">
             <input
               type="date"
               name="finishedAt"

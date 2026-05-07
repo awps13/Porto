@@ -28,5 +28,6 @@
   "/admin/(protected)/technologies/page": "app/admin/(protected)/technologies/page.js",
   "/admin/login/page": "app/admin/login/page.js",
   "/admin/logout/route": "app/admin/logout/route.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
   "/page": "app/page.js"
 }

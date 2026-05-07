@@ -28,5 +28,6 @@
   "/admin/(protected)/technologies/page": "/admin/technologies",
   "/admin/login/page": "/admin/login",
   "/admin/logout/route": "/admin/logout",
+  "/favicon.ico/route": "/favicon.ico",
   "/page": "/"
 }

@@ -9,12 +9,30 @@ type Row = {
   id: string;
   title: string;
   category: string | null;
+  startedAt: Date | null;
+  finishedAt: Date | null;
   featured: boolean;
   published: boolean;
   order: number;
   updatedAt: Date;
   _count: { technologies: number; tags: number };
 };
+
+function formatProjectDate(date: Date) {
+  return new Intl.DateTimeFormat("en", {
+    month: "short",
+    year: "numeric",
+  }).format(date);
+}
+
+function formatProjectDateRange(startedAt: Date | null, finishedAt: Date | null) {
+  if (startedAt && finishedAt) {
+    return `${formatProjectDate(startedAt)} - ${formatProjectDate(finishedAt)}`;
+  }
+  if (startedAt) return `${formatProjectDate(startedAt)} - Present`;
+  if (finishedAt) return formatProjectDate(finishedAt);
+  return "No date";
+}
 
 export default async function ProjectsPage() {
   const projects = await prisma.project.findMany({
@@ -23,6 +41,8 @@ export default async function ProjectsPage() {
       id: true,
       title: true,
       category: true,
+      startedAt: true,
+      finishedAt: true,
       featured: true,
       published: true,
       order: true,
@@ -43,6 +63,14 @@ export default async function ProjectsPage() {
             </p>
           )}
         </div>
+      ),
+    },
+    {
+      header: "Date",
+      cell: (r) => (
+        <span className="text-fg-muted">
+          {formatProjectDateRange(r.startedAt, r.finishedAt)}
+        </span>
       ),
     },
     {

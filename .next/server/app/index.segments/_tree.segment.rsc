@@ -1,4 +1,4 @@
-:HL["/_next/static/chunks/c414542e5fc810b8.css","style"]
+:HL["/_next/static/chunks/44a78615c4f0d1a7.css","style"]
 :HL["/_next/static/media/83afe278b6a6bb3c-s.p.3a6ba036.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/cb065f3ef140709c-s.p.0b820cda.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&display=swap","style"]
@@ -7,4 +7,4 @@
 :HL["/projects/chemlinko.png","image"]
 :HL["/Foto.jpeg","image"]
 :HL["/projects/safera.png","image"]
-0:{"buildId":"UhJXjdB6XUFcnqp40jVn-","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
+0:{"buildId":"Js6L1a-xpGveDSQkPfPPd","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"staleTime":300}

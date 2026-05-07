@@ -27,7 +27,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "AWPS13 | Portfolio Ahmad Wildan",
     description:
-      "Frontend Developer specializing in ReactJS, Next.js, IoT, and Data Science.",
+      "Fullstack Developer specializing in Next.js, Typescript, and Prisma. Passionate about building scalable web applications and exploring new technologies.",
     url: "https://awps13.com",
     siteName: "AWPS13",
     locale: "en_US",

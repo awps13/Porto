@@ -62,7 +62,12 @@
           "search": ""
         }
       ],
-      "remotePatterns": [],
+      "remotePatterns": [
+        {
+          "protocol": "https",
+          "hostname": "res.cloudinary.com"
+        }
+      ],
       "qualities": [
         75
       ],

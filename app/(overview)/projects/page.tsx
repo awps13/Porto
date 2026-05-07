@@ -2,6 +2,22 @@ import { prisma } from "@/lib/prisma";
 import Image from "next/image";
 import Link from "next/link";
 
+function formatProjectDate(date: Date) {
+  return new Intl.DateTimeFormat("en", {
+    month: "short",
+    year: "numeric",
+  }).format(date);
+}
+
+function formatProjectDateRange(startedAt: Date | null, finishedAt: Date | null) {
+  if (startedAt && finishedAt) {
+    return `${formatProjectDate(startedAt)} - ${formatProjectDate(finishedAt)}`;
+  }
+  if (startedAt) return `${formatProjectDate(startedAt)} - Present`;
+  if (finishedAt) return formatProjectDate(finishedAt);
+  return null;
+}
+
 export default async function ProjectsPage() {
   const projects = await prisma.project.findMany({
     where: { published: true },
@@ -37,95 +53,107 @@ export default async function ProjectsPage() {
             <p className="text-body-md text-fg-muted">No projects found</p>
           </div>
         ) : (
-          projects.map((project) => (
-            <article
-              key={project.id}
-              className="group border border-white/15 bg-surface-low overflow-hidden transition-colors hover:border-white/30"
-            >
-              <div className="relative aspect-[16/10] w-full overflow-hidden bg-surface">
-                {project.cover ? (
-                  <Image
-                    src={project.cover}
-                    alt={project.title}
-                    fill
-                    sizes="(min-width: 1536px) 33vw, (min-width: 1024px) 50vw, 100vw"
-                    className="object-cover theme-grayscale transition-transform duration-700 ease-architect group-hover:scale-105"
-                  />
-                ) : (
-                  <div className="flex h-full items-center justify-center px-6 text-center">
-                    <p className="text-label-caps text-fg-muted uppercase">
-                      No preview image
-                    </p>
-                  </div>
-                )}
-              </div>
+          projects.map((project) => {
+            const dateRange = formatProjectDateRange(
+              project.startedAt,
+              project.finishedAt
+            );
 
-              <div className="p-6">
-                <div className="mb-4 flex items-center justify-between gap-4">
-                  <p className="text-label-caps text-primary uppercase">
-                    {project.category || "Project"}
-                  </p>
-                  {project.featured && (
-                    <p className="text-label-caps text-fg-muted uppercase">
-                      Featured
-                    </p>
+            return (
+              <article
+                key={project.id}
+                className="group border border-white/15 bg-surface-low overflow-hidden transition-colors hover:border-white/30"
+              >
+                <div className="relative aspect-[16/10] w-full overflow-hidden bg-surface">
+                  {project.cover ? (
+                    <Image
+                      src={project.cover}
+                      alt={project.title}
+                      fill
+                      sizes="(min-width: 1536px) 33vw, (min-width: 1024px) 50vw, 100vw"
+                      className="object-cover theme-grayscale transition-transform duration-700 ease-architect group-hover:scale-105"
+                    />
+                  ) : (
+                    <div className="flex h-full items-center justify-center px-6 text-center">
+                      <p className="text-label-caps text-fg-muted uppercase">
+                        No preview image
+                      </p>
+                    </div>
                   )}
                 </div>
 
-                <h2 className="font-epilogue text-2xl font-medium leading-tight uppercase mb-3">
-                  {project.title}
-                </h2>
-                <p className="text-body-md text-fg-muted">
-                  {project.summary || project.description || "No description"}
-                </p>
-
-                {project.technologies.length > 0 && (
-                  <div className="mt-6 flex flex-wrap gap-2">
-                    {project.technologies.map((tech) => (
-                      <span
-                        key={tech.id}
-                        className="border border-white/15 bg-bg px-3 py-2 text-label-caps text-fg-muted uppercase"
-                      >
-                        {tech.name}
-                      </span>
-                    ))}
-                  </div>
-                )}
-
-                {(project.linkWebsite || project.linkDemo || project.linkCode) && (
-                  <div className="mt-7 flex flex-wrap gap-3">
-                    {project.linkWebsite && (
-                      <Link
-                        href={project.linkWebsite}
-                        target="_blank"
-                        className="border border-fg px-4 py-3 text-label-caps uppercase text-fg transition-colors hover:bg-fg hover:text-bg"
-                      >
-                        Website
-                      </Link>
-                    )}
-                    {project.linkDemo && (
-                      <Link
-                        href={project.linkDemo}
-                        target="_blank"
-                        className="border border-white/15 px-4 py-3 text-label-caps uppercase text-fg-muted transition-colors hover:border-fg hover:text-fg"
-                      >
-                        Demo
-                      </Link>
-                    )}
-                    {project.linkCode && (
-                      <Link
-                        href={project.linkCode}
-                        target="_blank"
-                        className="border border-white/15 px-4 py-3 text-label-caps uppercase text-fg-muted transition-colors hover:border-fg hover:text-fg"
-                      >
-                        Code
-                      </Link>
+                <div className="p-6">
+                  <div className="mb-4 flex items-center justify-between gap-4">
+                    <p className="text-label-caps text-primary uppercase">
+                      {project.category || "Project"}
+                    </p>
+                    {project.featured && (
+                      <p className="text-label-caps text-fg-muted uppercase">
+                        Featured
+                      </p>
                     )}
                   </div>
-                )}
-              </div>
-            </article>
-          ))
+
+                  <h2 className="font-epilogue text-2xl font-medium leading-tight uppercase mb-3">
+                    {project.title}
+                  </h2>
+                  {dateRange && (
+                    <p className="text-label-caps text-fg-muted uppercase mb-4">
+                      {dateRange}
+                    </p>
+                  )}
+                  <p className="text-body-md text-fg-muted">
+                    {project.summary || project.description || "No description"}
+                  </p>
+
+                  {project.technologies.length > 0 && (
+                    <div className="mt-6 flex flex-wrap gap-2">
+                      {project.technologies.map((tech) => (
+                        <span
+                          key={tech.id}
+                          className="border border-white/15 bg-bg px-3 py-2 text-label-caps text-fg-muted uppercase"
+                        >
+                          {tech.name}
+                        </span>
+                      ))}
+                    </div>
+                  )}
+
+                  {(project.linkWebsite || project.linkDemo || project.linkCode) && (
+                    <div className="mt-7 flex flex-wrap gap-3">
+                      {project.linkWebsite && (
+                        <Link
+                          href={project.linkWebsite}
+                          target="_blank"
+                          className="border border-fg px-4 py-3 text-label-caps uppercase text-fg transition-colors hover:bg-fg hover:text-bg"
+                        >
+                          Website
+                        </Link>
+                      )}
+                      {project.linkDemo && (
+                        <Link
+                          href={project.linkDemo}
+                          target="_blank"
+                          className="border border-white/15 px-4 py-3 text-label-caps uppercase text-fg-muted transition-colors hover:border-fg hover:text-fg"
+                        >
+                          Demo
+                        </Link>
+                      )}
+                      {project.linkCode && (
+                        <Link
+                          href={project.linkCode}
+                          target="_blank"
+                          className="border border-white/15 px-4 py-3 text-label-caps uppercase text-fg-muted transition-colors hover:border-fg hover:text-fg"
+                        >
+                          Code
+                        </Link>
+                      )}
+                    </div>
+                  )}
+                </div>
+              </article>
+            );
+          })
         )}
       </div>
     </div>
