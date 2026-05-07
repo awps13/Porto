@@ -18,14 +18,20 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "AWPS13 | PORTOFOLIO",
+  title: "AWPS13 | Portfolio Ahmad Wildan",
   description:
-    "This is my best portofolio, you can read my project and certifications",
-  icons: {
-    icon: [
-      { url: "/W_light.png", media: "(prefers-color-scheme: light)" },
-      { url: "/W_dark.png", media: "(prefers-color-scheme: dark)" },
-    ],
+    "Portfolio Ahmad Wildan Putro Santoso. Frontend Developer specializing in ReactJS, Next.js, IoT, and Data Science projects.",
+
+  metadataBase: new URL("https://awps13.com"),
+
+  openGraph: {
+    title: "AWPS13 | Portfolio Ahmad Wildan",
+    description:
+      "Frontend Developer specializing in ReactJS, Next.js, IoT, and Data Science.",
+    url: "https://awps13.com",
+    siteName: "AWPS13",
+    locale: "en_US",
+    type: "website",
   },
 };
 
@@ -50,11 +56,13 @@ export default function RootLayout({
     <html lang="en" className="dark" suppressHydrationWarning>
       <head>
         <script dangerouslySetInnerHTML={{ __html: themeInitScript }} />
+
         <link
           rel="stylesheet"
           href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&display=swap"
         />
       </head>
+
       <body
         className={`${epilogue.variable} ${inter.variable} bg-bg text-fg`}
       >
