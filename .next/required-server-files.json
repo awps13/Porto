@@ -24,16 +24,16 @@
     "compress": true,
     "images": {
       "deviceSizes": [
+        390,
         640,
         750,
         828,
         1080,
         1200,
-        1920,
-        2048,
-        3840
+        1920
       ],
       "imageSizes": [
+        16,
         32,
         48,
         64,
@@ -47,14 +47,15 @@
       "loaderFile": "",
       "domains": [],
       "disableStaticImages": false,
-      "minimumCacheTTL": 14400,
+      "minimumCacheTTL": 31536000,
       "formats": [
+        "image/avif",
         "image/webp"
       ],
       "maximumRedirects": 3,
       "dangerouslyAllowLocalIP": false,
       "dangerouslyAllowSVG": false,
-      "contentSecurityPolicy": "script-src 'none'; frame-src 'none'; sandbox;",
+      "contentSecurityPolicy": "default-src 'self'; script-src 'none'; sandbox;",
       "contentDispositionType": "attachment",
       "localPatterns": [
         {
@@ -211,6 +212,8 @@
       "hideLogsAfterAbort": false,
       "mcpServer": true,
       "optimizePackageImports": [
+        "react",
+        "next/dynamic",
         "lucide-react",
         "date-fns",
         "lodash-es",

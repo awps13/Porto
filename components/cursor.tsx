@@ -10,7 +10,7 @@ const Cursor = () => {
   const [visible, setVisible] = useState(false);
   const posRef = useRef({ x: -100, y: -100 });
   const cursorRef = useRef<HTMLDivElement>(null);
-  const rafRef = useRef<number>();
+  const rafRef = useRef<number | null>(null);
 
   useEffect(() => {
     if (!supportsCustomCursor()) return;
