@@ -1,4 +1,6 @@
 import Link from "next/link";
+import Image from "next/image";
+
 type Project = {
   title: string;
   meta: string;
@@ -7,6 +9,8 @@ type Project = {
   span: string;
   aspect: string;
   offset?: string;
+  // approximate aspect ratio for fill layout
+  priority?: boolean;
 };
 
 const projects: Project[] = [
@@ -17,6 +21,7 @@ const projects: Project[] = [
     alt: "A low-angle shot of a brutalist concrete skyscraper reaching into a dramatic, high-contrast sky.",
     span: "md:col-span-8",
     aspect: "aspect-[16/9]",
+    priority: true, // LCP candidate, preload this one
   },
   {
     title: "Gallery Mobile",
@@ -86,13 +91,16 @@ const Projects = () => {
               style={{ animationDelay: `${200 + i * 120}ms` }}
             >
               <div
-                className={`overflow-hidden bg-surface border border-fg/15 ${p.aspect}`}
+                className={`overflow-hidden bg-surface border border-fg/15 ${p.aspect} relative`}
               >
-                {/* eslint-disable-next-line @next/next/no-img-element */}
-                <img
+                <Image
                   src={p.image}
                   alt={p.alt}
-                  className="project-image theme-grayscale w-full h-full object-cover transition-transform duration-700 ease-architect"
+                  fill
+                  sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
+                  loading={p.priority ? "eager" : "lazy"}
+                  priority={p.priority}
+                  className="project-image theme-grayscale object-cover transition-transform duration-700 ease-architect"
                 />
               </div>
               <div className="mt-8">
@@ -110,3 +118,4 @@ const Projects = () => {
 };
 
 export default Projects;
+

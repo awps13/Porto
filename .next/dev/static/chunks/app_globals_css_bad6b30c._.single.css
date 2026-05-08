@@ -395,10 +395,6 @@
     z-index: 50;
   }
 
-  .z-\[100\] {
-    z-index: 100;
-  }
-
   .container {
     width: 100%;
   }
@@ -1145,13 +1141,12 @@
     line-height: var(--tw-leading, var(--text-xs--line-height));
   }
 
-  .text-\[20px\] {
-    font-size: 20px;
+  .text-\[10px\] {
+    font-size: 10px;
   }
 
-  .leading-none {
-    --tw-leading: 1;
-    line-height: 1;
+  .text-\[20px\] {
+    font-size: 20px;
   }
 
   .leading-relaxed {
@@ -1494,6 +1489,12 @@
     }
   }
 
+  @media (min-width: 40rem) {
+    .sm\:text-\[20px\] {
+      font-size: 20px;
+    }
+  }
+
   @media (min-width: 48rem) {
     .md\:fixed {
       position: fixed;
@@ -1833,6 +1834,8 @@ html, body {
 
 .rain-line {
   pointer-events: none;
+  will-change: transform;
+  contain: layout style paint;
   background: linear-gradient(#0000, #ffffff20, #0000);
   width: 1px;
   height: 100px;
@@ -1882,6 +1885,19 @@ html.light .theme-grayscale {
   .text-headline-md {
     font-size: 24px;
   }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *, :before, :after {
+    transition-duration: .01ms !important;
+    animation-duration: .01ms !important;
+    animation-iteration-count: 1 !important;
+  }
+}
+
+#project, #experience, #contact {
+  content-visibility: auto;
+  contain-intrinsic-size: 0 600px;
 }
 
 @property --tw-rotate-x {

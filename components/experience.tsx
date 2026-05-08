@@ -1,4 +1,6 @@
 import Link from "next/link";
+import Image from "next/image";
+
 const stats = [
   { value: "10+", label: "PROJECTS" },
   { value: "2", label: "Internship" },
@@ -54,27 +56,30 @@ const Studio = () => {
                   </div>
       </div>
 
-      <div
-        className="md:w-1/2 relative animate-fade-up"
-        style={{ animationDelay: "200ms" }}
-      >
-        <div className="aspect-5/5 bg-surface border border-fg/15 relative">
-          {/* eslint-disable-next-line @next/next/no-img-element */}
-          <img
-            src="/Foto.jpeg"
-            alt="A portrait-oriented image of a minimalist architectural model made of white wood and translucent acrylic."
-            className="theme-grayscale w-full h-full object-cover"
-          />
-          <div className="absolute -bottom-8 -left-8 bg-bg border border-fg/15 p-8 hidden lg:block">
-            <p className="text-body-md italic max-w-xs">
-              &ldquo;Never stop learning, because education is the key to your future.&rdquo;
-            </p>
+        <div
+          className="md:w-1/2 relative animate-fade-up"
+          style={{ animationDelay: "200ms" }}
+        >
+          <div className="aspect-5/5 bg-surface border border-fg/15 relative">
+            <Image
+              src="/Foto.jpeg"
+              alt="A portrait-oriented image of Ahmad Wildan, a Fullstack Developer."
+              fill
+              sizes="(max-width: 768px) 100vw, 50vw"
+              loading="lazy"
+              className="theme-grayscale object-cover"
+            />
+            <div className="absolute -bottom-8 -left-8 bg-bg border border-fg/15 p-8 hidden lg:block">
+              <p className="text-body-md italic max-w-xs">
+                &ldquo;Never stop learning, because education is the key to your future.&rdquo;
+              </p>
+            </div>
           </div>
         </div>
-      </div>
       </div>
     </section>
   );
 };
 
 export default Studio;
+

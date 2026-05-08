@@ -22,7 +22,7 @@ const Footer = () => {
             <a
               key={l.label}
               href={l.href}
-              className="font-epilogue text-[20px] tracking-widest uppercase text-fg hover:opacity-50 transition-opacity duration-300" target="blank"
+              className="font-epilogue sm:text-[20px] text-10px tracking-widest uppercase text-fg hover:opacity-50 transition-opacity duration-300" target="blank"
             >
               {l.label}
             </a>

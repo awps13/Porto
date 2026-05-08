@@ -120,9 +120,48 @@ const Navbar = () => {
         <button
           aria-label="Toggle theme"
           onClick={toggle}
-          className="material-symbols-outlined text-fg transition-transform duration-300 ease-button active:scale-[0.98] cursor-pointer"
+          className="text-fg transition-transform duration-300 ease-button active:scale-[0.98] cursor-pointer w-6 h-6 flex items-center justify-center"
         >
-          {mounted ? (theme === "dark" ? "light_mode" : "dark_mode") : "dark_mode"}
+          {mounted ? (
+            theme === "dark" ? (
+              // Sun icon (switch to light)
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                viewBox="0 0 24 24"
+                fill="currentColor"
+                width="22"
+                height="22"
+                aria-hidden="true"
+              >
+                <circle cx="12" cy="12" r="4" />
+                <path d="M12 2v2M12 20v2M4.22 4.22l1.42 1.42M18.36 18.36l1.42 1.42M2 12h2M20 12h2M4.22 19.78l1.42-1.42M18.36 5.64l1.42-1.42" stroke="currentColor" strokeWidth="2" strokeLinecap="round" fill="none"/>
+              </svg>
+            ) : (
+              // Moon icon (switch to dark)
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                viewBox="0 0 24 24"
+                fill="currentColor"
+                width="22"
+                height="22"
+                aria-hidden="true"
+              >
+                <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z" />
+              </svg>
+            )
+          ) : (
+            // Moon icon (default dark mode server render)
+            <svg
+              xmlns="http://www.w3.org/2000/svg"
+              viewBox="0 0 24 24"
+              fill="currentColor"
+              width="22"
+              height="22"
+              aria-hidden="true"
+            >
+              <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z" />
+            </svg>
+          )}
         </button>
       </nav>
     </header>
